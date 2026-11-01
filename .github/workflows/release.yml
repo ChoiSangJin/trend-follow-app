@@ -57,9 +57,9 @@ jobs:
           key.write_bytes(base64.b64decode(''.join(os.environ['KEYSTORE'].split()), validate=True))
           key.chmod(0o600)
           def escape(value):
-              return ''.join('\\u%04x' % ord(c) if ord(c) > 126 else
-                  {'\\': '\\\\', '\n': '\\n', '\r': '\\r', '\t': '\\t', ' ': '\\ '}.get(c, c)
-                  for c in value)
+              encoded = value.encode('utf-16-be')
+              return ''.join('\\u' + encoded[i:i+2].hex()
+                             for i in range(0, len(encoded), 2))
           values = {'storeFile': str(key), 'storePassword': os.environ['STORE_PASSWORD'],
                     'keyPassword': os.environ['KEY_PASSWORD'], 'keyAlias': os.environ['KEY_ALIAS']}
           config = Path('android/key.properties')
