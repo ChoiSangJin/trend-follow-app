@@ -205,14 +205,23 @@ class SelectionTests(unittest.TestCase):
     def test_publisher_writes_three_valid_json_versions(self):
         with tempfile.TemporaryDirectory() as directory:
             root=Path(directory);(root/'data').mkdir()
-            responses=[]
-            for payload in all_feeds():
-                response=MagicMock();response.__enter__.return_value.read.return_value=payload;responses.append(response)
-            with patch.object(collector,'ROOT',root),patch.object(collector,'urlopen',side_effect=responses) as fetch,patch.object(collector,'datetime') as clock,patch.object(collector.time,'sleep'),patch.dict(os.environ,{'GITHUB_ACTIONS':'false'}):
+            from urllib.parse import urlparse, parse_qs
+            def response_for(request, **kwargs):
+                url=request.full_url
+                query=parse_qs(urlparse(url).query).get('q',[''])[0].removesuffix(' when:3d')
+                index=next((i for i,t in enumerate(TOPICS) if query==t[1] or query in collector.EXTRA_QUERIES.get(t[0],[]) or ('/topic/'+collector.SECTIONS.get(t[0],'NOT_A_SECTION')+'?') in url),None)
+                if index is None: raise AssertionError('Unexpected request: '+url)
+                response=MagicMock();response.__enter__.return_value.read.return_value=all_feeds()[index]
+                return response
+            with patch.object(collector,'ROOT',root),patch.object(collector,'urlopen',side_effect=response_for) as fetch,patch.object(collector,'datetime') as clock,patch.object(collector.time,'sleep'),patch.dict(os.environ,{'GITHUB_ACTIONS':'false'}):
                 clock.now.return_value=NOW;collector.main()
-            self.assertIn('/rss/search?', fetch.call_args_list[0].args[0].full_url)
-            self.assertIn('/section/topic/ENTERTAINMENT?', fetch.call_args_list[1].args[0].full_url)
-            self.assertIn('ceid=KR%3Ako', fetch.call_args_list[1].args[0].full_url)
+            urls=[call.args[0].full_url for call in fetch.call_args_list]
+            self.assertTrue(any('/section/topic/ENTERTAINMENT?' in url and 'ceid=KR%3Ako' in url for url in urls))
+            trends=json.loads((root/'data/trends-v1.json').read_text())
+            self.assertEqual(len(trends['cards']),14)
+            self.assertTrue(all(c['signal']=='collecting' for c in trends['cards']))
+            self.assertEqual(trends['snapshot_count'],1)
+            self.assertEqual(len(json.loads((root/'data/trends-history.json').read_text())['articles']),28)
             for name,schema,limit in [('briefing-v5.json',5,14),('briefing-v4.json',4,14),('briefing-v3.json',3,10),('briefing.json',2,5)]:
                 data=json.loads((root/'data'/name).read_text());self.assertEqual(data['schema_version'],schema);self.assertEqual(len(data['cards']),limit)
 

@@ -135,7 +135,7 @@ void main() {
     await mount(tester, StubRepository());
     await tester.tap(find.byTooltip('선정 기준'));
     await tester.pumpAndSettle();
-    expect(find.text('최근 3일 주요 화제 선정 기준'), findsOneWidget);
+    expect(find.text('대화 추천 선정 기준'), findsOneWidget);
     await tester.tap(find.text('닫기'));
     await tester.pumpAndSettle();
     await tester.scrollUntilVisible(find.text('대화 준비').first, 250);

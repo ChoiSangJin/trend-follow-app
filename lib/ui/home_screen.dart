@@ -5,6 +5,8 @@ import 'package:url_launcher/url_launcher.dart';
 import '../data/briefing.dart';
 import '../data/briefing_repository.dart';
 import '../state/briefing_provider.dart';
+import '../state/trends_provider.dart';
+import 'trends_view.dart';
 
 class HomeScreen extends ConsumerStatefulWidget {
   const HomeScreen({super.key});
@@ -19,10 +21,12 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
   Widget build(BuildContext context) {
     final state = ref.watch(briefingProvider);
     final result = state.valueOrNull;
+    final trends = _view == 1 ? ref.watch(trendsProvider) : null;
+    final loading = _view == 1 ? trends!.isLoading : state.isLoading;
     final saved = ref.watch(savedProvider);
-    final all = _view == 1 ? saved : result?.briefing.topics ?? <Topic>[];
+    final all = _view == 2 ? saved : result?.briefing.topics ?? <Topic>[];
     final categoryOptions = ['전체', ...topicCategories];
-    if (_view == 1) {
+    if (_view == 2) {
       categoryOptions.addAll(
         all
             .map((t) => t.category)
@@ -45,10 +49,12 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
             onPressed: () => showDialog<void>(
               context: context,
               builder: (context) => AlertDialog(
-                title: const Text('최근 3일 주요 화제 선정 기준'),
-                content: const SingleChildScrollView(
+                title: Text(_view == 1 ? '화제와 증가의 기준' : '대화 추천 선정 기준'),
+                content: SingleChildScrollView(
                   child: Text(
-                    '6~72시간 전 한국어 보도를 같은 주제로 묶고, 출처그룹 2곳 이상인 이야기를 우선 추천합니다. 문화·예술과 스포츠는 부족한 자리에 실제 기사 1곳을 추가 읽을거리로 제공하며 ‘단일 출처 · 인기 확인 전’으로 구분합니다. 같은 매체·추정 전재·유사 제목은 묶어 계산합니다.\n\n출처의 폭을 먼저, 보도 지속성을 다음으로 반영합니다. 출처 링크는 최대 8곳을 제공합니다. 조회수·공유수·전 국민 인기 순위가 아니며, 제목 기반 자동 묶음은 오류나 조작을 완전히 막을 수 없습니다.\n\n경제·주식 정보는 기사 시점 기준으로 실시간 시세나 매매 추천이 아닙니다. 기사 자체가 없는 분야는 빈 상태로 표시합니다.',
+                    _view == 1
+                        ? trendsExplanation
+                        : '6~72시간 전 한국어 보도를 같은 주제로 묶고, 출처그룹 2곳 이상인 이야기를 우선 추천합니다. 문화·예술과 스포츠는 부족한 자리에 실제 기사 1곳을 추가 읽을거리로 제공하며 ‘단일 출처 · 인기 확인 전’으로 구분합니다. 같은 매체·추정 전재·유사 제목은 묶어 계산합니다.\n\n출처의 폭을 먼저, 보도 지속성을 다음으로 반영합니다. 출처 링크는 최대 8곳을 제공합니다. 조회수·공유수·전 국민 인기 순위가 아니며, 제목 기반 자동 묶음은 오류나 조작을 완전히 막을 수 없습니다.\n\n경제·주식 정보는 기사 시점 기준으로 실시간 시세나 매매 추천이 아닙니다. 기사 자체가 없는 분야는 빈 상태로 표시합니다.',
                   ),
                 ),
                 actions: [
@@ -63,88 +69,109 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
           ),
           IconButton(
             tooltip: '새로고침',
-            onPressed: state.isLoading
+            onPressed: loading
                 ? null
-                : () => ref.read(briefingProvider.notifier).refresh(),
+                : () => _view == 1
+                      ? ref.read(trendsProvider.notifier).refresh()
+                      : ref.read(briefingProvider.notifier).refresh(),
             icon: const Icon(Icons.refresh_rounded),
           ),
           const SizedBox(width: 8),
         ],
       ),
-      body: Center(
-        child: ConstrainedBox(
-          constraints: const BoxConstraints(maxWidth: 720),
-          child: RefreshIndicator(
-            onRefresh: () => ref.read(briefingProvider.notifier).refresh(),
-            child: ListView(
-              key: PageStorageKey<String>('malmun-list-$_view-$_category'),
-              physics: const AlwaysScrollableScrollPhysics(),
-              padding: const EdgeInsets.fromLTRB(20, 8, 20, 32),
-              children: [
-                _hero(context, result),
-                const SizedBox(height: 20),
-                if (result != null && _view == 0) _status(context, result),
-                Wrap(
-                  spacing: 6,
-                  runSpacing: 4,
-                  children: categoryOptions
-                      .map(
-                        (category) => FilterChip(
-                          key: ValueKey<String>('filter-$category'),
-                          label: Text(
-                            category == '전체'
-                                ? '전체 ${all.length}'
-                                : '$category ${all.where((t) => t.category == category).length}',
-                          ),
-                          selected: _category == category,
-                          onSelected: (_) =>
-                              setState(() => _category = category),
-                        ),
-                      )
-                      .toList(),
+      body: _view == 1
+          ? TrendsView(
+              cardBuilder: (item, metrics) => TopicCard(
+                topic: item.topic,
+                leading: metrics,
+                coverageLabel:
+                    '관측 출처 ${item.sourceGroups}그룹 · 원문 근거 ${item.topic.coverage!.groups}곳',
+                onOpen: () => Navigator.of(context).push(
+                  MaterialPageRoute<void>(
+                    builder: (_) =>
+                        TopicScreen(topic: item.topic, header: metrics),
+                  ),
                 ),
-                const SizedBox(height: 16),
-                if (state.isLoading)
-                  const Padding(
-                    padding: EdgeInsets.only(bottom: 16),
-                    child: LinearProgressIndicator(),
-                  ),
-                if (state.hasError && result == null && _view == 0)
-                  _empty(context, '브리핑을 열지 못했어요', '잠시 후 새로고침해 주세요.'),
-                if (!state.isLoading && topics.isEmpty && !state.hasError)
-                  _empty(
-                    context,
-                    _view == 1 ? '대화 소재를 보관해 보세요' : '새 기사를 찾고 있어요',
-                    _view == 1
-                        ? '카드의 보관 버튼을 누르면 여기에 모입니다.'
-                        : '최근 3일의 실제 기사와 출처를 확인해 추가합니다.',
-                  ),
-                for (final topic in topics)
-                  Padding(
-                    padding: const EdgeInsets.only(bottom: 16),
-                    child: TopicCard(
-                      topic: topic,
-                      onOpen: () => Navigator.of(context).push(
-                        MaterialPageRoute<void>(
-                          builder: (_) => TopicScreen(topic: topic),
-                        ),
+              ),
+            )
+          : Center(
+              child: ConstrainedBox(
+                constraints: const BoxConstraints(maxWidth: 720),
+                child: RefreshIndicator(
+                  onRefresh: () =>
+                      ref.read(briefingProvider.notifier).refresh(),
+                  child: ListView(
+                    key: PageStorageKey<String>(
+                      'malmun-list-$_view-$_category',
+                    ),
+                    physics: const AlwaysScrollableScrollPhysics(),
+                    padding: const EdgeInsets.fromLTRB(20, 8, 20, 32),
+                    children: [
+                      _hero(context, result),
+                      const SizedBox(height: 20),
+                      if (result != null && _view == 0)
+                        _status(context, result),
+                      Wrap(
+                        spacing: 6,
+                        runSpacing: 4,
+                        children: categoryOptions
+                            .map(
+                              (category) => FilterChip(
+                                key: ValueKey<String>('filter-$category'),
+                                label: Text(
+                                  category == '전체'
+                                      ? '전체 ${all.length}'
+                                      : '$category ${all.where((t) => t.category == category).length}',
+                                ),
+                                selected: _category == category,
+                                onSelected: (_) =>
+                                    setState(() => _category = category),
+                              ),
+                            )
+                            .toList(),
                       ),
-                    ),
+                      const SizedBox(height: 16),
+                      if (state.isLoading)
+                        const Padding(
+                          padding: EdgeInsets.only(bottom: 16),
+                          child: LinearProgressIndicator(),
+                        ),
+                      if (state.hasError && result == null && _view == 0)
+                        _empty(context, '브리핑을 열지 못했어요', '잠시 후 새로고침해 주세요.'),
+                      if (!state.isLoading && topics.isEmpty && !state.hasError)
+                        _empty(
+                          context,
+                          _view == 2 ? '대화 소재를 보관해 보세요' : '새 기사를 찾고 있어요',
+                          _view == 2
+                              ? '카드의 보관 버튼을 누르면 여기에 모입니다.'
+                              : '최근 3일의 실제 기사와 출처를 확인해 추가합니다.',
+                        ),
+                      for (final topic in topics)
+                        Padding(
+                          padding: const EdgeInsets.only(bottom: 16),
+                          child: TopicCard(
+                            topic: topic,
+                            onOpen: () => Navigator.of(context).push(
+                              MaterialPageRoute<void>(
+                                builder: (_) => TopicScreen(topic: topic),
+                              ),
+                            ),
+                          ),
+                        ),
+                      if (topics.isNotEmpty)
+                        Padding(
+                          padding: const EdgeInsets.symmetric(vertical: 12),
+                          child: Text(
+                            '가볍게 물어보고, 상대의 취향을 들어보세요.',
+                            textAlign: TextAlign.center,
+                            style: Theme.of(context).textTheme.bodySmall,
+                          ),
+                        ),
+                    ],
                   ),
-                if (topics.isNotEmpty)
-                  Padding(
-                    padding: const EdgeInsets.symmetric(vertical: 12),
-                    child: Text(
-                      '가볍게 물어보고, 상대의 취향을 들어보세요.',
-                      textAlign: TextAlign.center,
-                      style: Theme.of(context).textTheme.bodySmall,
-                    ),
-                  ),
-              ],
+                ),
+              ),
             ),
-          ),
-        ),
-      ),
       bottomNavigationBar: NavigationBar(
         selectedIndex: _view,
         onDestinationSelected: (view) => setState(() {
@@ -156,6 +183,11 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
             icon: Icon(Icons.wb_sunny_outlined),
             selectedIcon: Icon(Icons.wb_sunny),
             label: '오늘의 말문',
+          ),
+          NavigationDestination(
+            icon: Icon(Icons.trending_up),
+            selectedIcon: Icon(Icons.insights),
+            label: '최근 3일 화제',
           ),
           NavigationDestination(
             icon: Icon(Icons.bookmarks_outlined),
@@ -179,7 +211,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            _view == 1 ? '나중에 꺼내 쓸 이야기' : '최근 3일 주요 화제',
+            _view == 2 ? '나중에 꺼내 쓸 이야기' : '오늘의 대화 추천',
             style: Theme.of(context).textTheme.headlineMedium?.copyWith(
               fontWeight: FontWeight.w800,
               color: colors.onPrimaryContainer,
@@ -188,7 +220,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
           ),
           const SizedBox(height: 12),
           Text(
-            _view == 1
+            _view == 2
                 ? '마음에 든 소재와 질문을 모아두세요.'
                 : '7개 분야 · 분야별 최대 2개 · 여러 출처 우선 · 단일 출처는 별도 표시합니다.',
             style: TextStyle(color: colors.onPrimaryContainer),
@@ -260,9 +292,17 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
 }
 
 class TopicCard extends ConsumerWidget {
-  const TopicCard({super.key, required this.topic, required this.onOpen});
+  const TopicCard({
+    super.key,
+    required this.topic,
+    required this.onOpen,
+    this.leading,
+    this.coverageLabel,
+  });
   final Topic topic;
   final VoidCallback onOpen;
+  final Widget? leading;
+  final String? coverageLabel;
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final colors = Theme.of(context).colorScheme;
@@ -278,6 +318,7 @@ class TopicCard extends ConsumerWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
+            ?leading,
             Wrap(
               spacing: 8,
               runSpacing: 4,
@@ -306,7 +347,7 @@ class TopicCard extends ConsumerWidget {
             const SizedBox(height: 14),
             if (topic.coverage != null) ...[
               Text(
-                topic.coverage!.label,
+                coverageLabel ?? topic.coverage!.label,
                 style: Theme.of(context).textTheme.labelMedium,
               ),
               const SizedBox(height: 10),
@@ -362,8 +403,9 @@ class SaveButton extends ConsumerWidget {
 }
 
 class TopicScreen extends StatelessWidget {
-  const TopicScreen({super.key, required this.topic});
+  const TopicScreen({super.key, required this.topic, this.header});
   final Topic topic;
+  final Widget? header;
   @override
   Widget build(BuildContext context) => Scaffold(
     appBar: AppBar(
@@ -388,6 +430,7 @@ class TopicScreen extends StatelessWidget {
               '${topic.source}${topic.publishedAt == null ? '' : ' · ${koreaDate(topic.publishedAt!)} KST'}',
             ),
             const SizedBox(height: 24),
+            ?header,
             _section(
               context,
               topic.isPractice ? '대화의 소재' : '무슨 소식이야?',
