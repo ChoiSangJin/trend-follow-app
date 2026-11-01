@@ -39,9 +39,9 @@ jobs:
               f'repos/{os.environ["GITHUB_REPOSITORY"]}/actions/runs/{run_id}']))
           if run['conclusion'] != 'success' or run['path'] != '.github/workflows/ci.yml':
               raise SystemExit('A successful app validation run is required')
-          # Workflow-only changes do not change the APK; all other files must match.
+          # Compare every APK input; server feeds and editorial scripts deploy independently.
           subprocess.run(['git', 'diff', '--exit-code', run['head_sha'], 'HEAD',
-                          '--', '.', ':!.github'], check=True)
+                          '--', 'lib', 'android', 'assets', 'pubspec.yaml', 'pubspec.lock', 'analysis_options.yaml'], check=True)
           PY
       - uses: actions/download-artifact@v4
         with:

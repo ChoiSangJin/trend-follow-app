@@ -17,8 +17,8 @@ ROOT = Path(__file__).resolve().parents[1]
 TOPICS = [
     ('문화', '(영화 개봉 OR 드라마 공개 OR 예능 공개)', '최근에 본 작품 중 추천할 만한 게 있어요?', '취향을 먼저 물어보고, 결말이나 반전은 말하지 않는 편이 좋아요.'),
     ('음식', '(신메뉴 OR 제철 음식 OR 음식 축제)', '요즘 새로 먹어 보고 싶은 음식 있어요?', '직접 먹어 본 경험과 기사에서 본 정보를 구분해 이야기해 보세요.'),
-    ('생활', '(전시 개막 OR 가을 산책 OR 지역 축제)', '시간 나면 가 보고 싶은 곳 있어요?', '행사 일정·예약·운영 여부는 원문이나 공식 안내를 확인해 주세요.'),
-    ('기술', '(신제품 출시 OR 과학 발견 OR 우주 탐사)', '이런 기능이 있으면 실제로 써 볼 것 같아요?', '출시 계획과 실제 사용할 수 있는 기능은 다를 수 있어요.'),
+    ('생활', '(서울 전시 OR 국내 축제 OR 제주 여행 OR 한강 산책)', '시간 나면 가 보고 싶은 곳 있어요?', '행사 일정·예약·운영 여부는 원문이나 공식 안내를 확인해 주세요.'),
+    ('기술', '(인공지능 OR 스마트폰 OR 과학 OR 우주)', '이런 기능이 있으면 실제로 써 볼 것 같아요?', '출시 계획과 실제 사용할 수 있는 기능은 다를 수 있어요.'),
     ('스포츠', '(프로야구 OR 프로농구 OR 축구 경기)', '요즘 챙겨 보는 경기나 응원하는 팀 있어요?', '상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.'),
 ]
 PUBLISHERS = {'yna.co.kr', 'newsis.com', 'news1.kr', 'kbs.co.kr', 'imbc.com', 'sbs.co.kr',
@@ -26,7 +26,10 @@ PUBLISHERS = {'yna.co.kr', 'newsis.com', 'news1.kr', 'kbs.co.kr', 'imbc.com', 's
               'hankyung.com', 'mk.co.kr', 'etnews.com', 'zdnet.co.kr', 'ytn.co.kr',
               'seoul.co.kr', 'ohmynews.com', 'edaily.co.kr', 'mt.co.kr', 'bloter.net',
               'jtbc.co.kr', 'munhwa.com', 'sisain.co.kr', 'hankookilbo.com'}
-EXCLUDE = re.compile('사망|참사|성폭|총격|전쟁|수사|기소|폭행|살해|탄핵|혐오|자살|마약|재판|대통령|정당|국회|논란|폭발|부상')
+LOCAL_PLACES = re.compile('서울|부산|인천|대구|광주|대전|울산|세종|제주|수원|고양|성남|용인|춘천|강릉|속초|양양|원주|청주|천안|공주|부여|보령|홍성|전주|군산|익산|여수|순천|목포|담양|경주|안동|포항|울진|창원|진주|통영|거제|남해|한강|성수|연남|여의도|국내|한국|국립')
+OVERSEAS_EVENTS = re.compile('중국|일본|장쑤|상하이|도쿄|오사카|대만|홍콩|방콕|싱가포르|타이베이|유럽|파리|런던|뉴욕|미국|양쯔강')
+NEW_CULTURE = re.compile('개봉|공개|신작|신곡|컴백|예고|첫방|첫 방송|개막|시즌')
+EXCLUDE = re.compile('주가|주식|증시|수익률|비트코인|매매|사망|참사|성폭|총격|전쟁|수사|기소|폭행|살해|탄핵|혐오|자살|마약|재판|대통령|정당|국회|논란|폭발|부상')
 
 
 def candidates(payload, category, question, context, now):
@@ -62,6 +65,10 @@ def candidates(payload, category, question, context, now):
             continue
         # Keep the exact headline instead of expanding it into unverified facts.
         headline = title.removesuffix(' - ' + publisher)
+        if category == '생활' and (not LOCAL_PLACES.search(headline) or OVERSEAS_EVENTS.search(headline)):
+            continue
+        if category == '문화' and not NEW_CULTURE.search(headline):
+            continue
         results.append(dict(
             id=hashlib.sha256(url.encode()).hexdigest()[:20], category=category,
             title=headline, summary=headline,
