@@ -1,95 +1,10 @@
 {
   "schema_version": 1,
   "region": "KR",
-  "updated_at": "2026-11-01T12:43:04.983950Z",
+  "updated_at": "2026-11-01T12:50:43.940854Z",
   "tracking_started_at": "2026-11-01T12:43:04.983950Z",
-  "snapshot_count": 1,
+  "snapshot_count": 2,
   "cards": [
-    {
-      "topic": {
-        "id": "5efbb2122ca422fc080e",
-        "category": "스포츠",
-        "title": "수면제 커피 먹이고 내기골프…7,500만 원 가로챈 일당",
-        "summary": "수면제 커피 먹이고 내기골프…7,500만 원 가로챈 일당",
-        "why_now": "수집 범위에서 관련 보도 13개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘수면제 커피 먹이고 내기골프…7,500만 원 가로챈 일당’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "KBS 뉴스",
-        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qYXpGZ0Z2bzU4UUdmZnUxOHV0X09vWFU4M0M4bjRlajdWNEVGalNkWWxMQ3U3cUpNeG9mRFZVU29pZ1lwaEZOeUp2bXA3QnNELTZhWUpUdnNPdXM?oc=5",
-        "published_at": "2026-11-01T03:04:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 8,
-          "report_count": 13,
-          "span_hours": 6.2,
-          "first_report_at": "2026-11-01T03:00:00Z",
-          "last_report_at": "2026-11-01T09:13:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NTWtXVEpRZ21SWnU0ZkFfak9lNjdkVUowREZ6c0FsTHFSTzJoMHpiV1pkei0ydkJrTW13Zl9KVmI4WlUtQTJ1aHZGazM1UmVMd3RUZllub1VmbDFhYzhXbjBqMjBzeWpJOXAw0gFwQVVfeXFMT0tlZzgtY0ppZkNnQWh1a1NKZ3FTQnF1R1pFeEFpTm4xVHh1RUYxLUNqN05KYWprejFHZi1FMXVUOWx2aERNRTVzTlptRnlmUEVySlp0RDBfSWdaOUdZTDhZbzYzRG5xUDd4d0tJZ3RXOA?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80Nzh2bDNvbXhySVgxbm5qRTAtTkN1RXlueFRqblJ6WDV6bDdEcFBwYnZjWWNEYmVnQm9mTWhEdU9MQ1IyTkdHa1ZBX3pweU9lUWZJelFrRlVZNWY2eVkwdE9uWkMzOXIzVi1HcDNuTQ?oc=5",
-          "sources": [
-            {
-              "name": "YTN",
-              "group": "ytn.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80Nzh2bDNvbXhySVgxbm5qRTAtTkN1RXlueFRqblJ6WDV6bDdEcFBwYnZjWWNEYmVnQm9mTWhEdU9MQ1IyTkdHa1ZBX3pweU9lUWZJelFrRlVZNWY2eVkwdE9uWkMzOXIzVi1HcDNuTQ?oc=5",
-              "published_at": "2026-11-01T09:13:00Z"
-            },
-            {
-              "name": "JTBC",
-              "group": "jtbc.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vNmFrNXE4MnpZc01XOEgwbVJ3T2hXRFdUM2lMZEFoeEtkVEgzMUpJaThZaWRiMW16T2I5X0J1MWNBUkliSzVOUklFZ3hrYnc3dFhZQw?oc=5",
-              "published_at": "2026-11-01T05:58:00Z"
-            },
-            {
-              "name": "동아일보",
-              "group": "donga.com",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EQU5tMzEyODBINXFVeTFzVU16MWN0U0hvdDBWeVhiUzlyOXBwS2ZMeEoyMUNmdWlFODI4TEEtN3dWSEJpbnVWZ1dEdzE2enhacVp4X3hwN2g4MDdoVzZSNFh5Q2NZMFRKdmhzUFRsMkN3U0RGbEHSAWZBVV95cUxQME54OXl2LVR0ZHc1a0thV0pxQzdSZzlhTnFhamd6OXdVZjhUUU9TRHV3SEpjMmZ4eHNzSWpsYWhQY1FkNVJKaHJEVXN6RE9iaXJnMFlPNWVVZkpPSnRuQ2ZSM0lvSHc?oc=5",
-              "published_at": "2026-11-01T05:07:00Z"
-            },
-            {
-              "name": "문화일보",
-              "group": "munhwa.com",
-              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rVXlzcU1SVTlMU1l1MzVIWXlBQmYzY3RvblVMa1lhVGtEZmNuVUhzRmZfa2tTU1lKeDZOS25QR1djTXVBWUZ5SGJoUHhSVUhf?oc=5",
-              "published_at": "2026-11-01T04:58:16Z"
-            },
-            {
-              "name": "SBS 뉴스",
-              "group": "sbs.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54ZTBRbzZITGwydXYwOTZhRF9xNWVUZVdjeW1IS2hVMkoycG80WkpVYU1IUWhval81ZUVjTldDcHNEaFRKM0Z4UnJCb2VjRHE1aXJtZE1ILW1NbXlEUXVSTm84dnN2ZllUaGc?oc=5",
-              "published_at": "2026-11-01T04:23:55Z"
-            },
-            {
-              "name": "조선일보",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRnZlRTNzM0hPQ0thY0hBSWdFaW5xSW15VVpVQXlvQ1pMd19jMWEtTnNGLWtqUUgtUWxvYVl3bm5BYklYRzNzLWk3NFhEbWxMREtFM2p3TmFyRGp0VVdmem01VlA5c3VfNGx0am5FMGlGb0dYcWhONWlPTFhpb2NMMDVTbDdPTHoxZTctbktPV0o?oc=5",
-              "published_at": "2026-11-01T04:20:31Z"
-            },
-            {
-              "name": "KBS 뉴스",
-              "group": "kbs.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qYXpGZ0Z2bzU4UUdmZnUxOHV0X09vWFU4M0M4bjRlajdWNEVGalNkWWxMQ3U3cUpNeG9mRFZVU29pZ1lwaEZOeUp2bXA3QnNELTZhWUpUdnNPdXM?oc=5",
-              "published_at": "2026-11-01T03:04:00Z"
-            },
-            {
-              "name": "MBC 뉴스",
-              "group": "imbc.com",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05NnkwZ1FqMXpTQ2hWeGp3TzB0RVN5b25GN1VRQkJQQ2N4aHVZLWdybm5aeGtmRTFHTDZBSHVFZEJMbjJjU3RlUEw4cU1lNWxNdjNuMko3QzJQalVfR0h3ZkJRRTJrNmc2SmxQdS1vcWxKWVN1TEg00gF3QVVfeXFMUEpsZjE2TjJGQWJoaUZYaEtjWVZfZjlGYld0Rk9EX096b2NVVi1wa19WX1hseENrMTJUZXdqaUxJZ2VWc2hoTmRHSVVwTUZYUU15cGZ0dXRUVmtsZUVESGtiZEZvSGdhdjR2YXpGOHRiYTlfLUZjb2c?oc=5",
-              "published_at": "2026-11-01T03:00:46Z"
-            }
-          ]
-        }
-      },
-      "source_groups": 11,
-      "daily_sources": [
-        0,
-        0,
-        11
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 1
-    },
     {
       "topic": {
         "id": "f3f034744f6445a93b00",
@@ -169,7 +84,74 @@
         0,
         8
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 1
+    },
+    {
+      "topic": {
+        "id": "9011cdbf2f77ebf71147",
+        "category": "경제·주식",
+        "title": "코스피, 美 빅테크 실적 부진에 3%대 급락 마감",
+        "summary": "코스피, 美 빅테크 실적 부진에 3%대 급락 마감",
+        "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 38시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘코스피, 美 빅테크 실적 부진에 3%대 급락 마감’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+        "source": "MBC 뉴스",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3YjlocnlWbFE3SFVGYmo0cmhMYmxuTGg5TDRzVGtpOVlSQjFWcmdRVFBSTGZuLUh4ZmZMQUpGSGNDWFlHaS1Wem1SU25IdnZ4d0F6N21ndjBibHk4b25kcldFcmhta1FPck04V2pUaWpZZFhf0gF0QVVfeXFMT2o3blBrbVQ4U3oyVlJMR3lYUzhWSDZOX0dVSzl1VlBKR0o2Y3hpX1l0aTAzV1E3NHVpR3hhQ0dFM29zVDJOUHN6YU50YVBORXlxVnI4ZG16QTFNbUhtSVlVcXVJTHpKNFc5NW1VMG1XT0hwdGw?oc=5",
+        "published_at": "2026-10-30T07:59:53Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 5,
+          "report_count": 6,
+          "span_hours": 38.1,
+          "first_report_at": "2026-10-30T07:06:05Z",
+          "last_report_at": "2026-10-31T21:13:44Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RSGl6VlA2ejRTVDE5UF8zTGpROUFGX2p6bEc1a0I5U0pueTE0ZFpkNjBpcEkzeGxVTlpOeWw0ZWZIZTNGS1pQb183QzBZOFN0MzZiUklRN25HeW_SAWBBVV95cUxOQkhoaDJyenhOYm5SS3JsQWx3TFV4TmhVUmllQy1ubjhmODFnNGpuVzZJd0lPOXBPWVZjaDFsSmgzYnRhTEVTVTlDSHhobzNVSVhIZ3RTRkItTXFGSDRiaGM?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50cGttSVE4cTVPZUg2N21wZG1zSXNJSnlYZ0c5eVE2cHR0QlQ2SVNKdlZySFU0cmNPLUdOa1BMeDFTbjkwX1hDcFhNSnItZlBxNkg1SmhVaTRPOGpRX2Z6MXBuUUQ0U2ZORDIyS1ZWd1R4TEdX0gF0QVVfeXFMTnRwa21JUThxNU9lSDY3bXBkbXNJc0lKeVhnRzl5UTZwdHRCVDZJU0p2VnJIVTRyY08tR05rUEx4MVNuOTBfWENwWE1Kci1mUHE2SDVKaFVpNE84alFfZnoxcG5RRDRTZk5EMjJLVlZ3VHhMR1c?oc=5",
+          "sources": [
+            {
+              "name": "IT조선",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50cGttSVE4cTVPZUg2N21wZG1zSXNJSnlYZ0c5eVE2cHR0QlQ2SVNKdlZySFU0cmNPLUdOa1BMeDFTbjkwX1hDcFhNSnItZlBxNkg1SmhVaTRPOGpRX2Z6MXBuUUQ0U2ZORDIyS1ZWd1R4TEdX0gF0QVVfeXFMTnRwa21JUThxNU9lSDY3bXBkbXNJc0lKeVhnRzl5UTZwdHRCVDZJU0p2VnJIVTRyY08tR05rUEx4MVNuOTBfWENwWE1Kci1mUHE2SDVKaFVpNE84alFfZnoxcG5RRDRTZk5EMjJLVlZ3VHhMR1c?oc=5",
+              "published_at": "2026-10-31T21:13:44Z"
+            },
+            {
+              "name": "SBS Biz",
+              "group": "sbs.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fRDB2NHJjQkVoLTlJaFdvdDhUSHUwenRoYW5xQks4Ull4d1ZHQ1dyaDZfNWdKQXhab0xwRmM2b1JzXzdSQnVHYmNWSUltWkI2cjh30gFYQVVfeXFMTnh2NHRqTl92QzdfSGExRmg1N2RXdnJDaFRaQ3YyLUstWWlrdjRxVEV1XzF4Y0Z1Sy03M01ibTBjVFg1b1pyRUt1MEZGR25ONW9wMllHVWZONw?oc=5",
+              "published_at": "2026-10-30T08:01:00Z"
+            },
+            {
+              "name": "MBC 뉴스",
+              "group": "imbc.com",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3YjlocnlWbFE3SFVGYmo0cmhMYmxuTGg5TDRzVGtpOVlSQjFWcmdRVFBSTGZuLUh4ZmZMQUpGSGNDWFlHaS1Wem1SU25IdnZ4d0F6N21ndjBibHk4b25kcldFcmhta1FPck04V2pUaWpZZFhf0gF0QVVfeXFMT2o3blBrbVQ4U3oyVlJMR3lYUzhWSDZOX0dVSzl1VlBKR0o2Y3hpX1l0aTAzV1E3NHVpR3hhQ0dFM29zVDJOUHN6YU50YVBORXlxVnI4ZG16QTFNbUhtSVlVcXVJTHpKNFc5NW1VMG1XT0hwdGw?oc=5",
+              "published_at": "2026-10-30T07:59:53Z"
+            },
+            {
+              "name": "전자신문",
+              "group": "etnews.com",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JZFdhMTVsZ08xZzJBUzZTeElOT1g3NXlieDFSR2J5M0k0V0dKVy16VEw2cVB5ZDVCTUhYYXJEVTRoUVJ3NTZfcUgxUHdpUQ?oc=5",
+              "published_at": "2026-10-30T07:17:31Z"
+            },
+            {
+              "name": "연합뉴스",
+              "group": "wire:연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RSGl6VlA2ejRTVDE5UF8zTGpROUFGX2p6bEc1a0I5U0pueTE0ZFpkNjBpcEkzeGxVTlpOeWw0ZWZIZTNGS1pQb183QzBZOFN0MzZiUklRN25HeW_SAWBBVV95cUxOQkhoaDJyenhOYm5SS3JsQWx3TFV4TmhVUmllQy1ubjhmODFnNGpuVzZJd0lPOXBPWVZjaDFsSmgzYnRhTEVTVTlDSHhobzNVSVhIZ3RTRkItTXFGSDRiaGM?oc=5",
+              "published_at": "2026-10-30T07:06:05Z"
+            }
+          ]
+        }
+      },
+      "source_groups": 5,
+      "daily_sources": [
+        4,
+        0,
+        1
+      ],
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -230,7 +212,7 @@
         0,
         4
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -291,7 +273,7 @@
         0,
         4
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -352,7 +334,7 @@
         0,
         4
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -407,66 +389,11 @@
         1,
         1
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
       "rank": 6
-    },
-    {
-      "topic": {
-        "id": "9011cdbf2f77ebf71147",
-        "category": "경제·주식",
-        "title": "코스피, 美 빅테크 실적 부진에 3%대 급락 마감",
-        "summary": "코스피, 美 빅테크 실적 부진에 3%대 급락 마감",
-        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 38시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘코스피, 美 빅테크 실적 부진에 3%대 급락 마감’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
-        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-        "source": "MBC 뉴스",
-        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3YjlocnlWbFE3SFVGYmo0cmhMYmxuTGg5TDRzVGtpOVlSQjFWcmdRVFBSTGZuLUh4ZmZMQUpGSGNDWFlHaS1Wem1SU25IdnZ4d0F6N21ndjBibHk4b25kcldFcmhta1FPck04V2pUaWpZZFhf0gF0QVVfeXFMT2o3blBrbVQ4U3oyVlJMR3lYUzhWSDZOX0dVSzl1VlBKR0o2Y3hpX1l0aTAzV1E3NHVpR3hhQ0dFM29zVDJOUHN6YU50YVBORXlxVnI4ZG16QTFNbUhtSVlVcXVJTHpKNFc5NW1VMG1XT0hwdGw?oc=5",
-        "published_at": "2026-10-30T07:59:53Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 3,
-          "report_count": 4,
-          "span_hours": 38.1,
-          "first_report_at": "2026-10-30T07:06:05Z",
-          "last_report_at": "2026-10-31T21:10:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RSGl6VlA2ejRTVDE5UF8zTGpROUFGX2p6bEc1a0I5U0pueTE0ZFpkNjBpcEkzeGxVTlpOeWw0ZWZIZTNGS1pQb183QzBZOFN0MzZiUklRN25HeW_SAWBBVV95cUxOQkhoaDJyenhOYm5SS3JsQWx3TFV4TmhVUmllQy1ubjhmODFnNGpuVzZJd0lPOXBPWVZjaDFsSmgzYnRhTEVTVTlDSHhobzNVSVhIZ3RTRkItTXFGSDRiaGM?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rV2FuQWY0SVh3d2kxWks2WGRJX1VPZElDWWdaS1QzWlBhcUx1ZDIwQmFYY0M1N3o4YnpyYi1ZdzZJdzZPYWNBU2ZweGRBWFA2VGJRRG9GeHNYdTZaTmRheHdWR1VlYlA5anhPTFFVZzPSAXRBVV95cUxOdHBrbUlROHE1T2VINjdtcGRtc0lzSUp5WGdHOXlRNnB0dEJUNklTSnZWckhVNHJjTy1HTmtQTHgxU245MF9YQ3BYTUpyLWZQcTZINUpoVWk0TzhqUV9mejFwblFENFNmTkQyMktWVndUeExHVw?oc=5",
-          "sources": [
-            {
-              "name": "IT조선",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rV2FuQWY0SVh3d2kxWks2WGRJX1VPZElDWWdaS1QzWlBhcUx1ZDIwQmFYY0M1N3o4YnpyYi1ZdzZJdzZPYWNBU2ZweGRBWFA2VGJRRG9GeHNYdTZaTmRheHdWR1VlYlA5anhPTFFVZzPSAXRBVV95cUxOdHBrbUlROHE1T2VINjdtcGRtc0lzSUp5WGdHOXlRNnB0dEJUNklTSnZWckhVNHJjTy1HTmtQTHgxU245MF9YQ3BYTUpyLWZQcTZINUpoVWk0TzhqUV9mejFwblFENFNmTkQyMktWVndUeExHVw?oc=5",
-              "published_at": "2026-10-31T21:10:00Z"
-            },
-            {
-              "name": "연합뉴스",
-              "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVtIBYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVg?oc=5",
-              "published_at": "2026-10-30T12:05:30Z"
-            },
-            {
-              "name": "MBC 뉴스",
-              "group": "imbc.com",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3YjlocnlWbFE3SFVGYmo0cmhMYmxuTGg5TDRzVGtpOVlSQjFWcmdRVFBSTGZuLUh4ZmZMQUpGSGNDWFlHaS1Wem1SU25IdnZ4d0F6N21ndjBibHk4b25kcldFcmhta1FPck04V2pUaWpZZFhf0gF0QVVfeXFMT2o3blBrbVQ4U3oyVlJMR3lYUzhWSDZOX0dVSzl1VlBKR0o2Y3hpX1l0aTAzV1E3NHVpR3hhQ0dFM29zVDJOUHN6YU50YVBORXlxVnI4ZG16QTFNbUhtSVlVcXVJTHpKNFc5NW1VMG1XT0hwdGw?oc=5",
-              "published_at": "2026-10-30T07:59:53Z"
-            }
-          ]
-        }
-      },
-      "source_groups": 3,
-      "daily_sources": [
-        2,
-        0,
-        1
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 7
     },
     {
       "topic": {
@@ -517,11 +444,176 @@
         2,
         0
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 7
+    },
+    {
+      "topic": {
+        "id": "d98f3807ab35d756244b",
+        "category": "경제·주식",
+        "title": "[마켓 ING]6000선 회복 실패 코스피, 美 중간선거 주목",
+        "summary": "[마켓 ING]6000선 회복 실패 코스피, 美 중간선거 주목",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 14시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘[마켓 ING]6000선 회복 실패 코스피, 美 중간선거 주목’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+        "source": "아시아경제",
+        "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zUjFCVHRaRlNfS3BpeF9kMnZXc2ZWR0tEZDgyVDR2UDRTNkJuN1RTblNzMkh0eDR5TXkzSnBGSHYwVmphMUV3MWcxbGFJOWQ2MDdtYU1mUWhIY0NSaTZDZVd3?oc=5",
+        "published_at": "2026-11-01T02:07:00Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 3,
+          "span_hours": 14.2,
+          "first_report_at": "2026-10-31T21:00:00Z",
+          "last_report_at": "2026-11-01T11:09:48Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uQm02UFVQVGM3Qm9SRkE3c2dSQmhycHhicm1PNWtXdmhjREIwRVZlZ2tNeDVrLW1WTHFnc0ZQandxbVdGUHFydzBybTJXVUdPdnl3NXhSWDdDVXc?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTYnNKSnFOR1ZTWnNscF92TFlaOXlCUndCcjJLOTZoQlVmVWRiekZoOTZ1QlhHNzZDV2RuY3hESGRSSlFZVUpucE5ITDBNa1FMMEE?oc=5",
+          "sources": [
+            {
+              "name": "매일경제",
+              "group": "mk.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTYnNKSnFOR1ZTWnNscF92TFlaOXlCUndCcjJLOTZoQlVmVWRiekZoOTZ1QlhHNzZDV2RuY3hESGRSSlFZVUpucE5ITDBNa1FMMEE?oc=5",
+              "published_at": "2026-11-01T11:09:48Z"
+            },
+            {
+              "name": "아시아경제",
+              "group": "asiae.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zUjFCVHRaRlNfS3BpeF9kMnZXc2ZWR0tEZDgyVDR2UDRTNkJuN1RTblNzMkh0eDR5TXkzSnBGSHYwVmphMUV3MWcxbGFJOWQ2MDdtYU1mUWhIY0NSaTZDZVd3?oc=5",
+              "published_at": "2026-11-01T02:07:00Z"
+            },
+            {
+              "name": "뉴스1",
+              "group": "wire:뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uQm02UFVQVGM3Qm9SRkE3c2dSQmhycHhicm1PNWtXdmhjREIwRVZlZ2tNeDVrLW1WTHFnc0ZQandxbVdGUHFydzBybTJXVUdPdnl3NXhSWDdDVXc?oc=5",
+              "published_at": "2026-10-31T21:00:00Z"
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        0,
+        0,
+        3
+      ],
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
       "rank": 8
+    },
+    {
+      "topic": {
+        "id": "88ad734a61ae9e9c1f43",
+        "category": "경제·주식",
+        "title": "알파벳 실적 쇼크에 코스피 5%대 급락…매도 사이드카 발동",
+        "summary": "알파벳 실적 쇼크에 코스피 5%대 급락…매도 사이드카 발동",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘알파벳 실적 쇼크에 코스피 5%대 급락…매도 사이드카 발동’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+        "source": "한국경제",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zYmg5dXpFdnp5VjJqQzN6dVlCWndXazFiSXI0b09oNU5FbGdVOVVGVWltRzdMb1dPbmdRaUpsT1EzVklOSWNFVDduOFhkQmRuNFV1WkpsT3NCZw?oc=5",
+        "published_at": "2026-10-30T01:33:58Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 3,
+          "span_hours": 10.6,
+          "first_report_at": "2026-10-30T01:29:00Z",
+          "last_report_at": "2026-10-30T12:05:30Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hUUUyTDBKX3NBQWtBU0I5VDRqZUJyYVlkOUZibHZLSXl2Zng3ejBHQm5ISlJ2VHMtdnN2TUx5RWotNmF6cmcxQzBFMlBvSXFtcHJjVFVsaUZBUdIBX0FVX3lxTE9NNWRCS1JhanVUVmhGUlFjc1dpdThmejVzNFNEOW91N2d2VVpYQWtaU0UwMEJlZWpGTlBzbVY5d2lKOElzTkxBcUJianZIZ3BYcUhySTItY1VGcmZfc0pF?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVtIBYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVg?oc=5",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "group": "wire:연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVtIBYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVg?oc=5",
+              "published_at": "2026-10-30T12:05:30Z"
+            },
+            {
+              "name": "한국경제",
+              "group": "hankyung.com",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zYmg5dXpFdnp5VjJqQzN6dVlCWndXazFiSXI0b09oNU5FbGdVOVVGVWltRzdMb1dPbmdRaUpsT1EzVklOSWNFVDduOFhkQmRuNFV1WkpsT3NCZw?oc=5",
+              "published_at": "2026-10-30T01:33:58Z"
+            },
+            {
+              "name": "경향신문",
+              "group": "khan.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hUUUyTDBKX3NBQWtBU0I5VDRqZUJyYVlkOUZibHZLSXl2Zng3ejBHQm5ISlJ2VHMtdnN2TUx5RWotNmF6cmcxQzBFMlBvSXFtcHJjVFVsaUZBUdIBX0FVX3lxTE9NNWRCS1JhanVUVmhGUlFjc1dpdThmejVzNFNEOW91N2d2VVpYQWtaU0UwMEJlZWpGTlBzbVY5d2lKOElzTkxBcUJianZIZ3BYcUhySTItY1VGcmZfc0pF?oc=5",
+              "published_at": "2026-10-30T01:29:00Z"
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        3,
+        0,
+        0
+      ],
+      "tracking_hours": 0.1,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 9
+    },
+    {
+      "topic": {
+        "id": "bccb52d9d845550acc10",
+        "category": "스포츠",
+        "title": "'약물 커피' 먹이고 내기 골프...7,500만 원 가로챘다",
+        "summary": "'약물 커피' 먹이고 내기 골프...7,500만 원 가로챘다",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 7시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘'약물 커피' 먹이고 내기 골프...7,500만 원 가로챘다’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "YTN",
+        "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80Nzh2bDNvbXhySVgxbm5qRTAtTkN1RXlueFRqblJ6WDV6bDdEcFBwYnZjWWNEYmVnQm9mTWhEdU9MQ1IyTkdHa1ZBX3pweU9lUWZJelFrRlVZNWY2eVkwdE9uWkMzOXIzVi1HcDNuTQ?oc=5",
+        "published_at": "2026-11-01T09:13:00Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 3,
+          "span_hours": 7.8,
+          "first_report_at": "2026-11-01T04:23:55Z",
+          "last_report_at": "2026-11-01T12:14:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54ZTBRbzZITGwydXYwOTZhRF9xNWVUZVdjeW1IS2hVMkoycG80WkpVYU1IUWhval81ZUVjTldDcHNEaFRKM0Z4UnJCb2VjRHE1aXJtZE1ILW1NbXlEUXVSTm84dnN2ZllUaGc?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LcVJYdy1fUlV4NlBnU3NNdUFlaTZjTVF2TEVUc19CT0JQanVBVGhwR1dSQ09QRzdZX0Zjc2R0eGhLZ001MXZPM0dpM2lRRGFFV0g3VUJmQ3lZQVBuOXdpb0Vnb1Zwdw?oc=5",
+          "sources": [
+            {
+              "name": "KBS 뉴스",
+              "group": "kbs.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LcVJYdy1fUlV4NlBnU3NNdUFlaTZjTVF2TEVUc19CT0JQanVBVGhwR1dSQ09QRzdZX0Zjc2R0eGhLZ001MXZPM0dpM2lRRGFFV0g3VUJmQ3lZQVBuOXdpb0Vnb1Zwdw?oc=5",
+              "published_at": "2026-11-01T12:14:00Z"
+            },
+            {
+              "name": "YTN",
+              "group": "ytn.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80Nzh2bDNvbXhySVgxbm5qRTAtTkN1RXlueFRqblJ6WDV6bDdEcFBwYnZjWWNEYmVnQm9mTWhEdU9MQ1IyTkdHa1ZBX3pweU9lUWZJelFrRlVZNWY2eVkwdE9uWkMzOXIzVi1HcDNuTQ?oc=5",
+              "published_at": "2026-11-01T09:13:00Z"
+            },
+            {
+              "name": "SBS 뉴스",
+              "group": "sbs.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54ZTBRbzZITGwydXYwOTZhRF9xNWVUZVdjeW1IS2hVMkoycG80WkpVYU1IUWhval81ZUVjTldDcHNEaFRKM0Z4UnJCb2VjRHE1aXJtZE1ILW1NbXlEUXVSTm84dnN2ZllUaGc?oc=5",
+              "published_at": "2026-11-01T04:23:55Z"
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        0,
+        0,
+        3
+      ],
+      "tracking_hours": 0.1,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 10
     },
     {
       "topic": {
@@ -572,11 +664,11 @@
         0,
         3
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 9
+      "rank": 11
     },
     {
       "topic": {
@@ -627,11 +719,11 @@
         0,
         3
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 10
+      "rank": 12
     },
     {
       "topic": {
@@ -676,11 +768,11 @@
         1,
         1
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 11
+      "rank": 13
     },
     {
       "topic": {
@@ -725,11 +817,11 @@
         1,
         0
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 12
+      "rank": 14
     },
     {
       "topic": {
@@ -774,105 +866,7 @@
         1,
         0
       ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 13
-    },
-    {
-      "topic": {
-        "id": "b8b6ea1c8bfe74e7329e",
-        "category": "스포츠",
-        "title": "“내기 골프 졌으니 7500만 원”…알고보니 커피에 약물",
-        "summary": "“내기 골프 졌으니 7500만 원”…알고보니 커피에 약물",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 9시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘“내기 골프 졌으니 7500만 원”…알고보니 커피에 약물’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "KBS 뉴스",
-        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LcVJYdy1fUlV4NlBnU3NNdUFlaTZjTVF2TEVUc19CT0JQanVBVGhwR1dSQ09QRzdZX0Zjc2R0eGhLZ001MXZPM0dpM2lRRGFFV0g3VUJmQ3lZQVBuOXdpb0Vnb1Zwdw?oc=5",
-        "published_at": "2026-11-01T12:14:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 2,
-          "report_count": 3,
-          "span_hours": 9.0,
-          "first_report_at": "2026-11-01T03:12:00Z",
-          "last_report_at": "2026-11-01T12:14:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tbGtxaS1PS003RUhNSGo0MFowRHkyczNtcGcyMGdVRS1CQWFkVEV6N1lpb2Jjd24xNGRyM2JZZ2xsQmFub3kyX25kYlVvaDgzUG8zdkhnMVA1X3c?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LcVJYdy1fUlV4NlBnU3NNdUFlaTZjTVF2TEVUc19CT0JQanVBVGhwR1dSQ09QRzdZX0Zjc2R0eGhLZ001MXZPM0dpM2lRRGFFV0g3VUJmQ3lZQVBuOXdpb0Vnb1Zwdw?oc=5",
-          "sources": [
-            {
-              "name": "KBS 뉴스",
-              "group": "kbs.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LcVJYdy1fUlV4NlBnU3NNdUFlaTZjTVF2TEVUc19CT0JQanVBVGhwR1dSQ09QRzdZX0Zjc2R0eGhLZ001MXZPM0dpM2lRRGFFV0g3VUJmQ3lZQVBuOXdpb0Vnb1Zwdw?oc=5",
-              "published_at": "2026-11-01T12:14:00Z"
-            },
-            {
-              "name": "중앙일보",
-              "group": "joongang.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SWUZpTXFldDNmcVhYanZIQzkzdFROcl91YUk1RmZMckluMl9CUWFBa2pxNko3RXVqdkdfanhva0RkWGZQeU5iTzdLVmtzenNwWnlnQk9R?oc=5",
-              "published_at": "2026-11-01T04:42:29Z"
-            }
-          ]
-        }
-      },
-      "source_groups": 2,
-      "daily_sources": [
-        0,
-        0,
-        2
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 14
-    },
-    {
-      "topic": {
-        "id": "4b9498637d466ce554ab",
-        "category": "경제·주식",
-        "title": "6000선 찍고 다시 미끄러진 코스피…이번 주 美 중간선거·AI 실적에 달렸다",
-        "summary": "6000선 찍고 다시 미끄러진 코스피…이번 주 美 중간선거·AI 실적에 달렸다",
-        "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 9시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘6000선 찍고 다시 미끄러진 코스피…이번 주 美 중간선거·AI 실적에 달렸다’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
-        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-        "source": "매일경제",
-        "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTYnNKSnFOR1ZTWnNscF92TFlaOXlCUndCcjJLOTZoQlVmVWRiekZoOTZ1QlhHNzZDV2RuY3hESGRSSlFZVUpucE5ITDBNa1FMMEE?oc=5",
-        "published_at": "2026-11-01T11:09:48Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 2,
-          "report_count": 2,
-          "span_hours": 9.0,
-          "first_report_at": "2026-11-01T02:07:00Z",
-          "last_report_at": "2026-11-01T11:09:48Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zUjFCVHRaRlNfS3BpeF9kMnZXc2ZWR0tEZDgyVDR2UDRTNkJuN1RTblNzMkh0eDR5TXkzSnBGSHYwVmphMUV3MWcxbGFJOWQ2MDdtYU1mUWhIY0NSaTZDZVd3?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTYnNKSnFOR1ZTWnNscF92TFlaOXlCUndCcjJLOTZoQlVmVWRiekZoOTZ1QlhHNzZDV2RuY3hESGRSSlFZVUpucE5ITDBNa1FMMEE?oc=5",
-          "sources": [
-            {
-              "name": "매일경제",
-              "group": "mk.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTYnNKSnFOR1ZTWnNscF92TFlaOXlCUndCcjJLOTZoQlVmVWRiekZoOTZ1QlhHNzZDV2RuY3hESGRSSlFZVUpucE5ITDBNa1FMMEE?oc=5",
-              "published_at": "2026-11-01T11:09:48Z"
-            },
-            {
-              "name": "아시아경제",
-              "group": "asiae.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zUjFCVHRaRlNfS3BpeF9kMnZXc2ZWR0tEZDgyVDR2UDRTNkJuN1RTblNzMkh0eDR5TXkzSnBGSHYwVmphMUV3MWcxbGFJOWQ2MDdtYU1mUWhIY0NSaTZDZVd3?oc=5",
-              "published_at": "2026-11-01T02:07:00Z"
-            }
-          ]
-        }
-      },
-      "source_groups": 2,
-      "daily_sources": [
-        0,
-        0,
-        2
-      ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -884,16 +878,16 @@
         "category": "기술·과학",
         "title": "국민AI서비스혁신추진단장에 김세웅 전 카카오 부사장",
         "summary": "국민AI서비스혁신추진단장에 김세웅 전 카카오 부사장",
-        "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
         "opener": "‘국민AI서비스혁신추진단장에 김세웅 전 카카오 부사장’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
         "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
         "source": "한국일보",
-        "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QOVlWdS1vOHo4dmtVX1BnNkNTVk9UczZGRTdLMERRUk9LeGNVUjVhWUNaVnR2dlBSV2pKS2lsb2ZWZE1hdE9hLXZub1FYTlJKRTBGaHBXVUNMay1hRXMtOElWS0stQ29pYVA5el9oZkx2QjDSAXNBVV95cUxPUDlZVnUtbzh6OHZrVV9QZzZDU1ZPVHM2RkU3SzBEUVJPS3hjVVI1YVlDWlZ0dnZQUldqSktpbG9mVmRNYXRPYS12bm9RWE5SSkUwRmhwV1VDTGstYUVzLThJVktLLUNvaWFQOXpfaGZMdkIw?oc=5",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3a3VsdEVudjJ5T0Qwczh2dUE5NXNwNy04bDJRTHpwV3gyUzBRN3FvZi11V09ZR3I0TnJTRUdUUEFmV2VZby1CU1VRZjhsNTJNWS12MGFtY3JnUXEzVXpZR1JDX0ZNNlVxa3BqVmpn0gFzQVVfeXFMT1A5WVZ1LW84ejh2a1VfUGc2Q1NWT1RzNkZFN0swRFFST0t4Y1VSNWFZQ1pWdHZ2UFJXakpLaWxvZlZkTWF0T2Etdm5vUVhOUkpFMEZocFdVQ0xrLWFFcy04SVZLSy1Db2lhUDl6X2hmTHZCMA?oc=5",
         "published_at": "2026-11-01T09:33:00Z",
         "evidence": "headline",
         "coverage": {
           "source_groups": 2,
-          "report_count": 2,
+          "report_count": 4,
           "span_hours": 6.5,
           "first_report_at": "2026-11-01T03:00:05Z",
           "last_report_at": "2026-11-01T09:33:00Z",
@@ -903,14 +897,14 @@
             {
               "name": "한국일보",
               "group": "hankookilbo.com",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QOVlWdS1vOHo4dmtVX1BnNkNTVk9UczZGRTdLMERRUk9LeGNVUjVhWUNaVnR2dlBSV2pKS2lsb2ZWZE1hdE9hLXZub1FYTlJKRTBGaHBXVUNMay1hRXMtOElWS0stQ29pYVA5el9oZkx2QjDSAXNBVV95cUxPUDlZVnUtbzh6OHZrVV9QZzZDU1ZPVHM2RkU3SzBEUVJPS3hjVVI1YVlDWlZ0dnZQUldqSktpbG9mVmRNYXRPYS12bm9RWE5SSkUwRmhwV1VDTGstYUVzLThJVktLLUNvaWFQOXpfaGZMdkIw?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3a3VsdEVudjJ5T0Qwczh2dUE5NXNwNy04bDJRTHpwV3gyUzBRN3FvZi11V09ZR3I0TnJTRUdUUEFmV2VZby1CU1VRZjhsNTJNWS12MGFtY3JnUXEzVXpZR1JDX0ZNNlVxa3BqVmpn0gFzQVVfeXFMT1A5WVZ1LW84ejh2a1VfUGc2Q1NWT1RzNkZFN0swRFFST0t4Y1VSNWFZQ1pWdHZ2UFJXakpLaWxvZlZkTWF0T2Etdm5vUVhOUkpFMEZocFdVQ0xrLWFFcy04SVZLSy1Db2lhUDl6X2hmTHZCMA?oc=5",
               "published_at": "2026-11-01T09:33:00Z"
             },
             {
-              "name": "연합뉴스",
-              "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYUTlLZEQtaFVYenowckhFb1R0a0N1QmRVdGNXekdMQXNKNDU2dlgySWI5T0Y5U1dDUFZlZjRsRENhbWpOdDAxSURWbW5Vdl9lS3pYbDJPaGdYN0nSAWBBVV95cUxPRGRqNS1ZRXRjdkhvMmxZejhkaThHbmo5QUU0bGp1OTNOd2VWTUNfYUVMd1djejcxbjM3VkJ3ZHBrcVdMbnpqYnlUQ2JvU0FaMVo1Zy1TWi1RVFBtSU1nV0I?oc=5",
-              "published_at": "2026-11-01T03:00:05Z"
+              "name": "MBC 뉴스",
+              "group": "imbc.com",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pRUtzX2c3cWdJUFQ0al9BdXY2S2JmVTRlRlpLcVJULXgxUExKdDNlcENTd0toaTlNOWtMTjRvenJWYU5zSmotTHJ3UXBFZTZCaTUzX1hCaXlZRFZCVDRWZm9LSW1hYTg0NTFLSnlPWWpCcU9Q0gF0QVVfeXFMUHhURlZVdThwcUdVRWZyQXVDbzZReE9TeDVGQldIYnBpS0phbWkzSFhja2k4bUR0SGFOTnZ3SWtFZzcxNzZLcEE3Ujc5OGIzUU1fWGhfU1ZkbmYzWjJFdjJ1REVsakV5NGx4dXJSaWFGV1JlSjk?oc=5",
+              "published_at": "2026-11-01T04:34:57Z"
             }
           ]
         }
@@ -921,7 +915,7 @@
         0,
         2
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -970,7 +964,7 @@
         0,
         2
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -1019,7 +1013,7 @@
         1,
         1
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -1068,7 +1062,7 @@
         0,
         2
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -1117,11 +1111,60 @@
         0,
         2
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
       "rank": 20
+    },
+    {
+      "topic": {
+        "id": "a1b7504bd57019f9637a",
+        "category": "스포츠",
+        "title": "내기 골프 이기려 커피에 약물 탔다…7000여만원 뜯어낸 일당",
+        "summary": "내기 골프 이기려 커피에 약물 탔다…7000여만원 뜯어낸 일당",
+        "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘내기 골프 이기려 커피에 약물 탔다…7000여만원 뜯어낸 일당’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "중앙일보",
+        "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SWUZpTXFldDNmcVhYanZIQzkzdFROcl91YUk1RmZMckluMl9CUWFBa2pxNko3RXVqdkdfanhva0RkWGZQeU5iTzdLVmtzenNwWnlnQk9R?oc=5",
+        "published_at": "2026-11-01T04:42:29Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 2,
+          "report_count": 2,
+          "span_hours": 1.7,
+          "first_report_at": "2026-11-01T03:00:00Z",
+          "last_report_at": "2026-11-01T04:42:29Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MMUZQdkkyVkt1NUhTVnloeWhPdHlfbkIwU3pzZl8tMmxwU1BrZEtudXdWVnFuSmFwa1VpQ0NmTnI0OUtsd3I4Vi1qbTRmNFBCZTNyblhuLWI4OU9DMXJKdQ?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SWUZpTXFldDNmcVhYanZIQzkzdFROcl91YUk1RmZMckluMl9CUWFBa2pxNko3RXVqdkdfanhva0RkWGZQeU5iTzdLVmtzenNwWnlnQk9R?oc=5",
+          "sources": [
+            {
+              "name": "중앙일보",
+              "group": "joongang.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SWUZpTXFldDNmcVhYanZIQzkzdFROcl91YUk1RmZMckluMl9CUWFBa2pxNko3RXVqdkdfanhva0RkWGZQeU5iTzdLVmtzenNwWnlnQk9R?oc=5",
+              "published_at": "2026-11-01T04:42:29Z"
+            },
+            {
+              "name": "아시아경제",
+              "group": "asiae.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MMUZQdkkyVkt1NUhTVnloeWhPdHlfbkIwU3pzZl8tMmxwU1BrZEtudXdWVnFuSmFwa1VpQ0NmTnI0OUtsd3I4Vi1qbTRmNFBCZTNyblhuLWI4OU9DMXJKdQ?oc=5",
+              "published_at": "2026-11-01T03:00:00Z"
+            }
+          ]
+        }
+      },
+      "source_groups": 2,
+      "daily_sources": [
+        0,
+        0,
+        2
+      ],
+      "tracking_hours": 0.1,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 21
     },
     {
       "topic": {
@@ -1166,11 +1209,11 @@
         0,
         0
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 21
+      "rank": 22
     },
     {
       "topic": {
@@ -1215,11 +1258,11 @@
         0,
         2
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.1,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 22
+      "rank": 23
     }
   ]
 }
