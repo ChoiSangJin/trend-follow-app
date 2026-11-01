@@ -74,7 +74,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
         onDestinationSelected: (value) => setState(() => _tab = value),
         destinations: const [
           NavigationDestination(icon: Icon(Icons.local_fire_department_outlined),
-            selectedIcon: Icon(Icons.local_fire_department), label: '국내 주요 소식'),
+            selectedIcon: Icon(Icons.local_fire_department), label: '국내 급상승 검색'),
           NavigationDestination(icon: Icon(Icons.chat_bubble_outline),
             selectedIcon: Icon(Icons.chat_bubble), label: '밈 & 유행어'),
           NavigationDestination(icon: Icon(Icons.place_outlined),
@@ -121,10 +121,10 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
         if (index == 0) {
           return Padding(padding: const EdgeInsets.symmetric(vertical: 12),
           child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            Text(['한국 주요 뉴스', '대화가 더 즐거워지는 발견', '이번 주말엔 어디로?'][_tab],
+            Text(['대한민국 급상승 검색', '대화가 더 즐거워지는 발견', '이번 주말엔 어디로?'][_tab],
               style: Theme.of(context).textTheme.headlineSmall?.copyWith(fontWeight: FontWeight.w800)),
             const SizedBox(height: 6),
-            Text(['한국판 뉴스 피드 · 검색량 순위가 아닙니다', '편집 유행어 사전 · 실시간 인기 순위 아님', '편집 장소 가이드 · 실시간 혼잡도 미연동'][_tab],
+            Text(['한국 지역 · 한글 포함 · 검색량 1천회 이상', '편집 유행어 사전 · 실시간 인기 순위 아님', '편집 장소 가이드 · 실시간 혼잡도 미연동'][_tab],
               style: TextStyle(color: colors.onSurfaceVariant)),
           ]));
         }
