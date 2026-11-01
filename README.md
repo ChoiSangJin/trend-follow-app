@@ -15,7 +15,8 @@
 ## 정보의 범위와 정확성
 
 Google 뉴스 한국판의 주제별 RSS를 사용합니다. 한국어 언어 코드와 한국판 `ceid=KR:ko`를 확인하고,
-최근 72시간 이내 기사만 선택하고 출처의 publisher URL을 명시한 언론사 도메인 목록과 대조합니다. 중복 및 일부 민감 주제를 필터링하며 각 분야에서 최대 1개를 선정합니다.
+최근 72시간 이내 기사만 선택하고 출처의 publisher URL을 명시한 언론사 도메인 목록과 대조합니다. 중복·일부 민감 주제·증시 소재를 필터링하며 각 분야에서 최대 1개를 선정합니다.
+문화는 신작·공개 소식, 나들이는 국내 지역명이 확인되는 행사/장소로 좁힙니다. 해외 행사 홍보기사는 제외합니다.
 필터는 완전한 안전성이나 편집 품질을 보장하지 않으므로 원문을 확인하세요.
 
 **인기 순위, 인스타·틱톡의 실시간 밈 순위, 기사 본문을 읽은 AI 요약을 제공하지 않습니다.**
@@ -39,6 +40,7 @@ flutter analyze --fatal-infos
 flutter test --reporter expanded
 python3 -m unittest discover -s scripts -p 'test_*.py' -v
 python3 scripts/collect_briefing.py
+bash scripts/prepare_test_key.sh
 flutter build apk --debug --target-platform=android-arm64
 ```
 
@@ -56,7 +58,9 @@ Android 7.0(API 24)+ ARM64용입니다. `BRIEFING_ENDPOINT` dart-define으로 HT
 테스트한 소스와 태그 일치, APK 서명, arm64-v8a ABI를 검증한 뒤 Release에 APK·SHA256SUMS를 첨부합니다.
 `Malmun-arm64.apk`는 개발용 서명 배포본입니다. 기존 Follow MZ와 패키지 ID가 달라 동시에 설치 가능합니다.
 
-main CI는 고정된 Actions cache key로 개발용 키를 재사용합니다. 캐시가 유지되는 동안 후속 업데이트의
+main CI는 `android/.test-signing/debug.keystore`를 고정된 Actions cache key로 재사용합니다.
+Gradle debug 서명도 이 파일을 직접 가리키며 CI에서 파일이 없으면 빌드를 중단합니다.
+표준 Android debug 비밀번호를 사용하는 테스트용 키이며, 키 파일은 Git이나 Release에 넣지 않습니다. 캐시가 유지되는 동안 후속 업데이트의
 서명이 유지됩니다. 캐시 만료/삭제 후에는 서명이 바뀔 수 있으므로 영구적인 배포 키 보관을 대체하지 않습니다.
 최초 배포는 main CI의 빌드를 사용해 main 캐시에 키를 남깁니다.
 

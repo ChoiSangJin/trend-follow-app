@@ -31,6 +31,15 @@ class BriefingTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 self.parse(payload)
 
+    def test_lifestyle_requires_a_domestic_destination_not_overseas_promotion(self):
+        for title in ('양쯔강 문화 축제 중국 장쑤성에서 개막', '한국 예술가들의 홍콩 행사 개막'):
+            self.assertEqual(candidates(rss(title=title), '생활', '질문', '맥락', NOW), [])
+        self.assertEqual(len(candidates(rss(title='서울 한강에서 만나는 가을 전시'), '생활', '질문', '맥락', NOW)), 1)
+
+    def test_culture_prefers_new_releases_over_archival_reviews(self):
+        self.assertEqual(self.parse(rss(title='헤어질 결심이 소환한 클래식 미장센')), [])
+        self.assertEqual(len(self.parse(rss(title='새 한국 드라마 시즌 공개 소식'))), 1)
+
     def test_unknown_publishers_are_not_used(self):
         self.assertEqual(self.parse(rss().replace(b'https://www.yna.co.kr', b'https://unverified.example')), [])
 
@@ -51,7 +60,7 @@ class BriefingTests(unittest.TestCase):
         self.assertEqual(feed['edition'], 'daily')
 
     def test_five_distinct_topics_and_partial_feed_without_padding(self):
-        titles = ['영화관에서 만나는 새 한국 작품', '신메뉴로 등장한 제철 과일 디저트',
+        titles = ['영화관에서 만나는 새 한국 작품 개봉', '신메뉴로 등장한 제철 과일 디저트',
                   '한강공원에서 열리는 주말 산책 행사', '우주 탐사선이 보내온 화성 관측 소식', '프로농구 팀들의 새로운 시즌 경기']
         feeds = [rss(title=title, url=f'https://news.google.com/rss/articles/{i}') for i, title in enumerate(titles)]
         self.assertEqual(len(build_briefing(feeds, NOW)['cards']), 5)

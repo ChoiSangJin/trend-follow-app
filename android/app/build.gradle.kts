@@ -13,6 +13,12 @@ if (splitPerAbi) {
     }
 }
 
+val managedTestKey = rootProject.file(".test-signing/debug.keystore")
+if (System.getenv("CI") == "true" &&
+    gradle.startParameter.taskNames.any { it.contains("debug", ignoreCase = true) }) {
+    require(managedTestKey.exists()) { "Run scripts/prepare_test_key.sh before CI debug builds" }
+}
+
 val signingFile = rootProject.file("key.properties")
 val releaseSigning = Properties()
 if (signingFile.exists()) signingFile.inputStream().use { releaseSigning.load(it) }
@@ -48,6 +54,14 @@ android {
         }
     }
     signingConfigs {
+        getByName("debug") {
+            if (managedTestKey.exists()) {
+                storeFile = managedTestKey
+                storePassword = "android"
+                keyAlias = "androiddebugkey"
+                keyPassword = "android"
+            }
+        }
         if (hasReleaseSigning) {
             create("release") {
                 storeFile = rootProject.file(releaseSigning.getProperty("storeFile"))
