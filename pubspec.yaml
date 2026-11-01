@@ -1,7 +1,7 @@
 name: malmun
 description: Daily Korean conversation starters with dated sources.
 publish_to: none
-version: 2.1.0+2
+version: 2.2.0+3
 environment:
   sdk: '>=3.8.0 <4.0.0'
 dependencies:

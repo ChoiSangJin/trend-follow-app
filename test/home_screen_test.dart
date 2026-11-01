@@ -105,30 +105,49 @@ void main() {
     },
   );
   testWidgets(
-    'all ten cards are available with two per field and matching filter count',
+    'all fourteen cards are available with two per field and matching filter count',
     (tester) async {
       final repository = StubRepository()
         ..result = FeedResult(
           Briefing.fromJson({
             ...feedJson(),
             'cards': [
-              for (var i = 0; i < 10; i++)
+              for (var i = 0; i < 14; i++)
                 {...topicJson(i + 1), 'category': topicCategories[i ~/ 2]},
             ],
           }),
           FeedMode.live,
         );
       await mount(tester, repository);
-      expect(find.text('전체 10'), findsOneWidget);
-      await tester.tap(find.byKey(const ValueKey('filter-사회')));
+      expect(find.text('전체 14'), findsOneWidget);
+      await tester.tap(find.byKey(const ValueKey('filter-세계뉴스')));
       await tester.pumpAndSettle();
-      expect(find.text('사회 2'), findsOneWidget);
+      expect(find.text('세계뉴스 2'), findsOneWidget);
       expect(find.text('오늘의 대화 소재 1'), findsNothing);
-      await tester.scrollUntilVisible(find.text('오늘의 대화 소재 10'), 250);
-      expect(find.text('오늘의 대화 소재 10'), findsOneWidget);
+      await tester.scrollUntilVisible(find.text('오늘의 대화 소재 14'), 250);
+      expect(find.text('오늘의 대화 소재 14'), findsOneWidget);
       expect(tester.takeException(), isNull);
     },
   );
+  testWidgets('selection criteria and source evidence are inspectable', (
+    tester,
+  ) async {
+    await mount(tester, StubRepository());
+    await tester.tap(find.byTooltip('선정 기준'));
+    await tester.pumpAndSettle();
+    expect(find.text('최근 3일 주요 화제 선정 기준'), findsOneWidget);
+    await tester.tap(find.text('닫기'));
+    await tester.pumpAndSettle();
+    await tester.scrollUntilVisible(find.text('대화 준비').first, 250);
+    await tester.drag(find.byType(ListView).first, const Offset(0, -160));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('대화 준비').first);
+    await tester.pumpAndSettle();
+    await tester.scrollUntilVisible(find.text('선정 근거 · 확인한 출처'), 250);
+    expect(find.textContaining('수집한 관련 보도 3개'), findsOneWidget);
+    expect(find.textContaining('사실 확정이나 조회수 지표는 아닙니다.'), findsOneWidget);
+    expect(tester.takeException(), isNull);
+  });
   testWidgets('legacy bookmark categories remain accessible after the update', (
     tester,
   ) async {

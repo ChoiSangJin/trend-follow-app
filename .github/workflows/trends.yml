@@ -21,7 +21,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/briefing.json data/briefing-v3.json
+          git add data/briefing.json data/briefing-v3.json data/briefing-v4.json
           if git diff --cached --quiet; then exit 0; fi
           git commit -m 'data: refresh dated Korean conversation briefing'
           git push origin HEAD:main

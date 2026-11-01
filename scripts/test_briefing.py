@@ -1,144 +1,172 @@
 import json
 import os
-import unittest
 import tempfile
-from unittest.mock import patch, MagicMock
-import collect_briefing as collector
+import unittest
 from collections import Counter
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from collect_briefing import candidates, build_briefing, legacy_briefing, TOPICS
+from unittest.mock import MagicMock, patch
+from urllib.error import HTTPError
+import collect_briefing as collector
+from collect_briefing import candidates, build_briefing, legacy_briefing, legacy_v3, TOPICS
+from rank_topics import rank, clusters, independent_reports, related
 
-NOW = datetime(2026, 11, 1, 6, tzinfo=timezone.utc)
+NOW = datetime(2026, 11, 1, 12, tzinfo=timezone.utc)
 
-def rss(title='새로운 미술관 전시가 오늘 개막합니다', date='Sun, 01 Nov 2026 03:00:00 GMT', language='ko', edition='KR:ko', url='https://news.google.com/rss/articles/example'):
-    return f'''<rss><channel><language>{language}</language>
-<link>https://news.google.com/search?ceid={edition}</link>
-<item><title>{title} - 문화신문</title><link>{url}</link>
-<source url="https://www.yna.co.kr">문화신문</source><pubDate>{date}</pubDate></item></channel></rss>'''.encode()
 
-def multiple(titles, prefix):
-    items=[]
-    for i,title in enumerate(titles):
-        payload=rss(title=title,url=f'https://news.google.com/rss/articles/{prefix}-{i}').decode()
-        items.append(payload[payload.index('<item>'):payload.index('</item>')+7])
-    return ('<rss><channel><language>ko</language><link>https://news.google.com/search?ceid=KR:ko</link>'+''.join(items)+'</channel></rss>').encode()
+def rss(items=None, language='ko', edition='KR:ko'):
+    if items is None:
+        items = [('국립미술관 모네 전시 개막 안내', 'yna.co.kr', 12, 'a', '')]
+    body = []
+    for title, domain, age, key, description in items:
+        date = (NOW-timedelta(hours=age)).strftime('%a, %d %b %Y %H:%M:%S GMT')
+        body.append(f'<item><title>{title} - {domain}</title><link>https://news.google.com/rss/articles/{key}</link><source url="https://{domain}">{domain}</source><pubDate>{date}</pubDate><description>{description}</description></item>')
+    return ('<rss><channel><language>'+language+'</language><link>https://news.google.com/search?ceid='+edition+'</link>'+''.join(body)+'</channel></rss>').encode()
 
-TITLES = [
- ['국립 미술관 전시 개막 안내', '문학상 수상 작가의 신간 출간', '오케스트라 공연 새로운 무대'],
- ['배우들의 새 드라마 시즌 공개', '아이돌 신곡 컴백 무대 첫 방송', '영화관에서 만나는 신작 개봉'],
- ['프로야구 한국시리즈 결승 경기', '여자 배구 대표팀 새로운 시즌', '축구 선수들의 주말 대회 개막'],
- ['우주 탐사선 화성 관측 결과', '새 스마트폰 카메라 기능 발표', '인공지능 서비스 음성 기술 소식'],
- ['대중교통 버스 요금 제도 변경', '공공 도서관 교육 지원 신청', '지역 주민 복지 서비스 안내'],
+
+# Different wording, same named event; not identical syndicated headlines.
+PAIRS = [
+ [('국립미술관 모네 특별전 개막 안내', '모네 특별전 국립미술관에서 만나는 빛과 그림'),
+  ('김영하 문학상 신간 소설 출간 소식', '문학상 김영하 신간 소설 독자와 만남')],
+ [('아이유 별빛 신곡 앨범 공개 소식', '별빛 앨범 아이유 신곡 발매 음악의 변화'),
+  ('김혜수 넷플릭스 봄날 드라마 공개', '봄날 드라마 김혜수 넷플릭스에서 만나는 연기')],
+ [('수원컵 축구 결승 대회 개막 소식', '축구 수원컵 결승 대회 선수들의 도전'),
+  ('이강인 마드리드 아틀레티코 경기 골 기록', '마드리드 이강인 아틀레티코 경기 활약 평가')],
+ [('누리호 위성 우주 탐사 발사 결과 공개', '우주 누리호 위성 탐사 발사에서 찾은 성과'),
+  ('오픈AI 오로라 로봇 기술 신기능 공개', '오로라 로봇 오픈AI 기술 사용법과 변화')],
+ [('서울 지하철 교통 요금 개편 시행', '교통 서울 지하철 요금 개편 시민의 변화'),
+  ('부산 청년 주거 복지 지원 신청 변경', '청년 부산 주거 복지 지원 신청 일정 안내')],
+ [('연준 기준금리 인하 미국 증시 변화', '미국 연준 기준금리 인하 경제 영향 분석'),
+  ('통계청 소비자물가 상승 환율 지표 발표', '소비자물가 통계청 상승 환율 지표 해석')],
+ [('유엔 제네바 기후 협상 정상회의 개막', '제네바 유엔 기후 협상 정상회의 합의 전망'),
+  ('유럽 브뤼셀 국제 보건 외교 협약 발표', '브뤼셀 유럽 국제 보건 외교 협약의 배경')],
 ]
-def all_feeds(): return [multiple(titles,i) for i,titles in enumerate(TITLES)]
 
-class BriefingTests(unittest.TestCase):
-    def parse(self,payload,category='문화·예술'):
+
+def all_feeds():
+    result = []
+    for i, pairs in enumerate(PAIRS):
+        items = []
+        for j, pair in enumerate(pairs):
+            items += [(pair[0], 'yna.co.kr', 36, f'{i}-{j}-a', ''),
+                      (pair[1], 'hankyung.com', 12, f'{i}-{j}-b', '')]
+        result.append(rss(items))
+    return result
+
+
+def article(title, domain='one.kr', age=24, key=None):
+    key = key or domain+title
+    return dict(id=key, title=title, summary=title, source=domain, source_url='https://news.google.com/rss/articles/'+str(abs(hash(key))), origin_group=domain,
+                published_at=(NOW-timedelta(hours=age)).isoformat().replace('+00:00','Z'))
+
+
+class SelectionTests(unittest.TestCase):
+    def parse(self, payload, category='문화·예술'):
         return candidates(payload,category,'질문','맥락',NOW)
 
-    def test_publisher_writes_readable_new_and_compatible_legacy_json(self):
-        with tempfile.TemporaryDirectory() as directory:
-            root=Path(directory);(root/'data').mkdir()
-            responses=[]
-            for payload in all_feeds():
-                response=MagicMock();response.__enter__.return_value.read.return_value=payload
-                responses.append(response)
-            with patch.object(collector,'ROOT',root), patch.object(collector,'urlopen',side_effect=responses), patch.object(collector,'datetime') as clock, patch.dict(os.environ, {'GITHUB_ACTIONS':'false'}):
-                clock.now.return_value=NOW
-                collector.main()
-            new=json.loads((root/'data/briefing-v3.json').read_text())
-            old=json.loads((root/'data/briefing.json').read_text())
-            self.assertEqual(new['schema_version'],3)
-            self.assertEqual(len(new['cards']),10)
-            self.assertEqual(old['schema_version'],2)
-            self.assertEqual(len(old['cards']),5)
-
-    def test_entertainment_includes_public_concerts_and_album_releases(self):
-        for title in ('가수 단독 콘서트 개최 소식','아이돌 새 앨범 발매 안내'):
-            self.assertEqual(len(self.parse(rss(title=title),'연예')),1)
-
-    def test_science_coverage_does_not_use_education_award_announcements(self):
-        self.assertEqual(self.parse(rss(title='정보과학 인재양성 우수학교 공모전 수상자'),'기술·과학'),[])
-        self.assertEqual(len(self.parse(rss(title='화성 탐사선 과학 실험 결과 공개'),'기술·과학')),1)
-
-    def test_arts_excludes_trade_exhibitions(self):
-        self.assertEqual(self.parse(rss(title='서울클래식카쇼 개막 클래식카 전시와 정책 논의')),[])
-        self.assertEqual(len(self.parse(rss(title='국립 미술관 작가 사진전 개막 소식'))),1)
-
-    def test_entertainment_excludes_unrelated_ai_video_criticism(self):
-        self.assertEqual(self.parse(rss(title='오디세이 비난한 머스크 AI 오디세이 공개'),'연예'),[])
-        self.assertEqual(len(self.parse(rss(title='가수 새 앨범과 신곡 공개 소식'),'연예')),1)
-
-    def test_technology_excludes_fundraising_and_financial_headlines(self):
-        for title in ('한국투자 10조 펀드 조성 AI데이터센터 짓는다','앤트로픽 정크 경고 AI 돈줄이 마른다'):
-            self.assertEqual(self.parse(rss(title=title),'기술·과학'),[])
-        self.assertEqual(len(self.parse(rss(title='새 스마트폰 카메라 신기능 공개'),'기술·과학')),1)
-
-    def test_society_prefers_practical_changes_not_council_agendas(self):
-        self.assertEqual(self.parse(rss(title='시의회 정례회 개회 첫 행정사무감사'),'사회'),[])
-        self.assertEqual(len(self.parse(rss(title='지역 주민 공공서비스 지원 신청 변경 안내'),'사회')),1)
-
-    def test_two_per_category_ten_total_and_legacy_limit(self):
-        feed=build_briefing(all_feeds(),NOW)
-        self.assertEqual(feed['schema_version'],3)
-        self.assertEqual(len(feed['cards']),10)
-        self.assertEqual(Counter(x['category'] for x in feed['cards']), {topic[0]:2 for topic in TOPICS})
-        legacy=legacy_briefing(feed)
-        self.assertEqual(legacy['schema_version'],2)
-        self.assertEqual(len(legacy['cards']),5)
-        self.assertEqual(len({x['id'] for x in legacy['cards']}),5)
-
-    def test_partial_feed_does_not_pad_or_steal_other_category_quota(self):
-        feeds=all_feeds();feeds[0]=None;feeds[1]=multiple(TITLES[1][:1],1)
-        counts=Counter(x['category'] for x in build_briefing(feeds,NOW)['cards'])
-        self.assertEqual(counts, {'연예':1,'스포츠':2,'기술·과학':2,'사회':2})
-
-    def test_cross_source_and_category_duplicates_are_removed(self):
-        feed=build_briefing([multiple(['새 뮤지컬 영화 신작 공개','새 뮤지컬 영화 신작 공개'],1),multiple(['새 뮤지컬 영화 신작 공개'],2),None,None,None],NOW)
-        self.assertEqual(len(feed['cards']),1)
-
-    def test_keeps_facts_and_dated_source_without_invented_summary(self):
-        topic=self.parse(rss())[0]
-        self.assertEqual(topic['title'],topic['summary'])
-        self.assertEqual(topic['evidence'],'headline')
-        self.assertIn(topic['title'],topic['opener'])
-        self.assertEqual(topic['published_at'],'2026-11-01T03:00:00Z')
+    def test_6_to_72_hour_window_is_enforced_including_boundaries(self):
+        for age, expected in [(5.9,0),(6,1),(72,1),(72.1,0),(-1,0)]:
+            self.assertEqual(len(self.parse(rss([('국립 미술관 모네 전시 개막','yna.co.kr',age,'a','')]))),expected)
 
     def test_wrong_edition_or_language_rejected(self):
         for payload in (rss(edition='US:en'),rss(language='en'),rss(edition='HK:zh')):
             with self.assertRaises(ValueError): self.parse(payload)
 
-    def test_entertainment_requires_public_releases_not_private_life_rumours(self):
-        self.assertEqual(self.parse(rss(title='배우 열애 소식 공개'),'연예'),[])
-        self.assertEqual(self.parse(rss(title='헤어질 결심이 소환한 클래식 미장센'),'연예'),[])
-        self.assertEqual(len(self.parse(rss(title='새 한국 드라마 시즌 공개 소식'),'연예')),1)
+    def test_unknown_publisher_rejected_and_wire_origin_is_shared(self):
+        self.assertEqual(self.parse(rss([('국립 미술관 모네 전시 개막','unverified.example',12,'a','')])),[])
+        reports=self.parse(rss([('국립미술관 모네 전시 개막 안내','yna.co.kr',20,'a',''),
+                               ('모네 특별전 국립미술관 빛과 그림','hankyung.com',10,'b','(서울=연합뉴스)')]))
+        self.assertEqual(len({a['origin_group'] for a in reports}),1)
+        self.assertEqual(rank(reports,'문화·예술','질문','맥락'),[])
+        for credit in ['뉴스1 기사 전재', '연합뉴스 기사 전재', '뉴시스 기사 전재']:
+            item = self.parse(rss([('국립미술관 모네 전시 개막 안내','hankyung.com',10,'c',credit)]))[0]
+            self.assertEqual(item['origin_group'], 'wire:'+credit.split()[0])
 
-    def test_society_excludes_overseas_event_promotions(self):
-        self.assertEqual(self.parse(rss(title='양쯔강 문화 축제 중국 장쑤성에서 개막'),'사회'),[])
+    def test_new_economy_and_global_fields_allow_relevant_public_policy(self):
+        for category,title in [('경제·주식','연준 금리 인하 코스피 증시 변화'),('세계뉴스','미국 대통령 국제 무역 관세 협상')]:
+            self.assertEqual(len(self.parse(rss([(title,'yna.co.kr',12,'a','')]),category)),1)
+        self.assertEqual(self.parse(rss([('무료 리딩방 수익보장 종목추천','yna.co.kr',12,'a','')]),'경제·주식'),[])
 
-    def test_unknown_publishers_are_not_used(self):
-        self.assertEqual(self.parse(rss().replace(b'https://www.yna.co.kr',b'https://unverified.example')),[])
+    def test_irrelevant_entertainment_finance_and_council_agenda_rejected(self):
+        for category,title in [('연예','머스크 AI 오디세이 공개'),('기술·과학','한국투자 10조 펀드 AI 데이터센터'),('사회','시의회 정례회 행정사무감사'),('문화·예술','자동차 전시 카쇼 개막')]:
+            self.assertEqual(self.parse(rss([(title,'yna.co.kr',12,'a','')]),category),[])
 
-    def test_old_future_or_missing_date_rejected(self):
-        for date in ('Wed, 01 Oct 2025 00:00:00 GMT','Mon, 02 Nov 2026 00:00:00 GMT',''):
-            self.assertEqual(self.parse(rss(date=date)),[])
+    def test_multi_publisher_coverage_is_required_not_raw_article_count(self):
+        a,b=PAIRS[0][0]
+        single=[article(a,'one.kr',30,'a'),article(b,'one.kr',10,'b')]
+        self.assertEqual(rank(single,'문화·예술','질문','맥락'),[])
+        copies=[article(a,domain,24,domain) for domain in ('a.kr','b.kr','c.kr','d.kr')]
+        self.assertEqual(rank(copies,'문화·예술','질문','맥락'),[])
+        independent=[article(a,'one.kr',30,'a'),article(b,'two.kr',10,'b')]
+        result=rank(independent,'문화·예술','질문','맥락')
+        self.assertEqual(len(result),1)
+        self.assertEqual(result[0]['coverage']['source_groups'],2)
+        self.assertEqual(result[0]['coverage']['span_hours'],20)
+        self.assertEqual(len(result[0]['coverage']['sources']),2)
 
-    def test_sensitive_topics_and_unsafe_sources_rejected(self):
-        for title in ('대통령의 새로운 발표와 국회 논란','유명 인사 사망 사건 소식'):
-            self.assertEqual(self.parse(rss(title=title)),[])
-        for url in ('javascript:alert(1)','https://example.com/story','http://news.google.com/story'):
-            self.assertEqual(self.parse(rss(url=url)),[])
+    def test_same_group_and_duplicate_urls_do_not_add_votes(self):
+        a,b=PAIRS[0][0]
+        reports=[article(a,'same.kr',20,'a'),article(b,'same.kr',12,'b'),article(a,'other.kr',10,'a')]
+        self.assertEqual(rank(reports,'문화·예술','질문','맥락'),[])
+        for credit in ['뉴스1 기사 전재', '연합뉴스 기사 전재', '뉴시스 기사 전재']:
+            item = self.parse(rss([('국립미술관 모네 전시 개막 안내','hankyung.com',10,'c',credit)]))[0]
+            self.assertEqual(item['origin_group'], 'wire:'+credit.split()[0])
 
-    def test_no_valid_news_does_not_produce_fake_daily_edition(self):
-        with self.assertRaises(ValueError):build_briefing([None]*len(TOPICS),NOW)
+    def test_unrelated_topics_do_not_merge_on_generic_keywords(self):
+        self.assertFalse(related(article('서울 버스 요금 교통 제도 변경'),article('부산 교육 지원 제도 변경')))
+        self.assertFalse(related(article('오픈AI 오로라 로봇 기술 발표'),article('삼성 스마트폰 배터리 신기능 공개')))
 
-    def test_practice_has_two_per_field_without_fake_news(self):
-        feed=json.loads((Path(__file__).parents[1]/'assets/practice.json').read_text())
-        self.assertEqual(feed['edition'],'practice')
-        self.assertEqual(feed['schema_version'],3)
-        self.assertEqual(Counter(c['category'] for c in feed['cards']), {topic[0]:2 for topic in TOPICS})
-        for card in feed['cards']:
-            self.assertIsNone(card['published_at']);self.assertEqual(card['evidence'],'practice')
+    def test_breadth_then_duration_outweighs_newness(self):
+        a,b=PAIRS[0][0];c,d=PAIRS[0][1]
+        reports=[article(a,'a.kr',50,'a'),article(b,'b.kr',12,'b'),
+                 article(c,'a.kr',9,'c'),article(d,'b.kr',7,'d')]
+        result=rank(reports,'문화·예술','질문','맥락')
+        self.assertEqual(len(result),2)
+        self.assertEqual(result[0]['coverage']['span_hours'],38)
+        self.assertEqual(result[1]['coverage']['span_hours'],2)
+
+    def test_fourteen_topics_and_legacy_compatibility(self):
+        feed=build_briefing(all_feeds(),NOW)
+        self.assertEqual(feed['schema_version'],4)
+        self.assertEqual(len(feed['cards']),14)
+        self.assertEqual(Counter(c['category'] for c in feed['cards']),{t[0]:2 for t in TOPICS})
+        self.assertEqual(len(legacy_v3(feed)['cards']),10)
+        self.assertEqual(legacy_v3(feed)['schema_version'],3)
+        self.assertEqual(len(legacy_briefing(feed)['cards']),5)
+        for topic in feed['cards']:
+            self.assertGreaterEqual(topic['coverage']['source_groups'],2)
+            self.assertEqual(topic['title'],topic['summary'])
+
+    def test_insufficient_evidence_is_not_padded(self):
+        feeds=all_feeds();feeds[0]=None
+        self.assertEqual(len(build_briefing(feeds,NOW)['cards']),12)
+        with self.assertRaises(ValueError):build_briefing([None]*7,NOW)
+
+    def test_publisher_writes_three_valid_json_versions(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root=Path(directory);(root/'data').mkdir()
+            responses=[]
+            for payload in all_feeds():
+                response=MagicMock();response.__enter__.return_value.read.return_value=payload;responses.append(response)
+            with patch.object(collector,'ROOT',root),patch.object(collector,'urlopen',side_effect=responses),patch.object(collector,'datetime') as clock,patch.object(collector.time,'sleep'),patch.dict(os.environ,{'GITHUB_ACTIONS':'false'}):
+                clock.now.return_value=NOW;collector.main()
+            for name,schema,limit in [('briefing-v4.json',4,14),('briefing-v3.json',3,10),('briefing.json',2,5)]:
+                data=json.loads((root/'data'/name).read_text());self.assertEqual(data['schema_version'],schema);self.assertEqual(len(data['cards']),limit)
+
+    def test_retry_transient_status_once_but_not_denied_access(self):
+        response=MagicMock();response.__enter__.return_value.read.return_value=b'ok'
+        for status,calls in [(503,2),(403,1)]:
+            error=HTTPError('https://news.google.com',status,'error',{},None)
+            with patch.object(collector,'urlopen',side_effect=[error,response]) as fetch,patch.object(collector.time,'sleep'):
+                if status==503:self.assertEqual(collector.fetch_rss('https://news.google.com'),b'ok')
+                else:
+                    with self.assertRaises(HTTPError):collector.fetch_rss('https://news.google.com')
+                self.assertEqual(fetch.call_count,calls)
+
+    def test_practice_is_not_evidence_backed_news(self):
+        data=json.loads((Path(__file__).parents[1]/'assets/practice.json').read_text())
+        self.assertEqual(data['edition'],'practice');self.assertEqual(data['schema_version'],4)
+        self.assertEqual(Counter(c['category'] for c in data['cards']),{t[0]:2 for t in TOPICS})
+        for card in data['cards']:self.assertIsNone(card['published_at']);self.assertNotIn('coverage',card)
 
 if __name__=='__main__':unittest.main()

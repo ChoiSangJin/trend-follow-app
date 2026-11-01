@@ -1,0 +1,138 @@
+"""Conservative headline-based topic clustering and observable coverage ranking.
+This measures a bounded RSS sample, never audience size or factual consensus.
+"""
+import hashlib
+import re
+from datetime import datetime
+from difflib import SequenceMatcher
+
+MAX_SOURCES = 8
+STOP = set('오늘 이번 지난 최근 관련 통해 대한 위해 공개 발표 출시 개막 시작 새로운 신작 소식 기사 뉴스 사진 영상 단독 종합 속보 기자 가수 배우 신곡 앨범 드라마 영화 방송 예능 콘서트 공연 전시 기술 과학 로봇 인공지능 AI ai 지원 신청 제도 교통 교육 주민 시민 요금 버스'.split())
+ALIASES = [('연방준비제도', '연준'), ('베를린필하모닉', '베를린필'), ('코스피지수', '코스피'), ('국내총생산', 'gdp')]
+PARTICLES = ('에서는', '으로', '에서', '에게', '까지', '부터', '보다', '에는', '하며', '했다', '한다', '하는', '위한', '은', '는', '을', '를', '과', '와', '의', '이', '가')
+
+
+def normalized(title):
+    value = re.sub(r'\[[^\]]*\]', ' ', title).lower()
+    for source, target in ALIASES:
+        value = value.replace(source.lower(), target.lower())
+    return ' '.join(re.findall(r'[가-힣a-z0-9]+', value))
+
+
+def tokens(title):
+    result = []
+    for word in normalized(title).split():
+        for ending in PARTICLES:
+            if word.endswith(ending) and len(word) - len(ending) >= 2:
+                word = word[:-len(ending)]
+                break
+        if len(word) >= 2 and word not in STOP and not word.isdigit():
+            result.append(word)
+    return set(result)
+
+
+def related(a, b):
+    if a['id'] == b['id'] or a['source_url'] == b['source_url']:
+        return True
+    left, right = normalized(a['title']), normalized(b['title'])
+    ratio = SequenceMatcher(None, left, right).ratio()
+    shared = tokens(a['title']) & tokens(b['title'])
+    union = tokens(a['title']) | tokens(b['title'])
+    overlap = len(shared) / max(1, len(union))
+    return (ratio >= .78 and bool(shared)) or (len(shared) >= 2 and (ratio >= .48 or overlap >= .36)) or (len(shared) == 1 and max(map(len, shared)) >= 3 and ratio >= .68)
+
+
+def clusters(articles):
+    """Seed matching avoids a chain of generic AI/market headlines merging topics."""
+    result = []
+    seen = set()
+    for item in sorted(articles, key=lambda x: (x['published_at'], x['id'])):
+        if item['id'] in seen:
+            continue
+        seen.add(item['id'])
+        matches = [group for group in result if related(item, group[0])]
+        if matches:
+            group = max(matches, key=lambda g: SequenceMatcher(None, normalized(item['title']), normalized(g[0]['title'])).ratio())
+            group.append(item)
+        else:
+            result.append([item])
+    return result
+
+
+def independent_reports(group):
+    """Collapse publisher-domain groups, explicit wire attribution and near-copy titles.
+
+    This cannot detect every rewritten syndicated article. UI/docs describe an estimate.
+    """
+    headline_buckets = []
+    for item in sorted(group, key=lambda x: (x['published_at'], x['id'])):
+        origin = item['origin_group']
+        bucket = next((old for old in headline_buckets if
+                       SequenceMatcher(None, normalized(item['title']), normalized(old['title'])).ratio() >= .92), None)
+        if bucket:
+            origin = bucket['effective_group']
+        headline_buckets.append({**item, 'effective_group': origin})
+    # A same-origin story can occur in several headline buckets: it remains one group.
+    parent = {}
+    def root(key):
+        parent.setdefault(key, key)
+        while parent[key] != key:
+            key = parent[key]
+        return key
+    for item in headline_buckets:
+        a, b = root(item['origin_group']), root(item['effective_group'])
+        parent[max(a, b)] = min(a, b)
+    by_group = {}
+    for item in headline_buckets:
+        key = root(item['origin_group'])
+        if key not in by_group or item['published_at'] > by_group[key]['published_at']:
+            by_group[key] = {**item, 'effective_group': key}
+    return sorted(by_group.values(), key=lambda x: (x['published_at'], x['id']), reverse=True)
+
+
+def coverage_topic(group, category, question, context):
+    reports = independent_reports(group)
+    if len(reports) < 2:
+        return None
+    reports = reports[:MAX_SOURCES]
+    # Each retained source gets equal weight, rather than letting copies choose the headline.
+    representative = max(reports, key=lambda a: (
+        sum(SequenceMatcher(None, normalized(a['title']), normalized(b['title'])).ratio() for b in reports) / len(reports),
+        a['published_at'], a['id']))
+    dates = [datetime.fromisoformat(item['published_at'].replace('Z', '+00:00')) for item in group]
+    first, last = min(dates), max(dates)
+    earliest = min(group, key=lambda x: (x['published_at'], x['id']))
+    latest = max(group, key=lambda x: (x['published_at'], x['id']))
+    hours = round((last-first).total_seconds()/3600, 1)
+    span_label = f'{int(hours)}시간' if hours >= 1 else '1시간 미만'
+    coverage = dict(source_groups=len(reports), report_count=len(group), span_hours=hours,
+                    first_report_at=first.isoformat().replace('+00:00', 'Z'),
+                    last_report_at=last.isoformat().replace('+00:00', 'Z'),
+                    first_report_url=earliest['source_url'], last_report_url=latest['source_url'],
+                    sources=[dict(name=item['source'], group=item['effective_group'],
+                                  url=item['source_url'], published_at=item['published_at']) for item in reports])
+    return dict(id=hashlib.sha256((category+'|'+earliest['id']).encode()).hexdigest()[:20],
+                category=category, title=representative['title'], summary=representative['title'],
+                why_now=f'수집 범위에서 관련 보도 {len(group)}개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 {len(reports)}곳, {span_label}에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.',
+                opener=f'‘{representative["title"]}’라는 소식을 봤어요. {question}', context=context,
+                source=representative['source'], source_url=representative['source_url'],
+                published_at=representative['published_at'], evidence='headline', coverage=coverage)
+
+
+def rank(articles, category, question, context):
+    result = [topic for group in clusters(articles) if (topic := coverage_topic(group, category, question, context))]
+    # Breadth first, then sustained coverage. No unobservable audience/viral score.
+    return sorted(result, key=lambda x: (x['coverage']['source_groups'],
+                  x['coverage']['span_hours'], x['coverage']['last_report_at'], x['id']), reverse=True)
+
+
+def corroboration_terms(articles):
+    """One bounded follow-up search for a plausible shared topic, not an arbitrary filler."""
+    groups = clusters(articles)
+    if not groups:
+        return None
+    group = max(groups, key=lambda g: (len({a['origin_group'] for a in g}), len(g), g[0]['published_at']))
+    words = [word for word in normalized(group[0]['title']).split() if word in tokens(group[0]['title'])]
+    if not words:
+        words = sorted(tokens(group[0]['title']), key=lambda x: (-len(x), x))
+    return ' '.join('"'+word+'"' for word in words[:2]) if words else None

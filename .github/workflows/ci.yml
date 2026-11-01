@@ -49,4 +49,5 @@ jobs:
             pubspec.lock
             data/briefing.json
             data/briefing-v3.json
+            data/briefing-v4.json
           if-no-files-found: error
