@@ -23,15 +23,26 @@ jobs:
           flutter-version: '3.47.9'
           channel: stable
           cache: true
-      - run: flutter pub get
+      - uses: actions/cache@v4
+        with:
+          path: ~/.android/debug.keystore
+          key: malmun-test-signing-v1
+      - run: flutter pub get --enforce-lockfile
       - run: bash scripts/check_flutter.sh analyze --fatal-infos
       - run: bash scripts/check_flutter.sh test --reporter expanded --coverage
       - run: python3 -m unittest discover -s scripts -p 'test_*.py' -v
-      - name: Verify live Korea Trends and populated guides
-        run: python3 scripts/aggregate_trends.py
+      - name: Verify live Korean small-talk sources
+        run: bash scripts/check_command.sh python3 scripts/collect_briefing.py
       - run: bash scripts/check_flutter.sh build apk --debug --target-platform=android-arm64
       - uses: actions/upload-artifact@v4
         with:
-          name: follow-mz-debug-arm64
+          name: malmun-debug-arm64
           path: build/app/outputs/flutter-apk/app-debug.apk
+          if-no-files-found: error
+      - uses: actions/upload-artifact@v4
+        with:
+          name: malmun-build-metadata
+          path: |
+            pubspec.lock
+            data/briefing.json
           if-no-files-found: error

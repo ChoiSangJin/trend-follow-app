@@ -5,11 +5,11 @@ on:
       tag:
         description: Existing release tag
         required: true
-        default: v1.0.0
+        default: v2.0.0
       run_id:
-        description: Successful validation run containing follow-mz-debug-arm64
+        description: Successful validation run containing malmun-debug-arm64
         required: true
-        default: '41275454714'
+        default: ''
 permissions:
   contents: write
   actions: read
@@ -45,30 +45,40 @@ jobs:
           PY
       - uses: actions/download-artifact@v4
         with:
-          name: follow-mz-debug-arm64
+          name: malmun-debug-arm64
           path: tested-apk
           run-id: ${{ inputs.run_id }}
           github-token: ${{ github.token }}
-      - name: Verify signature and ARM64 architecture
+      - name: Verify signature, app identity and ARM64 architecture
+        env:
+          RELEASE_TAG: ${{ inputs.tag }}
         run: |
           APK=tested-apk/app-debug.apk
           BUILD_TOOLS=$(find "$ANDROID_HOME/build-tools" -mindepth 1 -maxdepth 1 -type d | sort -V | tail -1)
           "$BUILD_TOOLS/apksigner" verify --verbose "$APK"
+          "$BUILD_TOOLS/aapt" dump badging "$APK" > /tmp/malmun-badging.txt
           python3 - <<'PY'
-          import zipfile
+          import zipfile, os, re
+          from pathlib import Path
+          badging = Path('/tmp/malmun-badging.txt').read_text()
+          version = re.search(r'^version: ([^+\s]+)', Path('pubspec.yaml').read_text(), re.M).group(1)
+          required = ["package: name='com.malmun.app'", "application-label:'말문'",
+                      "sdkVersion:'24'", f"versionName='{version}'"]
+          if any(value not in badging for value in required) or os.environ['RELEASE_TAG'] != f'v{version}':
+              raise SystemExit('APK identity, version or minimum Android version mismatch')
           with zipfile.ZipFile('tested-apk/app-debug.apk') as apk:
               abis = {name.split('/')[1] for name in apk.namelist()
                       if name.startswith('lib/') and name.endswith('.so')}
           if abis != {'arm64-v8a'}:
               raise SystemExit(f'Unexpected APK architectures: {abis}')
           PY
-          cp "$APK" Follow-MZ-arm64-debug.apk
-          sha256sum Follow-MZ-arm64-debug.apk > SHA256SUMS
+          cp "$APK" Malmun-arm64.apk
+          sha256sum Malmun-arm64.apk > SHA256SUMS
       - name: Publish installable test APK
         env:
           GH_TOKEN: ${{ github.token }}
           RELEASE_TAG: ${{ inputs.tag }}
         run: |
-          gh release create "$RELEASE_TAG" Follow-MZ-arm64-debug.apk SHA256SUMS \
-            --verify-tag --prerelease --title "Follow MZ $RELEASE_TAG · 테스트 APK" \
-            --notes 'Android 7.0(API 24)+ ARM64 기기용 APK입니다. 검증된 CI 빌드의 개발용 기본 키로 서명한 debug APK이며, 별도 배포용 서명 키는 사용하지 않았습니다. APK를 다운로드하여 설치하세요. SHA256SUMS로 체크섬을 확인할 수 있습니다.'
+          gh release create "$RELEASE_TAG" Malmun-arm64.apk SHA256SUMS docs/INSTALL.md \
+            --verify-tag --prerelease --title "말문 $RELEASE_TAG · 테스트 APK" \
+            --notes '말문 — 오늘의 스몰토크. 최근 기사에서 선별한 대화 소재, 출처와 기사 날짜, 대화 질문, 보관함과 오프라인 연습을 제공합니다. Android 7.0+ ARM64용 개발용 서명 APK입니다. Follow MZ와 다른 앱 ID이므로 별도로 설치됩니다. 체크섬 파일을 함께 제공합니다.'

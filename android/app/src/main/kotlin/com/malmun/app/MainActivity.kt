@@ -1,4 +1,4 @@
-package com.followmz.app
+package com.malmun.app
 
 import io.flutter.embedding.android.FlutterActivity
 

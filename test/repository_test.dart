@@ -1,79 +1,105 @@
 import 'dart:typed_data';
 import 'package:dio/dio.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:follow_mz/data/trend_repository.dart';
+import 'package:malmun/data/briefing_repository.dart';
+import 'package:malmun/data/briefing_store.dart';
+import 'fixtures.dart';
 
-class FakeAdapter implements HttpClientAdapter {
-  int calls = 0;
-  int failures = 0;
-  int status = 503;
-  String body = '{"categories":{"keywords":[{"rank":1,"keyword":"성수"}]}}';
-  RequestOptions? lastRequest;
+class Adapter implements HttpClientAdapter {
+  int calls = 0, failures = 0, failureCode = 503;
+  String body = encodedFeed;
+  RequestOptions? last;
   @override
-  Future<ResponseBody> fetch(RequestOptions options, Stream<Uint8List>? requestStream,
-      Future<void>? cancelFuture) async {
+  Future<ResponseBody> fetch(
+    RequestOptions options,
+    Stream<Uint8List>? requestStream,
+    Future<void>? cancelFuture,
+  ) async {
     calls++;
-    lastRequest = options;
-    return ResponseBody.fromString(calls <= failures ? '{}' : body,
-      calls <= failures ? status : 200,
-      headers: {Headers.contentTypeHeader: ['application/json']});
+    last = options;
+    return ResponseBody.fromString(
+      calls <= failures ? '{}' : body,
+      calls <= failures ? failureCode : 200,
+      headers: {
+        Headers.contentTypeHeader: ['application/json'],
+      },
+    );
   }
+
   @override
   void close({bool force = false}) {}
 }
 
 void main() {
-  late FakeAdapter adapter;
-  late TrendRepository repository;
+  late Adapter adapter;
+  late MemoryStore store;
+  late BriefingRepository repository;
   late DateTime now;
   setUp(() {
-    adapter = FakeAdapter();
+    adapter = Adapter();
+    store = MemoryStore();
     now = DateTime.utc(2026, 11, 1);
-    repository = TrendRepository(Dio()..httpClientAdapter = adapter,
-      endpoint: 'https://example.com/trends.json?locale=ko', now: () => now,
-      delay: (_) async {});
+    repository = BriefingRepository(
+      Dio()..httpClientAdapter = adapter,
+      store,
+      endpoint: 'https://example.com/briefing.json?locale=ko',
+      practiceLoader: () async => encodedPractice,
+      now: () => now,
+      delay: (_) async {},
+    );
   });
-
-  test('caches requests, expires after five minutes and force bypasses cache', () async {
-    await repository.fetch();
-    await repository.fetch();
+  test('live data persists and force refresh bypasses memory cache', () async {
+    expect((await repository.load()).mode, FeedMode.live);
+    await repository.load();
     expect(adapter.calls, 1);
-    now = now.add(const Duration(minutes: 6));
-    await repository.fetch();
+    await repository.load(force: true);
     expect(adapter.calls, 2);
-    await repository.fetch(force: true);
-    expect(adapter.calls, 3);
-    expect(adapter.lastRequest!.headers['Cache-Control'], 'no-cache');
-    expect(adapter.lastRequest!.uri.queryParameters['locale'], 'ko');
-    expect(adapter.lastRequest!.uri.queryParameters['_refresh'], '${now.millisecondsSinceEpoch}');
+    expect(store.read('briefing-v2'), isNotNull);
+    expect(adapter.last!.uri.queryParameters['locale'], 'ko');
+    expect(adapter.last!.headers['Cache-Control'], 'no-cache');
   });
-
-  test('transient server failures retry and then succeed', () async {
+  test('transient errors retry but 404 does not', () async {
     adapter.failures = 2;
-    expect((await repository.fetch()).keywords.single.keyword, '성수');
+    expect((await repository.load()).mode, FeedMode.live);
     expect(adapter.calls, 3);
+    adapter
+      ..failureCode = 404
+      ..failures = 10;
+    expect((await repository.load(force: true)).mode, FeedMode.cached);
+    expect(adapter.calls, 4);
   });
-
-  test('persistent server failures stop after three attempts', () async {
+  test(
+    'offline startup uses persistent cache with explicit cached status',
+    () async {
+      await store.write('briefing-v2', encodedFeed);
+      adapter.failures = 10;
+      final result = await repository.load();
+      expect(result.mode, FeedMode.cached);
+      expect(result.briefing.topics.length, 2);
+      expect(adapter.calls, 3);
+    },
+  );
+  test(
+    'corrupt cache and malformed remote data fall back to labelled practice',
+    () async {
+      await store.write('briefing-v2', '{bad');
+      adapter.body = '{"cards":true}';
+      final result = await repository.load();
+      expect(result.mode, FeedMode.practice);
+      expect(result.briefing.practice, isTrue);
+      expect(adapter.calls, 1);
+    },
+  );
+  test('cache expires and concurrent refreshes share a request', () async {
+    await repository.load();
+    now = now.add(const Duration(minutes: 6));
+    await Future.wait([repository.load(), repository.load(force: true)]);
+    expect(adapter.calls, 2);
+  });
+  test('practice recovers when connection returns', () async {
     adapter.failures = 10;
-    await expectLater(repository.fetch(), throwsA(isA<DioException>()));
-    expect(adapter.calls, 3);
-  });
-
-  test('404 is not retried', () async {
-    adapter..failures = 10..status = 404;
-    await expectLater(repository.fetch(), throwsA(isA<DioException>()));
-    expect(adapter.calls, 1);
-  });
-
-  test('bad JSON schema fails without retries', () async {
-    adapter.body = '{"categories":42}';
-    await expectLater(repository.fetch(), throwsFormatException);
-    expect(adapter.calls, 1);
-  });
-
-  test('concurrent requests share one network call', () async {
-    await Future.wait([repository.fetch(), repository.fetch(force: true)]);
-    expect(adapter.calls, 1);
+    expect((await repository.load()).mode, FeedMode.practice);
+    adapter.failures = 0;
+    expect((await repository.load(force: true)).mode, FeedMode.live);
   });
 }
