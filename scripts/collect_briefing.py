@@ -17,6 +17,7 @@ from rank_topics import rank, corroboration_searches, related, clusters, indepen
 
 from retain_briefing import carry_recent
 from build_trends import build_trends, date as article_date
+from news_rules import sports_story
 
 ROOT = Path(__file__).resolve().parents[1]
 TOPICS = [
@@ -98,9 +99,7 @@ def candidates(payload, category, question, context, now, *, minimum_age_hours=6
             continue
         if category == '사회' and (re.search('시의회|구의회|도의회|정례회|행정사무감사|국정감사|위원장|의장|의원|정치|선거', headline) or not re.search('지원|신청|시행|변경|교통|버스|지하철|교육|학교|복지|서비스|요금|공공|생활|주민|시민|도서관|제도|가구|가족', headline)):
             continue
-        if category == '스포츠' and re.search('조카|예능|드라마|배우|가수|출연|화보|차림|팬미팅', headline):
-            continue
-        if category == '스포츠' and not re.search('축구|야구|농구|배구|올림픽|월드컵|K리그|KBO|NBA|MLB|골프|테니스|탁구|배드민턴|수영|손흥민|이강인|김민재|오타니|류현진', headline):
+        if category == '스포츠' and not sports_story(headline):
             continue
         if category == '경제·주식' and not re.search('금리|물가|환율|코스피|코스닥|주식|증시|경제|기업|실적|고용|GDP|소비|실업|수출|무역|연준|매출|영업이익|관세', headline, re.I):
             continue

@@ -4,6 +4,7 @@ from math import isfinite
 from datetime import datetime, timedelta, timezone
 from urllib.parse import urlparse
 from rank_topics import related
+from news_rules import sports_story
 
 
 def timestamp(value):
@@ -20,6 +21,8 @@ def news_url(value):
 
 def eligible(card, now):
     try:
+        if card['category'] == '스포츠' and not sports_story(card['title']):
+            return False
         coverage = card['coverage']
         groups, reports = coverage['source_groups'], coverage['report_count']
         if type(groups) is not int or not 1 <= groups <= 8 or type(reports) is not int or reports < groups:

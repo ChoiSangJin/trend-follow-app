@@ -1,6 +1,7 @@
 """Three-day Korean news coverage, with persisted observation history (not audience data)."""
 from datetime import datetime, timedelta, timezone
 from urllib.parse import urlparse
+from news_rules import sports_story
 from rank_topics import clusters, grouped_reports, coverage_topic, related
 
 MAX_PER_CATEGORY = 600
@@ -16,7 +17,7 @@ def date(value):
 def valid_article(item, now, categories):
     try:
         url = urlparse(item['source_url'])
-        return (item['category'] in categories and item['evidence'] == 'headline' and
+        return (item['category'] in categories and (item['category'] != '스포츠' or sports_story(item['title'])) and item['evidence'] == 'headline' and
                 now-timedelta(hours=72) <= date(item['published_at']) <= now and
                 url.scheme == 'https' and url.hostname == 'news.google.com' and url.username is None and
                 all(isinstance(item[key], str) and item[key].strip() for key in

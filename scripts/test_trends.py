@@ -91,6 +91,16 @@ class TrendsTests(unittest.TestCase):
         self.assertEqual(len(again['articles']),3)
         self.assertEqual(feed['snapshot_count'],1)
 
+    def test_sports_crime_headlines_are_removed_from_live_and_persisted_observations(self):
+        title='수면제 커피 먹이고 내기골프…7,500만 원 가로챈 일당'
+        payload=rss([(title,'yna.co.kr',2,'crime','')])
+        self.assertEqual(candidates(payload,'스포츠','질문','맥락',NOW,minimum_age_hours=0),[])
+        crime=[{**report(2,i),'category':'스포츠','title':title,'summary':title} for i in range(3)]
+        history={**previous(),'articles':crime}
+        feed,stored=self.build([],history)
+        self.assertEqual(feed['cards'],[])
+        self.assertEqual(stored['articles'],[])
+
     def test_trends_accept_under_six_hour_articles_without_changing_briefing_window(self):
         payload=rss([('국립미술관 모네 특별전 개막 안내','yna.co.kr',1,'fresh','')])
         self.assertEqual(candidates(payload,CATEGORY,'질문','맥락',NOW),[])
