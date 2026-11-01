@@ -1,0 +1,74 @@
+name: Publish tested APK
+on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Existing release tag
+        required: true
+        default: v1.0.0
+      run_id:
+        description: Successful validation run containing follow-mz-debug-arm64
+        required: true
+        default: '41275454714'
+permissions:
+  contents: write
+  actions: read
+concurrency:
+  group: publish-tested-apk-${{ inputs.tag }}
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: ${{ inputs.tag }}
+          fetch-depth: 0
+      - name: Match tested app source to the release tag
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_ID: ${{ inputs.run_id }}
+        run: |
+          python3 - <<'PY'
+          import json, os, subprocess
+          run_id = os.environ['RUN_ID']
+          if not run_id.isdigit():
+              raise SystemExit('Run ID must be numeric')
+          run = json.loads(subprocess.check_output(['gh', 'api',
+              f'repos/{os.environ["GITHUB_REPOSITORY"]}/actions/runs/{run_id}']))
+          if run['conclusion'] != 'success' or run['path'] != '.github/workflows/ci.yml':
+              raise SystemExit('A successful app validation run is required')
+          # Workflow-only changes do not change the APK; all other files must match.
+          subprocess.run(['git', 'diff', '--exit-code', run['head_sha'], 'HEAD',
+                          '--', '.', ':!.github'], check=True)
+          PY
+      - uses: actions/download-artifact@v4
+        with:
+          name: follow-mz-debug-arm64
+          path: tested-apk
+          run-id: ${{ inputs.run_id }}
+          github-token: ${{ github.token }}
+      - name: Verify signature and ARM64 architecture
+        run: |
+          APK=tested-apk/app-debug.apk
+          BUILD_TOOLS=$(find "$ANDROID_HOME/build-tools" -mindepth 1 -maxdepth 1 -type d | sort -V | tail -1)
+          "$BUILD_TOOLS/apksigner" verify --verbose "$APK"
+          python3 - <<'PY'
+          import zipfile
+          with zipfile.ZipFile('tested-apk/app-debug.apk') as apk:
+              abis = {name.split('/')[1] for name in apk.namelist()
+                      if name.startswith('lib/') and name.endswith('.so')}
+          if abis != {'arm64-v8a'}:
+              raise SystemExit(f'Unexpected APK architectures: {abis}')
+          PY
+          cp "$APK" Follow-MZ-arm64-debug.apk
+          sha256sum Follow-MZ-arm64-debug.apk > SHA256SUMS
+      - name: Publish installable test APK
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ inputs.tag }}
+        run: |
+          gh release create "$RELEASE_TAG" Follow-MZ-arm64-debug.apk SHA256SUMS \
+            --verify-tag --prerelease --title "Follow MZ $RELEASE_TAG · 테스트 APK" \
+            --notes 'Android 7.0(API 24)+ ARM64 기기용 APK입니다. 검증된 CI 빌드의 개발용 기본 키로 서명한 debug APK이며, 별도 배포용 서명 키는 사용하지 않았습니다. APK를 다운로드하여 설치하세요. SHA256SUMS로 체크섬을 확인할 수 있습니다.'
