@@ -10,6 +10,7 @@ concurrency:
 jobs:
   release:
     runs-on: ubuntu-latest
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v5
         with:
@@ -66,7 +67,7 @@ jobs:
           config.chmod(0o600)
           PY
       - name: Build signed ARM64 release
-        run: flutter build apk --release --split-per-abi --target-platform=android-arm64 --build-number=${{ github.run_number }}
+        run: bash scripts/check_flutter.sh build apk --release --split-per-abi --target-platform=android-arm64 --build-number=${{ github.run_number }}
       - name: Verify APK signature and ABI
         run: |
           APK=build/app/outputs/flutter-apk/app-arm64-v8a-release.apk
