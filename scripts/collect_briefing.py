@@ -13,7 +13,7 @@ from urllib.parse import urlencode, urlparse, parse_qs
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 from urllib.error import HTTPError
-from rank_topics import rank, corroboration_searches, related, clusters, independent_reports
+from rank_topics import rank, corroboration_searches, related, clusters, independent_reports, additional_reading
 
 ROOT = Path(__file__).resolve().parents[1]
 TOPICS = [
@@ -27,6 +27,10 @@ TOPICS = [
 ]
 SECTIONS = {'연예': 'ENTERTAINMENT', '스포츠': 'SPORTS', '기술·과학': 'TECHNOLOGY',
             '사회': 'NATION', '경제·주식': 'BUSINESS', '세계뉴스': 'WORLD'}
+EXTRA_QUERIES = {
+    '문화·예술': ['(미술관 OR 사진전 OR 특별전)', '(뮤지컬 OR 연극 OR 클래식 공연)', '(신간 OR 문학상 OR 베스트셀러)'],
+    '스포츠': ['(KBO OR 한국시리즈 OR 프로야구)', '(이강인 OR 손흥민 OR K리그 OR 챔피언스리그)', '(프로농구 OR 프로배구 OR 골프 OR 테니스)'],
+}
 PER_CATEGORY = 2
 PUBLISHERS = {'nocutnews.co.kr', 'kmib.co.kr', 'segye.com', 'asiae.co.kr', 'fnnews.com',
               'sportsseoul.com', 'sportschosun.com', 'osen.co.kr', 'starnewskorea.com',
@@ -74,7 +78,8 @@ def candidates(payload, category, question, context, now):
                 or parsed.hostname != 'news.google.com' or parsed.username
                 or date < now - timedelta(hours=72) or date > now - timedelta(hours=6)):
             continue
-        if category not in ('경제·주식', '세계뉴스') and (HEAVY.search(title) or FINANCE.search(title)):
+        heavy = HEAVY.pattern if category != '스포츠' else HEAVY.pattern.replace('|부상', '')
+        if category not in ('경제·주식', '세계뉴스') and (re.search(heavy, title) or FINANCE.search(title)):
             continue
         # Keep the exact headline instead of expanding it into unverified facts.
         headline = title.removesuffix(' - ' + publisher)
@@ -82,7 +87,7 @@ def candidates(payload, category, question, context, now):
             continue
         if category == '연예' and re.search('열애|이혼|결별|사생활|폭로|불륜|악플', headline):
             continue
-        if category == '문화·예술' and not re.search('미술|박물관|공연|연극|뮤지컬|문학|신간|출간|도서|독서|서점|책방|음악회|오케스트라|예술|발레|작가|화가|조각|사진전|오페라|국악|무용|연주|합창|서예|공예', headline):
+        if category == '문화·예술' and not re.search('미술|박물관|특별전|회고전|비엔날레|베스트셀러|클래식|공연|연극|뮤지컬|문학|신간|출간|도서|독서|서점|책방|음악회|오케스트라|예술|발레|작가|화가|조각|사진전|오페라|국악|무용|연주|합창|서예|공예', headline):
             continue
         if category == '연예' and not re.search('영화|드라마|예능|신곡|컴백|앨범|콘서트|배우|가수|아이돌|넷플릭스|신작|OTT', headline):
             continue
@@ -92,7 +97,7 @@ def candidates(payload, category, question, context, now):
             continue
         if category == '스포츠' and re.search('조카|예능|드라마|배우|가수|출연|화보|차림|팬미팅', headline):
             continue
-        if category == '스포츠' and not re.search('축구|야구|농구|배구|올림픽|월드컵|K리그|KBO|NBA|MLB|손흥민|이강인', headline):
+        if category == '스포츠' and not re.search('축구|야구|농구|배구|올림픽|월드컵|K리그|KBO|NBA|MLB|골프|테니스|탁구|배드민턴|수영|손흥민|이강인|김민재|오타니|류현진', headline):
             continue
         if category == '경제·주식' and not re.search('금리|물가|환율|코스피|코스닥|주식|증시|경제|기업|실적|고용|GDP|소비|실업|수출|무역|연준|매출|영업이익|관세', headline, re.I):
             continue
@@ -125,7 +130,7 @@ def build_briefing(feeds, now):
         if payload is None:
             continue
         articles = candidates(payload, category, question, context, now) if isinstance(payload, bytes) else payload
-        for item in rank(articles, category, question, context):
+        for item in rank(articles, category, question, context) + additional_reading(articles, category, question, context):
             if any(related(item, old) for old in cards):
                 continue
             item['selection_rank'] = 1 + sum(old['category'] == category for old in cards)
@@ -133,17 +138,23 @@ def build_briefing(feeds, now):
             if item['selection_rank'] == PER_CATEGORY:
                 break
     if not cards:
-        raise ValueError('No mature topics supported by two source groups; preserving previous briefing')
-    return dict(schema_version=4, region='KR', edition='daily',
+        raise ValueError('No eligible dated news; preserving previous briefing')
+    return dict(schema_version=5, region='KR', edition='daily',
                 updated_at=now.isoformat().replace('+00:00', 'Z'), cards=cards)
 
 
+def legacy_v4(feed):
+    return {**feed, 'schema_version': 4, 'cards': [card for card in feed['cards'] if card['coverage']['source_groups'] >= 2]}
+
+
 def legacy_v3(feed):
+    feed = legacy_v4(feed)
     old_categories = {'문화·예술', '연예', '스포츠', '기술·과학', '사회'}
     return {**feed, 'schema_version': 3, 'cards': [card for card in feed['cards'] if card['category'] in old_categories]}
 
 
 def legacy_briefing(feed):
+    feed = legacy_v4(feed)
     mapping = {'문화·예술': '문화', '연예': '문화', '스포츠': '스포츠', '기술·과학': '기술', '사회': '생활'}
     seen = set()
     cards = []
@@ -158,7 +169,7 @@ def legacy_briefing(feed):
 def fetch_rss(url):
     for attempt in range(2):
         try:
-            with urlopen(Request(url, headers={'User-Agent': 'Malmun/2.2 RSS reader'}), timeout=15) as response:
+            with urlopen(Request(url, headers={'User-Agent': 'Malmun/2.3 RSS reader'}), timeout=15) as response:
                 payload = response.read(2_000_001)
             if len(payload) > 2_000_000:
                 raise ValueError('Feed exceeded size limit')
@@ -193,12 +204,21 @@ def main():
                 try:
                     articles += collect(query)
                 except Exception:
-                    if not articles:
+                    if not articles and category not in EXTRA_QUERIES:
                         raise
-            # Section + keyword + one targeted search, or keyword + two targeted searches.
+            for extra in EXTRA_QUERIES.get(category, []):
+                if len(rank(articles, category, question, context)) >= 2:
+                    break
+                time.sleep(.5)
+                try:
+                    articles += collect(extra)
+                except Exception as error:
+                    print(f'{category}: subtopic unavailable ({type(error).__name__})')
+            # Arts <=5, sports <=6, other fields <=3 logical feed requests.
+
             # At most two targeted queries per field; skip already confirmed events.
             if len(rank(articles, category, question, context)) < 2:
-                for search in corroboration_searches(articles, limit=1 if section else 2):
+                for search in corroboration_searches(articles, limit=1 if section or category in EXTRA_QUERIES else 2):
                     time.sleep(.5)
                     try:
                         articles += collect(search)
@@ -220,7 +240,7 @@ def main():
             feeds.append(None)
         time.sleep(.5)
     feed = build_briefing(feeds, now)
-    versions = [('briefing-v4.json', feed), ('briefing-v3.json', legacy_v3(feed)), ('briefing.json', legacy_briefing(feed))]
+    versions = [('briefing-v5.json', feed), ('briefing-v4.json', legacy_v4(feed)), ('briefing-v3.json', legacy_v3(feed)), ('briefing.json', legacy_briefing(feed))]
     for filename, data in versions:
         if not data['cards']:
             continue
@@ -232,7 +252,7 @@ def main():
     print('Coverage-based topics: ' + json.dumps(counts, ensure_ascii=False))
     if os.environ.get('GITHUB_ACTIONS') == 'true':
         print('::notice title=Briefing counts::' + json.dumps(counts, ensure_ascii=False))
-    print(f"Published {len(feed['cards'])} mature topics with multiple source groups")
+    print(f"Published {len(feed['cards'])} dated topics with source counts disclosed")
 
 
 if __name__ == '__main__':

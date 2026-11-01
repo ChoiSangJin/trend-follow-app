@@ -59,7 +59,7 @@ class Coverage {
     final firstUrl = safeLink(json['first_report_url']);
     final lastUrl = safeLink(json['last_report_url']);
     if (groups is! int ||
-        groups < 2 ||
+        groups < 1 ||
         groups > 8 ||
         reports is! int ||
         reports < groups ||
@@ -105,6 +105,9 @@ class Coverage {
   final DateTime first, last;
   final Uri firstUrl, lastUrl;
   final List<CoverageSource> sources;
+  bool get singleSource => groups == 1;
+  String get label =>
+      singleSource ? '단일 출처 · 인기 확인 전' : '출처 $groups그룹 · $spanLabel에 걸친 보도';
   String get spanLabel => hours < 1 ? '1시간 미만' : '${hours.floor()}시간';
   Json toJson() => {
     'source_groups': groups,
@@ -222,7 +225,7 @@ class Topic {
 class Briefing {
   const Briefing({required this.topics, this.updatedAt, this.practice = false});
   factory Briefing.fromJson(Json json) {
-    if (json['schema_version'] != 4 ||
+    if (json['schema_version'] != 5 ||
         json['region'] != 'KR' ||
         json['cards'] is! List) {
       throw const FormatException('Unsupported briefing');
@@ -244,6 +247,9 @@ class Briefing {
               t.isPractice != practice ||
               !topicCategories.contains(t.category) ||
               (!practice && t.coverage == null) ||
+              (!practice &&
+                  t.coverage?.singleSource == true &&
+                  !['문화·예술', '스포츠'].contains(t.category)) ||
               (practice && t.coverage != null),
         ) ||
         topicCategories.any(

@@ -90,10 +90,10 @@ void main() {
     },
   );
   test(
-    'daily topics require two inspectable source groups and numeric evidence',
+    'daily topics require consistent inspectable source groups and numeric evidence',
     () {
       for (final change in [
-        {'source_groups': 1},
+        {'source_groups': 0},
         {'span_hours': false},
         {'sources': []},
         {'report_count': 1},
@@ -126,6 +126,46 @@ void main() {
         Topic.fromJson(Topic.fromJson(topicJson()).toJson()).coverage!.groups,
         2,
       );
+    },
+  );
+  test(
+    'single-source articles are explicit and limited to arts and sports',
+    () {
+      final source = (coverageJson()['sources'] as List).last;
+      final single = {
+        ...topicJson(),
+        'coverage': {
+          ...coverageJson(),
+          'source_groups': 1,
+          'report_count': 1,
+          'span_hours': 0,
+          'first_report_at': source['published_at'],
+          'first_report_url': source['url'],
+          'sources': [source],
+        },
+      };
+      for (final category in ['文化', '연예', '경제·주식']) {
+        expect(
+          () => Briefing.fromJson({
+            ...feedJson(),
+            'cards': [
+              {...single, 'category': category},
+            ],
+          }),
+          throwsFormatException,
+        );
+      }
+      for (final category in ['문화·예술', '스포츠']) {
+        final feed = Briefing.fromJson({
+          ...feedJson(),
+          'cards': [
+            {...single, 'category': category},
+          ],
+        });
+        expect(feed.topics.single.coverage!.singleSource, isTrue);
+        expect(feed.topics.single.coverage!.label, '단일 출처 · 인기 확인 전');
+        expect(Topic.fromJson(feed.topics.single.toJson()).coverage!.groups, 1);
+      }
     },
   );
   test('saved topics survive controller restart and can be removed', () async {

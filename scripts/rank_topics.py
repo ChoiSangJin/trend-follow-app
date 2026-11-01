@@ -9,7 +9,7 @@ from difflib import SequenceMatcher
 MAX_SOURCES = 8
 STOP = set('오늘 이번 지난 최근 관련 통해 대한 위해 공개 발표 출시 개막 시작 새로운 신작 소식 기사 뉴스 사진 영상 단독 종합 속보 기자 가수 배우 신곡 앨범 드라마 영화 방송 예능 콘서트 공연 전시 기술 과학 로봇 인공지능 AI ai 지원 신청 제도 교통 교육 주민 시민 요금 버스'.split())
 ALIASES = [('연방준비제도', '연준'), ('베를린필하모닉', '베를린필'), ('코스피지수', '코스피'), ('국내총생산', 'gdp')]
-PARTICLES = ('에서는', '으로', '에서', '에게', '까지', '부터', '보다', '에는', '하며', '했다', '한다', '하는', '위한', '은', '는', '을', '를', '과', '와', '의', '이', '가')
+PARTICLES = ('에서는', '에도', '으로', '에서', '에게', '까지', '부터', '보다', '에는', '하며', '했다', '한다', '하는', '위한', '은', '는', '을', '를', '과', '와', '의', '이', '가')
 
 
 def normalized(title):
@@ -43,6 +43,12 @@ def related(a, b):
     shared = tokens(a['title']) & tokens(b['title'])
     union = tokens(a['title']) | tokens(b['title'])
     overlap = len(shared) / max(1, len(union))
+    # Matching a named player and the same winning streak handles long match reports.
+    if a.get('category') == b.get('category') == '스포츠':
+        streaks = set(re.findall(r'\d+연승', left)) & set(re.findall(r'\d+연승', right))
+        players = {name for name in ('이강인', '손흥민', '김민재', '오타니', '류현진') if name in left and name in right}
+        if players and streaks:
+            return True
     named_overlap = len([word for word in shared if len(word) >= 3]) >= 2 and ratio >= .32
     return named_overlap or (ratio >= .78 and bool(shared)) or (len(shared) >= 2 and (ratio >= .48 or overlap >= .36)) or (len(shared) == 1 and max(map(len, shared)) >= 3 and ratio >= .68)
 
@@ -95,9 +101,9 @@ def independent_reports(group):
     return sorted(by_group.values(), key=lambda x: (x['published_at'], x['id']), reverse=True)
 
 
-def coverage_topic(group, category, question, context):
+def coverage_topic(group, category, question, context, *, minimum_sources=2):
     reports = independent_reports(group)
-    if len(reports) < 2:
+    if len(reports) < minimum_sources:
         return None
     reports = reports[:MAX_SOURCES]
     # Each retained source gets equal weight, rather than letting copies choose the headline.
@@ -116,9 +122,10 @@ def coverage_topic(group, category, question, context):
                     first_report_url=earliest['source_url'], last_report_url=latest['source_url'],
                     sources=[dict(name=item['source'], group=item['effective_group'],
                                   url=item['source_url'], published_at=item['published_at']) for item in reports])
+    explanation = (f'단일 출처 기사입니다. {representative["source"]}의 보도 1곳을 확인해 문화·스포츠의 추가 읽을거리로 제공합니다. 여러 매체의 관심이나 인기가 확인된 소식은 아닙니다.' if len(reports) == 1 else f'수집 범위에서 관련 보도 {len(group)}개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 {len(reports)}곳, {span_label}에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.')
     return dict(id=hashlib.sha256((category+'|'+earliest['id']).encode()).hexdigest()[:20],
                 category=category, title=representative['title'], summary=representative['title'],
-                why_now=f'수집 범위에서 관련 보도 {len(group)}개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 {len(reports)}곳, {span_label}에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.',
+                why_now=explanation,
                 opener=f'‘{representative["title"]}’라는 소식을 봤어요. {question}', context=context,
                 source=representative['source'], source_url=representative['source_url'],
                 published_at=representative['published_at'], evidence='headline', coverage=coverage)
@@ -134,7 +141,7 @@ def rank(articles, category, question, context):
 def corroboration_searches(articles, limit=2):
     """Target distinct unconfirmed events rather than re-searching a confirmed one."""
     groups = [group for group in clusters(articles) if len(independent_reports(group)) < 2]
-    groups.sort(key=lambda g: (len(g), max(a['published_at'] for a in g)), reverse=True)
+    groups.sort(key=lambda g: max(a['published_at'] for a in g), reverse=True)
     searches = []
     for group in groups:
         words = [word for word in normalized(group[0]['title']).split() if word in tokens(group[0]['title'])]
@@ -146,3 +153,13 @@ def corroboration_searches(articles, limit=2):
         if len(searches) == limit:
             break
     return searches
+
+
+def additional_reading(articles, category, question, context):
+    """Real dated articles for sparse arts/sport fields; never count copies as popularity."""
+    if category not in ('문화·예술', '스포츠'):
+        return []
+    result = [coverage_topic(group, category, question, context, minimum_sources=1)
+              for group in clusters(articles) if len(independent_reports(group)) == 1]
+    # One original report represents the item, irrespective of copy count or copy span.
+    return sorted(result, key=lambda x: (x['published_at'], x['id']), reverse=True)
