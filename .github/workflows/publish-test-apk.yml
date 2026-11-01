@@ -50,6 +50,10 @@ jobs:
           path: tested-apk
           run-id: ${{ inputs.run_id }}
           github-token: ${{ github.token }}
+      - uses: actions/cache/restore@v4
+        with:
+          path: android/.test-signing/debug.keystore
+          key: malmun-managed-test-signing-v1
       - name: Verify signature, app identity and ARM64 architecture
         env:
           RELEASE_TAG: ${{ inputs.tag }}
@@ -63,13 +67,25 @@ jobs:
           gh release download v2.0.0 --pattern Malmun-arm64.apk --dir previous-apk
           "$BUILD_TOOLS/apksigner" verify --print-certs "$APK" > /tmp/malmun-current-cert.txt
           "$BUILD_TOOLS/apksigner" verify --print-certs previous-apk/Malmun-arm64.apk > /tmp/malmun-previous-cert.txt
+          if [ -f android/.test-signing/debug.keystore ]; then
+            keytool -exportcert -keystore android/.test-signing/debug.keystore -storepass android \
+              -alias androiddebugkey -file /tmp/malmun-managed-public.der
+          fi
           python3 - <<'PY'
-          import zipfile, os, re
+          import zipfile, os, re, hashlib
           from pathlib import Path
+          managed = Path('/tmp/malmun-managed-public.der')
+          print('Managed key public certificate SHA256:', hashlib.sha256(managed.read_bytes()).hexdigest() if managed.exists() else 'cache not restored')
           pattern = r'Signer #1 certificate SHA-256 digest: ([0-9a-fA-F]+)'
           current = re.search(pattern, Path('/tmp/malmun-current-cert.txt').read_text())
           previous = re.search(pattern, Path('/tmp/malmun-previous-cert.txt').read_text())
-          if not current or not previous or current.group(1).lower() != previous.group(1).lower():
+          if not current or not previous:
+              print('Current APK public certificate:', Path('/tmp/malmun-current-cert.txt').read_text())
+              print('Previous APK public certificate:', Path('/tmp/malmun-previous-cert.txt').read_text())
+              raise SystemExit('Cannot parse APK certificate fingerprints')
+          if current.group(1).lower() != previous.group(1).lower():
+              print('Current certificate SHA256:', current.group(1))
+              print('Previous certificate SHA256:', previous.group(1))
               raise SystemExit('Update signing certificate differs from Malmun v2.0.0')
           badging = Path('/tmp/malmun-badging.txt').read_text()
           version = re.search(r'^version: ([^+\s]+)', Path('pubspec.yaml').read_text(), re.M).group(1)
