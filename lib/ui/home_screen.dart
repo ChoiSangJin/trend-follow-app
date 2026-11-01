@@ -137,8 +137,8 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
               child: Text('${item.rank}', style: TextStyle(color: colors.onPrimaryContainer))),
             title: Text(item.keyword, style: const TextStyle(fontWeight: FontWeight.w700)),
             subtitle: Padding(padding: const EdgeInsets.only(top: 6),
-              child: Text('${item.searchVolume} 검색 · ${item.source}')),
-            trailing: const Icon(Icons.north_east, size: 18),
+              child: Text(item.source)),
+            trailing: Chip(label: Text(item.searchVolume)),
             onTap: () => _open(item.searchUri),
           ));
         }

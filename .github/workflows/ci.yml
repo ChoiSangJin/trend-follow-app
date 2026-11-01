@@ -21,7 +21,7 @@ jobs:
           cache: true
       - run: flutter pub get
       - run: bash scripts/check_flutter.sh analyze --fatal-infos
-      - run: bash scripts/check_flutter.sh test --coverage
+      - run: bash scripts/check_flutter.sh test --reporter expanded --coverage
       - run: python3 -m unittest discover -s scripts -p 'test_*.py' -v
       - run: flutter build apk --debug --target-platform=android-arm64
       - uses: actions/upload-artifact@v4

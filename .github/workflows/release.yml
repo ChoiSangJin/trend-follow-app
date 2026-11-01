@@ -37,7 +37,7 @@ jobs:
           cache: true
       - run: flutter pub get
       - run: bash scripts/check_flutter.sh analyze --fatal-infos
-      - run: bash scripts/check_flutter.sh test
+      - run: bash scripts/check_flutter.sh test --reporter expanded
       - run: python3 -m unittest discover -s scripts -p 'test_*.py' -v
       - name: Prepare persistent release signing key
         env:

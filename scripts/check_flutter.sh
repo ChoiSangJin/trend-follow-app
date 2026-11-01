@@ -14,11 +14,9 @@ import sys
 from pathlib import Path
 if os.environ.get('GITHUB_ACTIONS') == 'true':
     lines = Path(sys.argv[1]).read_text(errors='replace').splitlines()
-    # Escape GitHub workflow command data; command output is data, not commands.
-    for line in lines[-70:]:
-        line = line.replace('%', '%25').replace('\r', '%0D').replace('\n', '%0A')
-        if line.strip():
-            print(f'::error title=Flutter validation::{line}')
+    message = '\n'.join(lines[-180:])[-55000:]
+    message = message.replace('%', '%25').replace('\r', '%0D').replace('\n', '%0A')
+    print(f'::error title=Flutter validation::{message}')
 PY
   exit "$result"
 fi
