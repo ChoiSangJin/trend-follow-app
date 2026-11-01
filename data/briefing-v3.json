@@ -2,51 +2,14 @@
   "schema_version": 3,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-01T10:33:13.551815Z",
+  "updated_at": "2026-11-01T10:36:53.171700Z",
   "cards": [
     {
-      "id": "93598286d81672b84d2a",
-      "category": "연예",
-      "title": "에이티즈, K팝 아이돌 최초 덕수궁 석조전 무대…황태자 변신",
-      "summary": "에이티즈, K팝 아이돌 최초 덕수궁 석조전 무대…황태자 변신",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 51시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘에이티즈, K팝 아이돌 최초 덕수궁 석조전 무대…황태자 변신’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "스포츠동아",
-      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UUFVaV2RXcERyNW5QNXdQQ2haeDR5eDRRd1RFTkxPc3pqVFotRXdOTWdzMUFUM1BlMXRSaXZwbFlyMXl3X0hKRVhnNXcybF8xbDZYNFE1cVh5M1dTX3Y5cjd4T1l3ZmJOcVhkYUN3?oc=5",
-      "published_at": "2026-11-01T02:39:05Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 51.0,
-        "first_report_at": "2026-10-29T23:40:00Z",
-        "last_report_at": "2026-11-01T02:39:05Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjaUZzSGU3Y2RpbkNGREFiNDhBd25sY3RBSHRPWG5YYzJtLVVSWkFIUnExUldlckg5QWFEdGYwd2hyRk04a2Ixd3lJRkppUXJ3ZkE5RUlsRU5ydXRfY29kOQ?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UUFVaV2RXcERyNW5QNXdQQ2haeDR5eDRRd1RFTkxPc3pqVFotRXdOTWdzMUFUM1BlMXRSaXZwbFlyMXl3X0hKRVhnNXcybF8xbDZYNFE1cVh5M1dTX3Y5cjd4T1l3ZmJOcVhkYUN3?oc=5",
-        "sources": [
-          {
-            "name": "스포츠동아",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UUFVaV2RXcERyNW5QNXdQQ2haeDR5eDRRd1RFTkxPc3pqVFotRXdOTWdzMUFUM1BlMXRSaXZwbFlyMXl3X0hKRVhnNXcybF8xbDZYNFE1cVh5M1dTX3Y5cjd4T1l3ZmJOcVhkYUN3?oc=5",
-            "published_at": "2026-11-01T02:39:05Z"
-          },
-          {
-            "name": "iMBC 연예",
-            "group": "imbc.com",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjaUZzSGU3Y2RpbkNGREFiNDhBd25sY3RBSHRPWG5YYzJtLVVSWkFIUnExUldlckg5QWFEdGYwd2hyRk04a2Ixd3lJRkppUXJ3ZkE5RUlsRU5ydXRfY29kOQ?oc=5",
-            "published_at": "2026-10-29T23:40:00Z"
-          }
-        ]
-      },
-      "selection_rank": 1
-    },
-    {
-      "id": "538516da456a2ff81309",
+      "id": "f75ffcae082afdcaa7fb",
       "category": "기술·과학",
       "title": "행안부, 공무원 업무망에 AI 웹검색 도입…12월 한글 보고서 작성 지원",
       "summary": "행안부, 공무원 업무망에 AI 웹검색 도입…12월 한글 보고서 작성 지원",
-      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘행안부, 공무원 업무망에 AI 웹검색 도입…12월 한글 보고서 작성 지원’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
       "source": "지디넷코리아",
@@ -54,12 +17,12 @@
       "published_at": "2026-11-01T04:05:29Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 4,
-        "report_count": 4,
+        "source_groups": 2,
+        "report_count": 2,
         "span_hours": 1.1,
-        "first_report_at": "2026-11-01T03:00:00Z",
+        "first_report_at": "2026-11-01T03:00:06Z",
         "last_report_at": "2026-11-01T04:05:29Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlZlp5Y0o5bnhDZjV3VkpYYTVwazJIYWMwRnRmelg3UzFkV2haZ0RQZFlLNVIxZEY4b2dXTldpUzJlbzBwMi1ubzRMMjNZdnM?oc=5",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85TU9fRkV6Wkl3aXFzb29VdnVhZzl6MWg2MHpXLWYwdGxiUFU4MmFmUzVaUWpvcXlrQWVmei1IaGY2MEZtcG8xdnhXMXJiNzI3VEZhTExPVnJiSkHSAWBBVV95cUxQR2g3TS1FNUU3V0FUOGJTOFc5Y2hHVlJEajBmVFNVcHNfRUktSFlMem82ZWpZSjFmRU00LWF6ZHVvTG9oblpzbDM2WnVGSjFEdzdIb2gwS3FwcjRmbjlHWEY?oc=5",
         "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82VUVJWGowOXdaTnU0NHU3MjVTbW5zMV9oSWhWWGQ5NVBlMWIzSG9yN1NxcURHQkd2YVhFOWM0T1R5WVdtUU83NW11M3RDbW1OZ1JNa3dR?oc=5",
         "sources": [
           {
@@ -69,63 +32,14 @@
             "published_at": "2026-11-01T04:05:29Z"
           },
           {
-            "name": "전자신문",
-            "group": "etnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXWGxOWmRfU1NyX216MHh4aXhrZy1Nc2JjTE9DUlFjbFJMbEFEZ1RZeHdZVUhhVVd0eVZ1M2t0MTJEOE9hM1VWWlJQbFE5UQ?oc=5",
-            "published_at": "2026-11-01T03:25:59Z"
-          },
-          {
-            "name": "파이낸셜뉴스",
-            "group": "fnnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EWGctQUVUZHpsa3dOUFEtckxnRU9YSW1KU3RoMy1MM3hRNEdvb2E2VERTR0V6c00zUF9XQ1M0T0ppVVM0N3dJcUplTDRuSWRRbzg3RVhSeHFyUQ?oc=5",
-            "published_at": "2026-11-01T03:14:10Z"
-          },
-          {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlZlp5Y0o5bnhDZjV3VkpYYTVwazJIYWMwRnRmelg3UzFkV2haZ0RQZFlLNVIxZEY4b2dXTldpUzJlbzBwMi1ubzRMMjNZdnM?oc=5",
-            "published_at": "2026-11-01T03:00:00Z"
-          }
-        ]
-      },
-      "selection_rank": 1
-    },
-    {
-      "id": "055a2392117fc100465a",
-      "category": "기술·과학",
-      "title": "정부 업무망서 인터넷 검색에 보고서 작성도…'온AI' 기능 확대",
-      "summary": "정부 업무망서 인터넷 검색에 보고서 작성도…'온AI' 기능 확대",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘정부 업무망서 인터넷 검색에 보고서 작성도…'온AI' 기능 확대’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
-      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-      "source": "연합뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85TU9fRkV6Wkl3aXFzb29VdnVhZzl6MWg2MHpXLWYwdGxiUFU4MmFmUzVaUWpvcXlrQWVmei1IaGY2MEZtcG8xdnhXMXJiNzI3VEZhTExPVnJiSkHSAWBBVV95cUxQR2g3TS1FNUU3V0FUOGJTOFc5Y2hHVlJEajBmVFNVcHNfRUktSFlMem82ZWpZSjFmRU00LWF6ZHVvTG9oblpzbDM2WnVGSjFEdzdIb2gwS3FwcjRmbjlHWEY?oc=5",
-      "published_at": "2026-11-01T03:00:06Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 0.0,
-        "first_report_at": "2026-11-01T03:00:00Z",
-        "last_report_at": "2026-11-01T03:00:06Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NZGptVGd2eWY0UEo5NE1JSHMwMGJNeDd5eHByQVBuWkpZdV9BYnpnckhGa3Q5aWhUenNiSU5BQlNGcU5lYUpFcjdkb2M5Nkc2WGp4RlBGYmF1b2ROWEc1LURoN2JqdWp3N1dhNUswTDlYN1N4cFFJU9IBeEFVX3lxTE5NZGptVGd2eWY0UEo5NE1JSHMwMGJNeDd5eHByQVBuWkpZdV9BYnpnckhGa3Q5aWhUenNiSU5BQlNGcU5lYUpFcjdkb2M5Nkc2WGp4RlBGYmF1b2ROWEc1LURoN2JqdWp3N1dhNUswTDlYN1N4cFFJUw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85TU9fRkV6Wkl3aXFzb29VdnVhZzl6MWg2MHpXLWYwdGxiUFU4MmFmUzVaUWpvcXlrQWVmei1IaGY2MEZtcG8xdnhXMXJiNzI3VEZhTExPVnJiSkHSAWBBVV95cUxQR2g3TS1FNUU3V0FUOGJTOFc5Y2hHVlJEajBmVFNVcHNfRUktSFlMem82ZWpZSjFmRU00LWF6ZHVvTG9oblpzbDM2WnVGSjFEdzdIb2gwS3FwcjRmbjlHWEY?oc=5",
-        "sources": [
-          {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85TU9fRkV6Wkl3aXFzb29VdnVhZzl6MWg2MHpXLWYwdGxiUFU4MmFmUzVaUWpvcXlrQWVmei1IaGY2MEZtcG8xdnhXMXJiNzI3VEZhTExPVnJiSkHSAWBBVV95cUxQR2g3TS1FNUU3V0FUOGJTOFc5Y2hHVlJEajBmVFNVcHNfRUktSFlMem82ZWpZSjFmRU00LWF6ZHVvTG9oblpzbDM2WnVGSjFEdzdIb2gwS3FwcjRmbjlHWEY?oc=5",
             "published_at": "2026-11-01T03:00:06Z"
-          },
-          {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NZGptVGd2eWY0UEo5NE1JSHMwMGJNeDd5eHByQVBuWkpZdV9BYnpnckhGa3Q5aWhUenNiSU5BQlNGcU5lYUpFcjdkb2M5Nkc2WGp4RlBGYmF1b2ROWEc1LURoN2JqdWp3N1dhNUswTDlYN1N4cFFJU9IBeEFVX3lxTE5NZGptVGd2eWY0UEo5NE1JSHMwMGJNeDd5eHByQVBuWkpZdV9BYnpnckhGa3Q5aWhUenNiSU5BQlNGcU5lYUpFcjdkb2M5Nkc2WGp4RlBGYmF1b2ROWEc1LURoN2JqdWp3N1dhNUswTDlYN1N4cFFJUw?oc=5",
-            "published_at": "2026-11-01T03:00:00Z"
           }
         ]
       },
-      "selection_rank": 2
+      "selection_rank": 1
     }
   ]
 }
