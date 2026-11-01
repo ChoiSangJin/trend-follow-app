@@ -27,6 +27,8 @@ jobs:
       - run: bash scripts/check_flutter.sh analyze --fatal-infos
       - run: bash scripts/check_flutter.sh test --reporter expanded --coverage
       - run: python3 -m unittest discover -s scripts -p 'test_*.py' -v
+      - name: Verify live Korea Trends and populated guides
+        run: python3 scripts/aggregate_trends.py
       - run: bash scripts/check_flutter.sh build apk --debug --target-platform=android-arm64
       - uses: actions/upload-artifact@v4
         with:

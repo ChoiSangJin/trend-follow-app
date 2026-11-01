@@ -1,70 +1,73 @@
 {
-  "updated_at": "2026-11-01T05:18:41.120854Z",
+  "updated_at": null,
   "is_demo": false,
+  "region": "KR",
+  "feed_type": "korean_trends",
   "categories": {
-    "keywords": [
+    "keywords": [],
+    "memes": [
       {
-        "rank": 1,
-        "keyword": "상장",
-        "search_volume": "2000+",
-        "source": "Google Trends · 대한민국"
+        "id": "gatsaeng",
+        "title": "갓생",
+        "description": "성실하게 생활하며 작은 목표를 실천하는 삶을 뜻하는 말입니다. 예: 오늘은 일찍 일어나 운동까지 했어. 갓생 살기 성공!",
+        "source": "편집 유행어 가이드 · 우리말샘 검색",
+        "source_url": "https://opendict.korean.go.kr/search/searchResult?query=%EA%B0%93%EC%83%9D",
+        "tags": [
+          "편집 가이드",
+          "실시간 순위 아님"
+        ]
       },
       {
-        "rank": 2,
-        "keyword": "상장지수 펀드",
-        "search_volume": "500+",
-        "source": "Google Trends · 대한민국"
+        "id": "kkuankku",
+        "title": "꾸안꾸",
+        "description": "꾸민 듯 안 꾸민 듯 자연스러운 스타일을 뜻합니다. 예: 편안한 셔츠와 청바지로 꾸안꾸 코디를 했어.",
+        "source": "편집 유행어 가이드 · 우리말샘 검색",
+        "source_url": "https://opendict.korean.go.kr/search/searchResult?query=%EA%BE%B8%EC%95%88%EA%BE%B8",
+        "tags": [
+          "편집 가이드",
+          "실시간 순위 아님"
+        ]
       },
       {
-        "rank": 3,
-        "keyword": "클루브 아메리카 대 톨루카",
-        "search_volume": "200+",
-        "source": "Google Trends · 대한민국"
-      },
-      {
-        "rank": 4,
-        "keyword": "xrp",
-        "search_volume": "100+",
-        "source": "Google Trends · 대한민국"
-      },
-      {
-        "rank": 5,
-        "keyword": "호프",
-        "search_volume": "100+",
-        "source": "Google Trends · 대한민국"
-      },
-      {
-        "rank": 6,
-        "keyword": "트레킹",
-        "search_volume": "200+",
-        "source": "Google Trends · 대한민국"
-      },
-      {
-        "rank": 7,
-        "keyword": "hong kong vs sri lanka",
-        "search_volume": "200+",
-        "source": "Google Trends · 대한민국"
-      },
-      {
-        "rank": 8,
-        "keyword": "sl vs hk",
-        "search_volume": "100+",
-        "source": "Google Trends · 대한민국"
-      },
-      {
-        "rank": 9,
-        "keyword": "플레이오프 5차전",
-        "search_volume": "200+",
-        "source": "Google Trends · 대한민국"
-      },
-      {
-        "rank": 10,
-        "keyword": "정기예금",
-        "search_volume": "500+",
-        "source": "Google Trends · 대한민국"
+        "id": "aljaltak",
+        "title": "알잘딱깔센",
+        "description": "알아서 잘, 딱 깔끔하고 센스 있게의 줄임말입니다. 예: 발표 자료를 알잘딱깔센으로 정리했네! 친한 사이의 가벼운 표현이며 공식적인 요청에는 구체적인 지시가 좋습니다.",
+        "source": "편집 유행어 가이드 · 우리말샘 검색",
+        "source_url": "https://opendict.korean.go.kr/search/searchResult?query=%EC%95%8C%EC%9E%98%EB%94%B1%EA%B9%94%EC%84%BC",
+        "tags": [
+          "편집 가이드",
+          "실시간 순위 아님"
+        ]
       }
     ],
-    "memes": [],
-    "hotplaces": []
+    "hotplaces": [
+      {
+        "id": "seongsu",
+        "name": "성수동 카페거리",
+        "district": "서울 성동구 성수동",
+        "map_query": "성수동 카페거리",
+        "crowd_level": "실시간 혼잡도 미연동",
+        "age_20s_ratio": "미제공",
+        "source": "편집 장소 가이드 · 지도에서 위치 확인"
+      },
+      {
+        "id": "forest",
+        "name": "경의선숲길 연남동 구간",
+        "district": "서울 마포구 연남동",
+        "map_query": "경의선숲길 연남동",
+        "crowd_level": "실시간 혼잡도 미연동",
+        "age_20s_ratio": "미제공",
+        "source": "편집 장소 가이드 · 지도에서 위치 확인"
+      },
+      {
+        "id": "hyundai",
+        "name": "더현대 서울",
+        "district": "서울 영등포구 여의대로 108",
+        "map_query": "더현대 서울",
+        "crowd_level": "실시간 혼잡도 미연동",
+        "age_20s_ratio": "미제공",
+        "source": "편집 장소 가이드 · 지도에서 위치 확인"
+      }
+    ]
   }
 }

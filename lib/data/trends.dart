@@ -83,14 +83,16 @@ class HotPlace {
 
 class Keyword {
   const Keyword({required this.rank, required this.keyword,
-    required this.searchVolume, required this.source});
+    required this.searchVolume, required this.source, this.sourceUrl});
   factory Keyword.fromJson(Json json) => Keyword(
     rank: (int.tryParse('${json['rank']}') ?? 999).clamp(1, 999).toInt(),
     keyword: text(json['keyword'], '키워드 미제공'),
     searchVolume: text(json['search_volume'], '집계 중'),
     source: text(json['source'], '출처 미제공'),
+    sourceUrl: webUri(text(json['source_url'])),
   );
   final int rank;
   final String keyword, searchVolume, source;
-  Uri get searchUri => Uri.https('www.google.com', '/search', {'q': keyword});
+  final Uri? sourceUrl;
+  Uri get searchUri => sourceUrl ?? Uri.https('www.google.com', '/search', {'q': keyword});
 }
