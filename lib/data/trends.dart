@@ -21,10 +21,12 @@ class TrendFeed {
     this.places = const [], this.keywords = const []});
 
   factory TrendFeed.fromJson(Json json) {
-    final categories = json['categories'];
-    if (categories is! Json) {
+    final rawCategories = json['categories'];
+    if (rawCategories is! Map ||
+        rawCategories.keys.any((key) => key is! String)) {
       throw const FormatException('categories 객체가 없습니다.');
     }
+    final categories = Map<String, dynamic>.from(rawCategories);
     for (final name in ['memes', 'hotplaces', 'keywords']) {
       if (categories[name] != null && categories[name] is! List) {
         throw FormatException('$name 목록 형식이 올바르지 않습니다.');

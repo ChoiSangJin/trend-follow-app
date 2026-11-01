@@ -6,6 +6,13 @@ plugins {
     id("dev.flutter.flutter-gradle-plugin")
 }
 
+val splitPerAbi = project.findProperty("split-per-abi")?.toString()?.toBoolean() == true
+if (splitPerAbi) {
+    require(project.findProperty("target-platform")?.toString() == "android-arm64") {
+        "ARM64 only: use --split-per-abi --target-platform=android-arm64"
+    }
+}
+
 val signingFile = rootProject.file("key.properties")
 val releaseSigning = Properties()
 if (signingFile.exists()) signingFile.inputStream().use { releaseSigning.load(it) }
@@ -33,7 +40,7 @@ android {
         versionName = flutter.versionName
         // AGP rejects ndk.abiFilters together with --split-per-abi.
         // In split mode Flutter uses --target-platform=android-arm64 instead.
-        if (project.findProperty("split-per-abi")?.toString()?.toBoolean() != true) {
+        if (!splitPerAbi) {
             ndk {
                 abiFilters.clear()
                 abiFilters += "arm64-v8a"

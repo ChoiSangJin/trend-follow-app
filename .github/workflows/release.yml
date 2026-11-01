@@ -53,7 +53,7 @@ jobs:
           if any(not os.environ.get(name) for name in names):
               raise SystemExit('Configure the four ANDROID_* signing secrets listed in README.md')
           key = Path(os.environ['RUNNER_TEMP']) / 'follow-mz-release.jks'
-          key.write_bytes(base64.b64decode(os.environ['KEYSTORE'], validate=True))
+          key.write_bytes(base64.b64decode(''.join(os.environ['KEYSTORE'].split()), validate=True))
           key.chmod(0o600)
           def escape(value):
               return ''.join('\\u%04x' % ord(c) if ord(c) > 126 else
