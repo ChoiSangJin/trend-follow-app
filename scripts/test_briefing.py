@@ -1,4 +1,5 @@
 import json
+import os
 import unittest
 import tempfile
 from unittest.mock import patch, MagicMock
@@ -43,7 +44,7 @@ class BriefingTests(unittest.TestCase):
             for payload in all_feeds():
                 response=MagicMock();response.__enter__.return_value.read.return_value=payload
                 responses.append(response)
-            with patch.object(collector,'ROOT',root), patch.object(collector,'urlopen',side_effect=responses), patch.object(collector,'datetime') as clock:
+            with patch.object(collector,'ROOT',root), patch.object(collector,'urlopen',side_effect=responses), patch.object(collector,'datetime') as clock, patch.dict(os.environ, {'GITHUB_ACTIONS':'false'}):
                 clock.now.return_value=NOW
                 collector.main()
             new=json.loads((root/'data/briefing-v3.json').read_text())

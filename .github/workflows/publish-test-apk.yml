@@ -76,16 +76,18 @@ jobs:
           from pathlib import Path
           managed = Path('/tmp/malmun-managed-public.der')
           print('Managed key public certificate SHA256:', hashlib.sha256(managed.read_bytes()).hexdigest() if managed.exists() else 'cache not restored')
-          pattern = r'Signer #1 certificate SHA-256 digest: ([0-9a-fA-F]+)'
-          current = re.search(pattern, Path('/tmp/malmun-current-cert.txt').read_text())
-          previous = re.search(pattern, Path('/tmp/malmun-previous-cert.txt').read_text())
+          def certificate_fingerprints(text):
+              return {value.lower() for value in re.findall(
+                  r'certificate SHA-256 digest:[ \t]*([0-9a-fA-F]{64})(?![0-9a-fA-F])', text, re.I)}
+          current = certificate_fingerprints(Path('/tmp/malmun-current-cert.txt').read_text())
+          previous = certificate_fingerprints(Path('/tmp/malmun-previous-cert.txt').read_text())
           if not current or not previous:
               print('Current APK public certificate:', Path('/tmp/malmun-current-cert.txt').read_text())
               print('Previous APK public certificate:', Path('/tmp/malmun-previous-cert.txt').read_text())
               raise SystemExit('Cannot parse APK certificate fingerprints')
-          if current.group(1).lower() != previous.group(1).lower():
-              print('Current certificate SHA256:', current.group(1))
-              print('Previous certificate SHA256:', previous.group(1))
+          if current != previous:
+              print('Current certificate SHA256:', sorted(current))
+              print('Previous certificate SHA256:', sorted(previous))
               raise SystemExit('Update signing certificate differs from Malmun v2.0.0')
           badging = Path('/tmp/malmun-badging.txt').read_text()
           version = re.search(r'^version: ([^+\s]+)', Path('pubspec.yaml').read_text(), re.M).group(1)
