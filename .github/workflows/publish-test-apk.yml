@@ -55,6 +55,7 @@ jobs:
           RELEASE_TAG: ${{ inputs.tag }}
           GH_TOKEN: ${{ github.token }}
         run: |
+          bash scripts/check_command.sh bash -euo pipefail <<'VERIFY_APK'
           APK=tested-apk/app-debug.apk
           BUILD_TOOLS=$(find "$ANDROID_HOME/build-tools" -mindepth 1 -maxdepth 1 -type d | sort -V | tail -1)
           "$BUILD_TOOLS/apksigner" verify --verbose "$APK"
@@ -84,6 +85,7 @@ jobs:
           PY
           cp "$APK" Malmun-arm64.apk
           sha256sum Malmun-arm64.apk > SHA256SUMS
+          VERIFY_APK
       - name: Publish installable test APK
         env:
           GH_TOKEN: ${{ github.token }}
