@@ -22,6 +22,8 @@ flutter build apk --debug --target-platform=android-arm64
 
 `android/local.properties`와 Gradle wrapper 실행 파일/JAR은 Flutter 빌드 시 생성됩니다.
 API 36을 compile/target SDK로 사용하고, minSdk는 24입니다.
+일반 APK는 NDK ABI 필터를 ARM64로 제한합니다. split APK에서는 AGP 충돌을 피하기 위해
+NDK 필터 대신 `--target-platform=android-arm64`로 ABI를 선택합니다.
 의존성 버전은 `pubspec.yaml`에 명시되어 있습니다. 의존성 해결 후 생성된
 `pubspec.lock`을 커밋해 전이 의존성도 고정하세요.
 

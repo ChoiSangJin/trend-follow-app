@@ -31,7 +31,14 @@ android {
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode
         versionName = flutter.versionName
-        ndk { abiFilters += "arm64-v8a" }
+        // AGP rejects ndk.abiFilters together with --split-per-abi.
+        // In split mode Flutter uses --target-platform=android-arm64 instead.
+        if (project.findProperty("split-per-abi")?.toString()?.toBoolean() != true) {
+            ndk {
+                abiFilters.clear()
+                abiFilters += "arm64-v8a"
+            }
+        }
     }
     signingConfigs {
         if (hasReleaseSigning) {
