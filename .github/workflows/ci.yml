@@ -25,8 +25,10 @@ jobs:
           cache: true
       - uses: actions/cache@v4
         with:
-          path: ~/.android/debug.keystore
-          key: malmun-test-signing-v1
+          path: android/.test-signing/debug.keystore
+          key: malmun-managed-test-signing-v1
+      - name: Prepare reusable test signing identity
+        run: bash scripts/prepare_test_key.sh
       - run: flutter pub get --enforce-lockfile
       - run: bash scripts/check_flutter.sh analyze --fatal-infos
       - run: bash scripts/check_flutter.sh test --reporter expanded --coverage
