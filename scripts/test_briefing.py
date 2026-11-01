@@ -53,6 +53,23 @@ class BriefingTests(unittest.TestCase):
             self.assertEqual(old['schema_version'],2)
             self.assertEqual(len(old['cards']),5)
 
+    def test_arts_excludes_trade_exhibitions(self):
+        self.assertEqual(self.parse(rss(title='서울클래식카쇼 개막 클래식카 전시와 정책 논의')),[])
+        self.assertEqual(len(self.parse(rss(title='국립 미술관 작가 사진전 개막 소식'))),1)
+
+    def test_entertainment_excludes_unrelated_ai_video_criticism(self):
+        self.assertEqual(self.parse(rss(title='오디세이 비난한 머스크 AI 오디세이 공개'),'연예'),[])
+        self.assertEqual(len(self.parse(rss(title='가수 새 앨범과 신곡 공개 소식'),'연예')),1)
+
+    def test_technology_excludes_fundraising_and_financial_headlines(self):
+        for title in ('한국투자 10조 펀드 조성 AI데이터센터 짓는다','앤트로픽 정크 경고 AI 돈줄이 마른다'):
+            self.assertEqual(self.parse(rss(title=title),'기술·과학'),[])
+        self.assertEqual(len(self.parse(rss(title='새 스마트폰 카메라 신기능 공개'),'기술·과학')),1)
+
+    def test_society_prefers_practical_changes_not_council_agendas(self):
+        self.assertEqual(self.parse(rss(title='시의회 정례회 개회 첫 행정사무감사'),'사회'),[])
+        self.assertEqual(len(self.parse(rss(title='지역 주민 공공서비스 지원 신청 변경 안내'),'사회')),1)
+
     def test_two_per_category_ten_total_and_legacy_limit(self):
         feed=build_briefing(all_feeds(),NOW)
         self.assertEqual(feed['schema_version'],3)
@@ -69,7 +86,7 @@ class BriefingTests(unittest.TestCase):
         self.assertEqual(counts, {'연예':1,'스포츠':2,'기술·과학':2,'사회':2})
 
     def test_cross_source_and_category_duplicates_are_removed(self):
-        feed=build_briefing([multiple(['새 미술관 전시 공개','새 미술관 전시 공개'],1),multiple(['새 미술관 전시 공개'],2),None,None,None],NOW)
+        feed=build_briefing([multiple(['새 뮤지컬 영화 신작 공개','새 뮤지컬 영화 신작 공개'],1),multiple(['새 뮤지컬 영화 신작 공개'],2),None,None,None],NOW)
         self.assertEqual(len(feed['cards']),1)
 
     def test_keeps_facts_and_dated_source_without_invented_summary(self):
