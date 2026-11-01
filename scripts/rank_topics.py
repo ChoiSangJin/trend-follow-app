@@ -22,6 +22,10 @@ def normalized(title):
 def tokens(title):
     result = []
     for word in normalized(title).split():
+        if len(word) >= 4 and word.endswith('서'):
+            word = word[:-1]
+        if len(word) >= 3 and word.endswith(('도', '에')):
+            word = word[:-1]
         for ending in PARTICLES:
             if word.endswith(ending) and len(word) - len(ending) >= 2:
                 word = word[:-len(ending)]
@@ -39,7 +43,8 @@ def related(a, b):
     shared = tokens(a['title']) & tokens(b['title'])
     union = tokens(a['title']) | tokens(b['title'])
     overlap = len(shared) / max(1, len(union))
-    return (ratio >= .78 and bool(shared)) or (len(shared) >= 2 and (ratio >= .48 or overlap >= .36)) or (len(shared) == 1 and max(map(len, shared)) >= 3 and ratio >= .68)
+    named_overlap = len([word for word in shared if len(word) >= 3]) >= 2 and ratio >= .32
+    return named_overlap or (ratio >= .78 and bool(shared)) or (len(shared) >= 2 and (ratio >= .48 or overlap >= .36)) or (len(shared) == 1 and max(map(len, shared)) >= 3 and ratio >= .68)
 
 
 def clusters(articles):
@@ -126,13 +131,18 @@ def rank(articles, category, question, context):
                   x['coverage']['span_hours'], x['coverage']['last_report_at'], x['id']), reverse=True)
 
 
-def corroboration_terms(articles):
-    """One bounded follow-up search for a plausible shared topic, not an arbitrary filler."""
-    groups = clusters(articles)
-    if not groups:
-        return None
-    group = max(groups, key=lambda g: (len({a['origin_group'] for a in g}), len(g), g[0]['published_at']))
-    words = [word for word in normalized(group[0]['title']).split() if word in tokens(group[0]['title'])]
-    if not words:
-        words = sorted(tokens(group[0]['title']), key=lambda x: (-len(x), x))
-    return ' '.join('"'+word+'"' for word in words[:2]) if words else None
+def corroboration_searches(articles, limit=2):
+    """Target distinct unconfirmed events rather than re-searching a confirmed one."""
+    groups = [group for group in clusters(articles) if len(independent_reports(group)) < 2]
+    groups.sort(key=lambda g: (len(g), max(a['published_at'] for a in g)), reverse=True)
+    searches = []
+    for group in groups:
+        words = [word for word in normalized(group[0]['title']).split() if word in tokens(group[0]['title'])]
+        if not words:
+            words = sorted(tokens(group[0]['title']), key=lambda x: (-len(x), x))
+        search = ' '.join('"'+word+'"' for word in words[:2])
+        if search and search not in searches:
+            searches.append(search)
+        if len(searches) == limit:
+            break
+    return searches

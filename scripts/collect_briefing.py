@@ -13,7 +13,7 @@ from urllib.parse import urlencode, urlparse, parse_qs
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 from urllib.error import HTTPError
-from rank_topics import rank, corroboration_terms, related
+from rank_topics import rank, corroboration_searches, related, clusters, independent_reports
 
 ROOT = Path(__file__).resolve().parents[1]
 TOPICS = [
@@ -178,15 +178,21 @@ def main():
             return candidates(fetch_rss(url), category, question, context, now)
         try:
             articles = collect(query)
-            # At most one corroboration query per field, within a bounded request budget.
+            # At most two targeted queries per field; skip already confirmed events.
             if len(rank(articles, category, question, context)) < 2:
-                search = corroboration_terms(articles)
-                if search:
+                for search in corroboration_searches(articles):
                     time.sleep(.5)
                     try:
                         articles += collect(search)
+                        if len(rank(articles, category, question, context)) >= 2:
+                            break
                     except Exception as error:
                         print(f'{category}: corroboration unavailable ({type(error).__name__})')
+            if os.environ.get('GITHUB_ACTIONS') == 'true' and len(rank(articles, category, question, context)) < 2:
+                groups = sorted(clusters(articles), key=len, reverse=True)[:8]
+                diagnostics = [dict(reports=len(g), groups=len(independent_reports(g)),
+                                    headlines=[a['title'] for a in g[:3]]) for g in groups]
+                print('::notice title=Briefing candidates::' + category + ' ' + json.dumps(diagnostics, ensure_ascii=False))
             feeds.append(articles)
         except Exception as error:
             detail = f'HTTP {error.code}' if isinstance(error, HTTPError) else type(error).__name__
