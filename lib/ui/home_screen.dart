@@ -32,7 +32,9 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
       : Uri(scheme: 'kakaomap', host: 'search', queryParameters: {'q': query});
     try {
       if (await canLaunchUrl(native) &&
-          await launchUrl(native, mode: LaunchMode.externalApplication)) return;
+          await launchUrl(native, mode: LaunchMode.externalApplication)) {
+        return;
+      }
     } catch (_) { /* Fall back to the HTTPS map when an app is unavailable. */ }
     if (!mounted) return;
     await _open(service == 'naver'
@@ -116,7 +118,8 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
       padding: const EdgeInsets.fromLTRB(20, 12, 20, 32),
       itemCount: count + 1, separatorBuilder: (_, _) => const SizedBox(height: 12),
       itemBuilder: (context, index) {
-        if (index == 0) return Padding(padding: const EdgeInsets.symmetric(vertical: 12),
+        if (index == 0) {
+          return Padding(padding: const EdgeInsets.symmetric(vertical: 12),
           child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
             Text(['지금, 모두의 관심사', '대화가 더 즐거워지는 발견', '이번 주말엔 어디로?'][_tab],
               style: Theme.of(context).textTheme.headlineSmall?.copyWith(fontWeight: FontWeight.w800)),
@@ -124,6 +127,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
             Text(['오늘의 검색 흐름을 한눈에', '밈의 의미부터 사용 맥락까지', '혼잡도와 지도를 함께 확인해요'][_tab],
               style: TextStyle(color: colors.onSurfaceVariant)),
           ]));
+        }
         final i = index - 1;
         if (_tab == 0) {
           final item = feed.keywords[i];
