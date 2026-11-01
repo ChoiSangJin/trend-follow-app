@@ -37,8 +37,9 @@ jobs:
               raise SystemExit('Run ID must be numeric')
           run = json.loads(subprocess.check_output(['gh', 'api',
               f'repos/{os.environ["GITHUB_REPOSITORY"]}/actions/runs/{run_id}']))
-          if run['conclusion'] != 'success' or run['path'] != '.github/workflows/ci.yml':
-              raise SystemExit('A successful app validation run is required')
+          if (run['conclusion'] != 'success' or run['path'] != '.github/workflows/ci.yml'
+                  or run['head_branch'] != 'main' or run['event'] not in ('push', 'workflow_dispatch')):
+              raise SystemExit('A successful main app validation run is required')
           # Compare every APK input; server feeds and editorial scripts deploy independently.
           subprocess.run(['git', 'diff', '--exit-code', run['head_sha'], 'HEAD',
                           '--', 'lib', 'android', 'assets', 'pubspec.yaml', 'pubspec.lock', 'analysis_options.yaml'], check=True)
@@ -52,14 +53,23 @@ jobs:
       - name: Verify signature, app identity and ARM64 architecture
         env:
           RELEASE_TAG: ${{ inputs.tag }}
+          GH_TOKEN: ${{ github.token }}
         run: |
           APK=tested-apk/app-debug.apk
           BUILD_TOOLS=$(find "$ANDROID_HOME/build-tools" -mindepth 1 -maxdepth 1 -type d | sort -V | tail -1)
           "$BUILD_TOOLS/apksigner" verify --verbose "$APK"
           "$BUILD_TOOLS/aapt" dump badging "$APK" > /tmp/malmun-badging.txt
+          gh release download v2.0.0 --pattern Malmun-arm64.apk --dir previous-apk
+          "$BUILD_TOOLS/apksigner" verify --print-certs "$APK" > /tmp/malmun-current-cert.txt
+          "$BUILD_TOOLS/apksigner" verify --print-certs previous-apk/Malmun-arm64.apk > /tmp/malmun-previous-cert.txt
           python3 - <<'PY'
           import zipfile, os, re
           from pathlib import Path
+          pattern = r'Signer #1 certificate SHA-256 digest: ([0-9a-fA-F]+)'
+          current = re.search(pattern, Path('/tmp/malmun-current-cert.txt').read_text())
+          previous = re.search(pattern, Path('/tmp/malmun-previous-cert.txt').read_text())
+          if not current or not previous or current.group(1).lower() != previous.group(1).lower():
+              raise SystemExit('Update signing certificate differs from Malmun v2.0.0')
           badging = Path('/tmp/malmun-badging.txt').read_text()
           version = re.search(r'^version: ([^+\s]+)', Path('pubspec.yaml').read_text(), re.M).group(1)
           required = ["package: name='com.malmun.app'", "application-label:'말문'",

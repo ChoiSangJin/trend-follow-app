@@ -46,6 +46,49 @@ void main() {
       throwsFormatException,
     );
   });
+  test(
+    'accepts ten cards with two per category and rejects an overflowing category',
+    () {
+      final cards = [
+        for (var i = 0; i < 10; i++)
+          {...topicJson(i + 1), 'category': topicCategories[i ~/ 2]},
+      ];
+      expect(
+        Briefing.fromJson({...feedJson(), 'cards': cards}).topics.length,
+        10,
+      );
+      expect(
+        () => Briefing.fromJson({
+          ...feedJson(),
+          'cards': [
+            ...cards,
+            {...topicJson(11), 'category': '사회'},
+          ],
+        }),
+        throwsFormatException,
+      );
+      cards[2]['category'] = topicCategories[0];
+      expect(
+        () => Briefing.fromJson({...feedJson(), 'cards': cards}),
+        throwsFormatException,
+      );
+    },
+  );
+  test(
+    'legacy saved topic labels remain readable without losing bookmarks',
+    () async {
+      final store = MemoryStore();
+      await store.write(
+        'saved-topics-v2',
+        jsonEncode([
+          {...topicJson(), 'category': '문화'},
+        ]),
+      );
+      final controller = SavedTopics(store);
+      expect(controller.state.single.category, '문화');
+      controller.dispose();
+    },
+  );
   test('saved topics survive controller restart and can be removed', () async {
     final store = MemoryStore();
     final controller = SavedTopics(store);

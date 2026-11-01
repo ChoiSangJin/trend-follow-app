@@ -54,7 +54,7 @@ void main() {
     expect(adapter.calls, 1);
     await repository.load(force: true);
     expect(adapter.calls, 2);
-    expect(store.read('briefing-v2'), isNotNull);
+    expect(store.read('briefing-v3'), isNotNull);
     expect(adapter.last!.uri.queryParameters['locale'], 'ko');
     expect(adapter.last!.headers['Cache-Control'], 'no-cache');
   });
@@ -71,7 +71,7 @@ void main() {
   test(
     'offline startup uses persistent cache with explicit cached status',
     () async {
-      await store.write('briefing-v2', encodedFeed);
+      await store.write('briefing-v3', encodedFeed);
       adapter.failures = 10;
       final result = await repository.load();
       expect(result.mode, FeedMode.cached);
@@ -82,7 +82,7 @@ void main() {
   test(
     'corrupt cache and malformed remote data fall back to labelled practice',
     () async {
-      await store.write('briefing-v2', '{bad');
+      await store.write('briefing-v3', '{bad');
       adapter.body = '{"cards":true}';
       final result = await repository.load();
       expect(result.mode, FeedMode.practice);

@@ -21,7 +21,7 @@ final repositoryProvider = Provider<BriefingRepository>((ref) {
     endpoint: const String.fromEnvironment(
       'BRIEFING_ENDPOINT',
       defaultValue:
-          'https://raw.githubusercontent.com/ChoiSangJin/trend-follow-app/main/data/briefing.json',
+          'https://raw.githubusercontent.com/ChoiSangJin/trend-follow-app/main/data/briefing-v3.json',
     ),
   );
 });

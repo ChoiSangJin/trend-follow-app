@@ -90,7 +90,7 @@ class BriefingRepository {
         throw const FormatException('Remote feed must be daily news');
       }
       try {
-        await store.write('briefing-v2', encoded);
+        await store.write('briefing-v3', encoded);
       } catch (_) {
         /* Keep valid news in memory. */
       }
@@ -101,7 +101,7 @@ class BriefingRepository {
         return _memory = FeedResult(_memory!.briefing, FeedMode.cached);
       }
       try {
-        final saved = store.read('briefing-v2');
+        final saved = store.read('briefing-v3');
         if (saved != null) {
           final feed = Briefing.decode(saved);
           if (!feed.practice) {

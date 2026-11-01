@@ -15,12 +15,13 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 TOPICS = [
-    ('문화', '(영화 개봉 OR 드라마 공개 OR 예능 공개)', '최근에 본 작품 중 추천할 만한 게 있어요?', '취향을 먼저 물어보고, 결말이나 반전은 말하지 않는 편이 좋아요.'),
-    ('음식', '(신메뉴 OR 제철 음식 OR 음식 축제)', '요즘 새로 먹어 보고 싶은 음식 있어요?', '직접 먹어 본 경험과 기사에서 본 정보를 구분해 이야기해 보세요.'),
-    ('생활', '(서울 전시 OR 국내 축제 OR 제주 여행 OR 한강 산책)', '시간 나면 가 보고 싶은 곳 있어요?', '행사 일정·예약·운영 여부는 원문이나 공식 안내를 확인해 주세요.'),
-    ('기술', '(인공지능 OR 스마트폰 OR 과학 OR 우주)', '이런 기능이 있으면 실제로 써 볼 것 같아요?', '출시 계획과 실제 사용할 수 있는 기능은 다를 수 있어요.'),
-    ('스포츠', '(프로야구 OR 프로농구 OR 축구 경기)', '요즘 챙겨 보는 경기나 응원하는 팀 있어요?', '상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.'),
+    ('문화·예술', '(전시 개막 OR 미술관 OR 공연 개막 OR 문학상 OR 신간)', '요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?', '전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.'),
+    ('연예', '(드라마 공개 OR 예능 공개 OR 신곡 OR 컴백 OR 영화 개봉)', '요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?', '결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.'),
+    ('스포츠', '(프로야구 OR 프로농구 OR 축구 경기 OR 배구 경기)', '요즘 챙겨 보는 경기나 응원하는 팀 있어요?', '상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.'),
+    ('기술·과학', '(인공지능 OR 스마트폰 OR 과학 OR 우주)', '최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?', '연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.'),
+    ('사회', '(생활 제도 OR 대중교통 OR 교육 정책 OR 공공 서비스 OR 복지 제도)', '이런 변화가 일상에 도움이 될 것 같아요?', '제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.'),
 ]
+PER_CATEGORY = 2
 PUBLISHERS = {'yna.co.kr', 'newsis.com', 'news1.kr', 'kbs.co.kr', 'imbc.com', 'sbs.co.kr',
               'hani.co.kr', 'khan.co.kr', 'donga.com', 'chosun.com', 'joongang.co.kr',
               'hankyung.com', 'mk.co.kr', 'etnews.com', 'zdnet.co.kr', 'ytn.co.kr',
@@ -65,9 +66,11 @@ def candidates(payload, category, question, context, now):
             continue
         # Keep the exact headline instead of expanding it into unverified facts.
         headline = title.removesuffix(' - ' + publisher)
-        if category == '생활' and (not LOCAL_PLACES.search(headline) or OVERSEAS_EVENTS.search(headline)):
+        if category == '사회' and OVERSEAS_EVENTS.search(headline):
             continue
-        if category == '문화' and not NEW_CULTURE.search(headline):
+        if category == '연예' and (not NEW_CULTURE.search(headline) or re.search('열애|이혼|결별|사생활|폭로|불륜|악플', headline)):
+            continue
+        if category == '문화·예술' and not re.search('전시|미술|박물관|공연|연극|뮤지컬|문학|신간|출간|도서|책|음악회|오케스트라|예술|발레', headline):
             continue
         results.append(dict(
             id=hashlib.sha256(url.encode()).hexdigest()[:20], category=category,
@@ -86,15 +89,30 @@ def build_briefing(feeds, now):
     for (category, _, question, context), payload in zip(TOPICS, feeds):
         if payload is None:
             continue
+        selected = 0
         for item in candidates(payload, category, question, context, now):
             if any(item['id'] == old['id'] or SequenceMatcher(None, item['title'], old['title']).ratio() > .65 for old in cards):
                 continue
             cards.append(item)
-            break
+            selected += 1
+            if selected == PER_CATEGORY:
+                break
     if not cards:
         raise ValueError('No recent, eligible stories; preserving previous briefing')
-    return dict(schema_version=2, region='KR', edition='daily',
+    return dict(schema_version=3, region='KR', edition='daily',
                 updated_at=now.isoformat().replace('+00:00', 'Z'), cards=cards)
+
+
+def legacy_briefing(feed):
+    mapping = {'문화·예술': '문화', '연예': '문화', '스포츠': '스포츠', '기술·과학': '기술', '사회': '생활'}
+    seen = set()
+    cards = []
+    for card in feed['cards']:
+        if card['category'] in seen:
+            continue
+        seen.add(card['category'])
+        cards.append({**card, 'category': mapping[card['category']]})
+    return {**feed, 'schema_version': 2, 'cards': cards}
 
 
 def main():
@@ -112,10 +130,16 @@ def main():
             print(f'{category}: unavailable ({type(error).__name__})')
             feeds.append(None)
     feed = build_briefing(feeds, datetime.now(timezone.utc))
-    target = ROOT / 'data/briefing.json'
+    target = ROOT / 'data/briefing-v3.json'
     temporary = target.with_suffix('.tmp')
     temporary.write_text(json.dumps(feed, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     os.replace(temporary, target)
+    # Older v2 clients reject more than five cards. Keep their endpoint compatible.
+    legacy = legacy_briefing(feed)
+    legacy_target = ROOT / 'data/briefing.json'
+    legacy_temp = legacy_target.with_suffix('.tmp')
+    legacy_temp.write_text(json.dumps(legacy, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    os.replace(legacy_temp, legacy_target)
     print(f"Published {len(feed['cards'])} dated conversation topics (KR)")
 
 
