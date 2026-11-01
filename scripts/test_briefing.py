@@ -161,10 +161,29 @@ class SelectionTests(unittest.TestCase):
             responses=[]
             for payload in all_feeds():
                 response=MagicMock();response.__enter__.return_value.read.return_value=payload;responses.append(response)
-            with patch.object(collector,'ROOT',root),patch.object(collector,'urlopen',side_effect=responses),patch.object(collector,'datetime') as clock,patch.object(collector.time,'sleep'),patch.dict(os.environ,{'GITHUB_ACTIONS':'false'}):
+            with patch.object(collector,'ROOT',root),patch.object(collector,'urlopen',side_effect=responses) as fetch,patch.object(collector,'datetime') as clock,patch.object(collector.time,'sleep'),patch.dict(os.environ,{'GITHUB_ACTIONS':'false'}):
                 clock.now.return_value=NOW;collector.main()
+            self.assertIn('/rss/search?', fetch.call_args_list[0].args[0].full_url)
+            self.assertIn('/section/topic/ENTERTAINMENT?', fetch.call_args_list[1].args[0].full_url)
+            self.assertIn('ceid=KR%3Ako', fetch.call_args_list[1].args[0].full_url)
             for name,schema,limit in [('briefing-v4.json',4,14),('briefing-v3.json',3,10),('briefing.json',2,5)]:
                 data=json.loads((root/'data'/name).read_text());self.assertEqual(data['schema_version'],schema);self.assertEqual(len(data['cards']),limit)
+
+    def test_obituaries_and_celebrity_outfits_are_not_sports_or_technology(self):
+        for category,title in [('스포츠','배우, 조카 축구 경기 응원 차림 공개'),('기술·과학','[부고] 우주항공청장 모친상')]:
+            self.assertEqual(self.parse(rss([(title,'yna.co.kr',12,'a','')]),category),[])
+
+    def test_section_failure_uses_same_korean_keyword_fallback(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root=Path(directory);(root/'data').mkdir()
+            response=MagicMock();response.__enter__.return_value.read.return_value=all_feeds()[1]
+            denied=HTTPError('https://news.google.com',403,'denied',{},None)
+            with patch.object(collector,'ROOT',root),patch.object(collector,'TOPICS',[TOPICS[1]]),patch.object(collector,'urlopen',side_effect=[denied,response]) as fetch,patch.object(collector,'datetime') as clock,patch.object(collector.time,'sleep'),patch.dict(os.environ,{'GITHUB_ACTIONS':'false'}):
+                clock.now.return_value=NOW;collector.main()
+            self.assertEqual(fetch.call_count,2)
+            self.assertIn('/section/topic/ENTERTAINMENT?',fetch.call_args_list[0].args[0].full_url)
+            self.assertIn('/rss/search?',fetch.call_args_list[1].args[0].full_url)
+            self.assertEqual(len(json.loads((root/'data/briefing-v4.json').read_text())['cards']),2)
 
     def test_retry_transient_status_once_but_not_denied_access(self):
         response=MagicMock();response.__enter__.return_value.read.return_value=b'ok'

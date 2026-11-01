@@ -25,6 +25,8 @@ TOPICS = [
     ('경제·주식', '(금리 OR 물가 OR 환율 OR 코스피 OR 주식 OR 증시 OR 기업 실적)', '이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?', '기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.'),
     ('세계뉴스', '(국제 외교 OR 정상회담 OR 무역 협상 OR 국제 기후 OR 세계 보건)', '최근 글로벌 소식 중 관심이 갔던 변화가 있어요?', '국가·사람 전체를 단정하지 말고 사실과 해석을 구분해 이야기해 보세요.'),
 ]
+SECTIONS = {'연예': 'ENTERTAINMENT', '스포츠': 'SPORTS', '기술·과학': 'TECHNOLOGY',
+            '사회': 'NATION', '경제·주식': 'BUSINESS', '세계뉴스': 'WORLD'}
 PER_CATEGORY = 2
 PUBLISHERS = {'nocutnews.co.kr', 'kmib.co.kr', 'segye.com', 'asiae.co.kr', 'fnnews.com',
               'sportsseoul.com', 'sportschosun.com', 'osen.co.kr', 'starnewskorea.com',
@@ -36,7 +38,7 @@ PUBLISHERS = {'nocutnews.co.kr', 'kmib.co.kr', 'segye.com', 'asiae.co.kr', 'fnne
 LOCAL_PLACES = re.compile('서울|부산|인천|대구|광주|대전|울산|세종|제주|수원|고양|성남|용인|춘천|강릉|속초|양양|원주|청주|천안|공주|부여|보령|홍성|전주|군산|익산|여수|순천|목포|담양|경주|안동|포항|울진|창원|진주|통영|거제|남해|한강|성수|연남|여의도|국내|한국|국립')
 OVERSEAS_EVENTS = re.compile('중국|일본|장쑤|상하이|도쿄|오사카|대만|홍콩|방콕|싱가포르|타이베이|유럽|파리|런던|뉴욕|미국|양쯔강')
 NEW_CULTURE = re.compile('개봉|공개|신작|신곡|컴백|예고|첫방|첫 방송|개막|시즌|발매|개최|신보|수상|시상식|출연|방영|인터뷰')
-EXCLUDE = re.compile('성폭|총격|살해|혐오|자살|마약|참수|잔혹|리딩방|수익보장|급등주추천|종목추천|매수추천|지금사야')
+EXCLUDE = re.compile('부고|부음|모친상|부친상|성폭|총격|살해|혐오|자살|마약|참수|잔혹|리딩방|수익보장|급등주추천|종목추천|매수추천|지금사야')
 HEAVY = re.compile('사망|참사|전쟁|수사|기소|폭행|탄핵|재판|대통령|정당|국회|논란|폭발|부상')
 FINANCE = re.compile('주가|주식|증시|수익률|비트코인|매매')
 
@@ -87,6 +89,8 @@ def candidates(payload, category, question, context, now):
         if category == '기술·과학' and (re.search('투자|펀드|돈줄|증권|금융|채권|정크|기업실적|공모전|인재양성|우수학교|수상자 명단', headline) or not re.search('기술|과학|연구|발견|탐사|우주|위성|로켓|반도체|스마트폰|카메라|배터리|로봇|인공지능|AI|소프트웨어|기능|업데이트|NASA|화성|달 착륙|유전자|세포|양자|물리|실험', headline)):
             continue
         if category == '사회' and (re.search('시의회|구의회|도의회|정례회|행정사무감사|국정감사|위원장|의장|의원|정치|선거', headline) or not re.search('지원|신청|시행|변경|교통|버스|지하철|교육|학교|복지|서비스|요금|공공|생활|주민|시민|도서관|제도|가구|가족', headline)):
+            continue
+        if category == '스포츠' and re.search('조카|예능|드라마|배우|가수|출연|화보|차림|팬미팅', headline):
             continue
         if category == '스포츠' and not re.search('축구|야구|농구|배구|올림픽|월드컵|K리그|KBO|NBA|MLB|손흥민|이강인', headline):
             continue
@@ -177,10 +181,24 @@ def main():
             url = 'https://news.google.com/rss/search?' + urlencode(dict(q=search+' when:3d', hl='ko', gl='KR', ceid='KR:ko'))
             return candidates(fetch_rss(url), category, question, context, now)
         try:
-            articles = collect(query)
+            articles = []
+            section = SECTIONS.get(category)
+            if section:
+                section_url = 'https://news.google.com/rss/headlines/section/topic/' + section + '?' + urlencode(dict(hl='ko', gl='KR', ceid='KR:ko'))
+                try:
+                    articles = candidates(fetch_rss(section_url), category, question, context, now)
+                except Exception as error:
+                    print(f'{category}: section unavailable ({type(error).__name__}); using keyword feed')
+            if len(rank(articles, category, question, context)) < 2:
+                try:
+                    articles += collect(query)
+                except Exception:
+                    if not articles:
+                        raise
+            # Section + keyword + one targeted search, or keyword + two targeted searches.
             # At most two targeted queries per field; skip already confirmed events.
             if len(rank(articles, category, question, context)) < 2:
-                for search in corroboration_searches(articles):
+                for search in corroboration_searches(articles, limit=1 if section else 2):
                     time.sleep(.5)
                     try:
                         articles += collect(search)
