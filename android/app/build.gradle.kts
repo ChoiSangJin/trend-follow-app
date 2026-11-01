@@ -25,7 +25,7 @@ if (gradle.startParameter.taskNames.any { it.contains("release", ignoreCase = tr
 }
 
 android {
-    namespace = "com.followmz.app"
+    namespace = "com.malmun.app"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
     compileOptions {
@@ -33,7 +33,7 @@ android {
         targetCompatibility = JavaVersion.VERSION_17
     }
     defaultConfig {
-        applicationId = "com.followmz.app"
+        applicationId = "com.malmun.app"
         minSdk = 24
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode

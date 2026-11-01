@@ -2,84 +2,140 @@ import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:follow_mz/data/trend_repository.dart';
-import 'package:follow_mz/data/trends.dart';
-import 'package:follow_mz/main.dart';
-import 'package:follow_mz/state/trend_provider.dart';
+import 'package:malmun/data/briefing.dart';
+import 'package:malmun/data/briefing_repository.dart';
+import 'package:malmun/data/briefing_store.dart';
+import 'package:malmun/main.dart';
+import 'package:malmun/state/briefing_provider.dart';
+import 'fixtures.dart';
 
-class StubRepository extends TrendRepository {
-  StubRepository() : super(Dio(), endpoint: 'https://example.com/trends.json');
+class StubRepository extends BriefingRepository {
+  StubRepository()
+    : super(Dio(), MemoryStore(), endpoint: 'https://example.com');
+  FeedResult result = FeedResult(Briefing.fromJson(feedJson()), FeedMode.live);
   int calls = 0;
-  bool fail = false;
-  TrendFeed feed = TrendFeed.fromJson({
-    'is_demo': true, 'updated_at': '2026-10-30T09:00:00Z',
-    'categories': {
-      'keywords': [{'rank': 1, 'keyword': '테스트 키워드', 'search_volume': '100K+'}],
-      'memes': [{'title': '테스트 밈', 'description': '사용 예시 설명'}],
-      'hotplaces': [{'name': '테스트 장소', 'district': '성동구', 'crowd_level': '약간 붐빔'}],
-    },
-  });
   @override
-  Future<TrendFeed> fetch({bool force = false}) async {
+  Future<FeedResult> load({bool force = false}) async {
     calls++;
-    if (fail) throw Exception('offline');
-    return feed;
+    return result;
   }
 }
 
 void main() {
-  Future<void> mount(WidgetTester tester, StubRepository repository) async {
-    await tester.pumpWidget(ProviderScope(overrides: [
-      repositoryProvider.overrideWithValue(repository),
-    ], child: const FollowMzApp()));
+  Future<void> mount(
+    WidgetTester tester,
+    StubRepository repository, {
+    double scale = 1,
+    Brightness brightness = Brightness.light,
+  }) async {
+    tester.platformDispatcher.platformBrightnessTestValue = brightness;
+    tester.platformDispatcher.textScaleFactorTestValue = scale;
+    addTearDown(tester.platformDispatcher.clearTextScaleFactorTestValue);
+    addTearDown(tester.platformDispatcher.clearPlatformBrightnessTestValue);
+    await tester.pumpWidget(
+      ProviderScope(
+        overrides: [
+          repositoryProvider.overrideWithValue(repository),
+          storeProvider.overrideWithValue(MemoryStore()),
+        ],
+        child: const MalmunApp(),
+      ),
+    );
     await tester.pumpAndSettle();
   }
 
-  testWidgets('renders categories, expands memes, and labels sample data', (tester) async {
-    await mount(tester, StubRepository());
-    expect(find.text('테스트 키워드'), findsOneWidget);
-    expect(find.textContaining('예시 데이터'), findsOneWidget);
-    expect(find.textContaining('18:00 KST'), findsOneWidget);
-    await tester.tap(find.text('밈 & 유행어'));
-    await tester.pumpAndSettle();
-    await tester.tap(find.text('테스트 밈'));
-    await tester.pumpAndSettle();
-    expect(find.text('사용 예시 설명'), findsOneWidget);
-    await tester.tap(find.text('핫플레이스'));
-    await tester.pumpAndSettle();
-    expect(find.text('테스트 장소'), findsOneWidget);
-    expect(find.text('네이버지도'), findsOneWidget);
-    expect(find.text('카카오맵'), findsOneWidget);
-    expect(tester.takeException(), isNull);
-  });
-
-  testWidgets('initial failure offers retry and can recover', (tester) async {
-    final repository = StubRepository()..fail = true;
+  testWidgets(
+    'daily cards lead to dated source, context and conversation question',
+    (tester) async {
+      await mount(tester, StubRepository());
+      expect(find.text(' 말문'), findsNothing);
+      expect(find.text('말문'), findsOneWidget);
+      await tester.ensureVisible(find.text('대화 준비').first);
+      await tester.pumpAndSettle();
+      await tester.tap(find.text('대화 준비').first);
+      await tester.pumpAndSettle();
+      expect(find.text('왜 지금 이야기해?'), findsOneWidget);
+      expect(find.text('이렇게 말 걸어봐'), findsOneWidget);
+      expect(find.textContaining('본문을 읽은 요약이 아니며'), findsOneWidget);
+      await tester.scrollUntilVisible(find.text('출처 기사 읽기'), 250);
+      expect(tester.takeException(), isNull);
+    },
+  );
+  testWidgets(
+    'detail, back, category and saved transitions never mix bool and scroll offsets',
+    (tester) async {
+      await mount(tester, StubRepository());
+      await tester.ensureVisible(find.text('보관하기').first);
+      await tester.pumpAndSettle();
+      await tester.tap(find.text('보관하기').first);
+      await tester.pumpAndSettle();
+      await tester.ensureVisible(find.text('대화 준비').first);
+      await tester.pumpAndSettle();
+      await tester.tap(find.text('대화 준비').first);
+      await tester.pumpAndSettle();
+      await tester.drag(find.byType(ListView).last, const Offset(0, -500));
+      await tester.pumpAndSettle();
+      await tester.pageBack();
+      await tester.pumpAndSettle();
+      await tester.scrollUntilVisible(
+        find.byKey(const ValueKey('filter-음식')),
+        -250,
+      );
+      await tester.pumpAndSettle();
+      await tester.tap(find.byKey(const ValueKey('filter-음식')));
+      await tester.pumpAndSettle();
+      expect(
+        tester
+            .widget<FilterChip>(find.byKey(const ValueKey('filter-음식')))
+            .selected,
+        isTrue,
+      );
+      expect(find.text('오늘의 대화 소재 1'), findsNothing);
+      expect(find.text('오늘의 대화 소재 2'), findsOneWidget);
+      await tester.tap(find.text('보관함'));
+      await tester.pumpAndSettle();
+      expect(find.text('오늘의 대화 소재 1'), findsOneWidget);
+      await tester.tap(find.text('오늘의 말문'));
+      await tester.pumpAndSettle();
+      await tester.drag(find.byType(ListView).first, const Offset(0, -400));
+      await tester.pumpAndSettle();
+      expect(tester.takeException(), isNull);
+    },
+  );
+  testWidgets('offline practice is clearly labelled and refresh can recover', (
+    tester,
+  ) async {
+    final repository = StubRepository()
+      ..result = FeedResult(
+        Briefing.decode(encodedPractice),
+        FeedMode.practice,
+      );
     await mount(tester, repository);
-    expect(find.text('지금은 소식을 불러올 수 없어요'), findsOneWidget);
-    repository.fail = false;
-    await tester.tap(find.text('다시 시도'));
-    await tester.pumpAndSettle();
-    expect(find.text('테스트 키워드'), findsOneWidget);
-    expect(repository.calls, 2);
-  });
-
-  testWidgets('refresh failure retains last successful feed with warning', (tester) async {
-    final repository = StubRepository();
-    await mount(tester, repository);
-    repository.fail = true;
+    expect(find.textContaining('대화 연습 모드'), findsOneWidget);
+    repository.result = FeedResult(
+      Briefing.fromJson(feedJson()),
+      FeedMode.live,
+    );
     await tester.tap(find.byTooltip('새로고침'));
     await tester.pumpAndSettle();
-    expect(find.text('테스트 키워드'), findsOneWidget);
-    expect(find.textContaining('업데이트 실패'), findsOneWidget);
-  });
-
-  testWidgets('empty category has retry action and supports pull refresh', (tester) async {
-    final repository = StubRepository()..feed = const TrendFeed();
-    await mount(tester, repository);
-    expect(find.text('새로운 소식을 준비 중이에요'), findsOneWidget);
-    await tester.drag(find.byType(ListView), const Offset(0, 400));
-    await tester.pumpAndSettle();
+    expect(find.textContaining('대화 연습 모드'), findsNothing);
     expect(repository.calls, 2);
+  });
+  testWidgets('narrow screen and dark mode render without overflow', (
+    tester,
+  ) async {
+    tester.view.physicalSize = const Size(1080, 2340);
+    tester.view.devicePixelRatio = 3;
+    addTearDown(tester.view.resetPhysicalSize);
+    addTearDown(tester.view.resetDevicePixelRatio);
+    await mount(
+      tester,
+      StubRepository(),
+      brightness: Brightness.dark,
+      scale: 2,
+    );
+    await tester.drag(find.byType(ListView), const Offset(0, -400));
+    await tester.pumpAndSettle();
+    expect(tester.takeException(), isNull);
   });
 }
