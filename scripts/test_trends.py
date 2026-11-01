@@ -95,6 +95,8 @@ class TrendsTests(unittest.TestCase):
         title='수면제 커피 먹이고 내기골프…7,500만 원 가로챈 일당'
         payload=rss([(title,'yna.co.kr',2,'crime','')])
         self.assertEqual(candidates(payload,'스포츠','질문','맥락',NOW,minimum_age_hours=0),[])
+        pitching=rss([('오타니 MLB 야구 복귀 투구 구속 160km 기록','yna.co.kr',2,'pitch','')])
+        self.assertEqual(len(candidates(pitching,'스포츠','질문','맥락',NOW,minimum_age_hours=0)),1)
         crime=[{**report(2,i),'category':'스포츠','title':title,'summary':title} for i in range(3)]
         history={**previous(),'articles':crime}
         feed,stored=self.build([],history)
