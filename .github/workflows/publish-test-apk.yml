@@ -69,7 +69,13 @@ jobs:
           pattern = r'Signer #1 certificate SHA-256 digest: ([0-9a-fA-F]+)'
           current = re.search(pattern, Path('/tmp/malmun-current-cert.txt').read_text())
           previous = re.search(pattern, Path('/tmp/malmun-previous-cert.txt').read_text())
-          if not current or not previous or current.group(1).lower() != previous.group(1).lower():
+          if not current or not previous:
+              print('Current APK public certificate:', Path('/tmp/malmun-current-cert.txt').read_text())
+              print('Previous APK public certificate:', Path('/tmp/malmun-previous-cert.txt').read_text())
+              raise SystemExit('Cannot parse APK certificate fingerprints')
+          if current.group(1).lower() != previous.group(1).lower():
+              print('Current certificate SHA256:', current.group(1))
+              print('Previous certificate SHA256:', previous.group(1))
               raise SystemExit('Update signing certificate differs from Malmun v2.0.0')
           badging = Path('/tmp/malmun-badging.txt').read_text()
           version = re.search(r'^version: ([^+\s]+)', Path('pubspec.yaml').read_text(), re.M).group(1)
