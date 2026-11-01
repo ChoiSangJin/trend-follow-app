@@ -3,6 +3,7 @@ This measures a bounded RSS sample, never audience size or factual consensus.
 """
 import hashlib
 import re
+from functools import lru_cache
 from datetime import datetime
 from difflib import SequenceMatcher
 
@@ -12,6 +13,7 @@ ALIASES = [('연방준비제도', '연준'), ('베를린필하모닉', '베를�
 PARTICLES = ('에서는', '에도', '으로', '에서', '에게', '까지', '부터', '보다', '에는', '하며', '했다', '한다', '하는', '위한', '은', '는', '을', '를', '과', '와', '의', '이', '가')
 
 
+@lru_cache(maxsize=8192)
 def normalized(title):
     value = re.sub(r'\[[^\]]*\]', ' ', title).lower()
     for source, target in ALIASES:
@@ -19,6 +21,7 @@ def normalized(title):
     return ' '.join(re.findall(r'[가-힣a-z0-9]+', value))
 
 
+@lru_cache(maxsize=8192)
 def tokens(title):
     result = []
     for word in normalized(title).split():
@@ -32,15 +35,17 @@ def tokens(title):
                 break
         if len(word) >= 2 and word not in STOP and not word.isdigit():
             result.append(word)
-    return set(result)
+    return frozenset(result)
 
 
 def related(a, b):
     if a['id'] == b['id'] or a['source_url'] == b['source_url']:
         return True
+    shared = tokens(a['title']) & tokens(b['title'])
+    if not shared:
+        return False
     left, right = normalized(a['title']), normalized(b['title'])
     ratio = SequenceMatcher(None, left, right).ratio()
-    shared = tokens(a['title']) & tokens(b['title'])
     union = tokens(a['title']) | tokens(b['title'])
     overlap = len(shared) / max(1, len(union))
     # Matching a named player and the same winning streak handles long match reports.
@@ -70,7 +75,7 @@ def clusters(articles):
     return result
 
 
-def independent_reports(group):
+def grouped_reports(group):
     """Collapse publisher-domain groups, explicit wire attribution and near-copy titles.
 
     This cannot detect every rewritten syndicated article. UI/docs describe an estimate.
@@ -93,9 +98,13 @@ def independent_reports(group):
     for item in headline_buckets:
         a, b = root(item['origin_group']), root(item['effective_group'])
         parent[max(a, b)] = min(a, b)
+    return [{**item, 'effective_group': root(item['origin_group'])} for item in headline_buckets]
+
+
+def independent_reports(group):
     by_group = {}
-    for item in headline_buckets:
-        key = root(item['origin_group'])
+    for item in grouped_reports(group):
+        key = item['effective_group']
         if key not in by_group or item['published_at'] > by_group[key]['published_at']:
             by_group[key] = {**item, 'effective_group': key}
     return sorted(by_group.values(), key=lambda x: (x['published_at'], x['id']), reverse=True)

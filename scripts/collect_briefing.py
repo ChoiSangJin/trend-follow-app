@@ -16,6 +16,7 @@ from urllib.error import HTTPError
 from rank_topics import rank, corroboration_searches, related, clusters, independent_reports, additional_reading
 
 from retain_briefing import carry_recent
+from build_trends import build_trends, date as article_date
 
 ROOT = Path(__file__).resolve().parents[1]
 TOPICS = [
@@ -49,7 +50,7 @@ HEAVY = re.compile('사망|참사|전쟁|수사|기소|폭행|탄핵|재판|대�
 FINANCE = re.compile('주가|주식|증시|수익률|비트코인|매매')
 
 
-def candidates(payload, category, question, context, now):
+def candidates(payload, category, question, context, now, *, minimum_age_hours=6):
     root = ET.fromstring(payload)
     channel = root.find('channel')
     if channel is None or channel.findtext('language', '').lower() not in ('ko', 'ko-kr'):
@@ -78,7 +79,7 @@ def candidates(payload, category, question, context, now):
         if (not publisher or not 8 <= len(title) <= 220 or EXCLUDE.search(title)
                 or not re.search('[가-힣]', title) or parsed.scheme != 'https'
                 or parsed.hostname != 'news.google.com' or parsed.username
-                or date < now - timedelta(hours=72) or date > now - timedelta(hours=6)):
+                or date < now - timedelta(hours=72) or date > now - timedelta(hours=minimum_age_hours)):
             continue
         heavy = HEAVY.pattern if category != '스포츠' else HEAVY.pattern.replace('|부상', '')
         if category not in ('경제·주식', '세계뉴스') and (re.search(heavy, title) or FINANCE.search(title)):
@@ -171,7 +172,7 @@ def legacy_briefing(feed):
 def fetch_rss(url):
     for attempt in range(2):
         try:
-            with urlopen(Request(url, headers={'User-Agent': 'Malmun/2.3 RSS reader'}), timeout=15) as response:
+            with urlopen(Request(url, headers={'User-Agent': 'Malmun/2.4 RSS reader'}), timeout=15) as response:
                 payload = response.read(2_000_001)
             if len(payload) > 2_000_000:
                 raise ValueError('Feed exceeded size limit')
@@ -188,6 +189,12 @@ def fetch_rss(url):
 
 def main():
     feeds = []
+    observed = []
+    observed_available = []
+    try:
+        history = json.loads((ROOT / 'data/trends-history.json').read_text(encoding='utf-8'))
+    except (OSError, ValueError):
+        history = None
     previous = None
     for name in ('briefing-v5.json', 'briefing-v4.json'):
         try:
@@ -196,51 +203,58 @@ def main():
         except (OSError, ValueError):
             continue
     now = datetime.now(timezone.utc)
+    def mature(items):
+        return [a for a in items if article_date(a['published_at']) <= now-timedelta(hours=6)]
     for category, query, question, context in TOPICS:
         def collect(search):
             url = 'https://news.google.com/rss/search?' + urlencode(dict(q=search+' when:3d', hl='ko', gl='KR', ceid='KR:ko'))
-            return candidates(fetch_rss(url), category, question, context, now)
+            return candidates(fetch_rss(url), category, question, context, now, minimum_age_hours=0)
         try:
             articles = []
+            complete = True
             section = SECTIONS.get(category)
             if section:
                 section_url = 'https://news.google.com/rss/headlines/section/topic/' + section + '?' + urlencode(dict(hl='ko', gl='KR', ceid='KR:ko'))
                 try:
-                    articles = candidates(fetch_rss(section_url), category, question, context, now)
+                    articles = candidates(fetch_rss(section_url), category, question, context, now, minimum_age_hours=0)
                 except Exception as error:
+                    complete = False
                     print(f'{category}: section unavailable ({type(error).__name__}); using keyword feed')
-            if len(rank(articles, category, question, context)) < 2:
-                try:
-                    articles += collect(query)
-                except Exception:
-                    if not articles and category not in EXTRA_QUERIES:
-                        raise
+            try:
+                articles += collect(query)
+            except Exception:
+                complete = False
+                if not articles and category not in EXTRA_QUERIES:
+                    raise
             for extra in EXTRA_QUERIES.get(category, []):
-                if len(rank(articles, category, question, context)) >= 2:
-                    break
                 time.sleep(.5)
                 try:
                     articles += collect(extra)
                 except Exception as error:
+                    complete = False
                     print(f'{category}: subtopic unavailable ({type(error).__name__})')
+            # Fixed probes only contribute to trend history; targeted searches are for recommendations.
+            observed.extend(articles)
+            if complete:
+                observed_available.append(category)
             # Arts <=5, sports <=6, other fields <=3 logical feed requests.
 
             # At most two targeted queries per field; skip already confirmed events.
-            if len(rank(articles, category, question, context)) < 2:
+            if len(rank(mature(articles), category, question, context)) < 2:
                 for search in corroboration_searches(articles, limit=1 if section or category in EXTRA_QUERIES else 2):
                     time.sleep(.5)
                     try:
                         articles += collect(search)
-                        if len(rank(articles, category, question, context)) >= 2:
+                        if len(rank(mature(articles), category, question, context)) >= 2:
                             break
                     except Exception as error:
                         print(f'{category}: corroboration unavailable ({type(error).__name__})')
-            if os.environ.get('GITHUB_ACTIONS') == 'true' and len(rank(articles, category, question, context)) < 2:
+            if os.environ.get('GITHUB_ACTIONS') == 'true' and len(rank(mature(articles), category, question, context)) < 2:
                 groups = sorted(clusters(articles), key=len, reverse=True)[:8]
                 diagnostics = [dict(reports=len(g), groups=len(independent_reports(g)),
                                     headlines=[a['title'] for a in g[:3]]) for g in groups]
                 print('::notice title=Briefing candidates::' + category + ' ' + json.dumps(diagnostics, ensure_ascii=False))
-            feeds.append(articles)
+            feeds.append(mature(articles))
         except Exception as error:
             detail = f'HTTP {error.code}' if isinstance(error, HTTPError) else type(error).__name__
             print(f'{category}: unavailable ({detail})')
@@ -249,9 +263,10 @@ def main():
             feeds.append(None)
         time.sleep(.5)
     feed = carry_recent(build_briefing(feeds, now), previous, now, [t[0] for t in TOPICS])
-    versions = [('briefing-v5.json', feed), ('briefing-v4.json', legacy_v4(feed)), ('briefing-v3.json', legacy_v3(feed)), ('briefing.json', legacy_briefing(feed))]
+    trends, history = build_trends(observed, history, now, TOPICS, observed_available)
+    versions = [('trends-v1.json', trends), ('trends-history.json', history), ('briefing-v5.json', feed), ('briefing-v4.json', legacy_v4(feed)), ('briefing-v3.json', legacy_v3(feed)), ('briefing.json', legacy_briefing(feed))]
     for filename, data in versions:
-        if not data['cards']:
+        if 'cards' in data and not data['cards'] and filename not in ('trends-v1.json',):
             continue
         target = ROOT / 'data' / filename
         temporary = target.with_suffix('.tmp')

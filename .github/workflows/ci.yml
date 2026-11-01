@@ -51,4 +51,6 @@ jobs:
             data/briefing-v3.json
             data/briefing-v4.json
             data/briefing-v5.json
+            data/trends-v1.json
+            data/trends-history.json
           if-no-files-found: error
