@@ -15,14 +15,16 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 TOPICS = [
-    ('문화·예술', '(전시 개막 OR 미술관 OR 공연 개막 OR 문학상 OR 신간)', '요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?', '전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.'),
-    ('연예', '(드라마 공개 OR 예능 공개 OR 신곡 OR 컴백 OR 영화 개봉)', '요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?', '결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.'),
+    ('문화·예술', '(미술 전시 OR 뮤지컬 개막 OR 연극 개막 OR 문학상 OR 신간 출간 OR 클래식 공연)', '요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?', '전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.'),
+    ('연예', '(드라마 공개 OR 예능 첫방송 OR 신곡 발표 OR 새 앨범 OR 영화 개봉)', '요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?', '결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.'),
     ('스포츠', '(프로야구 OR 프로농구 OR 축구 경기 OR 배구 경기)', '요즘 챙겨 보는 경기나 응원하는 팀 있어요?', '상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.'),
-    ('기술·과학', '(인공지능 OR 스마트폰 OR 과학 OR 우주)', '최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?', '연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.'),
+    ('기술·과학', '(인공지능 신기능 OR 스마트폰 신제품 OR 과학 발견 OR 우주 탐사 OR 로봇 기술)', '최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?', '연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.'),
     ('사회', '(생활 제도 OR 대중교통 OR 교육 정책 OR 공공 서비스 OR 복지 제도)', '이런 변화가 일상에 도움이 될 것 같아요?', '제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.'),
 ]
 PER_CATEGORY = 2
-PUBLISHERS = {'yna.co.kr', 'newsis.com', 'news1.kr', 'kbs.co.kr', 'imbc.com', 'sbs.co.kr',
+PUBLISHERS = {'nocutnews.co.kr', 'kmib.co.kr', 'segye.com', 'asiae.co.kr', 'fnnews.com',
+              'sportsseoul.com', 'sportschosun.com', 'osen.co.kr', 'starnewskorea.com',
+              'xportsnews.com', 'isplus.com', 'mydaily.co.kr', 'spotvnews.co.kr', 'yna.co.kr', 'newsis.com', 'news1.kr', 'kbs.co.kr', 'imbc.com', 'sbs.co.kr',
               'hani.co.kr', 'khan.co.kr', 'donga.com', 'chosun.com', 'joongang.co.kr',
               'hankyung.com', 'mk.co.kr', 'etnews.com', 'zdnet.co.kr', 'ytn.co.kr',
               'seoul.co.kr', 'ohmynews.com', 'edaily.co.kr', 'mt.co.kr', 'bloter.net',
@@ -70,7 +72,13 @@ def candidates(payload, category, question, context, now):
             continue
         if category == '연예' and (not NEW_CULTURE.search(headline) or re.search('열애|이혼|결별|사생활|폭로|불륜|악플', headline)):
             continue
-        if category == '문화·예술' and not re.search('전시|미술|박물관|공연|연극|뮤지컬|문학|신간|출간|도서|책|음악회|오케스트라|예술|발레', headline):
+        if category == '문화·예술' and not re.search('미술|박물관|공연|연극|뮤지컬|문학|신간|출간|도서|독서|서점|책방|음악회|오케스트라|예술|발레|작가|화가|조각|사진전', headline):
+            continue
+        if category == '연예' and not re.search('영화|드라마|예능|신곡|컴백|앨범|콘서트|배우|가수|아이돌|넷플릭스|신작|OTT', headline):
+            continue
+        if category == '기술·과학' and (re.search('투자|펀드|돈줄|증권|금융|채권|정크|기업실적', headline) or not re.search('기술|과학|연구|발견|탐사|우주|위성|로켓|반도체|스마트폰|카메라|배터리|로봇|인공지능|AI|소프트웨어|기능|업데이트', headline)):
+            continue
+        if category == '사회' and (re.search('시의회|구의회|도의회|정례회|행정사무감사|국정감사|위원장|의장|의원|정치|선거', headline) or not re.search('지원|신청|시행|변경|교통|버스|지하철|교육|학교|복지|서비스|요금|공공|생활|주민|시민|도서관|제도|가구|가족', headline)):
             continue
         results.append(dict(
             id=hashlib.sha256(url.encode()).hexdigest()[:20], category=category,
