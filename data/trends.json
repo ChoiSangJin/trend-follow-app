@@ -1,10 +1,39 @@
 {
-  "updated_at": null,
-  "is_demo": false,
   "region": "KR",
   "feed_type": "korean_trends",
+  "updated_at": "2026-11-01T06:12:36.495197Z",
+  "is_demo": false,
   "categories": {
-    "keywords": [],
+    "keywords": [
+      {
+        "rank": 1,
+        "keyword": "야구중계",
+        "search_volume": "1000+",
+        "source_url": "https://trends.google.com/trending/rss?geo=KR",
+        "source": "Google Trends 대한민국 · 한글 포함 · 검색량 1천회 이상"
+      },
+      {
+        "rank": 2,
+        "keyword": "야구 중계",
+        "search_volume": "5000+",
+        "source_url": "https://trends.google.com/trending/rss?geo=KR",
+        "source": "Google Trends 대한민국 · 한글 포함 · 검색량 1천회 이상"
+      },
+      {
+        "rank": 3,
+        "keyword": "kia 대 삼성",
+        "search_volume": "100000+",
+        "source_url": "https://trends.google.com/trending/rss?geo=KR",
+        "source": "Google Trends 대한민국 · 한글 포함 · 검색량 1천회 이상"
+      },
+      {
+        "rank": 4,
+        "keyword": "티빙",
+        "search_volume": "5000+",
+        "source_url": "https://trends.google.com/trending/rss?geo=KR",
+        "source": "Google Trends 대한민국 · 한글 포함 · 검색량 1천회 이상"
+      }
+    ],
     "memes": [
       {
         "id": "gatsaeng",
