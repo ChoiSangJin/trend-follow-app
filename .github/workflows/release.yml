@@ -1,0 +1,94 @@
+name: Release ARM64 APK
+on:
+  push:
+    tags: ['v*']
+permissions:
+  contents: write
+concurrency:
+  group: release-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Require a main branch commit and a valid version tag
+        env:
+          RELEASE_TAG: ${{ github.ref_name }}
+        run: |
+          git merge-base --is-ancestor HEAD origin/main
+          python3 - <<'PY'
+          import os, re
+          from pathlib import Path
+          version = re.search(r'^version: ([^+\s]+)', Path('pubspec.yaml').read_text(), re.M).group(1)
+          if os.environ['RELEASE_TAG'] != f'v{version}':
+              raise SystemExit('Release tag must match pubspec.yaml version')
+          PY
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.47.9'
+          channel: stable
+          cache: true
+      - run: flutter pub get
+      - run: flutter analyze --fatal-infos
+      - run: flutter test
+      - run: python3 -m unittest discover -s scripts -p 'test_*.py' -v
+      - name: Prepare persistent release signing key
+        env:
+          KEYSTORE: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+          STORE_PASSWORD: ${{ secrets.ANDROID_STORE_PASSWORD }}
+          KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
+        run: |
+          python3 - <<'PY'
+          import base64, os
+          from pathlib import Path
+          names = ['KEYSTORE', 'STORE_PASSWORD', 'KEY_PASSWORD', 'KEY_ALIAS']
+          if any(not os.environ.get(name) for name in names):
+              raise SystemExit('Configure the four ANDROID_* signing secrets listed in README.md')
+          key = Path(os.environ['RUNNER_TEMP']) / 'follow-mz-release.jks'
+          key.write_bytes(base64.b64decode(os.environ['KEYSTORE'], validate=True))
+          key.chmod(0o600)
+          def escape(value):
+              return ''.join('\\u%04x' % ord(c) if ord(c) > 126 else
+                  {'\\': '\\\\', '\n': '\\n', '\r': '\\r', '\t': '\\t', ' ': '\\ '}.get(c, c)
+                  for c in value)
+          values = {'storeFile': str(key), 'storePassword': os.environ['STORE_PASSWORD'],
+                    'keyPassword': os.environ['KEY_PASSWORD'], 'keyAlias': os.environ['KEY_ALIAS']}
+          config = Path('android/key.properties')
+          config.write_text(''.join(f'{k}={escape(v)}\n' for k,v in values.items()))
+          config.chmod(0o600)
+          PY
+      - name: Build signed ARM64 release
+        run: flutter build apk --release --split-per-abi --target-platform=android-arm64 --build-number=${{ github.run_number }}
+      - name: Verify APK signature and ABI
+        run: |
+          APK=build/app/outputs/flutter-apk/app-arm64-v8a-release.apk
+          BUILD_TOOLS=$(find "$ANDROID_HOME/build-tools" -mindepth 1 -maxdepth 1 -type d | sort -V | tail -1)
+          "$BUILD_TOOLS/apksigner" verify --verbose "$APK"
+          python3 - <<'PY'
+          import zipfile
+          with zipfile.ZipFile('build/app/outputs/flutter-apk/app-arm64-v8a-release.apk') as apk:
+              abis = {name.split('/')[1] for name in apk.namelist() if name.startswith('lib/') and name.endswith('.so')}
+          if abis != {'arm64-v8a'}:
+              raise SystemExit(f'Unexpected APK ABIs: {abis}')
+          PY
+          cp "$APK" Follow-MZ-arm64-v8a.apk
+          sha256sum Follow-MZ-arm64-v8a.apk > SHA256SUMS
+      - name: Publish GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ github.ref_name }}
+        run: |
+          gh release create "$RELEASE_TAG" Follow-MZ-arm64-v8a.apk SHA256SUMS \
+            --verify-tag --title "Follow MZ $RELEASE_TAG" --generate-notes \
+            --notes 'Android 7.0(API 24)+ · ARM64 기기 전용. APK와 SHA256 체크섬을 내려받아 설치하세요. 최초 데이터 수집 전에는 예시 데이터가 표시됩니다.'
+      - name: Remove signing material
+        if: always()
+        run: rm -f android/key.properties "$RUNNER_TEMP/follow-mz-release.jks"
