@@ -1,0 +1,34 @@
+{
+  "updated_at": "2026-10-30T09:00:00Z",
+  "is_demo": true,
+  "categories": {
+    "memes": [
+      {
+        "id": "example-m1",
+        "title": "예시 · 밈 카드를 펼쳐 보세요",
+        "description": "여기에는 유행어의 뜻, 유래, 실제 사용 예시가 표시됩니다. 이 항목은 화면 구성을 설명하기 위한 예시입니다.",
+        "source": "Follow MZ 예시 데이터",
+        "tags": ["예시", "사용 안내"]
+      }
+    ],
+    "hotplaces": [
+      {
+        "id": "example-h1",
+        "name": "예시 · 성수동 카페거리",
+        "district": "서울 성동구 성수동",
+        "crowd_level": "실시간 정보 미연동",
+        "age_20s_ratio": "미제공",
+        "map_query": "성수동 카페거리",
+        "source": "Follow MZ 예시 데이터"
+      }
+    ],
+    "keywords": [
+      {
+        "rank": 1,
+        "keyword": "예시 · 두바이 초콜릿",
+        "search_volume": "예시",
+        "source": "Follow MZ 예시 데이터"
+      }
+    ]
+  }
+}
