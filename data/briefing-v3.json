@@ -2,118 +2,350 @@
   "schema_version": 3,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-01T10:40:44.808655Z",
+  "updated_at": "2026-11-01T11:52:00.156814Z",
   "cards": [
     {
-      "id": "ebf6a2fb483565709b03",
-      "category": "연예",
-      "title": "엔하이픈의 로맨틱 감성…'I Want You'로 컴백",
-      "summary": "엔하이픈의 로맨틱 감성…'I Want You'로 컴백",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 2시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘엔하이픈의 로맨틱 감성…'I Want You'로 컴백’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "전자신문",
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZOThXYnZCT05fSDNCN1B4UksyUkF3Z1NrUjVvRmxXdnI1MFQ2RkdOc0pCOGpxMEtrUHNjNXoyenVjZ0JEa2JsU0FIamQ4dw?oc=5",
-      "published_at": "2026-11-01T02:55:55Z",
+      "id": "7e488a86f0ca15f92da6",
+      "category": "문화·예술",
+      "title": "현대백화점, '제41회 어린이 그림그리기 대회' 수상작 특별전",
+      "summary": "현대백화점, '제41회 어린이 그림그리기 대회' 수상작 특별전",
+      "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘현대백화점, '제41회 어린이 그림그리기 대회' 수상작 특별전’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
+      "source": "뉴시스",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81b1hIQ1RXejVJdE95UDU2S2wzelRGVFNhX1VqY0F3NzdQNmpGeWFCVjFCLVZfT0JZVFplTFJxd1NGS1dKbkhCall6d1lnZ2JYR3BGaG9RdGdTV1doM0NLeDRwVDM3ZmdNUTdNT0wzdHo2MlVtamNpLdIBeEFVX3lxTE81b1hIQ1RXejVJdE95UDU2S2wzelRGVFNhX1VqY0F3NzdQNmpGeWFCVjFCLVZfT0JZVFplTFJxd1NGS1dKbkhCall6d1lnZ2JYR3BGaG9RdGdTV1doM0NLeDRwVDM3ZmdNUTdNT0wzdHo2MlVtamNpLQ?oc=5",
+      "published_at": "2026-11-01T00:13:42Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 2.8,
-        "first_report_at": "2026-11-01T00:07:00Z",
-        "last_report_at": "2026-11-01T02:55:55Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LNTBxLW0tM21SN0Z3bkotY01wWm9TTWROTWVFUzlYMldiS19UQXpsV1Z1bkdVeEdEWGtsZS02SDltbkpnS2VzeWpnTFdDZU9NXzNoaw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZOThXYnZCT05fSDNCN1B4UksyUkF3Z1NrUjVvRmxXdnI1MFQ2RkdOc0pCOGpxMEtrUHNjNXoyenVjZ0JEa2JsU0FIamQ4dw?oc=5",
+        "source_groups": 3,
+        "report_count": 6,
+        "span_hours": 1.9,
+        "first_report_at": "2026-10-31T23:40:36Z",
+        "last_report_at": "2026-11-01T01:35:10Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WeWotQkI2NHZpVmg0WWhjclh4WXh4OFRhaU1MOU1lcEZWdzR4UFdHMmViNE5YRUhhZ05ubkV6b0oxSnA4cGdfZTNhejhJaUZsdjFuR2x3UlIxZw?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oOHhNZlFGd3hndU44YXlTRzh4VEpCZlpLU3JtT2JraXV1VEJCbzdWMWloNTQ0Mk16YkNUaVo1WU9DQy1oaDZOSzAzQkYydExLWVlyU0dvOWRBb0RDMENIVk54Z1FaOFFFQmhvRWNCY9IBb0FVX3lxTE5oOHhNZlFGd3hndU44YXlTRzh4VEpCZlpLU3JtT2JraXV1VEJCbzdWMWloNTQ0Mk16YkNUaVo1WU9DQy1oaDZOSzAzQkYydExLWVlyU0dvOWRBb0RDMENIVk54Z1FaOFFFQmhvRWNCYw?oc=5",
         "sources": [
           {
-            "name": "전자신문",
-            "group": "etnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZOThXYnZCT05fSDNCN1B4UksyUkF3Z1NrUjVvRmxXdnI1MFQ2RkdOc0pCOGpxMEtrUHNjNXoyenVjZ0JEa2JsU0FIamQ4dw?oc=5",
-            "published_at": "2026-11-01T02:55:55Z"
+            "name": "머니투데이",
+            "group": "mt.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oOHhNZlFGd3hndU44YXlTRzh4VEpCZlpLU3JtT2JraXV1VEJCbzdWMWloNTQ0Mk16YkNUaVo1WU9DQy1oaDZOSzAzQkYydExLWVlyU0dvOWRBb0RDMENIVk54Z1FaOFFFQmhvRWNCY9IBb0FVX3lxTE5oOHhNZlFGd3hndU44YXlTRzh4VEpCZlpLU3JtT2JraXV1VEJCbzdWMWloNTQ0Mk16YkNUaVo1WU9DQy1oaDZOSzAzQkYydExLWVlyU0dvOWRBb0RDMENIVk54Z1FaOFFFQmhvRWNCYw?oc=5",
+            "published_at": "2026-11-01T01:35:10Z"
           },
           {
-            "name": "JTBC",
-            "group": "jtbc.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LNTBxLW0tM21SN0Z3bkotY01wWm9TTWROTWVFUzlYMldiS19UQXpsV1Z1bkdVeEdEWGtsZS02SDltbkpnS2VzeWpnTFdDZU9NXzNoaw?oc=5",
-            "published_at": "2026-11-01T00:07:00Z"
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoRGN0Z0tOdkI3Y2lKYVJ1QjAxYm8xREozWkp1ZUc2SXpqRDU5REcwcVM3amNhS084aTBsZzA5Xy01Qng2c0VrcmlxZEEtUzdTSDBYSGd4UnkwSkF3QlpF?oc=5",
+            "published_at": "2026-11-01T01:16:54Z"
+          },
+          {
+            "name": "뉴시스",
+            "group": "hankyung.com",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81b1hIQ1RXejVJdE95UDU2S2wzelRGVFNhX1VqY0F3NzdQNmpGeWFCVjFCLVZfT0JZVFplTFJxd1NGS1dKbkhCall6d1lnZ2JYR3BGaG9RdGdTV1doM0NLeDRwVDM3ZmdNUTdNT0wzdHo2MlVtamNpLdIBeEFVX3lxTE81b1hIQ1RXejVJdE95UDU2S2wzelRGVFNhX1VqY0F3NzdQNmpGeWFCVjFCLVZfT0JZVFplTFJxd1NGS1dKbkhCall6d1lnZ2JYR3BGaG9RdGdTV1doM0NLeDRwVDM3ZmdNUTdNT0wzdHo2MlVtamNpLQ?oc=5",
+            "published_at": "2026-11-01T00:13:42Z"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "f75ffcae082afdcaa7fb",
-      "category": "기술·과학",
-      "title": "행안부, 공무원 업무망에 AI 웹검색 도입…12월 한글 보고서 작성 지원",
-      "summary": "행안부, 공무원 업무망에 AI 웹검색 도입…12월 한글 보고서 작성 지원",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘행안부, 공무원 업무망에 AI 웹검색 도입…12월 한글 보고서 작성 지원’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
-      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-      "source": "지디넷코리아",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82VUVJWGowOXdaTnU0NHU3MjVTbW5zMV9oSWhWWGQ5NVBlMWIzSG9yN1NxcURHQkd2YVhFOWM0T1R5WVdtUU83NW11M3RDbW1OZ1JNa3dR?oc=5",
-      "published_at": "2026-11-01T04:05:29Z",
+      "id": "8c1f09c49dd77a94d3c4",
+      "category": "문화·예술",
+      "title": "거울 속에 숨은 '내일로 가는 방법'…국립현대미술관 청주, 로와정 전시",
+      "summary": "거울 속에 숨은 '내일로 가는 방법'…국립현대미술관 청주, 로와정 전시",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 16시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘거울 속에 숨은 '내일로 가는 방법'…국립현대미술관 청주, 로와정 전시’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
+      "source": "파이낸셜뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qUWV5RFBwdDdhYVExcmhlXy1hVVJFNk5ESzdkTnlNVlFYWm14cDFFYS1uYkJSZG1nYzlXTEZqckFiaFkzQ2ppUW8yeG1fLWp6U2JVX3lJT1Rodw?oc=5",
+      "published_at": "2026-10-30T23:30:00Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 2,
         "report_count": 2,
-        "span_hours": 1.1,
-        "first_report_at": "2026-11-01T03:00:06Z",
-        "last_report_at": "2026-11-01T04:05:29Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85TU9fRkV6Wkl3aXFzb29VdnVhZzl6MWg2MHpXLWYwdGxiUFU4MmFmUzVaUWpvcXlrQWVmei1IaGY2MEZtcG8xdnhXMXJiNzI3VEZhTExPVnJiSkHSAWBBVV95cUxQR2g3TS1FNUU3V0FUOGJTOFc5Y2hHVlJEajBmVFNVcHNfRUktSFlMem82ZWpZSjFmRU00LWF6ZHVvTG9oblpzbDM2WnVGSjFEdzdIb2gwS3FwcjRmbjlHWEY?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82VUVJWGowOXdaTnU0NHU3MjVTbW5zMV9oSWhWWGQ5NVBlMWIzSG9yN1NxcURHQkd2YVhFOWM0T1R5WVdtUU83NW11M3RDbW1OZ1JNa3dR?oc=5",
+        "span_hours": 16.8,
+        "first_report_at": "2026-10-30T06:43:24Z",
+        "last_report_at": "2026-10-30T23:30:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5aUx3US1FTmNELTRhSnJjeThXMHRjU3BQOF9BM09rRkVTenZjWjlZRldFcnpxb2hXTFBRdEM4MTVOQkpBbmdMNFNiUVRab1hGQlpZRlVRNzVwTk9Ld013MA?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qUWV5RFBwdDdhYVExcmhlXy1hVVJFNk5ESzdkTnlNVlFYWm14cDFFYS1uYkJSZG1nYzlXTEZqckFiaFkzQ2ppUW8yeG1fLWp6U2JVX3lJT1Rodw?oc=5",
         "sources": [
           {
-            "name": "지디넷코리아",
-            "group": "zdnet.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82VUVJWGowOXdaTnU0NHU3MjVTbW5zMV9oSWhWWGQ5NVBlMWIzSG9yN1NxcURHQkd2YVhFOWM0T1R5WVdtUU83NW11M3RDbW1OZ1JNa3dR?oc=5",
-            "published_at": "2026-11-01T04:05:29Z"
+            "name": "파이낸셜뉴스",
+            "group": "fnnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qUWV5RFBwdDdhYVExcmhlXy1hVVJFNk5ESzdkTnlNVlFYWm14cDFFYS1uYkJSZG1nYzlXTEZqckFiaFkzQ2ppUW8yeG1fLWp6U2JVX3lJT1Rodw?oc=5",
+            "published_at": "2026-10-30T23:30:00Z"
+          },
+          {
+            "name": "아시아경제",
+            "group": "asiae.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5aUx3US1FTmNELTRhSnJjeThXMHRjU3BQOF9BM09rRkVTenZjWjlZRldFcnpxb2hXTFBRdEM4MTVOQkpBbmdMNFNiUVRab1hGQlpZRlVRNzVwTk9Ld013MA?oc=5",
+            "published_at": "2026-10-30T06:43:24Z"
+          }
+        ]
+      },
+      "selection_rank": 2
+    },
+    {
+      "id": "3e951309a17172a3a6b1",
+      "category": "연예",
+      "title": "에이티즈, K팝 아이돌 최초 덕수궁 석조전 무대…황태자 변신",
+      "summary": "에이티즈, K팝 아이돌 최초 덕수궁 석조전 무대…황태자 변신",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘에이티즈, K팝 아이돌 최초 덕수궁 석조전 무대…황태자 변신’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
+      "source": "스포츠동아",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UUFVaV2RXcERyNW5QNXdQQ2haeDR5eDRRd1RFTkxPc3pqVFotRXdOTWdzMUFUM1BlMXRSaXZwbFlyMXl3X0hKRVhnNXcybF8xbDZYNFE1cVh5M1dTX3Y5cjd4T1l3ZmJOcVhkYUN3?oc=5",
+      "published_at": "2026-11-01T02:39:05Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 1.0,
+        "first_report_at": "2026-11-01T01:42:00Z",
+        "last_report_at": "2026-11-01T02:39:05Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94QjllV01ZREJOWXFvcFRZWVdid1JZMnNhTjhQSE1HbnVGWmVoaTV4S1pjN19aQmFqVy1iV3dLYlpNTUJGbkxoaDFGb3VjbEZCcEd5X3JDS2lFSFhyckJFdg?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UUFVaV2RXcERyNW5QNXdQQ2haeDR5eDRRd1RFTkxPc3pqVFotRXdOTWdzMUFUM1BlMXRSaXZwbFlyMXl3X0hKRVhnNXcybF8xbDZYNFE1cVh5M1dTX3Y5cjd4T1l3ZmJOcVhkYUN3?oc=5",
+        "sources": [
+          {
+            "name": "스포츠동아",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UUFVaV2RXcERyNW5QNXdQQ2haeDR5eDRRd1RFTkxPc3pqVFotRXdOTWdzMUFUM1BlMXRSaXZwbFlyMXl3X0hKRVhnNXcybF8xbDZYNFE1cVh5M1dTX3Y5cjd4T1l3ZmJOcVhkYUN3?oc=5",
+            "published_at": "2026-11-01T02:39:05Z"
+          },
+          {
+            "name": "iMBC 연예",
+            "group": "imbc.com",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94QjllV01ZREJOWXFvcFRZWVdid1JZMnNhTjhQSE1HbnVGWmVoaTV4S1pjN19aQmFqVy1iV3dLYlpNTUJGbkxoaDFGb3VjbEZCcEd5X3JDS2lFSFhyckJFdg?oc=5",
+            "published_at": "2026-11-01T01:42:00Z"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "f3f034744f6445a93b00",
+      "category": "스포츠",
+      "title": "'골대 불운' 이강인 67분 뛴 아틀레티코, 7연승으로 선두 도약",
+      "summary": "'골대 불운' 이강인 67분 뛴 아틀레티코, 7연승으로 선두 도약",
+      "why_now": "수집 범위에서 관련 보도 12개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 13시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘'골대 불운' 이강인 67분 뛴 아틀레티코, 7연승으로 선두 도약’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWYi0xbU43QUVVajdRNnNnZ3FzSkNnM29MSzk1VEpWZzZwdGRKYjNXLW1oR0ptY2pxOEs1TnFINWJZb1h5SktwUm1xSklqSG9seFEyNHllRGpYeUnSAWBBVV95cUxPUnVGNHhOeEJvT3RzcjlWbWxHbGpRVE5nTkpmcDB0Qm1YMG9UY3RQYi1qSENjdUlxbXNYa21xNjFOQnA3TmNNbDlHU29ZenFnakVnSTNyUnBLd19jTVRNTjY?oc=5",
+      "published_at": "2026-10-31T15:39:31Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 7,
+        "report_count": 12,
+        "span_hours": 13.1,
+        "first_report_at": "2026-10-31T14:52:44Z",
+        "last_report_at": "2026-11-01T03:58:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55SjRvUFM5Rzd0OTk5WG44R24tZWdmaEhDRUZleHpONTBHdTNvVW9WNS1aVi1aVnRXRWxEQUE4bkFvOFVaZWpKcnhPWVF0TWFZMGZHQ09n?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWUhfVTJPSTFiTkhqYUNnYlpycUV3Q3BwNGU3TVpwRnVVQXRPbnBCNnpjdnpmdU5Tb0V4a0NJT2p1ajRrbHF4Rzl5enI2eEdqMTMwUTBPWk1rRVh1UjVmenotY3kyRlE4WWROQURZWEJ6Y1EweURHTnRGMEkzWENxU1N5SmtSaUxjZmtJ?oc=5",
+        "sources": [
+          {
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWUhfVTJPSTFiTkhqYUNnYlpycUV3Q3BwNGU3TVpwRnVVQXRPbnBCNnpjdnpmdU5Tb0V4a0NJT2p1ajRrbHF4Rzl5enI2eEdqMTMwUTBPWk1rRVh1UjVmenotY3kyRlE4WWROQURZWEJ6Y1EweURHTnRGMEkzWENxU1N5SmtSaUxjZmtJ?oc=5",
+            "published_at": "2026-11-01T03:58:00Z"
+          },
+          {
+            "name": "스포츠경향",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5N3k5N1JDU3lSMTJ1Q0EyY1ZmNzU3MFc1dTNFMkktUFdVREkxUE1fN1FlNnIyUmhDbVFFaE14aVBJX0Y3UzhHZm9MdW1CbVExSUVZcWtjcEswZWR5NWMzMXBkY9IBY0FVX3lxTFB5N3k5N1JDU3lSMTJ1Q0EyY1ZmNzU3MFc1dTNFMkktUFdVREkxUE1fN1FlNnIyUmhDbVFFaE14aVBJX0Y3UzhHZm9MdW1CbVExSUVZcWtjcEswZWR5NWMzMXBkYw?oc=5",
+            "published_at": "2026-11-01T03:02:00Z"
+          },
+          {
+            "name": "SBS 뉴스",
+            "group": "sbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kcTVtU0dUdHdzYV9sMm1RWjN5cnVlcnNtbjNSYXlBODRqRjJkVFoxTXdvTklpZ3g1bWxwUndHcXNRU3dCaXBTa2w3M0t1VHUxNjlsc0MyOXFNS0NQelRkMjJOTFR3clA1eVE?oc=5",
+            "published_at": "2026-11-01T01:21:53Z"
+          },
+          {
+            "name": "이데일리",
+            "group": "edaily.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQkYtT3BSc1ROZnJOcENPa0EwUkRodGhvWnhJN3hjUnhEZndzRGJXNDlLdW1XeHJIaW9JNXh4QlRqZjN6NVpQczJqNzU2WkNWTm9WYzdxS3dvY21YcDZBQjhZbnBxdjVDVUJJN0ZXWm5PaEJvUnNWTG4wNm1rMmtHUg?oc=5",
+            "published_at": "2026-11-01T00:31:10Z"
+          },
+          {
+            "name": "파이낸셜뉴스",
+            "group": "fnnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mWmVfQS1hYTJ4bHI5WGpBVmQ1bHRsQ1RsWWhpdGR6cExNa0dtZTB3RGlpbFFpVk9nRDIyS1IwcTE1OElRVnFQRFVKVENnR2xnaTNldWFzZ2Rqdw?oc=5",
+            "published_at": "2026-10-31T16:54:23Z"
           },
           {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85TU9fRkV6Wkl3aXFzb29VdnVhZzl6MWg2MHpXLWYwdGxiUFU4MmFmUzVaUWpvcXlrQWVmei1IaGY2MEZtcG8xdnhXMXJiNzI3VEZhTExPVnJiSkHSAWBBVV95cUxQR2g3TS1FNUU3V0FUOGJTOFc5Y2hHVlJEajBmVFNVcHNfRUktSFlMem82ZWpZSjFmRU00LWF6ZHVvTG9oblpzbDM2WnVGSjFEdzdIb2gwS3FwcjRmbjlHWEY?oc=5",
-            "published_at": "2026-11-01T03:00:06Z"
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWYi0xbU43QUVVajdRNnNnZ3FzSkNnM29MSzk1VEpWZzZwdGRKYjNXLW1oR0ptY2pxOEs1TnFINWJZb1h5SktwUm1xSklqSG9seFEyNHllRGpYeUnSAWBBVV95cUxPUnVGNHhOeEJvT3RzcjlWbWxHbGpRVE5nTkpmcDB0Qm1YMG9UY3RQYi1qSENjdUlxbXNYa21xNjFOQnA3TmNNbDlHU29ZenFnakVnSTNyUnBLd19jTVRNTjY?oc=5",
+            "published_at": "2026-10-31T15:39:31Z"
+          },
+          {
+            "name": "중앙일보",
+            "group": "joongang.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55SjRvUFM5Rzd0OTk5WG44R24tZWdmaEhDRUZleHpONTBHdTNvVW9WNS1aVi1aVnRXRWxEQUE4bkFvOFVaZWpKcnhPWVF0TWFZMGZHQ09n?oc=5",
+            "published_at": "2026-10-31T14:52:44Z"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "106a2d15da7296870eaa",
-      "category": "사회",
-      "title": "박지향 동북아재단 이사장 업무 유지…교육부 즉시항고도 기각",
-      "summary": "박지향 동북아재단 이사장 업무 유지…교육부 즉시항고도 기각",
-      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 3시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘박지향 동북아재단 이사장 업무 유지…교육부 즉시항고도 기각’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
-      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
-      "source": "중앙일보",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzdy05VHYxZjZQdW5XWlFGeWpJc3NINzJhQzZkT0pKc05qZE4wSHctdE9NaWVMN3RVa0tlN3BZXzR3aW03S2VEb1pfX3owYXI5M18zdXNB?oc=5",
-      "published_at": "2026-11-01T04:30:10Z",
+      "id": "db06370d5067e8a27e9f",
+      "category": "스포츠",
+      "title": "‘주먹 불끈!’ 손흥민 떠난 후 이런 경우 처음이다, 토트넘 ‘PL 20→8위’ 수직 상승, 2시즌 만에 ‘리그...",
+      "summary": "‘주먹 불끈!’ 손흥민 떠난 후 이런 경우 처음이다, 토트넘 ‘PL 20→8위’ 수직 상승, 2시즌 만에 ‘리그...",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 8시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘‘주먹 불끈!’ 손흥민 떠난 후 이런 경우 처음이다, 토트넘 ‘PL 20→8위’ 수직 상승, 2시즌 만에 ‘리그...’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "스포츠경향",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hYmxOaEhDSnR6cmVJbkhkY1ZIeE9Cbm1qYV8temNVdW10V1E4TlFxSXI1cWFYaXR6eEo4YlB2Vmw3YS1JWk9sVlp6cFctUTg0WHpwOVh1ZXdkU2x4eHfSAWNBVV95cUxOY19rTVhtNGdaOUJxTlZ1ZVFwcjI2dG1IXy0tVmlBSDc0NVA5RTdZVjdKakxRMnJfYWZrcS1Rakl0UldIWF9TTWhTS0tVejl6OFlwOWZMcVpWNGhwU1MwWTdwWVk?oc=5",
+      "published_at": "2026-10-31T21:06:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 2,
-        "report_count": 5,
-        "span_hours": 3.1,
-        "first_report_at": "2026-11-01T01:21:38Z",
-        "last_report_at": "2026-11-01T04:30:10Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UVlhXYWRXM3A2NkEtSHl3amFOVllobTVsZTFVWE9lbUg0WE01a0lrSU84MThoRmZEQi01MWZsT2d3NHZScGVDQzlQQ3hLdWtOZUFsYXFFSWZzRW_SAWBBVV95cUxQRjNmczdsY0kzRGVjN2F5bGlhWl9HTEJ5Nmk0QzhXaTJvc0pTTDUxTl9vRE50SEVZcEdFQ1E4eHJZQjFHSGFpOEhyd1drNFI4V0pCT2o3U2JfVnN6dTV2Y3A?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzdy05VHYxZjZQdW5XWlFGeWpJc3NINzJhQzZkT0pKc05qZE4wSHctdE9NaWVMN3RVa0tlN3BZXzR3aW03S2VEb1pfX3owYXI5M18zdXNB?oc=5",
+        "source_groups": 3,
+        "report_count": 3,
+        "span_hours": 8.1,
+        "first_report_at": "2026-10-31T21:06:00Z",
+        "last_report_at": "2026-11-01T05:10:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hYmxOaEhDSnR6cmVJbkhkY1ZIeE9Cbm1qYV8temNVdW10V1E4TlFxSXI1cWFYaXR6eEo4YlB2Vmw3YS1JWk9sVlp6cFctUTg0WHpwOVh1ZXdkU2x4eHfSAWNBVV95cUxOY19rTVhtNGdaOUJxTlZ1ZVFwcjI2dG1IXy0tVmlBSDc0NVA5RTdZVjdKakxRMnJfYWZrcS1Rakl0UldIWF9TTWhTS0tVejl6OFlwOWZMcVpWNGhwU1MwWTdwWVk?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wT2hQR0xGaVdLVE40Tjk1ejBvTE1PYS1Oa0k4cFVBcy12Z3lpX3VlUTI4UkFEN2FPNlFSYzBHU2p5QVRBWUdXNWxFRUh2Q0h6X3BrMVp3ZF9rNDZOSnJlYzhmOUR6ZHlKOVZPRHRRSjk?oc=5",
         "sources": [
           {
-            "name": "중앙일보",
+            "name": "SPOTV NEWS",
+            "group": "spotvnews.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wT2hQR0xGaVdLVE40Tjk1ejBvTE1PYS1Oa0k4cFVBcy12Z3lpX3VlUTI4UkFEN2FPNlFSYzBHU2p5QVRBWUdXNWxFRUh2Q0h6X3BrMVp3ZF9rNDZOSnJlYzhmOUR6ZHlKOVZPRHRRSjk?oc=5",
+            "published_at": "2026-11-01T05:10:00Z"
+          },
+          {
+            "name": "스타뉴스",
+            "group": "starnewskorea.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sVm9TSE0xeWdodVRYekJSZEcyR2pvcFEtOUtieVdGUVJsZEJyLTMwMk9ta21mV053cXA4Q2w0dy1OMVhNR3R4YnlyOGdMdnFvYjg4UFRiNUpoLUZmSEhNYlB0bmdaRjlZYm5QMk1VM3ZLWTJvZGc?oc=5",
+            "published_at": "2026-11-01T02:07:43Z"
+          },
+          {
+            "name": "스포츠경향",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hYmxOaEhDSnR6cmVJbkhkY1ZIeE9Cbm1qYV8temNVdW10V1E4TlFxSXI1cWFYaXR6eEo4YlB2Vmw3YS1JWk9sVlp6cFctUTg0WHpwOVh1ZXdkU2x4eHfSAWNBVV95cUxOY19rTVhtNGdaOUJxTlZ1ZVFwcjI2dG1IXy0tVmlBSDc0NVA5RTdZVjdKakxRMnJfYWZrcS1Rakl0UldIWF9TTWhTS0tVejl6OFlwOWZMcVpWNGhwU1MwWTdwWVk?oc=5",
+            "published_at": "2026-10-31T21:06:00Z"
+          }
+        ]
+      },
+      "selection_rank": 2
+    },
+    {
+      "id": "9c6b9261a311cd105558",
+      "category": "사회",
+      "title": "서울 지하철 7호선 고장···1시간 넘게 상행선 운행 지연",
+      "summary": "서울 지하철 7호선 고장···1시간 넘게 상행선 운행 지연",
+      "why_now": "수집 범위에서 관련 보도 24개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘서울 지하철 7호선 고장···1시간 넘게 상행선 운행 지연’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
+      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
+      "source": "경향신문",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4MGRrWE00UXZxWVJfWDBFVEFGUjM0UW5kdzFaZFVsT2xGNmhGdmViUWFPYm9seGRnTTEzLUdGQUxVdnllbHg4X0JMNWRSNUxsY3ZUYUZEN3JuT3hJalJv0gFfQVVfeXFMUDgwZGtYTTRRdnFZUl9YMEVUQUZSMzRRbmR3MVpkVWxPbEY2aEZ2ZWJRYU9ib2x4ZGdNMTMtR0ZBTFV2eWVseDhfQkw1ZFI1TGxjdlRhRkQ3cm5PeElqUm8?oc=5",
+      "published_at": "2026-11-01T05:05:00Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 8,
+        "report_count": 24,
+        "span_hours": 1.2,
+        "first_report_at": "2026-11-01T04:40:00Z",
+        "last_report_at": "2026-11-01T05:49:02Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Qd29CUjNpaXFGWFhabVZieHBYN2l3NmRIaWJmT2Y5MURFYXkycTJMZ3BiREI2dzVhTmZXVmhvM3pZT091eUEwN0p3MjgtWnE0OU8w0gFYQVVfeXFMTS0zRWNxOWhhR1JwUlNra282ZVlSZVhpeW5NU25hTG0zTi1BblNYZVZxY3NuWUptRWVleWVhR3pVeW5tY3dxb2hDVjRYWDZMZDdId3cyVVNuVQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fUnNrLXozNmVZb2tqTVJtZmNuM2lxeXZqSGQzdXVXbkM2UDFRTzFUTVZEZXdfUGRUUG5YU2pZRkY5Y2h5Q0E4VkZNZw?oc=5",
+        "sources": [
+          {
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fUnNrLXozNmVZb2tqTVJtZmNuM2lxeXZqSGQzdXVXbkM2UDFRTzFUTVZEZXdfUGRUUG5YU2pZRkY5Y2h5Q0E4VkZNZw?oc=5",
+            "published_at": "2026-11-01T05:49:02Z"
+          },
+          {
+            "name": "뉴시스",
+            "group": "fnnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSUnBUZE95Q2N1b1dzQVVBWU5zTDVyWU1ZbXNHdDM0dml6cE5FNEZmVnNlWFE2T180al9ZUUxoZzRQVzFRLTRTS0JfZE5fc1FsOHpUeThZU0pKZW92Q1RnQtIBeEFVX3lxTE5KWmt3c2tVSWFBSk5HdHlOY1RLMFcwdk1BTjdsaGprbE1aQ1Z0X2Rfd1pwT25HVDRqbTlOUDNzSVpHQnI3QV9IQU4tVndfVjN4Mzh4Mmp4NXVsSjEwWWpRb3lkWExZNkdIVFp5NjZMclVMUTI1UGt3bA?oc=5",
+            "published_at": "2026-11-01T05:44:25Z"
+          },
+          {
+            "name": "한국경제",
             "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzdy05VHYxZjZQdW5XWlFGeWpJc3NINzJhQzZkT0pKc05qZE4wSHctdE9NaWVMN3RVa0tlN3BZXzR3aW03S2VEb1pfX3owYXI5M18zdXNB?oc=5",
-            "published_at": "2026-11-01T04:30:10Z"
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YNWtzc1lFRlRwQXQ3NGIzUTZsamFkd3R0ZEJMRmw5STluQ292MHdXN3JNN3ozRk9BSDhERllwRzIyY0lYSVBOb2pubXBjTktULWtSVW5KMFp6Zw?oc=5",
+            "published_at": "2026-11-01T05:22:46Z"
+          },
+          {
+            "name": "KBS 뉴스",
+            "group": "kbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5waWtuRHUxZ1BQa1dDRHRsbjZXR25uRUU3QWZ1VUwtLWlWblRISF9JQkw1QS15TGZ5ZnZFcWd5T1dBdk85Uy1zVEtQa1FQTWtMWF9FT1RpWWt0cDQ?oc=5",
+            "published_at": "2026-11-01T05:15:00Z"
           },
           {
             "name": "조선일보",
             "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYVNjTmZuNTZraFV0MWJyYV9lYUwxT0R0NEFQdWtQaHNQeS1Da2wzT3RrRzQ2Z3hteVNrdGRUZEFaRFQxWFltZVhJM1NpMXhIc1VFWGVnZWl4RlRySGRkZmxVQjlzQ1ZFSVR5clZKcVFXYnozVkJjVHlnckE3RVBLNlhIamNsQWM?oc=5",
-            "published_at": "2026-11-01T04:06:00Z"
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaXBmbVNTdzhEc0ZDSzZRdVJrdzFnaXpvdm5IWjlaM1MtaUczQ1RjdGJEWUpmWFRTdWVHRlFkUUFBT3U2M0diWmJEcmxMWUhNdHFmNmxFay1ucFZJb3lRa19McGdpcXlkMDJFWkprc2s3Q2duYVBQeVZPZDc5ZXB1blVGRTJxSGpGamFSNDVSMG8?oc=5",
+            "published_at": "2026-11-01T05:13:48Z"
+          },
+          {
+            "name": "MBC 뉴스",
+            "group": "imbc.com",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqU0lTa2NPYUJtYVVHQzVnNHhud0QxMWdUTGNVazl1Nzk4NEpQOWhpam50aUgtYk15WXBSbDVkZXMzM3R2NFlJQkh3UVh2Sm5TbFhJMVhZaWEzajNfVDkwU0lLMEs2OFBhcTNyeGcwS1B4S0NSdGxJ0gF3QVVfeXFMTkQwYUNCeFVWbS1HNVhkWFRqaUxkSnJ3d3FqaDNLNEhpZXFCNmtab2EyQkVZTFhBQnljS2U4TVVUamxCdTVzd1UtNGRmZW1TSlc4ZG9uTTZiWXlBNmJCR1VOb0h0Ri1zbzNFc1AyRXR0MS1hSDh5NnM?oc=5",
+            "published_at": "2026-11-01T05:08:26Z"
+          },
+          {
+            "name": "경향신문",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4MGRrWE00UXZxWVJfWDBFVEFGUjM0UW5kdzFaZFVsT2xGNmhGdmViUWFPYm9seGRnTTEzLUdGQUxVdnllbHg4X0JMNWRSNUxsY3ZUYUZEN3JuT3hJalJv0gFfQVVfeXFMUDgwZGtYTTRRdnFZUl9YMEVUQUZSMzRRbmR3MVpkVWxPbEY2aEZ2ZWJRYU9ib2x4ZGdNMTMtR0ZBTFV2eWVseDhfQkw1ZFI1TGxjdlRhRkQ3cm5PeElqUm8?oc=5",
+            "published_at": "2026-11-01T05:05:00Z"
+          },
+          {
+            "name": "YTN",
+            "group": "ytn.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KaS14WGVGTUdhdGlTbmczVlI3VHI1SjFsMFJkekQtdTdHU3JlQXFTVFFIekJDdktPa2kyNGp5dWxDbnktSnhEZC01X3ZrMG1VaHFtUnFQTmVYdUlpLTNzYndFam9PaXhBYnlVSkJuVQ?oc=5",
+            "published_at": "2026-11-01T04:57:00Z"
           }
         ]
       },
       "selection_rank": 1
+    },
+    {
+      "id": "5f4161a92a99d8335424",
+      "category": "사회",
+      "title": "달리는 지하철 2호선이 거대한 시집으로…나태주·박준 지하철 탄다",
+      "summary": "달리는 지하철 2호선이 거대한 시집으로…나태주·박준 지하철 탄다",
+      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 55시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘달리는 지하철 2호선이 거대한 시집으로…나태주·박준 지하철 탄다’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
+      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
+      "source": "동아일보",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NMHNRS29pVktzM0lUbGc4S3VaWHRBVlczbWd2QUlaTEhWU21yMU05b3V0YjJNZFJUR0lyYVhSQ05FeVJMYzZCN25NbFdMeFdURGFRMnNNY1VqcW4zOW9aMDFzSE1vZ09MUGw4aE4tRXZRLTFqTlHSAWZBVV95cUxOc2MzTm1mOGY3MV9DT1Vtc3VKT1Fna2VCbXltbk5ZbzV5anltMXNKR3U3c1oxMXNBYkRHcW1WOGRxZXNIa280MzU2UVdMTFo1amtmVDRNY2VPZTBDQWlKczVqdEhpUGc?oc=5",
+      "published_at": "2026-10-30T23:21:30Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 3,
+        "report_count": 5,
+        "span_hours": 55.1,
+        "first_report_at": "2026-10-29T21:00:04Z",
+        "last_report_at": "2026-11-01T04:04:46Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxWGlhMzNmcnJHMEthSnE2dXVvNVNtNFJHa2N3QVNocFpwQkhJenBlb3JuS1kycmx2MGgyRUZNRElZNkpCZXFiUkY0SjEtSmFySXNUcjZTN1VYWkXSAWBBVV95cUxQNXJpMW94SmI5dzFyRVF0RzdxQnpCNmtIR25VM2VybVBQbWZoaWhRZms5OC1IaFZOUFI3N1UwcG5DRnMzbVI4LXhwSDdkRFpDcVRMS01TT1pzMzVDc0oxVDA?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4UkxVV2c3S0p1NWNNYy1NdVVabzRnQ0ZKYW90bDVOdElYSS00NFZNX1RndDR2cW9KX1hxaHBYdk8xWXVIRVBoTENZYU44V2NtZ1cxT3FfQ0FwaEHSAWBBVV95cUxQbUhURWtSY1l2bFVnbnprdFI0T0RKSHR3R0hOeFVqRkkxTVB4VmhVZzY5bWo1dWppcmFNYlZkdXFOLVBNWW54dEZKRzJTWGlSSFV6RmNLZFpEOHo0SXhHRkM?oc=5",
+        "sources": [
+          {
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4UkxVV2c3S0p1NWNNYy1NdVVabzRnQ0ZKYW90bDVOdElYSS00NFZNX1RndDR2cW9KX1hxaHBYdk8xWXVIRVBoTENZYU44V2NtZ1cxT3FfQ0FwaEHSAWBBVV95cUxQbUhURWtSY1l2bFVnbnprdFI0T0RKSHR3R0hOeFVqRkkxTVB4VmhVZzY5bWo1dWppcmFNYlZkdXFOLVBNWW54dEZKRzJTWGlSSFV6RmNLZFpEOHo0SXhHRkM?oc=5",
+            "published_at": "2026-11-01T04:04:46Z"
+          },
+          {
+            "name": "동아일보",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NMHNRS29pVktzM0lUbGc4S3VaWHRBVlczbWd2QUlaTEhWU21yMU05b3V0YjJNZFJUR0lyYVhSQ05FeVJMYzZCN25NbFdMeFdURGFRMnNNY1VqcW4zOW9aMDFzSE1vZ09MUGw4aE4tRXZRLTFqTlHSAWZBVV95cUxOc2MzTm1mOGY3MV9DT1Vtc3VKT1Fna2VCbXltbk5ZbzV5anltMXNKR3U3c1oxMXNBYkRHcW1WOGRxZXNIa280MzU2UVdMTFo1amtmVDRNY2VPZTBDQWlKczVqdEhpUGc?oc=5",
+            "published_at": "2026-10-30T23:21:30Z"
+          },
+          {
+            "name": "경향신문",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yWnhiVVZqZHpvalg3YWsyXy0xTmdOWm84a0w4b3FkUGx6Xy02RHBhMDJuUTc4MGc0ekNoZkU0YXNZRW96WUNqTnAyTllUX21SbmF3TG81cmZKd9IBX0FVX3lxTE0tNVFsM0hNdkFZQXBsWW1jNmRFM1ZfWGVteF9aZ0laSTktTFF0TF93SE9zMGoybnFGMk8yUHgzNUl1SmhnSzNubzhUdmZkWlEwWlJqc09ZaVJoWVdBeV9B?oc=5",
+            "published_at": "2026-10-30T01:17:00Z"
+          }
+        ]
+      },
+      "selection_rank": 2
     }
   ]
 }
