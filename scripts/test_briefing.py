@@ -9,7 +9,7 @@ from unittest.mock import MagicMock, patch
 from urllib.error import HTTPError
 import collect_briefing as collector
 from collect_briefing import candidates, build_briefing, legacy_briefing, legacy_v3, TOPICS
-from rank_topics import rank, clusters, independent_reports, related
+from rank_topics import rank, clusters, independent_reports, related, corroboration_searches
 
 NOW = datetime(2026, 11, 1, 12, tzinfo=timezone.utc)
 
@@ -111,6 +111,19 @@ class SelectionTests(unittest.TestCase):
         for credit in ['뉴스1 기사 전재', '연합뉴스 기사 전재', '뉴시스 기사 전재']:
             item = self.parse(rss([('국립미술관 모네 전시 개막 안내','hankyung.com',10,'c',credit)]))[0]
             self.assertEqual(item['origin_group'], 'wire:'+credit.split()[0])
+
+    def test_real_world_event_headline_variants_do_not_become_two_cards(self):
+        for left,right in [
+            ('행안부, 공무원 업무망에 AI 웹검색 도입…12월 한글 보고서 작성 지원', "정부 업무망서 인터넷 검색에 보고서 작성도…'온AI' 기능 확대"),
+            ('[속보] 한미일 외교장관 “北 완전한 비핵화 의지 재확인”', '한미일 외교장관, G20 계기 美서 회동…한반도 등 논의하나')]:
+            self.assertTrue(related(article(left), article(right,'two.kr')))
+
+    def test_followup_searches_distinct_unconfirmed_events(self):
+        confirmed=[article(PAIRS[0][0][0]),article(PAIRS[0][0][1],'two.kr')]
+        missing=[article(PAIRS[0][1][0],'three.kr'),article('국립극단 햄릿 연극 공연 개막','four.kr')]
+        searches=corroboration_searches(confirmed+missing)
+        self.assertEqual(len(searches),2)
+        self.assertFalse(any('모네' in search for search in searches))
 
     def test_unrelated_topics_do_not_merge_on_generic_keywords(self):
         self.assertFalse(related(article('서울 버스 요금 교통 제도 변경'),article('부산 교육 지원 제도 변경')))
