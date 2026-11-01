@@ -15,6 +15,8 @@ import xml.etree.ElementTree as ET
 from urllib.error import HTTPError
 from rank_topics import rank, corroboration_searches, related, clusters, independent_reports, additional_reading
 
+from retain_briefing import carry_recent
+
 ROOT = Path(__file__).resolve().parents[1]
 TOPICS = [
     ('문화·예술', '(미술 OR 전시 OR 공연 OR 연극 OR 뮤지컬 OR 문학 OR 신간 OR 클래식)', '요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?', '전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.'),
@@ -186,6 +188,13 @@ def fetch_rss(url):
 
 def main():
     feeds = []
+    previous = None
+    for name in ('briefing-v5.json', 'briefing-v4.json'):
+        try:
+            previous = json.loads((ROOT / 'data' / name).read_text(encoding='utf-8'))
+            break
+        except (OSError, ValueError):
+            continue
     now = datetime.now(timezone.utc)
     for category, query, question, context in TOPICS:
         def collect(search):
@@ -239,7 +248,7 @@ def main():
                 print(f'::warning title=Briefing source::{category}: {detail}')
             feeds.append(None)
         time.sleep(.5)
-    feed = build_briefing(feeds, now)
+    feed = carry_recent(build_briefing(feeds, now), previous, now, [t[0] for t in TOPICS])
     versions = [('briefing-v5.json', feed), ('briefing-v4.json', legacy_v4(feed)), ('briefing-v3.json', legacy_v3(feed)), ('briefing.json', legacy_briefing(feed))]
     for filename, data in versions:
         if not data['cards']:
