@@ -53,6 +53,14 @@ class BriefingTests(unittest.TestCase):
             self.assertEqual(old['schema_version'],2)
             self.assertEqual(len(old['cards']),5)
 
+    def test_entertainment_includes_public_concerts_and_album_releases(self):
+        for title in ('가수 단독 콘서트 개최 소식','아이돌 새 앨범 발매 안내'):
+            self.assertEqual(len(self.parse(rss(title=title),'연예')),1)
+
+    def test_science_coverage_does_not_use_education_award_announcements(self):
+        self.assertEqual(self.parse(rss(title='정보과학 인재양성 우수학교 공모전 수상자'),'기술·과학'),[])
+        self.assertEqual(len(self.parse(rss(title='화성 탐사선 과학 실험 결과 공개'),'기술·과학')),1)
+
     def test_arts_excludes_trade_exhibitions(self):
         self.assertEqual(self.parse(rss(title='서울클래식카쇼 개막 클래식카 전시와 정책 논의')),[])
         self.assertEqual(len(self.parse(rss(title='국립 미술관 작가 사진전 개막 소식'))),1)
