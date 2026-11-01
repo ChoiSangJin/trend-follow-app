@@ -47,22 +47,22 @@ void main() {
     );
   });
   test(
-    'accepts ten cards with two per category and rejects an overflowing category',
+    'accepts fourteen cards with two per category and rejects an overflowing category',
     () {
       final cards = [
-        for (var i = 0; i < 10; i++)
+        for (var i = 0; i < 14; i++)
           {...topicJson(i + 1), 'category': topicCategories[i ~/ 2]},
       ];
       expect(
         Briefing.fromJson({...feedJson(), 'cards': cards}).topics.length,
-        10,
+        14,
       );
       expect(
         () => Briefing.fromJson({
           ...feedJson(),
           'cards': [
             ...cards,
-            {...topicJson(11), 'category': '사회'},
+            {...topicJson(15), 'category': '세계뉴스'},
           ],
         }),
         throwsFormatException,
@@ -87,6 +87,45 @@ void main() {
       final controller = SavedTopics(store);
       expect(controller.state.single.category, '문화');
       controller.dispose();
+    },
+  );
+  test(
+    'daily topics require two inspectable source groups and numeric evidence',
+    () {
+      for (final change in [
+        {'source_groups': 1},
+        {'span_hours': false},
+        {'sources': []},
+        {'report_count': 1},
+      ]) {
+        expect(
+          () => Briefing.fromJson({
+            ...feedJson(),
+            'cards': [
+              {
+                ...topicJson(),
+                'coverage': {...coverageJson(), ...change},
+              },
+            ],
+          }),
+          throwsFormatException,
+        );
+      }
+      expect(
+        () => Briefing.fromJson({
+          ...feedJson(),
+          'cards': [
+            {...topicJson(), 'coverage': null},
+          ],
+        }),
+        throwsFormatException,
+      );
+      final saved = Topic.fromJson({...topicJson(), 'coverage': null});
+      expect(saved.coverage, isNull);
+      expect(
+        Topic.fromJson(Topic.fromJson(topicJson()).toJson()).coverage!.groups,
+        2,
+      );
     },
   );
   test('saved topics survive controller restart and can be removed', () async {

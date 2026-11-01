@@ -41,6 +41,27 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
         ),
         actions: [
           IconButton(
+            tooltip: '선정 기준',
+            onPressed: () => showDialog<void>(
+              context: context,
+              builder: (context) => AlertDialog(
+                title: const Text('최근 3일 주요 화제 선정 기준'),
+                content: const SingleChildScrollView(
+                  child: Text(
+                    '6~72시간 전 한국어 보도를 같은 주제로 묶고, 출처그룹 2곳 이상을 확인한 이야기만 추천합니다. 같은 매체·추정 전재·유사 제목은 묶어 계산합니다.\n\n출처의 폭을 먼저, 보도 지속성을 다음으로 반영합니다. 출처 링크는 최대 8곳을 제공합니다. 조회수·공유수·전 국민 인기 순위가 아니며, 제목 기반 자동 묶음은 오류나 조작을 완전히 막을 수 없습니다.\n\n경제·주식 정보는 기사 시점 기준으로 실시간 시세나 매매 추천이 아닙니다. 확인이 부족한 분야는 추가 검증 중으로 표시합니다.',
+                  ),
+                ),
+                actions: [
+                  TextButton(
+                    onPressed: () => Navigator.pop(context),
+                    child: const Text('닫기'),
+                  ),
+                ],
+              ),
+            ),
+            icon: const Icon(Icons.info_outline),
+          ),
+          IconButton(
             tooltip: '새로고침',
             onPressed: state.isLoading
                 ? null
@@ -93,10 +114,10 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                 if (!state.isLoading && topics.isEmpty && !state.hasError)
                   _empty(
                     context,
-                    _view == 1 ? '대화 소재를 보관해 보세요' : '이 주제의 소식은 준비 중이에요',
+                    _view == 1 ? '대화 소재를 보관해 보세요' : '여러 출처의 보도를 확인 중이에요',
                     _view == 1
                         ? '카드의 보관 버튼을 누르면 여기에 모입니다.'
-                        : '다른 주제를 선택하거나 새로고침해 주세요.',
+                        : '6시간 이상 지난 관련 보도가 출처그룹 2곳 이상에서 확인되면 추가합니다.',
                   ),
                 for (final topic in topics)
                   Padding(
@@ -158,7 +179,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            _view == 1 ? '나중에 꺼내 쓸 이야기' : '오늘, 무슨 얘기 할까?',
+            _view == 1 ? '나중에 꺼내 쓸 이야기' : '최근 3일 주요 화제',
             style: Theme.of(context).textTheme.headlineMedium?.copyWith(
               fontWeight: FontWeight.w800,
               color: colors.onPrimaryContainer,
@@ -169,7 +190,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
           Text(
             _view == 1
                 ? '마음에 든 소재와 질문을 모아두세요.'
-                : '5개 분야, 분야별 최대 2개의 대화 소재를 만나보세요.',
+                : '7개 분야 · 분야별 최대 2개 · 보도량과 지속성으로 선별합니다.',
             style: TextStyle(color: colors.onPrimaryContainer),
           ),
           if (_view == 0 && result != null && !result.briefing.practice) ...[
@@ -198,7 +219,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
       FeedMode.live =>
         old
             ? '이전 브리핑입니다. 최신 소식으로 단정하지 말고 기사 날짜를 확인해 주세요.'
-            : '최근 72시간 기사에서 선별 · 인기 순위 아님 · 제목 기반 정보',
+            : '6~72시간 전 보도 · 여러 출처 기준 · 조회수 순위 아님',
     };
     return Padding(
       padding: const EdgeInsets.only(bottom: 16),
@@ -283,6 +304,15 @@ class TopicCard extends ConsumerWidget {
               ),
             ),
             const SizedBox(height: 14),
+            if (topic.coverage != null) ...[
+              Text(
+                '출처 ${topic.coverage!.groups}그룹 · ${topic.coverage!.spanLabel}에 걸친 보도',
+                style: Theme.of(context).textTheme.labelMedium,
+              ),
+              const SizedBox(height: 10),
+            ],
+            if (!topic.isPractice && topic.coverage == null)
+              const Text('이전 보관 자료 · 새 선정 근거 없음'),
             Text(
               topic.opener,
               style: TextStyle(color: colors.primary, height: 1.6),
@@ -385,6 +415,15 @@ class TopicScreen extends StatelessWidget {
               ),
             ),
             const SizedBox(height: 24),
+            if (topic.coverage != null) ...[
+              const SizedBox(height: 24),
+              _coverage(context),
+            ],
+            if (!topic.isPractice && topic.coverage == null)
+              const Padding(
+                padding: EdgeInsets.only(top: 24),
+                child: Text('이전 보관 자료 · 새 선정 기준의 출처 근거가 없는 항목입니다.'),
+              ),
             _section(context, '대화 전에 알아두면', topic.context),
             if (topic.url != null) ...[
               const SizedBox(height: 24),
@@ -399,6 +438,51 @@ class TopicScreen extends StatelessWidget {
       ),
     ),
   );
+  Widget _coverage(BuildContext context) {
+    final coverage = topic.coverage!;
+    return Column(
+      crossAxisAlignment: CrossAxisAlignment.start,
+      children: [
+        Text(
+          '선정 근거 · 확인한 출처',
+          style: Theme.of(
+            context,
+          ).textTheme.titleMedium?.copyWith(fontWeight: FontWeight.w800),
+        ),
+        const SizedBox(height: 8),
+        Text(
+          '출처 ${coverage.groups}그룹 · 수집한 관련 보도 ${coverage.reports}개 · ${coverage.spanLabel}에 걸친 보도',
+        ),
+        const Text('추정 전재·같은 매체·유사 제목은 묶어서 계산합니다. 사실 확정이나 조회수 지표는 아닙니다.'),
+        for (final source in coverage.sources)
+          Align(
+            alignment: Alignment.centerLeft,
+            child: TextButton.icon(
+              onPressed: () => _open(context, source.url),
+              icon: const Icon(Icons.link, size: 16),
+              label: Text(
+                '${source.name} · ${koreaDate(source.publishedAt)} KST',
+              ),
+            ),
+          ),
+        Wrap(
+          spacing: 8,
+          children: [
+            TextButton(
+              onPressed: () => _open(context, coverage.firstUrl),
+              child: Text('최초 보도 ${koreaDate(coverage.first)}'),
+            ),
+            TextButton(
+              onPressed: () => _open(context, coverage.lastUrl),
+              child: Text('마지막 보도 ${koreaDate(coverage.last)}'),
+            ),
+          ],
+        ),
+        const SizedBox(height: 24),
+      ],
+    );
+  }
+
   Widget _section(BuildContext context, String title, String body) => Column(
     crossAxisAlignment: CrossAxisAlignment.start,
     children: [
@@ -412,9 +496,12 @@ class TopicScreen extends StatelessWidget {
       Text(body, style: const TextStyle(height: 1.7)),
     ],
   );
-  Future<void> _open(BuildContext context) async {
+  Future<void> _open(BuildContext context, [Uri? uri]) async {
     try {
-      if (await launchUrl(topic.url!, mode: LaunchMode.externalApplication)) {
+      if (await launchUrl(
+        uri ?? topic.url!,
+        mode: LaunchMode.externalApplication,
+      )) {
         return;
       }
     } catch (_) {
