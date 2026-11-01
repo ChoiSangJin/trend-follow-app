@@ -8,8 +8,8 @@ from pathlib import Path
 from unittest.mock import MagicMock, patch
 from urllib.error import HTTPError
 import collect_briefing as collector
-from collect_briefing import candidates, build_briefing, legacy_briefing, legacy_v3, TOPICS
-from rank_topics import rank, clusters, independent_reports, related, corroboration_searches
+from collect_briefing import candidates, build_briefing, legacy_briefing, legacy_v3, legacy_v4, TOPICS
+from rank_topics import rank, clusters, independent_reports, related, corroboration_searches, additional_reading
 
 NOW = datetime(2026, 11, 1, 12, tzinfo=timezone.utc)
 
@@ -118,6 +118,34 @@ class SelectionTests(unittest.TestCase):
             ('[속보] 한미일 외교장관 “北 완전한 비핵화 의지 재확인”', '한미일 외교장관, G20 계기 美서 회동…한반도 등 논의하나')]:
             self.assertTrue(related(article(left), article(right,'two.kr')))
 
+    def test_same_sports_match_wording_and_injury_reports_remain_available(self):
+        left=article('팀 7연승에도… 골대 때린 이강인, 6경기째 공격 포인트 0', age=20)
+        right=article('아깝다 韓 축구 에이스 이강인 골대 불운! AT 마드리드 7연승', 'two.kr', age=19)
+        for item in (left,right):item['category']='스포츠'
+        self.assertTrue(related(left,right))
+        other=article('손흥민 멀티골 LA 3연승 축구 경기', 'three.kr');other['category']='스포츠'
+        self.assertFalse(related(left,other))
+        self.assertEqual(len(self.parse(rss([('이강인 축구 경기 부상 복귀 출전','yna.co.kr',12,'a','')]),'스포츠')),1)
+
+    def test_real_single_source_reading_fills_only_arts_and_sports_after_coverage(self):
+        feeds=all_feeds()
+        feeds[0]=rss([('국립 미술관 모네 특별전 개막','yna.co.kr',20,'one',''),
+                      ('김영하 신간 소설 문학상 출간','hankyung.com',12,'two','')])
+        feeds[2]=rss([('이강인 축구 경기 복귀 출전','yna.co.kr',12,'sport','')])
+        feed=build_briefing(feeds,NOW)
+        self.assertEqual(len(feed['cards']),13)
+        singles=[c for c in feed['cards'] if c['coverage']['source_groups']==1]
+        self.assertEqual(len(singles),3)
+        self.assertTrue(all('단일 출처' in c['why_now'] for c in singles))
+        self.assertTrue(all(c['evidence']=='headline' and c['published_at'] and c['source_url'] for c in singles))
+        self.assertTrue(all(c['coverage']['source_groups']>=2 for c in legacy_v4(feed)['cards']))
+        self.assertEqual(legacy_v4(feed)['schema_version'],4)
+        self.assertTrue(all(c['coverage']['source_groups']>=2 for c in legacy_v3(feed)['cards']))
+        self.assertEqual(additional_reading([article('단일 경제 기사')],'경제·주식','질문','맥락'),[])
+        reports=[article(PAIRS[0][0][0],'a.kr',40),article(PAIRS[0][0][1],'b.kr',30),article('김영하 신간 소설 문학상 출간','c.kr',7)]
+        selected=rank(reports,'문화·예술','질문','맥락')+additional_reading(reports,'문화·예술','질문','맥락')
+        self.assertEqual([c['coverage']['source_groups'] for c in selected],[2,1])
+
     def test_followup_searches_distinct_unconfirmed_events(self):
         confirmed=[article(PAIRS[0][0][0]),article(PAIRS[0][0][1],'two.kr')]
         missing=[article(PAIRS[0][1][0],'three.kr'),article('국립극단 햄릿 연극 공연 개막','four.kr')]
@@ -140,7 +168,7 @@ class SelectionTests(unittest.TestCase):
 
     def test_fourteen_topics_and_legacy_compatibility(self):
         feed=build_briefing(all_feeds(),NOW)
-        self.assertEqual(feed['schema_version'],4)
+        self.assertEqual(feed['schema_version'],5)
         self.assertEqual(len(feed['cards']),14)
         self.assertEqual(Counter(c['category'] for c in feed['cards']),{t[0]:2 for t in TOPICS})
         self.assertEqual(len(legacy_v3(feed)['cards']),10)
@@ -166,7 +194,7 @@ class SelectionTests(unittest.TestCase):
             self.assertIn('/rss/search?', fetch.call_args_list[0].args[0].full_url)
             self.assertIn('/section/topic/ENTERTAINMENT?', fetch.call_args_list[1].args[0].full_url)
             self.assertIn('ceid=KR%3Ako', fetch.call_args_list[1].args[0].full_url)
-            for name,schema,limit in [('briefing-v4.json',4,14),('briefing-v3.json',3,10),('briefing.json',2,5)]:
+            for name,schema,limit in [('briefing-v5.json',5,14),('briefing-v4.json',4,14),('briefing-v3.json',3,10),('briefing.json',2,5)]:
                 data=json.loads((root/'data'/name).read_text());self.assertEqual(data['schema_version'],schema);self.assertEqual(len(data['cards']),limit)
 
     def test_obituaries_and_celebrity_outfits_are_not_sports_or_technology(self):
@@ -197,7 +225,7 @@ class SelectionTests(unittest.TestCase):
 
     def test_practice_is_not_evidence_backed_news(self):
         data=json.loads((Path(__file__).parents[1]/'assets/practice.json').read_text())
-        self.assertEqual(data['edition'],'practice');self.assertEqual(data['schema_version'],4)
+        self.assertEqual(data['edition'],'practice');self.assertEqual(data['schema_version'],5)
         self.assertEqual(Counter(c['category'] for c in data['cards']),{t[0]:2 for t in TOPICS})
         for card in data['cards']:self.assertIsNone(card['published_at']);self.assertNotIn('coverage',card)
 

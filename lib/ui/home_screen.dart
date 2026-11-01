@@ -48,7 +48,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                 title: const Text('최근 3일 주요 화제 선정 기준'),
                 content: const SingleChildScrollView(
                   child: Text(
-                    '6~72시간 전 한국어 보도를 같은 주제로 묶고, 출처그룹 2곳 이상을 확인한 이야기만 추천합니다. 같은 매체·추정 전재·유사 제목은 묶어 계산합니다.\n\n출처의 폭을 먼저, 보도 지속성을 다음으로 반영합니다. 출처 링크는 최대 8곳을 제공합니다. 조회수·공유수·전 국민 인기 순위가 아니며, 제목 기반 자동 묶음은 오류나 조작을 완전히 막을 수 없습니다.\n\n경제·주식 정보는 기사 시점 기준으로 실시간 시세나 매매 추천이 아닙니다. 확인이 부족한 분야는 추가 검증 중으로 표시합니다.',
+                    '6~72시간 전 한국어 보도를 같은 주제로 묶고, 출처그룹 2곳 이상인 이야기를 우선 추천합니다. 문화·예술과 스포츠는 부족한 자리에 실제 기사 1곳을 추가 읽을거리로 제공하며 ‘단일 출처 · 인기 확인 전’으로 구분합니다. 같은 매체·추정 전재·유사 제목은 묶어 계산합니다.\n\n출처의 폭을 먼저, 보도 지속성을 다음으로 반영합니다. 출처 링크는 최대 8곳을 제공합니다. 조회수·공유수·전 국민 인기 순위가 아니며, 제목 기반 자동 묶음은 오류나 조작을 완전히 막을 수 없습니다.\n\n경제·주식 정보는 기사 시점 기준으로 실시간 시세나 매매 추천이 아닙니다. 기사 자체가 없는 분야는 빈 상태로 표시합니다.',
                   ),
                 ),
                 actions: [
@@ -114,10 +114,10 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                 if (!state.isLoading && topics.isEmpty && !state.hasError)
                   _empty(
                     context,
-                    _view == 1 ? '대화 소재를 보관해 보세요' : '여러 출처의 보도를 확인 중이에요',
+                    _view == 1 ? '대화 소재를 보관해 보세요' : '새 기사를 찾고 있어요',
                     _view == 1
                         ? '카드의 보관 버튼을 누르면 여기에 모입니다.'
-                        : '6시간 이상 지난 관련 보도가 출처그룹 2곳 이상에서 확인되면 추가합니다.',
+                        : '최근 3일의 실제 기사와 출처를 확인해 추가합니다.',
                   ),
                 for (final topic in topics)
                   Padding(
@@ -190,7 +190,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
           Text(
             _view == 1
                 ? '마음에 든 소재와 질문을 모아두세요.'
-                : '7개 분야 · 분야별 최대 2개 · 보도량과 지속성으로 선별합니다.',
+                : '7개 분야 · 분야별 최대 2개 · 여러 출처 우선 · 단일 출처는 별도 표시합니다.',
             style: TextStyle(color: colors.onPrimaryContainer),
           ),
           if (_view == 0 && result != null && !result.briefing.practice) ...[
@@ -219,7 +219,7 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
       FeedMode.live =>
         old
             ? '이전 브리핑입니다. 최신 소식으로 단정하지 말고 기사 날짜를 확인해 주세요.'
-            : '6~72시간 전 보도 · 여러 출처 기준 · 조회수 순위 아님',
+            : '6~72시간 전 보도 · 출처 수 구분 · 조회수 순위 아님',
     };
     return Padding(
       padding: const EdgeInsets.only(bottom: 16),
@@ -306,7 +306,7 @@ class TopicCard extends ConsumerWidget {
             const SizedBox(height: 14),
             if (topic.coverage != null) ...[
               Text(
-                '출처 ${topic.coverage!.groups}그룹 · ${topic.coverage!.spanLabel}에 걸친 보도',
+                topic.coverage!.label,
                 style: Theme.of(context).textTheme.labelMedium,
               ),
               const SizedBox(height: 10),
@@ -450,6 +450,8 @@ class TopicScreen extends StatelessWidget {
           ).textTheme.titleMedium?.copyWith(fontWeight: FontWeight.w800),
         ),
         const SizedBox(height: 8),
+        if (coverage.singleSource)
+          const Text('단일 출처 · 인기 확인 전. 추가 읽을거리로 제공하며 여러 매체의 관심이 확인된 소식은 아닙니다.'),
         Text(
           '출처 ${coverage.groups}그룹 · 수집한 관련 보도 ${coverage.reports}개 · ${coverage.spanLabel}에 걸친 보도',
         ),

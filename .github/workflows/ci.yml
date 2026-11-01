@@ -50,4 +50,5 @@ jobs:
             data/briefing.json
             data/briefing-v3.json
             data/briefing-v4.json
+            data/briefing-v5.json
           if-no-files-found: error

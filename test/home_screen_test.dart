@@ -148,6 +148,46 @@ void main() {
     expect(find.textContaining('사실 확정이나 조회수 지표는 아닙니다.'), findsOneWidget);
     expect(tester.takeException(), isNull);
   });
+  testWidgets('single-source arts cards and details explain the limitation', (
+    tester,
+  ) async {
+    final source = (coverageJson()['sources'] as List).last;
+    final repository = StubRepository()
+      ..result = FeedResult(
+        Briefing.fromJson({
+          ...feedJson(),
+          'cards': [
+            {
+              ...topicJson(),
+              'coverage': {
+                ...coverageJson(),
+                'source_groups': 1,
+                'report_count': 1,
+                'span_hours': 0,
+                'first_report_at': source['published_at'],
+                'first_report_url': source['url'],
+                'sources': [source],
+              },
+            },
+          ],
+        }),
+        FeedMode.live,
+      );
+    await mount(tester, repository);
+    await tester.scrollUntilVisible(find.text('단일 출처 · 인기 확인 전'), 160);
+    expect(find.text('단일 출처 · 인기 확인 전'), findsOneWidget);
+    await tester.scrollUntilVisible(find.text('대화 준비'), 160);
+    await tester.drag(find.byType(ListView).first, const Offset(0, -120));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('대화 준비'));
+    await tester.pumpAndSettle();
+    await tester.scrollUntilVisible(
+      find.textContaining('단일 출처 · 인기 확인 전. 추가 읽을거리'),
+      200,
+    );
+    expect(find.textContaining('여러 매체의 관심이 확인된 소식은 아닙니다.'), findsOneWidget);
+    expect(tester.takeException(), isNull);
+  });
   testWidgets('legacy bookmark categories remain accessible after the update', (
     tester,
   ) async {

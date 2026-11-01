@@ -16,7 +16,7 @@ Json topicJson([int i = 1]) => {
   'coverage': coverageJson(i),
 };
 Json feedJson() => {
-  'schema_version': 4,
+  'schema_version': 5,
   'region': 'KR',
   'edition': 'daily',
   'updated_at': '2026-11-01T06:00:00Z',
@@ -24,7 +24,7 @@ Json feedJson() => {
 };
 String get encodedFeed => jsonEncode(feedJson());
 String get encodedPractice => jsonEncode({
-  'schema_version': 4,
+  'schema_version': 5,
   'region': 'KR',
   'edition': 'practice',
   'updated_at': null,
