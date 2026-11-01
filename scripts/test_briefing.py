@@ -11,6 +11,8 @@ import collect_briefing as collector
 from collect_briefing import candidates, build_briefing, legacy_briefing, legacy_v3, legacy_v4, TOPICS
 from rank_topics import rank, clusters, independent_reports, related, corroboration_searches, additional_reading
 
+from retain_briefing import carry_recent
+
 NOW = datetime(2026, 11, 1, 12, tzinfo=timezone.utc)
 
 
@@ -145,6 +147,23 @@ class SelectionTests(unittest.TestCase):
         reports=[article(PAIRS[0][0][0],'a.kr',40),article(PAIRS[0][0][1],'b.kr',30),article('김영하 신간 소설 문학상 출간','c.kr',7)]
         selected=rank(reports,'문화·예술','질문','맥락')+additional_reading(reports,'문화·예술','질문','맥락')
         self.assertEqual([c['coverage']['source_groups'] for c in selected],[2,1])
+
+    def test_partial_collection_keeps_recent_evidence_and_rejects_expired_or_malformed(self):
+        previous=build_briefing(all_feeds(),NOW)
+        current={**previous,'cards':[c for c in previous['cards'] if c['category'] not in ('스포츠','세계뉴스')]}
+        categories=[t[0] for t in TOPICS]
+        restored=carry_recent(current,previous,NOW+timedelta(hours=1),categories)
+        self.assertEqual(len(restored['cards']),14)
+        kept=[c for c in restored['cards'] if c['category']=='스포츠']
+        self.assertTrue(all('이전 수집' in c['why_now'] for c in kept))
+        self.assertTrue(all(c['last_collected_at']==previous['updated_at'] for c in kept))
+        twice=carry_recent(current,restored,NOW+timedelta(hours=2),categories)
+        self.assertTrue(all(c['last_collected_at']==previous['updated_at'] for c in twice['cards'] if c['category']=='스포츠'))
+        self.assertEqual(len(carry_recent(current,previous,NOW+timedelta(hours=80),categories)['cards']),10)
+        malformed={**previous,'cards':[{**c,'source_url':'javascript:bad'} for c in previous['cards']]}
+        self.assertEqual(len(carry_recent(current,malformed,NOW,categories)['cards']),10)
+        self.assertEqual(carry_recent(current,{**previous,'region':'US'},NOW,categories),current)
+        self.assertEqual(carry_recent(previous,previous,NOW,categories),previous)
 
     def test_followup_searches_distinct_unconfirmed_events(self):
         confirmed=[article(PAIRS[0][0][0]),article(PAIRS[0][0][1],'two.kr')]
