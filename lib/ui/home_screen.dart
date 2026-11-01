@@ -21,6 +21,15 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
     final result = state.valueOrNull;
     final saved = ref.watch(savedProvider);
     final all = _view == 1 ? saved : result?.briefing.topics ?? <Topic>[];
+    final categoryOptions = ['전체', ...topicCategories];
+    if (_view == 1) {
+      categoryOptions.addAll(
+        all
+            .map((t) => t.category)
+            .toSet()
+            .where((category) => !topicCategories.contains(category)),
+      );
+    }
     final topics = all
         .where((t) => _category == '전체' || t.category == _category)
         .toList();
@@ -57,11 +66,15 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
                 Wrap(
                   spacing: 6,
                   runSpacing: 4,
-                  children: ['전체', '문화', '음식', '생활', '기술', '스포츠']
+                  children: categoryOptions
                       .map(
                         (category) => FilterChip(
                           key: ValueKey<String>('filter-$category'),
-                          label: Text(category),
+                          label: Text(
+                            category == '전체'
+                                ? '전체 ${all.length}'
+                                : '$category ${all.where((t) => t.category == category).length}',
+                          ),
                           selected: _category == category,
                           onSelected: (_) =>
                               setState(() => _category = category),
@@ -154,7 +167,9 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
           ),
           const SizedBox(height: 12),
           Text(
-            _view == 1 ? '마음에 든 소재와 질문을 모아두세요.' : '소식 하나, 질문 하나. 대화의 시작을 가볍게.',
+            _view == 1
+                ? '마음에 든 소재와 질문을 모아두세요.'
+                : '5개 분야, 분야별 최대 2개의 대화 소재를 만나보세요.',
             style: TextStyle(color: colors.onPrimaryContainer),
           ),
           if (_view == 0 && result != null && !result.briefing.practice) ...[

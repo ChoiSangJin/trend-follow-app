@@ -34,6 +34,7 @@ jobs:
       - run: bash scripts/check_flutter.sh test --reporter expanded --coverage
       - run: python3 -m unittest discover -s scripts -p 'test_*.py' -v
       - name: Verify live Korean small-talk sources
+        if: github.ref == 'refs/heads/main'
         run: bash scripts/check_command.sh python3 scripts/collect_briefing.py
       - run: bash scripts/check_flutter.sh build apk --debug --target-platform=android-arm64
       - uses: actions/upload-artifact@v4
@@ -47,4 +48,5 @@ jobs:
           path: |
             pubspec.lock
             data/briefing.json
+            data/briefing-v3.json
           if-no-files-found: error

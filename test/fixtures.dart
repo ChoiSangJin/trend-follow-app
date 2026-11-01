@@ -3,7 +3,7 @@ import 'package:malmun/data/briefing.dart';
 
 Json topicJson([int i = 1]) => {
   'id': 't$i',
-  'category': i.isEven ? '음식' : '문화',
+  'category': i.isEven ? '연예' : '문화·예술',
   'title': '오늘의 대화 소재 $i',
   'summary': '확인된 기사 제목 $i',
   'why_now': '최근 보도된 소식입니다.',
@@ -15,7 +15,7 @@ Json topicJson([int i = 1]) => {
   'evidence': 'headline',
 };
 Json feedJson() => {
-  'schema_version': 2,
+  'schema_version': 3,
   'region': 'KR',
   'edition': 'daily',
   'updated_at': '2026-11-01T06:00:00Z',
@@ -23,7 +23,7 @@ Json feedJson() => {
 };
 String get encodedFeed => jsonEncode(feedJson());
 String get encodedPractice => jsonEncode({
-  'schema_version': 2,
+  'schema_version': 3,
   'region': 'KR',
   'edition': 'practice',
   'updated_at': null,

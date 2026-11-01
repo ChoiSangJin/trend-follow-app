@@ -1,3 +1,4 @@
+import 'dart:convert';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
@@ -25,6 +26,7 @@ void main() {
   Future<void> mount(
     WidgetTester tester,
     StubRepository repository, {
+    BriefingStore? store,
     double scale = 1,
     Brightness brightness = Brightness.light,
   }) async {
@@ -36,7 +38,7 @@ void main() {
       ProviderScope(
         overrides: [
           repositoryProvider.overrideWithValue(repository),
-          storeProvider.overrideWithValue(MemoryStore()),
+          storeProvider.overrideWithValue(store ?? MemoryStore()),
         ],
         child: const MalmunApp(),
       ),
@@ -78,15 +80,15 @@ void main() {
       await tester.pageBack();
       await tester.pumpAndSettle();
       await tester.scrollUntilVisible(
-        find.byKey(const ValueKey('filter-음식')),
+        find.byKey(const ValueKey('filter-연예')),
         -250,
       );
       await tester.pumpAndSettle();
-      await tester.tap(find.byKey(const ValueKey('filter-음식')));
+      await tester.tap(find.byKey(const ValueKey('filter-연예')));
       await tester.pumpAndSettle();
       expect(
         tester
-            .widget<FilterChip>(find.byKey(const ValueKey('filter-음식')))
+            .widget<FilterChip>(find.byKey(const ValueKey('filter-연예')))
             .selected,
         isTrue,
       );
@@ -102,6 +104,53 @@ void main() {
       expect(tester.takeException(), isNull);
     },
   );
+  testWidgets(
+    'all ten cards are available with two per field and matching filter count',
+    (tester) async {
+      final repository = StubRepository()
+        ..result = FeedResult(
+          Briefing.fromJson({
+            ...feedJson(),
+            'cards': [
+              for (var i = 0; i < 10; i++)
+                {...topicJson(i + 1), 'category': topicCategories[i ~/ 2]},
+            ],
+          }),
+          FeedMode.live,
+        );
+      await mount(tester, repository);
+      expect(find.text('전체 10'), findsOneWidget);
+      await tester.tap(find.byKey(const ValueKey('filter-사회')));
+      await tester.pumpAndSettle();
+      expect(find.text('사회 2'), findsOneWidget);
+      expect(find.text('오늘의 대화 소재 1'), findsNothing);
+      await tester.scrollUntilVisible(find.text('오늘의 대화 소재 10'), 250);
+      expect(find.text('오늘의 대화 소재 10'), findsOneWidget);
+      expect(tester.takeException(), isNull);
+    },
+  );
+  testWidgets('legacy bookmark categories remain accessible after the update', (
+    tester,
+  ) async {
+    final store = MemoryStore();
+    await store.write(
+      'saved-topics-v2',
+      jsonEncode([
+        {...topicJson(), 'category': '음식'},
+      ]),
+    );
+    await mount(tester, StubRepository(), store: store);
+    await tester.tap(find.text('보관함'));
+    await tester.pumpAndSettle();
+    await tester.scrollUntilVisible(
+      find.byKey(const ValueKey('filter-음식')),
+      -250,
+    );
+    await tester.tap(find.byKey(const ValueKey('filter-음식')));
+    await tester.pumpAndSettle();
+    expect(find.text('음식 1'), findsOneWidget);
+    expect(find.text('오늘의 대화 소재 1'), findsOneWidget);
+  });
   testWidgets('offline practice is clearly labelled and refresh can recover', (
     tester,
   ) async {

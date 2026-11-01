@@ -1,6 +1,7 @@
 import 'dart:convert';
 
 typedef Json = Map<String, dynamic>;
+const topicCategories = ['문화·예술', '연예', '스포츠', '기술·과학', '사회'];
 String stringValue(dynamic value, [String fallback = '']) =>
     value is String && value.trim().isNotEmpty ? value.trim() : fallback;
 
@@ -97,7 +98,7 @@ class Topic {
 class Briefing {
   const Briefing({required this.topics, this.updatedAt, this.practice = false});
   factory Briefing.fromJson(Json json) {
-    if (json['schema_version'] != 2 ||
+    if (json['schema_version'] != 3 ||
         json['region'] != 'KR' ||
         json['cards'] is! List) {
       throw const FormatException('Unsupported briefing');
@@ -112,9 +113,15 @@ class Briefing {
     }).toList();
     final date = DateTime.tryParse(stringValue(json['updated_at']));
     if (topics.isEmpty ||
-        topics.length > 5 ||
+        topics.length > 10 ||
         topics.map((t) => t.id).toSet().length != topics.length ||
-        topics.any((t) => t.isPractice != practice) ||
+        topics.any(
+          (t) =>
+              t.isPractice != practice || !topicCategories.contains(t.category),
+        ) ||
+        topicCategories.any(
+          (category) => topics.where((t) => t.category == category).length > 2,
+        ) ||
         (!practice && date == null)) {
       throw const FormatException('Invalid briefing content');
     }
