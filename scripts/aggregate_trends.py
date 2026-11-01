@@ -1,4 +1,4 @@
-"""Aggregate Korean Google Trends RSS plus explicitly curated editorial data.
+"""Aggregate the validated Korean edition of Google News RSS plus explicitly curated editorial data.
 
 On failure exit nonzero and leave the previously published feed untouched.
 No scraped or fabricated congestion/demographic metrics are generated.
@@ -11,12 +11,16 @@ from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
-RSS_URL = 'https://trends.google.com/trending/rss?geo=KR'
-NS = {'ht': 'https://trends.google.com/trending/rss'}
+RSS_URL = 'https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko'
 
 
 def parse_keywords(payload: bytes) -> list[dict]:
     root = ET.fromstring(payload)
+    channel = root.find('channel')
+    if channel is None or channel.findtext('language', '').lower() not in ('ko', 'ko-kr'):
+        raise ValueError('Expected a Korean-language news feed')
+    if 'ceid=KR' not in channel.findtext('link', ''):
+        raise ValueError('Expected the Korea edition of Google News')
     keywords = []
     seen = set()
     for item in root.findall('./channel/item'):
@@ -27,13 +31,14 @@ def parse_keywords(payload: bytes) -> list[dict]:
         keywords.append({
             'rank': len(keywords) + 1,
             'keyword': title,
-            'search_volume': item.findtext('ht:approx_traffic', '집계 중', NS),
-            'source': 'Google Trends · 대한민국',
+            'search_volume': '뉴스',
+            'source_url': item.findtext('link', ''),
+            'source': 'Google 뉴스 한국판 · ' + item.findtext('source', '언론사 미제공'),
         })
         if len(keywords) == 20:
             break
     if not keywords:
-        raise ValueError('Google Trends RSS contains no keywords; preserving previous feed')
+        raise ValueError('Korean news RSS contains no items; preserving previous feed')
     return keywords
 
 
@@ -44,7 +49,7 @@ def build_feed(payload: bytes, editorial: dict, timestamp: str) -> dict:
         if not isinstance(entries, list) or any(not isinstance(x, dict) for x in entries):
             raise ValueError(f'editorial.{name} must be a list of objects')
         categories[name] = entries
-    return {'updated_at': timestamp, 'is_demo': False, 'categories': categories}
+    return {'region': 'KR', 'feed_type': 'korean_news', 'updated_at': timestamp, 'is_demo': False, 'categories': categories}
 
 
 def main() -> None:

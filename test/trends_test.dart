@@ -31,6 +31,11 @@ void main() {
     expect(() => TrendFeed.fromJson({'categories': {'keywords': {}}}), throwsFormatException);
   });
 
+  test('news links open the publisher feed link instead of a search', () {
+    final item = Keyword.fromJson({'keyword': '국내 소식', 'source_url': 'https://news.google.com/rss/articles/example'});
+    expect(item.searchUri.host, 'news.google.com');
+  });
+
   test('only http(s) links can launch', () {
     expect(webUri('https://example.com/article'), isNotNull);
     expect(webUri('file:///etc/passwd'), isNull);
