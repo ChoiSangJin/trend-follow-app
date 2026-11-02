@@ -2,6 +2,7 @@
 Ranks are Netflix's country chart; no inferred Korean view counts or buzz scores.
 """
 import csv
+import ast
 from http.client import IncompleteRead
 import io
 import re
@@ -93,17 +94,21 @@ def main():
                 try:
                     payload = json.loads(body)
                 except ValueError:
-                    inspection.append({'attrs': attrs[:200], 'prefix': body[:100]})
-                    continue
+                    match = re.search(r"graphql\s*=\s*JSON.parse\(('(?:\\.|[^'\\])*')\)", body)
+                    if match:
+                        payload = json.loads(ast.literal_eval(match.group(1)))
+                    else:
+                        inspection.append({'attrs': attrs[:200], 'prefix': body[:100]})
+                        continue
                 def walk(node, path=''):
                     if isinstance(node, dict):
-                        if any(k.lower() in ('title', 'showtitle', 'name', 'videos', 'titles') for k in node):
-                            inspection.append({'path': path, 'node': {k:v for k,v in node.items() if not isinstance(v,(dict,list))}})
+                        if any(k.lower() in ('title', 'showtitle', 'name', 'videos', 'titles', 'synopsis', 'rank', 'weeklyrank') for k in node):
+                            inspection.append({'path': path, 'node': {k:(v if not isinstance(v,(dict,list)) else str(v)[:800]) for k,v in node.items()}})
                         for k,v in node.items(): walk(v, path + '.' + k)
                     elif isinstance(node, list):
                         for i,v in enumerate(node): walk(v, path + '[' + str(i) + ']')
                 walk(payload)
-        print('NETFLIX_SOURCE_JSON=' + json.dumps(inspection[:160], ensure_ascii=False))
+        print('NETFLIX_SOURCE_JSON=' + json.dumps(inspection[:500], ensure_ascii=False))
 
 
 if __name__ == '__main__':
