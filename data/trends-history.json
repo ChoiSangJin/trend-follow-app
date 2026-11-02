@@ -66,9 +66,36 @@
         "세계뉴스"
       ],
       "truncated_categories": []
+    },
+    {
+      "at": "2026-11-02T06:07:16.222448Z",
+      "categories": [
+        "문화·예술",
+        "연예",
+        "스포츠",
+        "기술·과학",
+        "사회",
+        "경제·주식",
+        "세계뉴스"
+      ],
+      "truncated_categories": []
     }
   ],
   "articles": [
+    {
+      "id": "358eed0cb5907c5522da",
+      "category": "문화·예술",
+      "origin_group": "etnews.com",
+      "title": "김재환, 3년 만에 단독 공연 귀환…\"또 하나의 출발점\"",
+      "summary": "김재환, 3년 만에 단독 공연 귀환…\"또 하나의 출발점\"",
+      "why_now": "전자신문에서 11.02 15:04 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘김재환, 3년 만에 단독 공연 귀환…\"또 하나의 출발점\"’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
+      "source": "전자신문",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5FNjVjejNzcjBIbElOZ192MHQzSFZxUGpDa1RQMWR3dks2MlY3M1RrQkxYcDdCX2x6VHB1X3NGTVRqQi0xQUI5U3dXeEtuZw?oc=5",
+      "published_at": "2026-11-02T06:04:46Z",
+      "evidence": "headline"
+    },
     {
       "id": "83d38005555e05e00cef",
       "category": "문화·예술",
@@ -1134,6 +1161,20 @@
       "evidence": "headline"
     },
     {
+      "id": "28375276cce776c3f49a",
+      "category": "문화·예술",
+      "origin_group": "wire:연합뉴스",
+      "title": "[아동신간] 기이하고 다정한 세계…'내가 아주 작아진 밤에'",
+      "summary": "[아동신간] 기이하고 다정한 세계…'내가 아주 작아진 밤에'",
+      "why_now": "연합뉴스에서 10.31 08:07 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘[아동신간] 기이하고 다정한 세계…'내가 아주 작아진 밤에'’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jVU01RGNzZXI4S1NMdVFYbWNBVkhiazVUVzNLa2llVE1zeUdNV2NvalI0aGhFRVVGZ1YyV2ZzclU3TmFrWERrTlVMcnZ1aDFNOGNyVEdsUmVwSmfSAWBBVV95cUxPTFNtMnhHRmxxaGJ3S2tLWEd0MTNWODlxTEE3cFZWejE4Mmo1Q0VzbF83d082UjMySEYxRjVLVVgwVl9mZ3RDVkVlbzQ5ZmttaGZhZHhxa1FwWmVjZGFHeEU?oc=5",
+      "published_at": "2026-10-30T23:07:00Z",
+      "evidence": "headline"
+    },
+    {
       "id": "f8f5b45e6e7e9377851f",
       "category": "문화·예술",
       "origin_group": "chosun.com",
@@ -1313,6 +1354,34 @@
       "source": "뉴시스",
       "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IZ0ZZOUhBX1pPaEkwZ01sRGxCWGRRaUtqaFRvdk9jR1FSbXB4WWFLVFZDVE11VnBfT0xkWGxESWxGYjFLeTZ3OWpMRzVTbVhlME5BN3dCUXFsd3l0em5nZ9IBeEFVX3lxTE5LZlVuVWREaXNjV3VKQ24xU1Q5ZjJjRzNEcEFJcU9jbV9YUUk2d1EtWWpFdXg5cExyV3AyTGp5OVkyX1VMZlFnMW1BRkJrMHdGWV9vd1JBemVqakpBT3BvTndHV3Jyak1DdzFhdWNzMXdxdktvbFhFeA?oc=5",
       "published_at": "2026-10-30T06:14:57Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "29e6fa88106a54b12d28",
+      "category": "연예",
+      "origin_group": "spotvnews.co.kr",
+      "title": "하데스, 스타덤차트 아이돌부문 5주연속 1위…엔싸인 2위, 이세계아이돌 3위",
+      "summary": "하데스, 스타덤차트 아이돌부문 5주연속 1위…엔싸인 2위, 이세계아이돌 3위",
+      "why_now": "SPOTV NEWS에서 11.02 15:03 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘하데스, 스타덤차트 아이돌부문 5주연속 1위…엔싸인 2위, 이세계아이돌 3위’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
+      "source": "SPOTV NEWS",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tQ1NiZTRsa20xc0VYeXFzTU90LUYtVWFBV3ZkdDRfS1E5TFRFSy1QY0VqbUdvaG8wZWRPcWFRV2VnME9Sb1lmVFlFTlJqMkRETUFPQmFzLURlSmktWW1zOWYxdXlKYnV6U0hfX0YweTI?oc=5",
+      "published_at": "2026-11-02T06:03:45Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "74607facb5b39824a9f4",
+      "category": "연예",
+      "origin_group": "etnews.com",
+      "title": "온유, 3일간 서울 단독 콘서트 마무리…컴백까지 깜짝 발표",
+      "summary": "온유, 3일간 서울 단독 콘서트 마무리…컴백까지 깜짝 발표",
+      "why_now": "전자신문에서 11.02 15:00 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘온유, 3일간 서울 단독 콘서트 마무리…컴백까지 깜짝 발표’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
+      "source": "전자신문",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBDQW1YODJCTFdIRVZkcmZWLWZQZUQxY2VvcklLY0hkRGRqeXVRSTNWUWhqZ3hsSnFIazVhU0s1RzVTVVBlbzVXaGtnVXRsUQ?oc=5",
+      "published_at": "2026-11-02T06:00:10Z",
       "evidence": "headline"
     },
     {
@@ -2282,6 +2351,48 @@
       "evidence": "headline"
     },
     {
+      "id": "4b5f390cc201128d1b1e",
+      "category": "스포츠",
+      "origin_group": "hankookilbo.com",
+      "title": "MLB 스카우트가 본 KBO 빅리그 후보… 김도영 \"20~25홈런\", 곽빈 \"4, 5 선발\"",
+      "summary": "MLB 스카우트가 본 KBO 빅리그 후보… 김도영 \"20~25홈런\", 곽빈 \"4, 5 선발\"",
+      "why_now": "한국일보에서 11.02 15:00 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘MLB 스카우트가 본 KBO 빅리그 후보… 김도영 \"20~25홈런\", 곽빈 \"4, 5 선발\"’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "한국일보",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CWWdRREY2MHJOcDlHSFRXWlg2eUgycjBkOFZvVW9TUFE5aWpUWGRJRWhKMzdIc0pNOXU1YUFILURGU1hqb3dnbzF6a2lQNFJmTldmQ2dmbFdxZG9DSTdOY21MMHZNclA5RWJ4SkFn?oc=5",
+      "published_at": "2026-11-02T06:00:00Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "0bccae4c8694c74fdd87",
+      "category": "스포츠",
+      "origin_group": "mydaily.co.kr",
+      "title": "야말의 바르셀로나? 이강인의 아틀레티코? 라리가 선두 싸움, 우리도 있다! 레알 마드리드 연승 행진 '맹추격'",
+      "summary": "야말의 바르셀로나? 이강인의 아틀레티코? 라리가 선두 싸움, 우리도 있다! 레알 마드리드 연승 행진 '맹추격'",
+      "why_now": "마이데일리에서 11.02 15:00 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘야말의 바르셀로나? 이강인의 아틀레티코? 라리가 선두 싸움, 우리도 있다! 레알 마드리드 연승 행진 '맹추격'’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "마이데일리",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBVYnB4ZVVhSEd3VGRuVFNLQTdBOHVuOVk0UjhKWDRRUGRCZXBDaWpBaWU2UnhhR3lJZWtlR0VaQmFsYTBvNmdncnZwNzUtVldwRE52RWxsNGN3emozX1VhaUN2eHBjUQ?oc=5",
+      "published_at": "2026-11-02T06:00:00Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "c8184840558ac71a1ee4",
+      "category": "스포츠",
+      "origin_group": "wire:연합뉴스",
+      "title": "전북 순창서 전국 파크골프대회 7일 개막…동호인 1천여명 참가",
+      "summary": "전북 순창서 전국 파크골프대회 7일 개막…동호인 1천여명 참가",
+      "why_now": "연합뉴스에서 11.02 14:57 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘전북 순창서 전국 파크골프대회 7일 개막…동호인 1천여명 참가’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xYU1wMHdHWkI5OTkzakM5Um1wRHpvbzluaGRUUmVJSDhRNWZVY3A3STV0VzQyalBVaGtjTDBmZzNCR1JnYlFZbmJkZGYzNEEwOVc2UzcyVGtteWvSAWBBVV95cUxPNE5zNmVaWEZRWUZxeVpnUy1YX0NJb0VOU2tMV2h0WDk4TklNakZoVTlWbkF2N3J1bWpLUFNGeVRvdE9vUVlvalE1dHNlbmptcWxaOV9kMVllT0cyTWFIUjE?oc=5",
+      "published_at": "2026-11-02T05:57:40Z",
+      "evidence": "headline"
+    },
+    {
       "id": "7c4388136b12592ce510",
       "category": "스포츠",
       "origin_group": "edaily.co.kr",
@@ -2436,6 +2547,20 @@
       "evidence": "headline"
     },
     {
+      "id": "c9ce80b54114977cd357",
+      "category": "스포츠",
+      "origin_group": "donga.com",
+      "title": "축구토토 승무패 65회차 결과 발표…‘1등 2건’ 각각 4억9천여만 원",
+      "summary": "축구토토 승무패 65회차 결과 발표…‘1등 2건’ 각각 4억9천여만 원",
+      "why_now": "스포츠동아에서 11.02 14:01 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘축구토토 승무패 65회차 결과 발표…‘1등 2건’ 각각 4억9천여만 원’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "스포츠동아",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UNUw4aVBveUw1MGhHYlNMQmJNV1pCcTkwSmR1X0YtSVROXy1ZZGlYVnNvdEFpSERvSzZDUG9wUjIwdUloazNBUE9tNmFlWWNWSVkwc25Yb2RocGxTNkozQWFqWjktYzhENjU0T203YjhwZw?oc=5",
+      "published_at": "2026-11-02T05:01:58Z",
+      "evidence": "headline"
+    },
+    {
       "id": "f6855450f39f57a6beb3",
       "category": "스포츠",
       "origin_group": "starnewskorea.com",
@@ -2506,6 +2631,20 @@
       "evidence": "headline"
     },
     {
+      "id": "b4e3d8b547a998bf8c60",
+      "category": "스포츠",
+      "origin_group": "chosun.com",
+      "title": "[토토 투데이] 축구토토 승무패 65회차, 1등 적중 2건 나왔다…각 4억9779만 원 지급",
+      "summary": "[토토 투데이] 축구토토 승무패 65회차, 1등 적중 2건 나왔다…각 4억9779만 원 지급",
+      "why_now": "조선일보에서 11.02 13:38 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘[토토 투데이] 축구토토 승무패 65회차, 1등 적중 2건 나왔다…각 4억9779만 원 지급’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "조선일보",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYVRtVGtLTGZxeVl2bWZXWkhUMTJ2NF84SUZpTS1RbC0tOGR5dVRZMlRiRHR4VTN1QmRFQ0VaTlU0NENULU5PX1lXZjRyRl9BSHktOXcyc1ZnV0RrQlBncExtRVVNQWpZd1A5TVlabGZFNkU0LVNBSVE3UXFzS0JUbUQzYTEzWXdNUWc4?oc=5",
+      "published_at": "2026-11-02T04:38:00Z",
+      "evidence": "headline"
+    },
+    {
       "id": "1c6d16c97d274724095b",
       "category": "스포츠",
       "origin_group": "sbs.co.kr",
@@ -2517,6 +2656,20 @@
       "source": "news.sbs.co.kr",
       "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVV9Uc2tDbUhwVVhVR01Lc0JQYUVoVG5OWjZUaHctc05CNk9Jdzh5TVg0N3piRmFEMl9UVGtjSzJGVGlxaGlVN0FRMXhqdHRScWRMV2tTRWVvY0VzVnpTdEI2YU9oLVE0YzFaYTNlaHRKX0lQcHJYSWlPckI3cEd3c2xpYmhxdw?oc=5",
       "published_at": "2026-11-02T04:36:22Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "746a190ba07beb9ab106",
+      "category": "스포츠",
+      "origin_group": "sbs.co.kr",
+      "title": "K리그1 안양 조직 개편…이우형 단장, 테크니컬 디렉터로 보직 변경",
+      "summary": "K리그1 안양 조직 개편…이우형 단장, 테크니컬 디렉터로 보직 변경",
+      "why_now": "news.sbs.co.kr에서 11.02 13:36 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘K리그1 안양 조직 개편…이우형 단장, 테크니컬 디렉터로 보직 변경’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "news.sbs.co.kr",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GRnJtU0l5SDVvU0dMQV9JX0VKSTU5bHRaNGxPTGRiVVRmMnVlYjl3M3prcWRnUk52dThxYkRaREtJcnBrT3Z1ZGRZcW83UnZLbFhyNm9tSDRxRnNzTnp2VTcwOTNtZw?oc=5",
+      "published_at": "2026-11-02T04:36:00Z",
       "evidence": "headline"
     },
     {
@@ -2590,6 +2743,20 @@
       "evidence": "headline"
     },
     {
+      "id": "cab6689fce90e7268cc0",
+      "category": "스포츠",
+      "origin_group": "wire:연합뉴스",
+      "title": "K리그1 안양 이우형 단장, 테크니컬 디렉터로 보직 변경",
+      "summary": "K리그1 안양 이우형 단장, 테크니컬 디렉터로 보직 변경",
+      "why_now": "연합뉴스에서 11.02 13:13 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘K리그1 안양 이우형 단장, 테크니컬 디렉터로 보직 변경’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44VzlvOVM0NUpnZmc2emU2MzdXVExYelpnSWo0V3BfQ044V2IxRTNZVHYyMWczU2NkSDllYmNZdTRtR1V3Y1JVM1EzWjNlQnc3VFY2ZEdNdDduSGFELTBUM9IBYEFVX3lxTE44VzlvOVM0NUpnZmc2emU2MzdXVExYelpnSWo0V3BfQ044V2IxRTNZVHYyMWczU2NkSDllYmNZdTRtR1V3Y1JVM1EzWjNlQnc3VFY2ZEdNdDduSGFELTBUMw?oc=5",
+      "published_at": "2026-11-02T04:13:30Z",
+      "evidence": "headline"
+    },
+    {
       "id": "4fae3b512948b13ee51d",
       "category": "스포츠",
       "origin_group": "joongang.co.kr",
@@ -2629,6 +2796,48 @@
       "source": "일간스포츠",
       "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fNU1JNFBQcjRxQi1wRnUzWUNJVDlIQkpiaXpTREhGTVl4UnBfM1NBbW9jbFk1eENuMEtHZGpLNzRWcnJ5Nm1jd0thcXBBVjk1RnFxV3FNel85a28?oc=5",
       "published_at": "2026-11-02T04:05:00Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "b66072f3a77c03dcbebe",
+      "category": "스포츠",
+      "origin_group": "kbs.co.kr",
+      "title": "‘손흥민 풀타임’ LAFC, 미네소타에 1-3 완패…PO 상위 시드 불발",
+      "summary": "‘손흥민 풀타임’ LAFC, 미네소타에 1-3 완패…PO 상위 시드 불발",
+      "why_now": "KBS 뉴스에서 11.02 13:03 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘‘손흥민 풀타임’ LAFC, 미네소타에 1-3 완패…PO 상위 시드 불발’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "KBS 뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UUDhydUFDLTlVSVc5Z01ncmp6UHUtVXV0dEQ3NDdSbjJSbkMxNTc0ZW12UW5qUFUyZkw5bG9pdzFVYzVocEhTeEhfVVluN1c1NHp6WUhTeEU0dkU?oc=5",
+      "published_at": "2026-11-02T04:03:43Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "6669cd1924b75fab4bdc",
+      "category": "스포츠",
+      "origin_group": "wire:뉴시스",
+      "title": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승",
+      "summary": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승",
+      "why_now": "뉴시스에서 11.02 13:01 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "뉴시스",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YZjMzTGsxOE1wZ1JnOHZDSHh5a3NSOGFRVDNPMVd4czhuVUNMckxnd001RTFLNmdkTFpOd0hxX1BYc0Zqbl91YWRKY2JIVV9BTWprTHEtLVlNVzJrbnkzTVN4cVZEWXRzZmhvaUN3Mm9zMVAySjU3Y9IBeEFVX3lxTE1YZjMzTGsxOE1wZ1JnOHZDSHh5a3NSOGFRVDNPMVd4czhuVUNMckxnd001RTFLNmdkTFpOd0hxX1BYc0Zqbl91YWRKY2JIVV9BTWprTHEtLVlNVzJrbnkzTVN4cVZEWXRzZmhvaUN3Mm9zMVAySjU3Yw?oc=5",
+      "published_at": "2026-11-02T04:01:50Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "00cead7f569eaf492412",
+      "category": "스포츠",
+      "origin_group": "nocutnews.co.kr",
+      "title": "손흥민, 3경기 연속 침묵에 LAFC도 3경기 연속 무승",
+      "summary": "손흥민, 3경기 연속 침묵에 LAFC도 3경기 연속 무승",
+      "why_now": "노컷뉴스에서 11.02 13:01 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘손흥민, 3경기 연속 침묵에 LAFC도 3경기 연속 무승’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "노컷뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwajd3SS13dWdNeGFXa0xjSm51dGJaZXM4V1JxdkVZNW0tZHlSN3prdU1iM2tmcFN3SGNlNFFfekZhVjZiUzV4LVhyMW9KX1JwUFE?oc=5",
+      "published_at": "2026-11-02T04:01:27Z",
       "evidence": "headline"
     },
     {
@@ -2716,6 +2925,20 @@
       "evidence": "headline"
     },
     {
+      "id": "f5c7c42046b5c9fb00c6",
+      "category": "스포츠",
+      "origin_group": "wire:뉴시스",
+      "title": "K리그1 안양 이우형 단장, 테크니컬 디렉터로 보직 변경",
+      "summary": "K리그1 안양 이우형 단장, 테크니컬 디렉터로 보직 변경",
+      "why_now": "뉴시스에서 11.02 12:36 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘K리그1 안양 이우형 단장, 테크니컬 디렉터로 보직 변경’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "뉴시스",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GOThRM040RVdwcTNIZ3plT01mQkhoc2Z2VnZ2VjFyei1qaEYwbEhvTUdSd0RsT0RkLXE3dXREYkxQcnlrcFFEc0N3QmlVZlhQUTlHazl2MkdNVXhZZERYdm5pNmFFcjByQmdPQWw0SnZjZ3c2Z0dfQdIBeEFVX3lxTE1GOThRM040RVdwcTNIZ3plT01mQkhoc2Z2VnZ2VjFyei1qaEYwbEhvTUdSd0RsT0RkLXE3dXREYkxQcnlrcFFEc0N3QmlVZlhQUTlHazl2MkdNVXhZZERYdm5pNmFFcjByQmdPQWw0SnZjZ3c2Z0dfQQ?oc=5",
+      "published_at": "2026-11-02T03:36:10Z",
+      "evidence": "headline"
+    },
+    {
       "id": "c8272cf203d1e4979a40",
       "category": "스포츠",
       "origin_group": "mk.co.kr",
@@ -2730,6 +2953,20 @@
       "evidence": "headline"
     },
     {
+      "id": "faca5575e1612aad1433",
+      "category": "스포츠",
+      "origin_group": "sportsseoul.com",
+      "title": "가을야구 ‘아직’ 안 끝났습니다!…KBO, APBC 도쿄돔 응원단 파견",
+      "summary": "가을야구 ‘아직’ 안 끝났습니다!…KBO, APBC 도쿄돔 응원단 파견",
+      "why_now": "스포츠서울에서 11.02 12:20 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘가을야구 ‘아직’ 안 끝났습니다!…KBO, APBC 도쿄돔 응원단 파견’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "스포츠서울",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UM0J1SkgtOTVKQVp5bjAyNHRuejZKR1VZRmtlYklEX3NXUE1zcG5jdUp6U1BvcEdhbk1jMVBhdUZpLVpHd1pwVjllOTdyaDRkZVpqMXJzNlI?oc=5",
+      "published_at": "2026-11-02T03:20:00Z",
+      "evidence": "headline"
+    },
+    {
       "id": "ec7c48509b0a52cfdc8f",
       "category": "스포츠",
       "origin_group": "chosun.com",
@@ -2741,6 +2978,34 @@
       "source": "스포츠조선",
       "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBibThrSXdUcXRwQTVjV2JlMzJiVUVia0tuQTNnSDRQbThneWZudVFkZ0dhbkY1WUplcm9HYUNGQWRXd2lJMW1KdENldGg0bVV1RzlJdFdHeUZiMHZ4WjU1TWdlODlPUURoN29pck5uSjM4QnBvS2JMYU1Zb0RQUQ?oc=5",
       "published_at": "2026-11-02T03:15:31Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "e5b993c874f6f36597d2",
+      "category": "스포츠",
+      "origin_group": "sbs.co.kr",
+      "title": "APBC 야구 대표팀 우완 최민석(두산)·신영우(NC), 팔꿈치 부상으로 낙마",
+      "summary": "APBC 야구 대표팀 우완 최민석(두산)·신영우(NC), 팔꿈치 부상으로 낙마",
+      "why_now": "news.sbs.co.kr에서 11.02 11:56 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘APBC 야구 대표팀 우완 최민석(두산)·신영우(NC), 팔꿈치 부상으로 낙마’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "news.sbs.co.kr",
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSllGSVRCSk9qVzZKOWZTYllSRXZtaTFBT2M0QVpHMXBRQ2lyVHdRWVhvUW1PcXVabGdIdXlGNzIybjVXRlppQjA5RFlYMzBJVUVaQ0dYVzFQOWVyTWdUS0ZKMzQxWUlyOE5jSHh5NnFvTk9MM29tZlA1MVQtQWdqTmp2Qk1sT2VrLXFXVlZiVQ?oc=5",
+      "published_at": "2026-11-02T02:56:02Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "22956fb96a9bd541e913",
+      "category": "스포츠",
+      "origin_group": "sbs.co.kr",
+      "title": "APBC 야구 대표팀 우완 최민석(두산)·신영우(NC), 팔꿈치 부상으로 낙마",
+      "summary": "APBC 야구 대표팀 우완 최민석(두산)·신영우(NC), 팔꿈치 부상으로 낙마",
+      "why_now": "SBS 뉴스에서 11.02 11:56 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘APBC 야구 대표팀 우완 최민석(두산)·신영우(NC), 팔꿈치 부상으로 낙마’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "SBS 뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ySE5IaEJ5Qi05Y0pVMEFJUGE0djZKUjFDT0lhRlZUZlJDbDRtMW5LMTdDU29vX3Z6azVhdm9CZUZhVGUyTDQ0bXhwb3Q4dHFZRmVWRElqcEpNRVBvWVJ5NDVrb3VnbmkxOWc?oc=5",
+      "published_at": "2026-11-02T02:56:02Z",
       "evidence": "headline"
     },
     {
@@ -2772,6 +3037,20 @@
       "evidence": "headline"
     },
     {
+      "id": "ee0b1024957c7e8efbe5",
+      "category": "스포츠",
+      "origin_group": "chosun.com",
+      "title": "걸어다니는 손흥민, '10번' 위치서 영향력 제로…'노답 경기력' LA FC, 하위권 미네소타에 전반 0-2 리드 허용 '충격'(전반 종료)",
+      "summary": "걸어다니는 손흥민, '10번' 위치서 영향력 제로…'노답 경기력' LA FC, 하위권 미네소타에 전반 0-2 리드 허용 '충격'(전반 종료)",
+      "why_now": "스포츠조선에서 11.02 11:35 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘걸어다니는 손흥민, '10번' 위치서 영향력 제로…'노답 경기력' LA FC, 하위권 미네소타에 전반 0-2 리드 허용 '충격'(전반 종료)’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "스포츠조선",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMT1JTOWpoZGZManpBOHJGUENPWEdteEszRm83ZDZLM3hVOGw5YW1mZVpRNDFhaFV6Y3c3ZXl2S1BMVU83c0pFdVRSYW54cjVzY0tzNllEd1hYTTBGRkFrVi1OS3dvR3NhZEtIZHBGaHFEZzdOSmZkcGNtb1hvdw?oc=5",
+      "published_at": "2026-11-02T02:35:07Z",
+      "evidence": "headline"
+    },
+    {
       "id": "f153374ada85375625bd",
       "category": "스포츠",
       "origin_group": "mt.co.kr",
@@ -2782,6 +3061,20 @@
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
       "source": "머니투데이",
       "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2aXJfMlVETDNPVXJ6QW5Ob01USUk3TXFmdURDX2ZXSUZwN3NYRGNlVGtQT2lWdjN6N1NyUWdnMXc2Snc3czZCZ0tyVklXRGM4Mnp3QlhoYkRyQkVVY3ZSdVpua2VXcWJXbXctUEQwZ9IBb0FVX3lxTFB2aXJfMlVETDNPVXJ6QW5Ob01USUk3TXFmdURDX2ZXSUZwN3NYRGNlVGtQT2lWdjN6N1NyUWdnMXc2Snc3czZCZ0tyVklXRGM4Mnp3QlhoYkRyQkVVY3ZSdVpua2VXcWJXbXctUEQwZw?oc=5",
+      "published_at": "2026-11-02T02:31:00Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "e620314a33c14ccfabfc",
+      "category": "스포츠",
+      "origin_group": "mt.co.kr",
+      "title": "\"日 미야자키 뛰어넘어야죠\" 美 독립리그 팀이 12G 무패 우승이라니... KBO 가을리그가 마주한 냉정한 현실 - 머니투데이",
+      "summary": "\"日 미야자키 뛰어넘어야죠\" 美 독립리그 팀이 12G 무패 우승이라니... KBO 가을리그가 마주한 냉정한 현실 - 머니투데이",
+      "why_now": "머니투데이에서 11.02 11:31 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘\"日 미야자키 뛰어넘어야죠\" 美 독립리그 팀이 12G 무패 우승이라니... KBO 가을리그가 마주한 냉정한 현실 - 머니투데이’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "머니투데이",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lQmhfWGNGc2M2TF9YSHZSNkRYa3VCRnpRcWFGU3ZBN3EtM0tFVEllaEkwMk1TZ3h6cDFVckh5REtNQ3VVWWFFc3ZoNTVEcG1WWnd2bzJoT1o0d0NoQ3BJNWtRSDR3UWVMV2fSAW9BVV95cUxQdmlyXzJVREwzT1VyekFuTm9NVElJN01xZnVEQ19mV0lGcDdzWERjZVRrUE9pVnYzejdTclFnZzF3Nkp3N3M2QmdLclZJV0RjODJ6d0JYaGJEckJFVWN2UnVabmtlV3FiV213LVBEMGc?oc=5",
       "published_at": "2026-11-02T02:31:00Z",
       "evidence": "headline"
     },
@@ -2839,6 +3132,20 @@
       "source": "뉴스1",
       "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoVVIxZlI4dUdwSHZkaDFRZG02U3J1UmxmRHJrTVFJSTNCWTEwVzFCY3YtdmlNY19PRUlEOVRfQ1hlekVvN3hkQ1RkQUdPYVlkZ2VfNw?oc=5",
       "published_at": "2026-11-02T02:21:21Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "de77194d09e1f075a99d",
+      "category": "스포츠",
+      "origin_group": "osen.co.kr",
+      "title": "'KBO 1년 경험했다' 울산 외인 포수, 韓 투수들 상대로 어떨까…알렉스 홀, APBC 호주 대표팀 와일드카드 합류",
+      "summary": "'KBO 1년 경험했다' 울산 외인 포수, 韓 투수들 상대로 어떨까…알렉스 홀, APBC 호주 대표팀 와일드카드 합류",
+      "why_now": "OSEN에서 11.02 11:15 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘'KBO 1년 경험했다' 울산 외인 포수, 韓 투수들 상대로 어떨까…알렉스 홀, APBC 호주 대표팀 와일드카드 합류’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "OSEN",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DeXFTbUtjRWExUlN0UVJEbVpOZUdHMndWR1JXQ1pDUUdkbDE2YUN5SXJOWG4tRVU5cm5qR2lHaDc2d2hRVmNOLTd5cG1KemdBY2FPSg?oc=5",
+      "published_at": "2026-11-02T02:15:00Z",
       "evidence": "headline"
     },
     {
@@ -2996,6 +3303,20 @@
       "evidence": "headline"
     },
     {
+      "id": "74a534bc160a3ac69d1d",
+      "category": "스포츠",
+      "origin_group": "wire:뉴시스",
+      "title": "LAFC 손흥민, 미네소타전 선발 출격…구단 최다 도움 도전",
+      "summary": "LAFC 손흥민, 미네소타전 선발 출격…구단 최다 도움 도전",
+      "why_now": "뉴시스에서 11.02 10:16 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘LAFC 손흥민, 미네소타전 선발 출격…구단 최다 도움 도전’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "뉴시스",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ETXlRZDNEVXNtbHRacEZnWm5aZnJkaVZLTUprMjItNGhWdUhSY2k5Z29idlVUQktteWJWa3dyV0FDTDVicFlNaG52dnpFNnhoWjk4akV4cWU3cHRGOE1JOWxRUFhNdU1ad3dXdGlJendkdU44YnpRddIBeEFVX3lxTE9ETXlRZDNEVXNtbHRacEZnWm5aZnJkaVZLTUprMjItNGhWdUhSY2k5Z29idlVUQktteWJWa3dyV0FDTDVicFlNaG52dnpFNnhoWjk4akV4cWU3cHRGOE1JOWxRUFhNdU1ad3dXdGlJendkdU44YnpRdQ?oc=5",
+      "published_at": "2026-11-02T01:16:10Z",
+      "evidence": "headline"
+    },
+    {
       "id": "3a4313da4f5abfd9c562",
       "category": "스포츠",
       "origin_group": "wire:뉴시스",
@@ -3048,6 +3369,20 @@
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
       "source": "뉴시스",
       "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95WUtZakJoWUctcHRkVW1iTnltZllvWklOMjdHWUZyQnFYNHhXV2w1Q2xEN3p5ZmNsZFhPSldERGZvdlBOc0h5d09UQ01JTFNwQlNjZkJ4VG9hOGxSeUFyY09BXzBxZw?oc=5",
+      "published_at": "2026-11-02T00:43:08Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "2a29f5719abf069c44b3",
+      "category": "스포츠",
+      "origin_group": "wire:뉴시스",
+      "title": "[그래픽] 2026 KBO 한국시리즈 'KT vs 삼성' 경기 일정",
+      "summary": "[그래픽] 2026 KBO 한국시리즈 'KT vs 삼성' 경기 일정",
+      "why_now": "뉴시스에서 11.02 09:43 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘[그래픽] 2026 KBO 한국시리즈 'KT vs 삼성' 경기 일정’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "뉴시스",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByM2w0NUlfMFdwOEowbTJ4a3pRNHN3YlVwMzV0SUg3NDRSOHFlRVp2eXlxdFpFWGtGY1FocXF5UlRKSldVdEM4VHptQWczaktSVkxBcGM1aFpNblE5RUdZVWtwNEQ3N2VOWmhtQldidE9CbXN6SVJ4MdIBeEFVX3lxTFByM2w0NUlfMFdwOEowbTJ4a3pRNHN3YlVwMzV0SUg3NDRSOHFlRVp2eXlxdFpFWGtGY1FocXF5UlRKSldVdEM4VHptQWczaktSVkxBcGM1aFpNblE5RUdZVWtwNEQ3N2VOWmhtQldidE9CbXN6SVJ4MQ?oc=5",
       "published_at": "2026-11-02T00:43:08Z",
       "evidence": "headline"
     },
@@ -3146,6 +3481,20 @@
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
       "source": "머니투데이",
       "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04UEtfWkY1U09taXBINDU4NXROeGV2OVlNTnplUHN5bjhhWU1PTzh6LW12MXZETDlHNzhualhhT1lpOXRsUVdTa3JMeUwtazVoZ1V2VFJhYWlUSF9HZTE5bHd2d05ZbWVZMzRRQnNnRdIBb0FVX3lxTE04UEtfWkY1U09taXBINDU4NXROeGV2OVlNTnplUHN5bjhhWU1PTzh6LW12MXZETDlHNzhualhhT1lpOXRsUVdTa3JMeUwtazVoZ1V2VFJhYWlUSF9HZTE5bHd2d05ZbWVZMzRRQnNnRQ?oc=5",
+      "published_at": "2026-11-01T22:31:00Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "49025c6c356e47486f50",
+      "category": "스포츠",
+      "origin_group": "mt.co.kr",
+      "title": "\"한국서 뛰고 싶다\" 美 선수들까지 홀린 KBO 국제 가을리그, '9→12팀' 3년 만에 어떻게 달라졌나 - 머니투데이",
+      "summary": "\"한국서 뛰고 싶다\" 美 선수들까지 홀린 KBO 국제 가을리그, '9→12팀' 3년 만에 어떻게 달라졌나 - 머니투데이",
+      "why_now": "머니투데이에서 11.02 07:31 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘\"한국서 뛰고 싶다\" 美 선수들까지 홀린 KBO 국제 가을리그, '9→12팀' 3년 만에 어떻게 달라졌나 - 머니투데이’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "머니투데이",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGQlJqZ2doVTc1Ri1yNk14VUlUYkRxYmFDZTkyNzhwVzlTc0hHbDQ2bnhxcTVQN0dSNUVCSUJGZVhMN3ZOTE5URlZqZTJRSUVFcDN4Z3VtR2g5dmI3YWREZ0hRYk1qZURXNVHSAW9BVV95cUxNOFBLX1pGNVNPbWlwSDQ1ODV0TnhldjlZTU56ZVBzeW44YVlNT084ei1tdjF2REw5Rzc4bmpYYU9ZaTl0bFFXU2tyTHlMLWs1aGdVdlRSYWFpVEhfR2UxOWx3dndOWW1lWTM0UUJzZ0U?oc=5",
       "published_at": "2026-11-01T22:31:00Z",
       "evidence": "headline"
     },
@@ -5096,6 +5445,20 @@
       "evidence": "headline"
     },
     {
+      "id": "833d1187cefb5a9a051c",
+      "category": "스포츠",
+      "origin_group": "ytn.co.kr",
+      "title": "롯데 이동욱 감독 취임식 \"스마트한 야구로 가을야구 도전\"",
+      "summary": "롯데 이동욱 감독 취임식 \"스마트한 야구로 가을야구 도전\"",
+      "why_now": "YTN에서 10.31 21:38 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘롯데 이동욱 감독 취임식 \"스마트한 야구로 가을야구 도전\"’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "YTN",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kSldvZ1d6YXR0cXB3bjhDdk9nTjRTSkNxemZmbW0xcUJlNGZxcWtJcnA5UmQwLV92RFhWYUN3WUJQR3J5Z1pZcDNfYy03OWhOdDctSWh6X2x1OEt4U1E?oc=5",
+      "published_at": "2026-10-31T12:38:00Z",
+      "evidence": "headline"
+    },
+    {
       "id": "fdf0ffd17a40327aab25",
       "category": "스포츠",
       "origin_group": "chosun.com",
@@ -5278,6 +5641,48 @@
       "evidence": "headline"
     },
     {
+      "id": "d421d6e03b19a74be58f",
+      "category": "기술·과학",
+      "origin_group": "joongang.co.kr",
+      "title": "“사람 의도·제스처 읽는다”… 크래프톤, 로봇용 AI ‘루디 0.2’ 공개",
+      "summary": "“사람 의도·제스처 읽는다”… 크래프톤, 로봇용 AI ‘루디 0.2’ 공개",
+      "why_now": "중앙일보에서 11.02 15:00 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘“사람 의도·제스처 읽는다”… 크래프톤, 로봇용 AI ‘루디 0.2’ 공개’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+      "source": "중앙일보",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QWmt1clB2NGRJQm9oWFo4cl9NQUFxcXU2Zk05VU4yTjRYNElKZmtQZEtscWttY1pIZ1BVSEhndHpSZTB4dmwtU3J1RUllMGNHUFVPX2R3?oc=5",
+      "published_at": "2026-11-02T06:00:00Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "66b7ec37521dc211aaff",
+      "category": "기술·과학",
+      "origin_group": "seoul.co.kr",
+      "title": "인공지능으로 지하공간 유해가스 위험 예측한다",
+      "summary": "인공지능으로 지하공간 유해가스 위험 예측한다",
+      "why_now": "서울신문에서 11.02 14:52 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘인공지능으로 지하공간 유해가스 위험 예측한다’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+      "source": "서울신문",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVk9BdktQNGxHY2Y3N09lQlNndnIyb0lLMDdNZFVvcVFCaG8yWlJ1b2hrSS0taTRWRXF1SVRRek96a2ZjWlBzTzJCdU0yRlNkR1dzWU1yMjlDR1NsekxfVmZrS3dBbGJuUkFCZ2tBeWFIaG11NEdHRm5QcWREOHR2MQ?oc=5",
+      "published_at": "2026-11-02T05:52:04Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "38eb614ee349e9157d31",
+      "category": "기술·과학",
+      "origin_group": "asiae.co.kr",
+      "title": "해킹 퇴치 방패부터 로봇팔까지… 부산서 사이버보안 맞붙는다",
+      "summary": "해킹 퇴치 방패부터 로봇팔까지… 부산서 사이버보안 맞붙는다",
+      "why_now": "아시아경제에서 11.02 14:49 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘해킹 퇴치 방패부터 로봇팔까지… 부산서 사이버보안 맞붙는다’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+      "source": "아시아경제",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pQzk3TGVWdlRUVEtzc1RrMXQyWGZnclhlOTNCR0x6N2FmVGkxQXV0Q1QwZzdUVDdCbFdPVlY5ZVZRZ2Q2eVVkd1F4eEVLMF9mQm9Oem1JRVVyaVpxRDF1Zw?oc=5",
+      "published_at": "2026-11-02T05:49:01Z",
+      "evidence": "headline"
+    },
+    {
       "id": "01e425f797558e0778e2",
       "category": "기술·과학",
       "origin_group": "etnews.com",
@@ -5390,6 +5795,20 @@
       "evidence": "headline"
     },
     {
+      "id": "91367e37486ec8ec4e0c",
+      "category": "기술·과학",
+      "origin_group": "wire:연합뉴스",
+      "title": "평창군, 인공지능 활용 복지 사각지대 발굴 역량 강화",
+      "summary": "평창군, 인공지능 활용 복지 사각지대 발굴 역량 강화",
+      "why_now": "연합뉴스에서 11.02 14:17 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘평창군, 인공지능 활용 복지 사각지대 발굴 역량 강화’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Oc2o0NHhDYk5DZWNJV1gweFhRSG1od2N1bUJPZUlUbVlnYnZjZWh0N0d4SVotODVCUXZIZUVnSGpjRlVINkVMR1V6UXRrMWJ5THFtSGJTVldEM2M?oc=5",
+      "published_at": "2026-11-02T05:17:44Z",
+      "evidence": "headline"
+    },
+    {
       "id": "17747fc282e2eb4b1845",
       "category": "기술·과학",
       "origin_group": "zdnet.co.kr",
@@ -5415,6 +5834,34 @@
       "source": "전자신문",
       "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YVVZOc1Zqal83V01odEp1S0cxMGludlIxckJGWGtXUDFQRHlFb2REWHN6M2YzUmJBQV82Njl3dUlacFdPM25mRkVCQ1ZOUQ?oc=5",
       "published_at": "2026-11-02T05:05:07Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "3b58c6a8ff9916293dc3",
+      "category": "기술·과학",
+      "origin_group": "mt.co.kr",
+      "title": "대동, 역대 최대 규모 키엠스타 참가…AI트랙터·신형 농업드론 공개 - 머니투데이",
+      "summary": "대동, 역대 최대 규모 키엠스타 참가…AI트랙터·신형 농업드론 공개 - 머니투데이",
+      "why_now": "머니투데이에서 11.02 13:54 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘대동, 역대 최대 규모 키엠스타 참가…AI트랙터·신형 농업드론 공개 - 머니투데이’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+      "source": "머니투데이",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UZjZSQURFWTUxVEM0WmIwVW9xM2FwQ0dhalNfenRsSlJVc0N1a0h0eHhzN1JpcVltbGdwSHl4cnpiV1AyQWJSREdxbEt0VEZrSUtNSVF4dHgtdVVhUHJsSjk3UGV4RlRBbXp4RDJNNNIBb0FVX3lxTE9UZjZSQURFWTUxVEM0WmIwVW9xM2FwQ0dhalNfenRsSlJVc0N1a0h0eHhzN1JpcVltbGdwSHl4cnpiV1AyQWJSREdxbEt0VEZrSUtNSVF4dHgtdVVhUHJsSjk3UGV4RlRBbXp4RDJNNA?oc=5",
+      "published_at": "2026-11-02T04:54:48Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "ea73b669843c78ac5336",
+      "category": "기술·과학",
+      "origin_group": "bloter.net",
+      "title": "AI·로봇 기반 다진 포스코DX, 3분기 수주·매출 성장",
+      "summary": "AI·로봇 기반 다진 포스코DX, 3분기 수주·매출 성장",
+      "why_now": "블로터에서 11.02 13:53 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘AI·로봇 기반 다진 포스코DX, 3분기 수주·매출 성장’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+      "source": "블로터",
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yY2o4SHN3SzBSU2xZcF95TGZuUWoxdmRCaTdHRVFTQk9hc2VQY0o0bEw5cHgwbjl3Rl9ETGNYRnJkT0dpWlk3VkFaQ1c5MkVoMW52YkY2SEphN0I2QlRZREF4Rm9xYmFFWEhuTNIBbEFVX3lxTE8yY2o4SHN3SzBSU2xZcF95TGZuUWoxdmRCaTdHRVFTQk9hc2VQY0o0bEw5cHgwbjl3Rl9ETGNYRnJkT0dpWlk3VkFaQ1c5MkVoMW52YkY2SEphN0I2QlRZREF4Rm9xYmFFWEhuTA?oc=5",
+      "published_at": "2026-11-02T04:53:27Z",
       "evidence": "headline"
     },
     {
@@ -5779,6 +6226,20 @@
       "source": "연합뉴스",
       "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXcGZjTXhIWVVjUTNPS2ZUZmJROGRneTNvRnhhdEtaUzlJRkdBcjBSVlRONEp2ci1SdjU1TG1NUG9jUkFlWnRHM3U3cUFwVk5ybEtPalhfS004Rl9JZDVyedIBYEFVX3lxTFBXcGZjTXhIWVVjUTNPS2ZUZmJROGRneTNvRnhhdEtaUzlJRkdBcjBSVlRONEp2ci1SdjU1TG1NUG9jUkFlWnRHM3U3cUFwVk5ybEtPalhfS004Rl9JZDVyeQ?oc=5",
       "published_at": "2026-11-02T00:50:10Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "f023fa7128d2912d134b",
+      "category": "기술·과학",
+      "origin_group": "wire:연합뉴스",
+      "title": "공군, 美우주군 주관 우주 워게임 '파트너 투 윈' 첫 참가",
+      "summary": "공군, 美우주군 주관 우주 워게임 '파트너 투 윈' 첫 참가",
+      "why_now": "연합뉴스에서 11.02 09:49 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘공군, 美우주군 주관 우주 워게임 '파트너 투 윈' 첫 참가’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMZExWakpzSl9WeTdkRFlHWEdkSk9RcXB2MFluaXBvZEZjb3BCRWpiUFV1Zlh4NlNhMGZwaXI4MVQ2LU9tdW81YTBYT2tQalRBWlBuQXR6M2hfa1Z5UmFfWdIBYEFVX3lxTFBMZExWakpzSl9WeTdkRFlHWEdkSk9RcXB2MFluaXBvZEZjb3BCRWpiUFV1Zlh4NlNhMGZwaXI4MVQ2LU9tdW81YTBYT2tQalRBWlBuQXR6M2hfa1Z5UmFfWQ?oc=5",
+      "published_at": "2026-11-02T00:49:55Z",
       "evidence": "headline"
     },
     {
@@ -6888,6 +7349,34 @@
       "evidence": "headline"
     },
     {
+      "id": "5db436e7dfb80103e033",
+      "category": "사회",
+      "origin_group": "mk.co.kr",
+      "title": "오세훈 “도심 마라톤 코스·일정 원점 재협의…시민 불편 줄일 것”",
+      "summary": "오세훈 “도심 마라톤 코스·일정 원점 재협의…시민 불편 줄일 것”",
+      "why_now": "매일경제에서 11.02 13:03 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘오세훈 “도심 마라톤 코스·일정 원점 재협의…시민 불편 줄일 것”’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
+      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
+      "source": "매일경제",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yUnFuRE5CSTE4UkNWaHZ5czhpUzhkMjdPdDhtUUFWc1lLVlhoTHhvUFJ5MlYzcXo4OUp0MmdpcnlxUkhGdE5PSTNLdmxRZERtQjZEWU1n?oc=5",
+      "published_at": "2026-11-02T04:03:13Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "f36bed29dc3954d59201",
+      "category": "사회",
+      "origin_group": "hani.co.kr",
+      "title": "미라 상태로 발견된 미등록 이주민, 숨지기 전 중환자실 입원했다",
+      "summary": "미라 상태로 발견된 미등록 이주민, 숨지기 전 중환자실 입원했다",
+      "why_now": "한겨레에서 11.02 12:21 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘미라 상태로 발견된 미등록 이주민, 숨지기 전 중환자실 입원했다’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
+      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
+      "source": "한겨레",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iSUZGQjhRRkxaLTJNOERTVXVRb3Vkc2pEZkRHSXhFVy1TU3NxcEZkOWJjZUx0ZWxza0dpdkNRM3NLeEQ5R2ktZGJKclhWWmRMUXFHTm9UQVBHVEZPdEdiUlJPOUp0cEpnaF9FU1dzN2dzQQ?oc=5",
+      "published_at": "2026-11-02T03:21:00Z",
+      "evidence": "headline"
+    },
+    {
       "id": "0bdc46ce3431bbe83cae",
       "category": "사회",
       "origin_group": "kbs.co.kr",
@@ -7056,6 +7545,20 @@
       "evidence": "headline"
     },
     {
+      "id": "6bc1d2b9d43b94f047e8",
+      "category": "경제·주식",
+      "origin_group": "wire:연합뉴스",
+      "title": "코스피, 상승 전환해 1%대 강세…삼전닉스도 반등(종합)",
+      "summary": "코스피, 상승 전환해 1%대 강세…삼전닉스도 반등(종합)",
+      "why_now": "연합뉴스에서 11.02 11:16 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘코스피, 상승 전환해 1%대 강세…삼전닉스도 반등(종합)’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+      "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OeUFwQXlFSVpqMkhjMl9ReEFBZ25fVnpZX3VDYkN1Qi1vYW0yNEtGVlJhYkNRY29telNqUUxlOGVMbC1JWFdScnFtLVNsTDBuYWdEa0lXbFZuRk3SAWBBVV95cUxPcFZOMTU4LWZjSV9oMHR6Zzlqb2tsZUMzX2ZEUENrMVNTblFVblRYWUlPZjBxV3QtUTJJcFBMb3ZRX0tQZ3pkOHFRakt2RndiMlg5Z3ZvX2JTaWJxQmJPeDU?oc=5",
+      "published_at": "2026-11-02T02:16:20Z",
+      "evidence": "headline"
+    },
+    {
       "id": "767189149e941b48d975",
       "category": "경제·주식",
       "origin_group": "mk.co.kr",
@@ -7154,6 +7657,20 @@
       "evidence": "headline"
     },
     {
+      "id": "a3c1009a3d6504845fc5",
+      "category": "경제·주식",
+      "origin_group": "wire:뉴스1",
+      "title": "뉴욕증시 선물 소폭 상승…AI주 불안 속 중간선거·고용지표 주시",
+      "summary": "뉴욕증시 선물 소폭 상승…AI주 불안 속 중간선거·고용지표 주시",
+      "why_now": "뉴스1에서 11.02 08:55 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘뉴욕증시 선물 소폭 상승…AI주 불안 속 중간선거·고용지표 주시’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+      "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+      "source": "뉴스1",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LVXZEWmFvdWpCeXJTUmJ2SVdfSXVVTEVEVnRhQ2dqN0NNSnZhbXc3SEs2QUNiUTFoam53dExISjIxcjMzUGxhb1JfcXlJZFRRSExyS01FZ2Y?oc=5",
+      "published_at": "2026-11-01T23:55:09Z",
+      "evidence": "headline"
+    },
+    {
       "id": "b167f007885732051c1e",
       "category": "경제·주식",
       "origin_group": "wire:뉴시스",
@@ -7164,6 +7681,20 @@
       "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
       "source": "뉴시스",
       "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iOHNUYzF2TGpVckdJbHRzRnp4b3U5a1dFLWtRMzc3VkZDNjlSS1JFN1NXUlN3anBzS29iQkRySlFIUUlkUHhGcmhTamJEUGU5MzZaYmdXME1OQjhnTU5vTtIBeEFVX3lxTE5uNUNoR2ZLMUhBX1VvSUtsMVpVem9YaG9LWG1wWWhlaEk0MjVBLWpPNkJudzVER3FkTmRWZHVRdU5JUl9PRnRGRUhpWFpfdW96WTEtQm1JYUQ3bzIyaC1vNXhEekNFSVNfbFpjNEJJbFpRYnduckNjMQ?oc=5",
+      "published_at": "2026-11-01T23:46:31Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "0ddef19c9b147e4f868c",
+      "category": "경제·주식",
+      "origin_group": "wire:뉴시스",
+      "title": "한투證 \"에이피알, 환율 영향에 3분기 실적 부진…목표가↓\"",
+      "summary": "한투證 \"에이피알, 환율 영향에 3분기 실적 부진…목표가↓\"",
+      "why_now": "뉴시스에서 11.02 08:46 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘한투證 \"에이피알, 환율 영향에 3분기 실적 부진…목표가↓\"’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+      "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+      "source": "뉴시스",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uNUNoR2ZLMUhBX1VvSUtsMVpVem9YaG9LWG1wWWhlaEk0MjVBLWpPNkJudzVER3FkTmRWZHVRdU5JUl9PRnRGRUhpWFpfdW96WTEtQm1JYUQ3bzIyaC1vNXhEekNFSVNfbFpjNEJJbFpRYnduckNjMdIBeEFVX3lxTE5uNUNoR2ZLMUhBX1VvSUtsMVpVem9YaG9LWG1wWWhlaEk0MjVBLWpPNkJudzVER3FkTmRWZHVRdU5JUl9PRnRGRUhpWFpfdW96WTEtQm1JYUQ3bzIyaC1vNXhEekNFSVNfbFpjNEJJbFpRYnduckNjMQ?oc=5",
       "published_at": "2026-11-01T23:46:31Z",
       "evidence": "headline"
     },
@@ -7319,6 +7850,20 @@
       "source": "YTN",
       "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wOUdiY0pTTGNJOGZrZUh0N05pOF9iMGVhV1pvaXRuV3RXaW9tTHZJTnV4SFc3YmxENjFiMjNuQjZLQ3RYRldGU0Y5dFpibm9rNTh5Vl9sbDNxUjJFc0E?oc=5",
       "published_at": "2026-11-01T21:11:00Z",
+      "evidence": "headline"
+    },
+    {
+      "id": "e2ff2c639e0c1e1c1706",
+      "category": "경제·주식",
+      "origin_group": "sbs.co.kr",
+      "title": "[증시전략] 인텔 폭락 속 애플·AMD 실적 발표…美 중간선거 주시",
+      "summary": "[증시전략] 인텔 폭락 속 애플·AMD 실적 발표…美 중간선거 주시",
+      "why_now": "SBS Biz에서 11.02 06:02 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘[증시전략] 인텔 폭락 속 애플·AMD 실적 발표…美 중간선거 주시’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+      "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+      "source": "SBS Biz",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1feEVyaFdPUXM0X05vZXhLS0dVWktFbU9HTktoWWlQSkQzdWpCSkU2TWI1ak9lUzdGV1BiLTJzV09ubjRhVjNvS2dzOFM1VnlSQldpY2prdGzSAVhBVV95cUxNX3hFcmhXT1FzNF9Ob2V4S0tHVVpLRW1PR05LaFlpUEpEM3VqQkpFNk1iNWpPZVM3RldQYi0yc1dPbm40YVYzb0tnczhTNVZ5UkJXaWNqa3Rs?oc=5",
+      "published_at": "2026-11-01T21:02:00Z",
       "evidence": "headline"
     },
     {
@@ -7658,6 +8203,20 @@
       "evidence": "headline"
     },
     {
+      "id": "d84dcaef70965cc9b903",
+      "category": "경제·주식",
+      "origin_group": "wire:연합뉴스",
+      "title": "[뉴욕증시-주간전망] 애플·AMD, 급락세에 제동걸까…고용·선거도 주시",
+      "summary": "[뉴욕증시-주간전망] 애플·AMD, 급락세에 제동걸까…고용·선거도 주시",
+      "why_now": "연합뉴스에서 11.01 07:00 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘[뉴욕증시-주간전망] 애플·AMD, 급락세에 제동걸까…고용·선거도 주시’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+      "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKa3p6RHppT3hKMG1nRVFKNEZZNk1HZmJpajFxRkdQZmdQUWQxaGJvdk52akdFSnNheElDblJGTzd3UVQzcDhSaEgtNUo3dzVMTzJ3UHFXWjNYNjTSAWBBVV95cUxPSHFxbFBSYzNLdDFJVmlfa1BjRVY2ZEJKbWJZUGhPTi1jTmhLWWlHMWRuRnIzTjJNZ1B5Rk9IYlA1aTJjRU5SWTl5YkdmeS05WldwaXA0QVhDTGhsVUlZOHk?oc=5",
+      "published_at": "2026-10-31T22:00:02Z",
+      "evidence": "headline"
+    },
+    {
       "id": "2fac57b6e8c9b0319d16",
       "category": "경제·주식",
       "origin_group": "chosun.com",
@@ -7826,6 +8385,20 @@
       "evidence": "headline"
     },
     {
+      "id": "f8b96d3b9169a64267c4",
+      "category": "경제·주식",
+      "origin_group": "wire:연합뉴스",
+      "title": "美 빅테크 실적 쇼크에…코스피 3%대 급락",
+      "summary": "美 빅테크 실적 쇼크에…코스피 3%대 급락",
+      "why_now": "연합뉴스에서 10.30 21:05 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
+      "opener": "‘美 빅테크 실적 쇼크에…코스피 3%대 급락’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+      "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HN1ZXVVNBRVlvTS1yaGs4ZTFYdHJ5LWRIVWItVjV4ZVhUemVaRjVrWUliQnRuRTA4dENQQzV3b0pRTGlJTkpGOFlrQ0hEQkdOTVpmYTdRUmpyWUnSAWBBVV95cUxOdkktMXRvR0FoOWFWVkdPdWx1RkNMdG9RUTBPRGdfV1pjWGZPTEFRT3NoV1VENkxwX05rX0paZGYtbUI0VDF6Yi10ZmlqNXRhamFXWHlmNnhva1MzNF9rY1Y?oc=5",
+      "published_at": "2026-10-30T12:05:30Z",
+      "evidence": "headline"
+    },
+    {
       "id": "e4c74ddf9644460b2d2e",
       "category": "경제·주식",
       "origin_group": "wire:연합뉴스",
@@ -7963,20 +8536,6 @@
       "source": "연합뉴스",
       "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RSGl6VlA2ejRTVDE5UF8zTGpROUFGX2p6bEc1a0I5U0pueTE0ZFpkNjBpcEkzeGxVTlpOeWw0ZWZIZTNGS1pQb183QzBZOFN0MzZiUklRN25HeW_SAWBBVV95cUxOQkhoaDJyenhOYm5SS3JsQWx3TFV4TmhVUmllQy1ubjhmODFnNGpuVzZJd0lPOXBPWVZjaDFsSmgzYnRhTEVTVTlDSHhobzNVSVhIZ3RTRkItTXFGSDRiaGM?oc=5",
       "published_at": "2026-10-30T07:06:05Z",
-      "evidence": "headline"
-    },
-    {
-      "id": "0768670654e9de12e2f2",
-      "category": "경제·주식",
-      "origin_group": "hankyung.com",
-      "title": "자체 실적전망 내놓는 코스닥 상장사...전체 1%에 그쳐",
-      "summary": "자체 실적전망 내놓는 코스닥 상장사...전체 1%에 그쳐",
-      "why_now": "한국경제에서 10.30 15:04 KST에 보도했습니다. 수집 당시 최근 72시간 내 기사이며, 인기 순위가 아닌 대화 소재입니다.",
-      "opener": "‘자체 실적전망 내놓는 코스닥 상장사...전체 1%에 그쳐’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
-      "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-      "source": "한국경제",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUd2JyODRzS1ZoZERFalJYbHJ5WTdTZzVFOTNPbEtjNnF1TmdZZ1JwMXZiOUY3WWtsc04wODRXX201SGh1WlUyTy1FeGJfOTdocFhKemNZYnpIUQ?oc=5",
-      "published_at": "2026-10-30T06:04:54Z",
       "evidence": "headline"
     },
     {
