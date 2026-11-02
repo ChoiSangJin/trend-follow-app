@@ -1,4 +1,5 @@
 import 'dart:convert';
+
 import 'briefing.dart';
 
 const audiences = {'work': '회사 동료', 'friends': '친구', 'new': '처음 만난 사람'};
@@ -14,6 +15,7 @@ class ConversationGuide {
       'takeaway',
       'connection',
       'caution',
+      'subject',
     ]) {
       if (stringValue(raw[key]).isEmpty) {
         throw FormatException('Missing guide $key');
@@ -31,36 +33,42 @@ class ConversationGuide {
         (raw['background'] as List).any((s) => stringValue(s).isEmpty) ||
         raw['dialogs'] is! Map ||
         raw['priority'] is! Map ||
-        raw['quiz'] is! Map ||
+        raw['subjects'] is! List ||
+        (raw['subjects'] as List).any((s) => stringValue(s).isEmpty) ||
         raw['reference'] is! Map) {
       throw const FormatException('Incomplete conversation guide');
     }
-    for (final audience in audiences.keys) {
-      final dialog = raw['dialogs'][audience];
-      final priority = raw['priority'][audience];
-      if (dialog is! Map ||
-          stringValue(dialog['opening']).isEmpty ||
-          dialog['followups'] is! List ||
-          (dialog['followups'] as List).length != 2 ||
-          (dialog['followups'] as List).any((q) => stringValue(q).isEmpty) ||
-          priority is! int ||
-          priority < 0 ||
-          priority > 10) {
-        throw const FormatException('Invalid audience dialog');
+    if (raw.containsKey('preview_markers') &&
+        (raw['preview_markers'] is! List ||
+            (raw['preview_markers'] as List).isEmpty ||
+            (raw['preview_markers'] as List).any(
+              (s) => stringValue(s).isEmpty,
+            ) ||
+            raw['preview_dialogs'] is! Map)) {
+      throw const FormatException('Invalid upcoming game dialog');
+    }
+    for (final dialogs in [
+      raw['dialogs'],
+      if (raw.containsKey('preview_markers')) raw['preview_dialogs'],
+    ]) {
+      for (final audience in audiences.keys) {
+        final dialog = dialogs[audience];
+        final priority = raw['priority'][audience];
+        if (dialog is! Map ||
+            stringValue(dialog['opening']).isEmpty ||
+            dialog['followups'] is! List ||
+            (dialog['followups'] as List).length != 2 ||
+            (dialog['followups'] as List).any((q) => stringValue(q).isEmpty) ||
+            priority is! int ||
+            priority < 0 ||
+            priority > 10) {
+          throw const FormatException('Invalid audience dialog');
+        }
       }
     }
-    final quiz = raw['quiz'];
-    if (stringValue(quiz['question']).isEmpty ||
-        quiz['options'] is! List ||
-        (quiz['options'] as List).length != 2 ||
-        (quiz['options'] as List).any((q) => stringValue(q).isEmpty) ||
-        quiz['answer'] is! int ||
-        quiz['answer'] < 0 ||
-        quiz['answer'] > 1 ||
-        stringValue(quiz['explanation']).isEmpty ||
-        stringValue(raw['reference']['label']).isEmpty ||
+    if (stringValue(raw['reference']['label']).isEmpty ||
         safeLink(raw['reference']['url']) == null) {
-      throw const FormatException('Invalid guide check or reference');
+      throw const FormatException('Invalid guide reference');
     }
     return ConversationGuide(raw);
   }
@@ -122,6 +130,38 @@ class ConversationBrief {
   const ConversationBrief(this.topic, this.guide);
   final Topic topic;
   final ConversationGuide guide;
+
+  bool get isPreview =>
+      guide.json['preview_markers'] is List &&
+      (guide.json['preview_markers'] as List).any(
+        (word) => topic.title.contains(word as String),
+      );
+  Map get _dialogs =>
+      (isPreview ? guide.json['preview_dialogs'] : guide.json['dialogs'])
+          as Map;
+  List<String> followups(String audience) =>
+      List<String>.from(_dialogs[audience]['followups']);
+
+  // Use only names literally present in this headline. Never invent a result,
+  // a score, a reason for a market move, or the speaker's viewing experience.
+  String opening(String audience) {
+    var subject = guide.json['subject'] as String;
+    for (final name in List<String>.from(guide.json['subjects'])) {
+      if (!topic.title.toLowerCase().contains(name.toLowerCase())) continue;
+      subject = switch (guide.id) {
+        'football-contribution' || 'team-streak' => '$name 경기',
+        'exhibition' => '$name 전시',
+        'music' => topic.title.contains('신곡') ? '$name 신곡' : '$name 새 앨범',
+        'commute' => '$name 관련 소식',
+        _ => name,
+      };
+      break;
+    }
+    return (_dialogs[audience]['opening'] as String).replaceAll(
+      '{subject}',
+      subject,
+    );
+  }
 }
 
 List<ConversationBrief> eligibleBriefings(
@@ -168,7 +208,7 @@ List<ConversationBrief> chooseBriefings(
   Set<String> understood, {
   Set<String> understoodGuides = const {},
 }) {
-  final sorted = [...options]
+  final sorted = options.where((b) => b.guide.priority(audience) > 0).toList()
     ..sort((a, b) {
       final seen =
           (understood.contains(a.topic.id)
@@ -195,16 +235,6 @@ List<ConversationBrief> chooseBriefings(
     if (chosen.any((b) => b.topic.category == item.topic.category)) continue;
     chosen.add(item);
     if (chosen.length == 3) return chosen;
-  }
-  // Repeating a lesson isn't useful just to meet the daily card count.
-  for (final item in sorted) {
-    if (chosen.any(
-      (b) => b.topic.id == item.topic.id || b.guide.id == item.guide.id,
-    )) {
-      continue;
-    }
-    chosen.add(item);
-    if (chosen.length == 3) break;
   }
   return chosen;
 }

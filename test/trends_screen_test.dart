@@ -1,6 +1,9 @@
 import 'package:malmun/state/conversation_provider.dart';
+
 import 'conversation_fixtures.dart';
+
 import 'dart:convert';
+
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
@@ -11,6 +14,7 @@ import 'package:malmun/data/trends_repository.dart';
 import 'package:malmun/main.dart';
 import 'package:malmun/state/briefing_provider.dart';
 import 'package:malmun/state/trends_provider.dart';
+
 import 'home_screen_test.dart' show StubRepository;
 import 'trends_fixtures.dart';
 
@@ -71,7 +75,7 @@ void main() {
     expect(find.text('나중에 꺼내 쓸 이야기'), findsOneWidget);
     await tester.tap(find.text('오늘의 말문'));
     await tester.pumpAndSettle();
-    expect(find.text('오늘은 3개만,\n대화할 만큼 이해하기'), findsOneWidget);
+    expect(find.text('오늘 무슨 얘기 하지?'), findsOneWidget);
     expect(repository.calls, 1);
     expect(tester.takeException(), isNull);
   });

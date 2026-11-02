@@ -70,7 +70,8 @@ void main() {
       await tester.tap(find.text('대화 준비').first);
       await tester.pumpAndSettle();
       expect(find.text('왜 지금 이야기해?'), findsOneWidget);
-      expect(find.text('이렇게 말 걸어봐'), findsOneWidget);
+      expect(find.text('이렇게 말 걸어봐'), findsNothing);
+      expect(find.text('질문 복사'), findsNothing);
       expect(find.textContaining('본문을 읽은 요약이 아니며'), findsOneWidget);
       await tester.scrollUntilVisible(find.text('출처 기사 읽기'), 250);
       expect(tester.takeException(), isNull);

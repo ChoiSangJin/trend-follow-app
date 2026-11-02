@@ -1,9 +1,11 @@
 import 'dart:convert';
+
 import 'package:flutter_test/flutter_test.dart';
 import 'package:malmun/data/briefing.dart';
 import 'package:malmun/data/briefing_store.dart';
 import 'package:malmun/data/conversation.dart';
 import 'package:malmun/state/conversation_provider.dart';
+
 import 'conversation_fixtures.dart';
 import 'fixtures.dart';
 
@@ -18,7 +20,7 @@ class FailingLearningStore extends MemoryStore {
 
 void main() {
   test(
-    'editorial catalog provides ten specific lessons, checks and three audience flows',
+    'editorial catalog provides ten topic guides and three audience flows',
     () {
       final catalog = realCatalog();
       expect(catalog.guides.length, 10);
@@ -228,6 +230,69 @@ void main() {
       );
       expect(items.length, 1);
       expect(items.single.topic.coverage!.sources.last.headline, quoted.title);
+    },
+  );
+  test('spoken opening uses only subjects present in the actual article', () {
+    final catalog = realCatalog();
+    final lee = Topic.fromJson(
+      coachedTopic(9, '스포츠', '이강인 축구 경기 골대 불운에도 팀 7연승'),
+    );
+    final son = Topic.fromJson(coachedTopic(10, '스포츠', '손흥민 축구 경기 출전'));
+    final leeBrief = ConversationBrief(lee, catalog.match(lee)!);
+    final sonBrief = ConversationBrief(son, catalog.match(son)!);
+    expect(leeBrief.opening('friends'), '이강인 경기 소식 봤어요? 이번 경기 봤어요?');
+    expect(sonBrief.opening('friends'), contains('손흥민 경기'));
+    expect(sonBrief.opening('friends'), isNot(contains('이강인')));
+    final unnamed = Topic.fromJson(coachedTopic(11, '스포츠', '축구 경기 골 장면 화제'));
+    expect(
+      ConversationBrief(unnamed, catalog.match(unnamed)!).opening('friends'),
+      '이 경기 소식 봤어요? 이번 경기 봤어요?',
+    );
+  });
+  test('private finance and diplomacy are excluded for people just met', () {
+    final options = eligibleBriefings(
+      Briefing.fromJson(coachedFeed()).topics,
+      realCatalog(),
+      coachNow(),
+    );
+    expect(
+      chooseBriefings(
+        options,
+        'new',
+        {},
+      ).any((b) => b.guide.id == 'stock-index'),
+      isFalse,
+    );
+    expect(
+      chooseBriefings(
+        options.where((b) => b.guide.id == 'stock-index').toList(),
+        'new',
+        {},
+      ),
+      isEmpty,
+    );
+  });
+  test(
+    'upcoming games use watching plans instead of asking about a finished game',
+    () {
+      final catalog = realCatalog();
+      final topic = Topic.fromJson(
+        coachedTopic(12, '스포츠', "손흥민, 미네소타전 선발 출격…축구 경기 도움 기록 도전"),
+      );
+      final brief = ConversationBrief(topic, catalog.match(topic)!);
+      expect(brief.opening('friends'), '손흥민 경기 소식 봤어요? 이번 경기 볼 거예요?');
+      expect(brief.followups('friends').first, contains('시간 맞으면 같이 볼래요?'));
+      final schedule = Topic.fromJson(
+        coachedTopic(13, '스포츠', "2026 KBO 한국시리즈 경기 일정"),
+      );
+      expect(
+        ConversationBrief(schedule, catalog.match(schedule)!).opening('work'),
+        contains('볼 예정이세요?'),
+      );
+      final politics = Topic.fromJson(
+        coachedTopic(14, '세계뉴스', '미 국무, 중간선거 패해도 외교 변하지 않아'),
+      );
+      expect(catalog.match(politics), isNull);
     },
   );
   test('daily progress uses the Korean date boundary', () {

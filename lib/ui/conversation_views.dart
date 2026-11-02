@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:url_launcher/url_launcher.dart';
+
 import '../data/briefing.dart';
 import '../data/briefing_repository.dart';
 import '../data/conversation.dart';
@@ -9,7 +10,7 @@ import '../state/briefing_provider.dart';
 import '../state/conversation_provider.dart';
 
 const conversationExplanation =
-    '오늘의 브리핑은 여러 출처가 있는 최근 기사 중 준비된 배경 설명과 대화 질문이 맞는 주제를 최대 3개 고릅니다. 서로 다른 분야와 아직 이해 표시를 하지 않은 주제를 우선합니다.\n\n기사 제목에서 확인한 내용은 언론사·발행 시각·원문 링크와 함께 보여줍니다. 배경·핵심 구분·생각해보기·대화 문장은 앱이 편집한 설명입니다. 기사 본문을 읽은 요약이나 새로 취재한 사실로 제시하지 않습니다.\n\n대화 상대 선택과 이해 표시·피드백·메모는 이 기기에만 저장됩니다. 퀴즈는 개념을 짚는 선택 사항이며 이용을 막지 않습니다. 적합한 기사가 부족하면 3개를 억지로 채우지 않습니다.';
+    '오늘의 브리핑은 여러 출처가 있는 최근 기사 중 준비된 배경 설명과 대화 질문이 맞는 주제를 최대 3개 고릅니다. 서로 다른 분야와 아직 이해 표시를 하지 않은 주제를 우선합니다.\n\n기사 제목에서 확인한 내용은 언론사·발행 시각·원문 링크와 함께 보여줍니다. 배경·대화 문장은 앱이 편집한 설명입니다. 기사 본문을 읽은 요약이나 새로 취재한 사실로 제시하지 않습니다.\n\n대화 상대 선택과 이해 표시·피드백·메모는 이 기기에만 저장됩니다. 적합한 기사가 부족하면 3개를 억지로 채우지 않습니다.';
 
 Future<void> _openSource(BuildContext context, Uri url) async {
   try {
@@ -96,7 +97,9 @@ class _CoachViewState extends ConsumerState<CoachView> {
         understoodGuides: learning.understoodGuideIds,
       )) {
         if (!selected.any(
-          (item) => item.topic.id == b.topic.id || item.guide.id == b.guide.id,
+          (item) =>
+              item.topic.id == b.topic.id ||
+              item.topic.category == b.topic.category,
         )) {
           selected.add(b);
         }
@@ -120,14 +123,14 @@ class _CoachViewState extends ConsumerState<CoachView> {
             padding: const EdgeInsets.fromLTRB(20, 16, 20, 32),
             children: [
               Text(
-                '오늘은 3개만,\n대화할 만큼 이해하기',
+                '오늘 무슨 얘기 하지?',
                 style: Theme.of(context).textTheme.headlineMedium?.copyWith(
                   fontWeight: FontWeight.w900,
                   height: 1.3,
                 ),
               ),
               const SizedBox(height: 12),
-              const Text('소식의 배경을 알고, 내 경험과 연결하고, 한 문장으로 꺼내 보세요.'),
+              const Text('관심 가는 소식부터 골라 보세요. 첫마디도 같이 준비했어요.'),
               const SizedBox(height: 16),
               if (selected.isNotEmpty)
                 Text(
@@ -138,7 +141,7 @@ class _CoachViewState extends ConsumerState<CoachView> {
               TextButton.icon(
                 onPressed: widget.onHistory,
                 icon: const Icon(Icons.history_edu),
-                label: const Text('내가 이해한 이야기'),
+                label: const Text('내가 남긴 이야기'),
               ),
               const SizedBox(height: 8),
               const Text('누구와 이야기하나요?'),
@@ -188,6 +191,7 @@ class _CoachViewState extends ConsumerState<CoachView> {
                   child: _BriefCard(
                     brief: selected[i],
                     number: i + 1,
+                    audience: learning.audience,
                     understood:
                         learning.record(selected[i].topic.id)?.understood ==
                         true,
@@ -246,12 +250,14 @@ class _BriefCard extends StatelessWidget {
   const _BriefCard({
     required this.brief,
     required this.number,
+    required this.audience,
     required this.understood,
     required this.onOpen,
     this.review = false,
   });
   final ConversationBrief brief;
   final int number;
+  final String audience;
   final bool understood;
   final bool review;
   final VoidCallback onOpen;
@@ -267,7 +273,7 @@ class _BriefCard extends StatelessWidget {
             '$number · ${brief.topic.category}${understood
                 ? ' · 이해 표시 완료'
                 : review
-                ? ' · 복습: 새 소식에 적용'
+                ? ' · 전에 본 주제'
                 : ''}',
             style: TextStyle(
               color: Theme.of(context).colorScheme.primary,
@@ -276,23 +282,23 @@ class _BriefCard extends StatelessWidget {
           ),
           const SizedBox(height: 10),
           Text(
-            brief.guide.title,
+            brief.topic.title,
             style: Theme.of(
               context,
             ).textTheme.titleLarge?.copyWith(fontWeight: FontWeight.w800),
           ),
           const SizedBox(height: 12),
-          Text(brief.guide.takeaway, style: const TextStyle(height: 1.6)),
+          Text(brief.opening(audience), style: const TextStyle(height: 1.6)),
           const SizedBox(height: 12),
           Text(
-            '연결된 소식 · ${brief.topic.title}',
+            '${brief.topic.source} · ${koreaDate(brief.topic.publishedAt!)} KST',
             style: Theme.of(context).textTheme.bodySmall,
           ),
           const SizedBox(height: 14),
           FilledButton(
             key: ValueKey('coach-open-${brief.topic.id}'),
             onPressed: onOpen,
-            child: Text(understood ? '다시 꺼내 보기' : '이해하고 말해 보기'),
+            child: Text(understood ? '다시 꺼내 보기' : '대화 준비하기'),
           ),
         ],
       ),
@@ -310,7 +316,6 @@ class ConversationScreen extends ConsumerStatefulWidget {
 
 class _ConversationScreenState extends ConsumerState<ConversationScreen> {
   late final TextEditingController _note;
-  int? _answer;
   @override
   void initState() {
     super.initState();
@@ -333,7 +338,6 @@ class _ConversationScreenState extends ConsumerState<ConversationScreen> {
     final record = learning.record(topic.id);
     final audience = learning.audience;
     final saved = ref.watch(savedProvider).any((t) => t.id == topic.id);
-    final quiz = guide.json['quiz'] as Map;
     final older =
         topic.publishedAt != null &&
         ref
@@ -369,7 +373,7 @@ class _ConversationScreenState extends ConsumerState<ConversationScreen> {
             padding: const EdgeInsets.fromLTRB(24, 16, 24, 40),
             children: [
               Text(
-                guide.title,
+                topic.title,
                 style: Theme.of(context).textTheme.headlineSmall?.copyWith(
                   fontWeight: FontWeight.w900,
                   height: 1.4,
@@ -377,7 +381,7 @@ class _ConversationScreenState extends ConsumerState<ConversationScreen> {
               ),
               const SizedBox(height: 12),
               Text(
-                guide.takeaway,
+                brief.opening(audience),
                 style: TextStyle(
                   fontWeight: FontWeight.w700,
                   color: Theme.of(context).colorScheme.primary,
@@ -393,7 +397,7 @@ class _ConversationScreenState extends ConsumerState<ConversationScreen> {
               ?widget.header,
               _section(
                 context,
-                '1. 어떤 소식과 연결되나요?',
+                '어떤 소식인가요?',
                 const Text('언론사 기사 제목에서 확인한 표현입니다. 세부 내용은 각 원문을 확인해 주세요.'),
               ),
               const SizedBox(height: 8),
@@ -455,12 +459,12 @@ class _ConversationScreenState extends ConsumerState<ConversationScreen> {
               const SizedBox(height: 20),
               _section(
                 context,
-                '2. 먼저 이해할 배경',
+                '짧게 알아두면',
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     const Text(
-                      '개념 설명 · 앱 편집',
+                      '배경 참고 · 앱 편집',
                       style: TextStyle(fontWeight: FontWeight.w600),
                     ),
                     for (final paragraph in guide.background)
@@ -485,59 +489,7 @@ class _ConversationScreenState extends ConsumerState<ConversationScreen> {
               const SizedBox(height: 20),
               _section(
                 context,
-                '3. 내 경험과 연결하기',
-                Text(guide.connection, style: const TextStyle(height: 1.7)),
-              ),
-              const SizedBox(height: 20),
-              _section(
-                context,
-                '생각해 보기',
-                Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text(
-                      quiz['question'],
-                      style: const TextStyle(fontWeight: FontWeight.w700),
-                    ),
-                    for (var i = 0; i < 2; i++)
-                      Padding(
-                        padding: const EdgeInsets.only(top: 8),
-                        child: SizedBox(
-                          width: double.infinity,
-                          child: OutlinedButton(
-                            key: ValueKey('understanding-$i'),
-                            onPressed: () {
-                              setState(() => _answer = i);
-                              if (i == quiz['answer']) {
-                                _record(
-                                  context,
-                                  () => ref
-                                      .read(learningProvider.notifier)
-                                      .update(brief, understood: true),
-                                );
-                              }
-                            },
-                            child: Text(
-                              quiz['options'][i],
-                              textAlign: TextAlign.left,
-                            ),
-                          ),
-                        ),
-                      ),
-                    if (_answer != null)
-                      Padding(
-                        padding: const EdgeInsets.only(top: 12),
-                        child: Text(
-                          '${_answer == quiz['answer'] ? '핵심을 구분했어요.' : '이렇게 구분해 보세요.'} ${quiz['explanation']}',
-                        ),
-                      ),
-                  ],
-                ),
-              ),
-              const SizedBox(height: 20),
-              _section(
-                context,
-                '4. 이렇게 대화를 이어가요',
+                '이렇게 꺼내 보세요',
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
@@ -565,13 +517,13 @@ class _ConversationScreenState extends ConsumerState<ConversationScreen> {
                       style: TextStyle(fontWeight: FontWeight.w800),
                     ),
                     Text(
-                      guide.opening(audience),
+                      brief.opening(audience),
                       style: const TextStyle(height: 1.7),
                     ),
                     TextButton.icon(
                       onPressed: () async {
                         await Clipboard.setData(
-                          ClipboardData(text: guide.opening(audience)),
+                          ClipboardData(text: brief.opening(audience)),
                         );
                         if (context.mounted) {
                           ScaffoldMessenger.of(context).showSnackBar(
@@ -583,14 +535,14 @@ class _ConversationScreenState extends ConsumerState<ConversationScreen> {
                       label: const Text('첫마디 복사'),
                     ),
                     const Text(
-                      '상대가 답하면',
+                      '반응에 따라 이어가기',
                       style: TextStyle(fontWeight: FontWeight.w800),
                     ),
-                    for (final question in guide.followups(audience))
+                    for (final question in brief.followups(audience))
                       Padding(
                         padding: const EdgeInsets.only(top: 8),
                         child: Text(
-                          '→ $question',
+                          question,
                           style: const TextStyle(height: 1.6),
                         ),
                       ),
@@ -615,7 +567,7 @@ class _ConversationScreenState extends ConsumerState<ConversationScreen> {
                       minLines: 2,
                       maxLines: 4,
                       decoration: const InputDecoration(
-                        hintText: '내가 이해한 내용이나 꺼내고 싶은 질문을 적어 보세요.',
+                        hintText: '실제로 꺼내고 싶은 말이나 대화 후기를 적어 보세요.',
                         border: OutlineInputBorder(),
                       ),
                     ),
@@ -716,7 +668,7 @@ class LearningHistoryScreen extends ConsumerWidget {
   Widget build(BuildContext context, WidgetRef ref) {
     final records = ref.watch(learningProvider).records;
     return Scaffold(
-      appBar: AppBar(title: const Text('내가 이해한 이야기')),
+      appBar: AppBar(title: const Text('내가 남긴 이야기')),
       body: Center(
         child: ConstrainedBox(
           constraints: const BoxConstraints(maxWidth: 720),
