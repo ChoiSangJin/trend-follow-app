@@ -111,8 +111,10 @@ def page_chart(html, category):
         display = entity.get('displayVideo', {}).get('video', {}) or {}
         netflix_id = (display.get('parentShow') or {}).get('videoId') or display.get('videoId') or video.get('videoId')
         if netflix_id:
-            item['metadata'] = {'source_url': f'https://www.netflix.com/kr/title/{netflix_id}?locale=ko-KR',
-                                'watch_url': f'https://www.netflix.com/kr/title/{netflix_id}?locale=ko-KR'}
+            item['metadata'] = {'source_url': CHART + ('/tv' if category == 'TV' else ''),
+                                'title_url': f'https://www.netflix.com/kr/title/{netflix_id}?locale=ko-KR',
+                                'watch_url': CHART + ('/tv' if category == 'TV' else ''),
+                                'synopsis': video.get('shortSynopsis') or '', 'synopsis_language': 'en'}
         key = (chart['weekEndDate'], rank)
         if key in candidates and candidates[key]['id'] != item['id']:
             raise ValueError('Conflicting country ranks')
@@ -176,15 +178,15 @@ def title_metadata(html, url):
         raise ValueError('Title identity mismatch')
     name = ''.join(parser.h1).strip() or node.get('name', '')
     description = ''.join(parser.synopsis).strip() or node.get('description', '')
-    if '--inspect' in sys.argv:
-        print('TITLE_META_DEBUG=' + json.dumps({'url': url, 'h1': parser.h1, 'name': node.get('name'), 'description': description, 'genre': node.get('genre')}, ensure_ascii=False))
     genres = node.get('genre', [])
     if isinstance(genres, str): genres = [genres]
     genre_text = ' '.join(genres)
     # Only use Korean metadata when the page actually supplies it.
     result = {'source_url': url, 'watch_url': url}
     if re.search('[가-힣]', name): result['local_title'] = name
-    if re.search('[가-힣]', description): result['synopsis'] = description
+    if re.search('[가-힣]', description):
+        result['synopsis'] = description
+        result['synopsis_language'] = 'ko'
     if re.search('애니|Anime|Animation', genre_text, re.I): result['kind'] = '애니'
     elif re.search('리얼리티|예능|버라이어티|토크쇼|Reality|Variety', genre_text, re.I): result['kind'] = '예능'
     elif re.search('드라마|Drama', genre_text, re.I): result['kind'] = '드라마'
@@ -238,8 +240,12 @@ def enrich(result, fetcher=fetch):
                     item['metadata'] = refs[item['id']]
     latest = [i for items in result['weeks'][0]['charts'].values() for i in items if i.get('metadata')]
     def load(item):
-        url = item['metadata']['source_url']
-        try: return item['id'], title_metadata(fetcher(url, 10_000_000), url)
+        url = item['metadata']['title_url']
+        try:
+            loaded = title_metadata(fetcher(url, 10_000_000), url)
+            merged = {**item['metadata'], **loaded}
+            if loaded.get('synopsis_language') != 'ko': merged['source_url'] = item['metadata']['source_url']
+            return item['id'], merged
         except Exception as error:
             print('Title metadata unavailable:', item['title'], type(error).__name__)
             return item['id'], item['metadata']
