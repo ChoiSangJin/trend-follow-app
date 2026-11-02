@@ -2,7 +2,7 @@ name: Validate anime sources
 on:
   push:
     branches: [feat/anime-tab]
-    paths: ['scripts/collect_anime.py', '.github/workflows/anime.yml']
+    paths: ['scripts/collect_anime.py', 'scripts/probe_anime.py', '.github/workflows/anime.yml']
   workflow_dispatch:
 permissions:
   contents: read
@@ -12,7 +12,9 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v5
+      - run: python3 scripts/probe_anime.py
       - run: python3 scripts/collect_anime.py --inspect
+        continue-on-error: true
       - uses: actions/upload-artifact@v4
         with:
           name: anime-source-check
