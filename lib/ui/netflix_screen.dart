@@ -8,6 +8,7 @@ import '../state/netflix_provider.dart';
 import '../state/briefing_provider.dart';
 import '../state/conversation_provider.dart';
 import 'home_screen.dart' show TopicScreen;
+import 'anime_view.dart';
 import 'conversation_views.dart' show LearningHistoryScreen;
 
 Future<void> openNetflixLink(BuildContext context, Uri link) async {
@@ -46,6 +47,7 @@ class NetflixHomeScreen extends ConsumerStatefulWidget {
 
 class _NetflixHomeScreenState extends ConsumerState<NetflixHomeScreen> {
   int _tab = 0;
+  bool _anime = false, _animeVisited = false;
   String _category = 'TV', _kind = '전체', _query = '';
   String? _week;
   bool _watched = false;
@@ -63,136 +65,170 @@ class _NetflixHomeScreenState extends ConsumerState<NetflixHomeScreen> {
   Widget build(BuildContext context) {
     final result = ref.watch(netflixProvider);
     final records = ref.watch(netflixLibraryProvider);
-    return Scaffold(
-      appBar: AppBar(
-        title: const Text('말문', style: TextStyle(fontWeight: FontWeight.w900)),
-        actions: [
-          IconButton(
-            tooltip: '순위와 출처 안내',
-            icon: const Icon(Icons.info_outline),
-            onPressed: () => showDialog<void>(
-              context: context,
-              builder: (context) => AlertDialog(
-                title: const Text('이 순위는 어디서 왔나요?'),
-                content: const SingleChildScrollView(
-                  child: Text(
-                    'Netflix Tudum이 공개한 한국 주간 Top 10입니다. 한국에서 시청한 순위이며 한국 제작 작품만을 뜻하지 않습니다. TV 목록에는 드라마·예능·애니 등이 함께 포함됩니다.\n\n집계 주간을 표시하며 실시간·오늘의 순위나 한국 전체 OTT 순위로 해석하지 않습니다. 이전 주와 비교할 수 있을 때만 상승·하락을 표시합니다. 누적 진입 주수는 연속 주수가 아닙니다. 국가별 시청자 수를 추정하지 않습니다.\n\n작품 소개는 출처에서 확인한 정보만 표시합니다. 확인하지 못한 정보는 비워 둡니다. 말문은 넷플릭스가 운영하거나 인증한 앱이 아닙니다.',
-                  ),
-                ),
-                actions: [
-                  TextButton(
-                    onPressed: () => Navigator.pop(context),
-                    child: const Text('닫기'),
-                  ),
-                  TextButton(
-                    onPressed: () =>
-                        openNetflixLink(context, Uri.parse(netflixChartUrl)),
-                    child: const Text('공식 순위 보기'),
-                  ),
-                ],
-              ),
-            ),
+    return DefaultTabController(
+      length: 2,
+      child: Scaffold(
+        appBar: AppBar(
+          bottom: TabBar(
+            onTap: (index) => setState(() {
+              _anime = index == 1;
+              _animeVisited = _animeVisited || _anime;
+            }),
+            tabs: const [
+              Tab(key: ValueKey("source-netflix"), text: "넷플릭스"),
+              Tab(key: ValueKey("source-anime"), text: "애니"),
+            ],
           ),
-        ],
-      ),
-      body: Center(
-        child: ConstrainedBox(
-          constraints: const BoxConstraints(maxWidth: 760),
-          child: _tab == 1
-              ? ListView(
-                  padding: const EdgeInsets.all(20),
-                  children: [
-                    Text(
-                      '내가 고른 작품',
-                      style: Theme.of(context).textTheme.headlineMedium
-                          ?.copyWith(fontWeight: FontWeight.w900),
-                    ),
-                    const SizedBox(height: 12),
-                    Wrap(
-                      spacing: 8,
-                      children: [
-                        ChoiceChip(
-                          label: const Text('보고 싶어요'),
-                          selected: !_watched,
-                          onSelected: (_) => setState(() => _watched = false),
+          title: const Text(
+            '말문',
+            style: TextStyle(fontWeight: FontWeight.w900),
+          ),
+          actions: [
+            IconButton(
+              tooltip: '순위와 출처 안내',
+              icon: const Icon(Icons.info_outline),
+              onPressed: () => _anime
+                  ? showAnimeInfo(context)
+                  : showDialog<void>(
+                      context: context,
+                      builder: (context) => AlertDialog(
+                        title: const Text('이 순위는 어디서 왔나요?'),
+                        content: const SingleChildScrollView(
+                          child: Text(
+                            'Netflix Tudum이 공개한 한국 주간 Top 10입니다. 한국에서 시청한 순위이며 한국 제작 작품만을 뜻하지 않습니다. TV 목록에는 드라마·예능·애니 등이 함께 포함됩니다.\n\n집계 주간을 표시하며 실시간·오늘의 순위나 한국 전체 OTT 순위로 해석하지 않습니다. 이전 주와 비교할 수 있을 때만 상승·하락을 표시합니다. 누적 진입 주수는 연속 주수가 아닙니다. 국가별 시청자 수를 추정하지 않습니다.\n\n작품 소개는 출처에서 확인한 정보만 표시합니다. 확인하지 못한 정보는 비워 둡니다. 말문은 넷플릭스가 운영하거나 인증한 앱이 아닙니다.',
+                          ),
                         ),
-                        ChoiceChip(
-                          label: const Text('봤어요'),
-                          selected: _watched,
-                          onSelected: (_) => setState(() => _watched = true),
-                        ),
-                      ],
-                    ),
-                    const SizedBox(height: 12),
-                    if (!records.any((r) => r.watched == _watched))
-                      const Padding(
-                        padding: EdgeInsets.symmetric(vertical: 40),
-                        child: Text('작품에서 저장 버튼을 누르면 여기에 모여요.'),
-                      ),
-                    for (final record in records.where(
-                      (r) => r.watched == _watched,
-                    ))
-                      ListTile(
-                        contentPadding: const EdgeInsets.symmetric(vertical: 8),
-                        title: Text(record.title.title),
-                        subtitle: Text(
-                          '${record.week} 종료 주간에 저장 · ${record.title.category == 'TV' ? 'TV' : '영화'}',
-                        ),
-                        trailing: const Icon(Icons.chevron_right),
-                        onTap: () => _open(record.title, record.week, false),
-                      ),
-                    const Divider(),
-                    TextButton.icon(
-                      onPressed: () => Navigator.of(context).push(
-                        MaterialPageRoute<void>(
-                          builder: (_) => const LegacySavedScreen(),
-                        ),
-                      ),
-                      icon: const Icon(Icons.inventory_2_outlined),
-                      label: const Text('이전 뉴스 보관함·메모'),
-                    ),
-                    const Text(
-                      '내 목록은 이 기기에만 저장돼요.',
-                      textAlign: TextAlign.center,
-                    ),
-                  ],
-                )
-              : result.when(
-                  data: (data) => _chart(data),
-                  loading: () =>
-                      const Center(child: CircularProgressIndicator()),
-                  error: (_, _) => Center(
-                    child: Padding(
-                      padding: const EdgeInsets.all(24),
-                      child: Column(
-                        mainAxisSize: MainAxisSize.min,
-                        children: [
-                          const Text('순위를 불러오지 못했어요. 연결 후 다시 시도해 주세요.'),
-                          const SizedBox(height: 12),
-                          FilledButton(
-                            onPressed: () => ref.invalidate(netflixProvider),
-                            child: const Text('다시 시도'),
+                        actions: [
+                          TextButton(
+                            onPressed: () => Navigator.pop(context),
+                            child: const Text('닫기'),
+                          ),
+                          TextButton(
+                            onPressed: () => openNetflixLink(
+                              context,
+                              Uri.parse(netflixChartUrl),
+                            ),
+                            child: const Text('공식 순위 보기'),
                           ),
                         ],
                       ),
                     ),
-                  ),
-                ),
+            ),
+          ],
         ),
-      ),
-      bottomNavigationBar: NavigationBar(
-        selectedIndex: _tab,
-        onDestinationSelected: (value) => setState(() => _tab = value),
-        destinations: const [
-          NavigationDestination(
-            icon: Icon(Icons.trending_up),
-            label: '한국 Top 10',
-          ),
-          NavigationDestination(
-            icon: Icon(Icons.bookmarks_outlined),
-            label: '내 목록',
-          ),
-        ],
+        body: IndexedStack(
+          index: _anime ? 1 : 0,
+          children: [
+            Center(
+              child: ConstrainedBox(
+                constraints: const BoxConstraints(maxWidth: 760),
+                child: _tab == 1
+                    ? ListView(
+                        padding: const EdgeInsets.all(20),
+                        children: [
+                          Text(
+                            '내가 고른 작품',
+                            style: Theme.of(context).textTheme.headlineMedium
+                                ?.copyWith(fontWeight: FontWeight.w900),
+                          ),
+                          const SizedBox(height: 12),
+                          Wrap(
+                            spacing: 8,
+                            children: [
+                              ChoiceChip(
+                                label: const Text('보고 싶어요'),
+                                selected: !_watched,
+                                onSelected: (_) =>
+                                    setState(() => _watched = false),
+                              ),
+                              ChoiceChip(
+                                label: const Text('봤어요'),
+                                selected: _watched,
+                                onSelected: (_) =>
+                                    setState(() => _watched = true),
+                              ),
+                            ],
+                          ),
+                          const SizedBox(height: 12),
+                          if (!records.any((r) => r.watched == _watched))
+                            const Padding(
+                              padding: EdgeInsets.symmetric(vertical: 40),
+                              child: Text('작품에서 저장 버튼을 누르면 여기에 모여요.'),
+                            ),
+                          for (final record in records.where(
+                            (r) => r.watched == _watched,
+                          ))
+                            ListTile(
+                              contentPadding: const EdgeInsets.symmetric(
+                                vertical: 8,
+                              ),
+                              title: Text(record.title.title),
+                              subtitle: Text(
+                                '${record.week} 종료 주간에 저장 · ${record.title.category == 'TV' ? 'TV' : '영화'}',
+                              ),
+                              trailing: const Icon(Icons.chevron_right),
+                              onTap: () =>
+                                  _open(record.title, record.week, false),
+                            ),
+                          const Divider(),
+                          TextButton.icon(
+                            onPressed: () => Navigator.of(context).push(
+                              MaterialPageRoute<void>(
+                                builder: (_) => const LegacySavedScreen(),
+                              ),
+                            ),
+                            icon: const Icon(Icons.inventory_2_outlined),
+                            label: const Text('이전 뉴스 보관함·메모'),
+                          ),
+                          const Text(
+                            '내 목록은 이 기기에만 저장돼요.',
+                            textAlign: TextAlign.center,
+                          ),
+                        ],
+                      )
+                    : result.when(
+                        data: (data) => _chart(data),
+                        loading: () =>
+                            const Center(child: CircularProgressIndicator()),
+                        error: (_, _) => Center(
+                          child: Padding(
+                            padding: const EdgeInsets.all(24),
+                            child: Column(
+                              mainAxisSize: MainAxisSize.min,
+                              children: [
+                                const Text('순위를 불러오지 못했어요. 연결 후 다시 시도해 주세요.'),
+                                const SizedBox(height: 12),
+                                FilledButton(
+                                  onPressed: () =>
+                                      ref.invalidate(netflixProvider),
+                                  child: const Text('다시 시도'),
+                                ),
+                              ],
+                            ),
+                          ),
+                        ),
+                      ),
+              ),
+            ),
+            if (_animeVisited) const AnimeView() else const SizedBox.shrink(),
+          ],
+        ),
+        bottomNavigationBar: _anime
+            ? null
+            : NavigationBar(
+                selectedIndex: _tab,
+                onDestinationSelected: (value) => setState(() => _tab = value),
+                destinations: const [
+                  NavigationDestination(
+                    icon: Icon(Icons.trending_up),
+                    label: '한국 Top 10',
+                  ),
+                  NavigationDestination(
+                    icon: Icon(Icons.bookmarks_outlined),
+                    label: '내 목록',
+                  ),
+                ],
+              ),
       ),
     );
   }

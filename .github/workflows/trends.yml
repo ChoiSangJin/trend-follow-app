@@ -1,4 +1,4 @@
-name: Refresh Netflix charts and legacy briefing
+name: Refresh Netflix, anime and legacy briefing
 on:
   schedule:
     - cron: '17 */6 * * *'
@@ -17,7 +17,13 @@ jobs:
           ref: main
       - run: python3 -m unittest discover -s scripts -p 'test_*.py' -v
       - name: Refresh official Korean Netflix chart
+        id: netflix
+        continue-on-error: true
         run: bash scripts/check_command.sh python3 scripts/collect_netflix.py
+      - name: Refresh AniList discovery and anime news
+        id: anime
+        continue-on-error: true
+        run: bash scripts/check_command.sh python3 scripts/collect_anime.py
       - name: Maintain previous app feeds
         continue-on-error: true
         run: bash scripts/check_command.sh python3 scripts/collect_briefing.py
@@ -25,7 +31,10 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add data/netflix-kr-v1.json data/briefing.json data/briefing-v3.json data/briefing-v4.json data/briefing-v5.json data/trends-v1.json data/trends-history.json
+          git add data/anime-v1.json data/netflix-kr-v1.json data/briefing.json data/briefing-v3.json data/briefing-v4.json data/briefing-v5.json data/trends-v1.json data/trends-history.json
           if git diff --cached --quiet; then exit 0; fi
-          git commit -m 'data: refresh Korean Netflix charts and legacy briefing'
+          git commit -m 'data: refresh Netflix, anime and legacy briefing'
           git push origin HEAD:main
+      - name: Report source failures after preserving healthy feeds
+        if: steps.netflix.outcome == 'failure' || steps.anime.outcome == 'failure'
+        run: exit 1
