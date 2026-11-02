@@ -3,6 +3,7 @@ Ranks are Netflix's country chart; no inferred Korean view counts or buzz scores
 """
 import csv
 import io
+import re
 import json
 import sys
 from datetime import date, datetime, timedelta, timezone
@@ -78,8 +79,25 @@ def main():
     print('Official Korean Netflix chart:', result['weeks'][0]['week'])
     print('TV:', [i['title'] for i in result['weeks'][0]['charts']['TV']])
     if '--inspect' in sys.argv:
+        print('NETFLIX_FEED_JSON=' + json.dumps(result, ensure_ascii=False))
+        inspection = []
         for slug in ('tv', 'films'):
-            Path(f'/tmp/netflix-{slug}.html').write_text(fetch(CHART + '/' + slug, 10_000_000))
+            html = fetch(CHART + '/' + slug, 10_000_000)
+            for attrs, body in re.findall(r'<script([^>]*)>(.*?)</script>', html, re.S):
+                try:
+                    payload = json.loads(body)
+                except ValueError:
+                    inspection.append({'attrs': attrs[:200], 'prefix': body[:100]})
+                    continue
+                def walk(node, path=''):
+                    if isinstance(node, dict):
+                        if any(k.lower() in ('title', 'showtitle', 'name', 'videos', 'titles') for k in node):
+                            inspection.append({'path': path, 'node': {k:v for k,v in node.items() if not isinstance(v,(dict,list))}})
+                        for k,v in node.items(): walk(v, path + '.' + k)
+                    elif isinstance(node, list):
+                        for i,v in enumerate(node): walk(v, path + '[' + str(i) + ']')
+                walk(payload)
+        print('NETFLIX_SOURCE_JSON=' + json.dumps(inspection[:160], ensure_ascii=False))
 
 
 if __name__ == '__main__':
