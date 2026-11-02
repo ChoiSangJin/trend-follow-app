@@ -1,0 +1,22 @@
+name: Refresh Korean Netflix chart
+on:
+  push:
+    branches: [feat/netflix-korea]
+    paths: ['scripts/collect_netflix.py', '.github/workflows/netflix.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+      - run: python3 scripts/collect_netflix.py --inspect
+      - uses: actions/upload-artifact@v4
+        with:
+          name: netflix-source-check
+          path: |
+            data/netflix-kr-v1.json
+            /tmp/netflix-tv.html
+            /tmp/netflix-films.html
