@@ -171,7 +171,7 @@ def legacy_briefing(feed):
 def fetch_rss(url):
     for attempt in range(2):
         try:
-            with urlopen(Request(url, headers={'User-Agent': 'Malmun/2.4 RSS reader'}), timeout=15) as response:
+            with urlopen(Request(url, headers={'User-Agent': 'Malmun/3.0 RSS reader'}), timeout=15) as response:
                 payload = response.read(2_000_001)
             if len(payload) > 2_000_000:
                 raise ValueError('Feed exceeded size limit')

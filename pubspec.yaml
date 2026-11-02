@@ -1,7 +1,7 @@
 name: malmun
 description: Daily Korean conversation starters with dated sources.
 publish_to: none
-version: 2.4.0+5
+version: 3.0.0+6
 environment:
   sdk: '>=3.8.0 <4.0.0'
 dependencies:
@@ -19,3 +19,4 @@ flutter:
   uses-material-design: true
   assets:
     - assets/practice.json
+    - assets/conversation_guides.json

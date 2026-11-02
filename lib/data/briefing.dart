@@ -16,7 +16,13 @@ Uri? safeLink(dynamic value) {
 }
 
 class CoverageSource {
-  const CoverageSource(this.name, this.group, this.url, this.publishedAt);
+  const CoverageSource(
+    this.name,
+    this.group,
+    this.url,
+    this.publishedAt, [
+    this.headline,
+  ]);
   factory CoverageSource.fromJson(Json json) {
     final url = safeLink(json['url']);
     final date = DateTime.tryParse(stringValue(json['published_at']));
@@ -26,16 +32,28 @@ class CoverageSource {
         date == null) {
       throw const FormatException('Invalid coverage source');
     }
-    return CoverageSource(json['name'], json['group'], url, date);
+    final headline = json['headline'];
+    if (headline != null && (headline is! String || headline.trim().isEmpty)) {
+      throw const FormatException('Invalid source headline');
+    }
+    return CoverageSource(
+      json['name'],
+      json['group'],
+      url,
+      date,
+      headline as String?,
+    );
   }
   final String name, group;
   final Uri url;
   final DateTime publishedAt;
+  final String? headline;
   Json toJson() => {
     'name': name,
     'group': group,
     'url': url.toString(),
     'published_at': publishedAt.toIso8601String(),
+    if (headline != null) 'headline': headline,
   };
 }
 

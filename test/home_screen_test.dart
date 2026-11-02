@@ -1,3 +1,5 @@
+import 'package:malmun/state/conversation_provider.dart';
+import 'conversation_fixtures.dart';
 import 'dart:convert';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
@@ -37,12 +39,18 @@ void main() {
     await tester.pumpWidget(
       ProviderScope(
         overrides: [
+          guideCatalogProvider.overrideWith((ref) async => realCatalog()),
           repositoryProvider.overrideWithValue(repository),
           storeProvider.overrideWithValue(store ?? MemoryStore()),
         ],
         child: const MalmunApp(),
       ),
     );
+    await tester.pumpAndSettle();
+    await tester.scrollUntilVisible(find.text('분야별 소식 둘러보기'), 250);
+    await tester.drag(find.byType(ListView).first, const Offset(0, -120));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('분야별 소식 둘러보기'));
     await tester.pumpAndSettle();
   }
 

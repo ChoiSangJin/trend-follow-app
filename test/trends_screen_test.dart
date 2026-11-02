@@ -1,3 +1,5 @@
+import 'package:malmun/state/conversation_provider.dart';
+import 'conversation_fixtures.dart';
 import 'dart:convert';
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
@@ -34,6 +36,7 @@ void main() {
     await tester.pumpWidget(
       ProviderScope(
         overrides: [
+          guideCatalogProvider.overrideWith((ref) async => realCatalog()),
           repositoryProvider.overrideWithValue(StubRepository()),
           trendsRepositoryProvider.overrideWithValue(repository),
         ],
@@ -63,7 +66,7 @@ void main() {
     expect(find.text('나중에 꺼내 쓸 이야기'), findsOneWidget);
     await tester.tap(find.text('오늘의 말문'));
     await tester.pumpAndSettle();
-    expect(find.text('오늘의 대화 추천'), findsOneWidget);
+    expect(find.text('오늘은 3개만,\n대화할 만큼 이해하기'), findsOneWidget);
     expect(repository.calls, 1);
     expect(tester.takeException(), isNull);
   });

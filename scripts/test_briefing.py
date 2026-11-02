@@ -196,6 +196,9 @@ class SelectionTests(unittest.TestCase):
         for topic in feed['cards']:
             self.assertGreaterEqual(topic['coverage']['source_groups'],2)
             self.assertEqual(topic['title'],topic['summary'])
+            primary=next(s for s in topic['coverage']['sources'] if s['url']==topic['source_url'])
+            self.assertEqual(primary['headline'],topic['title'])
+            self.assertTrue(all(s['headline'] for s in topic['coverage']['sources']))
 
     def test_insufficient_evidence_is_not_padded(self):
         feeds=all_feeds();feeds[0]=None

@@ -130,7 +130,7 @@ def coverage_topic(group, category, question, context, *, minimum_sources=2):
                     last_report_at=last.isoformat().replace('+00:00', 'Z'),
                     first_report_url=earliest['source_url'], last_report_url=latest['source_url'],
                     sources=[dict(name=item['source'], group=item['effective_group'],
-                                  url=item['source_url'], published_at=item['published_at']) for item in reports])
+                                  url=item['source_url'], published_at=item['published_at'], headline=item['title']) for item in reports])
     explanation = (f'단일 출처 기사입니다. {representative["source"]}의 보도 1곳을 확인해 문화·스포츠의 추가 읽을거리로 제공합니다. 여러 매체의 관심이나 인기가 확인된 소식은 아닙니다.' if len(reports) == 1 else f'수집 범위에서 관련 보도 {len(group)}개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 {len(reports)}곳, {span_label}에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.')
     return dict(id=hashlib.sha256((category+'|'+earliest['id']).encode()).hexdigest()[:20],
                 category=category, title=representative['title'], summary=representative['title'],
