@@ -5,6 +5,7 @@ import '../data/briefing.dart';
 import '../data/briefing_store.dart';
 import '../data/conversation.dart';
 import 'briefing_provider.dart';
+import 'trends_provider.dart';
 
 final conversationClockProvider = Provider<DateTime Function()>(
   (ref) => DateTime.now,
@@ -181,4 +182,33 @@ class LearningController extends StateNotifier<LearningState> {
       );
     });
   }
+}
+
+class ConversationPool {
+  const ConversationPool(
+    this.topics, {
+    this.loading = false,
+    this.cached = false,
+  });
+  final List<Topic> topics;
+  final bool loading, cached;
+}
+
+final conversationPoolProvider = Provider<ConversationPool>((ref) {
+  final news = ref.watch(briefingProvider);
+  final trends = ref.watch(trendsProvider);
+  return ConversationPool(
+    [
+      ...news.valueOrNull?.briefing.topics ?? <Topic>[],
+      ...trends.valueOrNull?.feed.items.map((i) => i.topic) ?? <Topic>[],
+    ],
+    loading: news.isLoading || trends.isLoading,
+    cached: trends.valueOrNull?.cached ?? false,
+  );
+});
+Future<void> refreshConversation(WidgetRef ref) async {
+  await Future.wait([
+    ref.read(briefingProvider.notifier).refresh(),
+    ref.read(trendsProvider.notifier).refresh(),
+  ]);
 }

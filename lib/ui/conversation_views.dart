@@ -59,12 +59,13 @@ class _CoachViewState extends ConsumerState<CoachView> {
   Widget build(BuildContext context) {
     final news = ref.watch(briefingProvider);
     final catalog = ref.watch(guideCatalogProvider);
+    final pool = ref.watch(conversationPoolProvider);
     final learning = ref.watch(learningProvider);
     final now = ref.watch(conversationClockProvider)();
     final day = koreaDay(now);
     final feed = news.valueOrNull;
     final eligible = eligibleBriefings(
-      feed?.briefing.topics ?? [],
+      pool.topics,
       catalog.valueOrNull ?? const GuideCatalog([]),
       now,
     );
@@ -73,7 +74,7 @@ class _CoachViewState extends ConsumerState<CoachView> {
       _day = day;
       _audience = learning.audience;
     }
-    if (_pinned == null && eligible.isNotEmpty) {
+    if (_pinned == null && eligible.isNotEmpty && !pool.loading) {
       _pinned = chooseBriefings(
         eligible,
         learning.audience,
@@ -87,7 +88,7 @@ class _CoachViewState extends ConsumerState<CoachView> {
         if (b.topic.id == id) selected.add(b);
       }
     }
-    if (selected.length < 3) {
+    if (selected.length < 3 && !pool.loading) {
       for (final b in chooseBriefings(
         eligible,
         learning.audience,
@@ -112,7 +113,7 @@ class _CoachViewState extends ConsumerState<CoachView> {
       child: ConstrainedBox(
         constraints: const BoxConstraints(maxWidth: 720),
         child: RefreshIndicator(
-          onRefresh: () => ref.read(briefingProvider.notifier).refresh(),
+          onRefresh: () => refreshConversation(ref),
           child: ListView(
             key: const PageStorageKey('coach-today'),
             physics: const AlwaysScrollableScrollPhysics(),
@@ -168,11 +169,13 @@ class _CoachViewState extends ConsumerState<CoachView> {
                     '최근 소식을 받지 못했어요. 기사 날짜를 확인하고 이전 브리핑은 복습으로 활용해 주세요.',
                   ),
                 ),
-              if (news.isLoading || catalog.isLoading)
+              if (pool.cached && !(feed?.cachedNews ?? false))
+                const Text('일부 화제는 이전 집계입니다. 기사 날짜를 확인해 주세요.'),
+              if (pool.loading || catalog.isLoading)
                 const LinearProgressIndicator(),
               if (catalog.hasError)
                 const Text('배경 설명을 준비하지 못했어요. 앱을 다시 열어 주세요.'),
-              if (!news.isLoading && !catalog.isLoading && selected.isEmpty)
+              if (!pool.loading && !catalog.isLoading && selected.isEmpty)
                 const Padding(
                   padding: EdgeInsets.symmetric(vertical: 20),
                   child: Text(
