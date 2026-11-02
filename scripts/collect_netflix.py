@@ -21,7 +21,7 @@ CHART = 'https://www.netflix.com/tudum/top10/south-korea'
 
 
 def fetch(url, limit=100_000_000):
-    with urlopen(Request(url, headers={'User-Agent': 'Malmun/4.0 (public Netflix Top 10 data)'}), timeout=60) as response:
+    with urlopen(Request(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; Malmun/4.0)', 'Accept-Language': 'ko-KR,ko;q=0.9,en;q=0.5'}), timeout=60) as response:
         try:
             data = response.read(limit + 1)
         except IncompleteRead as error:
@@ -103,7 +103,7 @@ def page_chart(html, category):
         rank = chart.get('weeklyRank')
         if not any(r.get('countryId') == 'KR' and r.get('rank') == rank for r in entity.get('countryRanks', [])):
             continue
-        title = video.get('parentShow', {}).get('title') or video.get('title')
+        title = (video.get('parentShow') or {}).get('title') or video.get('title')
         season = video.get('title') if category == 'TV' else None
         season_key = season or 'N/A'
         item = {'id': category + ':' + title + '|' + season_key, 'title': title, 'season': season,
@@ -111,8 +111,8 @@ def page_chart(html, category):
         display = entity.get('displayVideo', {}).get('video', {}) or {}
         netflix_id = (display.get('parentShow') or {}).get('videoId') or display.get('videoId') or video.get('videoId')
         if netflix_id:
-            item['metadata'] = {'source_url': f'https://www.netflix.com/kr/title/{netflix_id}',
-                                'watch_url': f'https://www.netflix.com/kr/title/{netflix_id}'}
+            item['metadata'] = {'source_url': f'https://www.netflix.com/kr/title/{netflix_id}?locale=ko-KR',
+                                'watch_url': f'https://www.netflix.com/kr/title/{netflix_id}?locale=ko-KR'}
         key = (chart['weekEndDate'], rank)
         if key in candidates and candidates[key]['id'] != item['id']:
             raise ValueError('Conflicting country ranks')
@@ -130,16 +130,26 @@ class PublicTitleParser(HTMLParser):
         self.meta = {}
         self.scripts = []
         self._script = None
+        self.h1 = []
+        self._h1 = False
+        self.synopsis = []
+        self._synopsis = False
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
+        if tag == 'h1': self._h1 = True
+        if attrs.get('data-uia') == 'title-info-synopsis': self._synopsis = True
         if tag == 'meta' and attrs.get('content'):
             self.meta[attrs.get('property') or attrs.get('name')] = attrs['content']
         if tag == 'script' and attrs.get('type') == 'application/ld+json':
             self._script = ''
     def handle_data(self, data):
+        if self._h1: self.h1.append(data)
+        if self._synopsis: self.synopsis.append(data)
         if self._script is not None:
             self._script += data
     def handle_endtag(self, tag):
+        if tag == 'h1': self._h1 = False
+        if tag in ('div', 'span'): self._synopsis = False
         if tag == 'script' and self._script is not None:
             try: self.scripts.append(json.loads(self._script))
             except ValueError: pass
@@ -164,8 +174,10 @@ def title_metadata(html, url):
     node = nodes[0]
     if urlparse(node.get('url', url)).path.rstrip('/').split('/')[-1] != urlparse(url).path.split('/')[-1]:
         raise ValueError('Title identity mismatch')
-    name = node.get('name', '')
-    description = node.get('description', '')
+    name = ''.join(parser.h1).strip() or node.get('name', '')
+    description = ''.join(parser.synopsis).strip() or node.get('description', '')
+    if '--inspect' in sys.argv:
+        print('TITLE_META_DEBUG=' + json.dumps({'url': url, 'h1': parser.h1, 'name': node.get('name'), 'description': description, 'genre': node.get('genre')}, ensure_ascii=False))
     genres = node.get('genre', [])
     if isinstance(genres, str): genres = [genres]
     genre_text = ' '.join(genres)
@@ -180,6 +192,11 @@ def title_metadata(html, url):
     if isinstance(actors, dict): actors = [actors]
     names = [a['name'] for a in actors if isinstance(a, dict) and a.get('name')]
     if names: result['cast'] = ', '.join(names[:6])
+    duration = node.get('duration')
+    if isinstance(duration, str) and re.fullmatch(r'PT(?:(\d+)H)?(?:(\d+)M)?', duration):
+        match = re.fullmatch(r'PT(?:(\d+)H)?(?:(\d+)M)?', duration)
+        minutes = int(match.group(1) or 0) * 60 + int(match.group(2) or 0)
+        if minutes: result['runtime'] = str(minutes) + '분'
     image = node.get('image') or parser.meta.get('og:image')
     if isinstance(image, list): image = image[0] if image else None
     if isinstance(image, dict): image = image.get('url')
