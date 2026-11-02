@@ -3,7 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'data/briefing_store.dart';
 import 'state/briefing_provider.dart';
-import 'ui/home_screen.dart';
+import 'ui/netflix_screen.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -22,7 +22,8 @@ Future<void> main() async {
 }
 
 class MalmunApp extends StatelessWidget {
-  const MalmunApp({super.key});
+  const MalmunApp({super.key, this.home});
+  final Widget? home;
   @override
   Widget build(BuildContext context) => MaterialApp(
     title: '말문',
@@ -30,13 +31,13 @@ class MalmunApp extends StatelessWidget {
     themeMode: ThemeMode.system,
     theme: _theme(Brightness.light),
     darkTheme: _theme(Brightness.dark),
-    home: const HomeScreen(),
+    home: home ?? const NetflixHomeScreen(),
   );
   ThemeData _theme(Brightness brightness) => ThemeData(
     useMaterial3: true,
     brightness: brightness,
     colorScheme: ColorScheme.fromSeed(
-      seedColor: const Color(0xFF176F63),
+      seedColor: const Color(0xFFB32638),
       brightness: brightness,
     ),
     scaffoldBackgroundColor: brightness == Brightness.light
