@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "region": "KR",
-  "updated_at": "2026-11-02T10:46:28.820567Z",
+  "updated_at": "2026-11-02T15:44:53.704488Z",
   "tracking_started_at": "2026-11-01T12:43:04.983950Z",
-  "snapshot_count": 7,
+  "snapshot_count": 8,
   "cards": [
     {
       "topic": {
@@ -92,7 +92,7 @@
         0,
         8
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -174,11 +174,11 @@
       },
       "source_groups": 7,
       "daily_sources": [
-        0,
-        7,
+        3,
+        5,
         1
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -264,7 +264,7 @@
         0,
         7
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -333,10 +333,10 @@
       "source_groups": 5,
       "daily_sources": [
         0,
-        4,
-        1
+        5,
+        0
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -401,7 +401,7 @@
         4,
         0
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -466,11 +466,76 @@
         4,
         0
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
       "rank": 6
+    },
+    {
+      "topic": {
+        "id": "de0bd9fd1eac9d335248",
+        "category": "문화·예술",
+        "title": "리센느 원이, 공연 도중 무대 이탈…“숨이 안 쉬어졌다”",
+        "summary": "리센느 원이, 공연 도중 무대 이탈…“숨이 안 쉬어졌다”",
+        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 8시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘리센느 원이, 공연 도중 무대 이탈…“숨이 안 쉬어졌다”’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+        "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
+        "source": "중앙일보",
+        "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uaUZoVE9YYUFyeFZuQ1NfR21xNG80TUxpVnJ5TDE4TTBCZkxhMzJjZkhPTTZlQmRFZko3UGIwTjJGU1BmeTYwdXBSR1lCX3lYOVZvdHpB?oc=5",
+        "published_at": "2026-11-02T13:43:32Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 4,
+          "report_count": 4,
+          "span_hours": 8.6,
+          "first_report_at": "2026-11-02T05:09:35Z",
+          "last_report_at": "2026-11-02T13:43:32Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KZ0NYQ2RSRGhEV0I1VjdZbmpnUWx6SDF4b2xTUkk1Rm5TZFJQSHllM2EwTkxobEdDdGxzSzJWU1g3b3A0UVN6dG9HZWl3Z0dQRDhpR19KdzV4YnZQRTlsRkVFQ1JQTnJ6RU91V1dvNWI?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uaUZoVE9YYUFyeFZuQ1NfR21xNG80TUxpVnJ5TDE4TTBCZkxhMzJjZkhPTTZlQmRFZko3UGIwTjJGU1BmeTYwdXBSR1lCX3lYOVZvdHpB?oc=5",
+          "sources": [
+            {
+              "name": "중앙일보",
+              "group": "joongang.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uaUZoVE9YYUFyeFZuQ1NfR21xNG80TUxpVnJ5TDE4TTBCZkxhMzJjZkhPTTZlQmRFZko3UGIwTjJGU1BmeTYwdXBSR1lCX3lYOVZvdHpB?oc=5",
+              "published_at": "2026-11-02T13:43:32Z",
+              "headline": "리센느 원이, 공연 도중 무대 이탈…“숨이 안 쉬어졌다”"
+            },
+            {
+              "name": "동아일보",
+              "group": "donga.com",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSR3NaNmxRcUZWa09taWlFUjMtRy14V184aEJVck9iLThDWm5PeTBnTmtvSGYzTnVMam93VE1xWUV6Sm93c2oyTFhPMXlURWlWSGZmYm9fZkp4Z3pMdmFoMGNhT1h6XzRRa2FBbWlRSG9EOGRRLVHSAWZBVV95cUxOVVhDbzVaVU9kR2dBbFI3aXhLazlRa3hkcURjbW0xZlJFMVNqSXBmRk1oQmNoREJoUVQxakxGQ2NCcWswbUszY2dPM2c2MEYyNXIwYmttM3hpdDRaSVl6S1dFZDBtTnc?oc=5",
+              "published_at": "2026-11-02T11:22:00Z",
+              "headline": "리센느 원이, 공연중 무대 떠나…“숨이 안 쉬어졌다”, 무슨일?"
+            },
+            {
+              "name": "조선일보",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPemwtZGEyX0p6YXRKOTJmZjNHRnFGOHlIRkxhZVVzZXFUZm9HdUM5aXFBb05lOEFnU3JET3c1U1lpWEhJZVJoZlNMZEotZ3lCaTRveERrNXJnZGNqYkk3aUV6N0pxWWNxNGdEVDM0d3pGOXRDUXl4eFJfbnRFQ0ZSUXZwdVNXS3hoclJnU05iRQ?oc=5",
+              "published_at": "2026-11-02T09:02:00Z",
+              "headline": "리센느 원이, 공연 중 무대 이탈…\"세탁 후 줄어든 의상 탓\""
+            },
+            {
+              "name": "SPOTV NEWS",
+              "group": "spotvnews.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KZ0NYQ2RSRGhEV0I1VjdZbmpnUWx6SDF4b2xTUkk1Rm5TZFJQSHllM2EwTkxobEdDdGxzSzJWU1g3b3A0UVN6dG9HZWl3Z0dQRDhpR19KdzV4YnZQRTlsRkVFQ1JQTnJ6RU91V1dvNWI?oc=5",
+              "published_at": "2026-11-02T05:09:35Z",
+              "headline": "리센느 원이, 공연 중 돌연 무대 이탈…\"숨 안 쉬어져\" 직접 밝힌 전말[이슈S]"
+            }
+          ]
+        }
+      },
+      "source_groups": 4,
+      "daily_sources": [
+        0,
+        0,
+        4
+      ],
+      "tracking_hours": 27.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 7
     },
     {
       "topic": {
@@ -531,11 +596,11 @@
         0,
         4
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 7
+      "rank": 8
     },
     {
       "topic": {
@@ -596,11 +661,76 @@
         0,
         4
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 8
+      "rank": 9
+    },
+    {
+      "topic": {
+        "id": "4b05d6b4b47a962b264d",
+        "category": "스포츠",
+        "title": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출",
+        "summary": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출",
+        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘프로농구 정관장, 한국가스공사 잡고 3연패 탈출’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "news.sbs.co.kr",
+        "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLVVQRlhhMTNQa3Jydkx1NGcyR0VVVG8xcnN4WUE4b1pyNlhha0lLSHlhY0dBOE0zdGlzYXR6ZGdsNVJfWTVIX2VmRGEzREtkN3RJVExFZVZrX3FmbEJJQ2NFVnFPWGp2Z2hxUnloS3J6YnVQMTJ6Qm1qdmJMbWNPajZBNGFQQQ?oc=5",
+        "published_at": "2026-11-02T12:44:46Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 4,
+          "report_count": 4,
+          "span_hours": 0.5,
+          "first_report_at": "2026-11-02T12:15:27Z",
+          "last_report_at": "2026-11-02T12:44:46Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42Z1llbkdTR3g5dnBUZDVxZFNnZ0tMaW5DQU5ncEVuRDFLV2drdzk5a1hDN0VfdnlvR29ZZXRMME1lcWpONHcwbW02Qjg2aTc0NTFqVlQ0cDRBUQ?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLVVQRlhhMTNQa3Jydkx1NGcyR0VVVG8xcnN4WUE4b1pyNlhha0lLSHlhY0dBOE0zdGlzYXR6ZGdsNVJfWTVIX2VmRGEzREtkN3RJVExFZVZrX3FmbEJJQ2NFVnFPWGp2Z2hxUnloS3J6YnVQMTJ6Qm1qdmJMbWNPajZBNGFQQQ?oc=5",
+          "sources": [
+            {
+              "name": "news.sbs.co.kr",
+              "group": "sbs.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLVVQRlhhMTNQa3Jydkx1NGcyR0VVVG8xcnN4WUE4b1pyNlhha0lLSHlhY0dBOE0zdGlzYXR6ZGdsNVJfWTVIX2VmRGEzREtkN3RJVExFZVZrX3FmbEJJQ2NFVnFPWGp2Z2hxUnloS3J6YnVQMTJ6Qm1qdmJMbWNPajZBNGFQQQ?oc=5",
+              "published_at": "2026-11-02T12:44:46Z",
+              "headline": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출"
+            },
+            {
+              "name": "연합뉴스",
+              "group": "wire:연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51TmU4YzNLcGg3SDhRTlotelFJTW1jcEc1SGtGUVFoTnNaZjJtU2R6TkRWLTEwOW1qV3Z3aVFodWJuT042RWxxSjFubkpvWlIxTGxWQzExYjR1SUlQWTE0TtIBYEFVX3lxTE51TmU4YzNLcGg3SDhRTlotelFJTW1jcEc1SGtGUVFoTnNaZjJtU2R6TkRWLTEwOW1qV3Z3aVFodWJuT042RWxxSjFubkpvWlIxTGxWQzExYjR1SUlQWTE0Tg?oc=5",
+              "published_at": "2026-11-02T12:19:54Z",
+              "headline": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출…변준형 15점"
+            },
+            {
+              "name": "뉴시스",
+              "group": "wire:뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLUW9aSTNxdmlsOXFGS3FJT21hSHlXZzZscHUxTTBtMDVxX1JLQ1J4bjdYTFI3VHNpWkxDTTZiVUpkUUExOV9GaTFEX0pDaFUycDlCSElodzhiVjlsU040cGdmWndfOTVfcE9IaXU3RXgzbHdadndjMdIBeEFVX3lxTFBLUW9aSTNxdmlsOXFGS3FJT21hSHlXZzZscHUxTTBtMDVxX1JLQ1J4bjdYTFI3VHNpWkxDTTZiVUpkUUExOV9GaTFEX0pDaFUycDlCSElodzhiVjlsU040cGdmWndfOTVfcE9IaXU3RXgzbHdadndjMQ?oc=5",
+              "published_at": "2026-11-02T12:18:18Z",
+              "headline": "프로농구 정관장, 한국가스공사 77-71 격파…4경기 만에 승리"
+            },
+            {
+              "name": "뉴스1",
+              "group": "wire:뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42Z1llbkdTR3g5dnBUZDVxZFNnZ0tMaW5DQU5ncEVuRDFLV2drdzk5a1hDN0VfdnlvR29ZZXRMME1lcWpONHcwbW02Qjg2aTc0NTFqVlQ0cDRBUQ?oc=5",
+              "published_at": "2026-11-02T12:15:27Z",
+              "headline": "프로농구 정관장, 가스공사 77-71 제압…3연패 탈출"
+            }
+          ]
+        }
+      },
+      "source_groups": 4,
+      "daily_sources": [
+        0,
+        0,
+        4
+      ],
+      "tracking_hours": 27.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 10
     },
     {
       "topic": {
@@ -654,11 +784,11 @@
         1,
         1
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 9
+      "rank": 11
     },
     {
       "topic": {
@@ -709,14 +839,14 @@
       "source_groups": 3,
       "daily_sources": [
         0,
-        1,
-        2
+        2,
+        1
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 10
+      "rank": 12
     },
     {
       "topic": {
@@ -767,14 +897,14 @@
       "source_groups": 3,
       "daily_sources": [
         0,
-        1,
-        2
+        2,
+        1
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 11
+      "rank": 13
     },
     {
       "topic": {
@@ -828,11 +958,11 @@
         2,
         1
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 12
+      "rank": 14
     },
     {
       "topic": {
@@ -840,7 +970,7 @@
         "category": "기술·과학",
         "title": "글로벌 스마트폰 시장 20% 급감…삼성전자 3분기 출하량 1위 유지",
         "summary": "글로벌 스마트폰 시장 20% 급감…삼성전자 3분기 출하량 1위 유지",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 8시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
         "opener": "‘글로벌 스마트폰 시장 20% 급감…삼성전자 3분기 출하량 1위 유지’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
         "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
         "source": "전자신문",
@@ -850,9 +980,9 @@
         "coverage": {
           "source_groups": 3,
           "report_count": 3,
-          "span_hours": 8.3,
+          "span_hours": 10.5,
           "first_report_at": "2026-11-02T00:50:10Z",
-          "last_report_at": "2026-11-02T09:06:00Z",
+          "last_report_at": "2026-11-02T11:22:00Z",
           "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXcGZjTXhIWVVjUTNPS2ZUZmJROGRneTNvRnhhdEtaUzlJRkdBcjBSVlRONEp2ci1SdjU1TG1NUG9jUkFlWnRHM3U3cUFwVk5ybEtPalhfS004Rl9JZDVyedIBYEFVX3lxTFBXcGZjTXhIWVVjUTNPS2ZUZmJROGRneTNvRnhhdEtaUzlJRkdBcjBSVlRONEp2ci1SdjU1TG1NUG9jUkFlWnRHM3U3cUFwVk5ybEtPalhfS004Rl9JZDVyeQ?oc=5",
           "last_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DdzFBOHZUVW5KRUhYN2FzSjZNdC1BZkIzelVnbkltdU9CVmF2UVJCdElUNTA2eEN5MFFRaDY3SERoSzMxZUxyejZCWTBwVTlMMC1UNl8wNGlSTndCRWpXd2NkY2s4VS1EdGc?oc=5",
           "sources": [
@@ -860,7 +990,7 @@
               "name": "한겨레",
               "group": "hani.co.kr",
               "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DdzFBOHZUVW5KRUhYN2FzSjZNdC1BZkIzelVnbkltdU9CVmF2UVJCdElUNTA2eEN5MFFRaDY3SERoSzMxZUxyejZCWTBwVTlMMC1UNl8wNGlSTndCRWpXd2NkY2s4VS1EdGc?oc=5",
-              "published_at": "2026-11-02T09:06:00Z",
+              "published_at": "2026-11-02T11:22:00Z",
               "headline": "‘칩플레이션’ 직격탄 맞은 스마트폰 시장…3분기 출하량 13년 만에 최저"
             },
             {
@@ -886,11 +1016,11 @@
         0,
         3
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 13
+      "rank": 15
     },
     {
       "topic": {
@@ -944,11 +1074,11 @@
         0,
         3
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 14
+      "rank": 16
     },
     {
       "topic": {
@@ -1002,69 +1132,11 @@
         0,
         3
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 15
-    },
-    {
-      "topic": {
-        "id": "e419a092a718d45f8124",
-        "category": "경제·주식",
-        "title": "뉴욕증시, 기술주 실적 부진에 하락 출발…나스닥 2.26%↓",
-        "summary": "뉴욕증시, 기술주 실적 부진에 하락 출발…나스닥 2.26%↓",
-        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘뉴욕증시, 기술주 실적 부진에 하락 출발…나스닥 2.26%↓’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
-        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-        "source": "Chosunbiz",
-        "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQck5WTmI2SWhsd1NqYXpISk0wem9vZlc4VThZR25uZEtYbEFYSjBsSzdmU2xURGh1dlA3UnYxcmNkcVZTQWZTdkFicXFaMFo3d2hwdmZzRkFLMnFzRG9pUnhmVjJFZ01nbWtqaVkzVGZ2SjQ0SEl3UXJpY290a3puS3A4NFJWQ0U3ZzVsVmVNdVhvVzBlUGMxendjSGx2UdIBsgFBVV95cUxPc3RQWnc1YXhaRGZjLUpERjJoOEVYaW1ESUZONF9jZkFxY1lrTV9uckF1V0c0dU5jSVdnMV9JalFfMHdjTUE3a2FrTEI5RnhCeTAxMU55ZkctTHlOby0wam56cl9xZGVOT2JHOVZCeW5KNlFXSHRhSjJVQ1o0Nm1CdWhFSGNEaVNtajZISExrZHAtSDVKUENfT1VUT1BvakRNSjZpdHh4LVdSVFJ0bFZMcGpR?oc=5",
-        "published_at": "2026-10-30T14:11:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 3,
-          "report_count": 4,
-          "span_hours": 6.1,
-          "first_report_at": "2026-10-30T14:02:14Z",
-          "last_report_at": "2026-10-30T20:08:55Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZYTJOUTdRdkg1enA2MjZGY3BKaGotbGtncnItMUxmN0QwZHpodXJLT04wX29tOUlhcTN4STBKRGlFZUo4TEp4TlJLV21qQmJfbzJsNVRvdzlLaHPSAWBBVV95cUxQaV9HZXJDZjd2VkFVSnRRdktNdHp0bHQ0RWZUY1R2WURva3c3cEVoZ2hsVlFPSU5UN29PZHd3bmNGRVFSa3didDVBNG5scm1lQkxmLTRBU1pWQUxBQy13eTQ?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aUzUxMFFLUmdyNTI4VUZDbUZHbkRGUU9HV2I4YjdFeFBBeFRQUlVGMXhZM0tRZ2gzcUdHdTItcGxVNVRQb0Vzcjg3WmMxRVFsdG5fTkVaX3JqX3ZhcUF5ZdIBeEFVX3lxTE5KY3NDeXJnV3lGNWMybmQxRGlOSFpzVEJTQWJXYUFWZk5QaTdxaDg0aGpYZGhUSDlvWElYWkJEMGNJLTBZREJtZlN2cDdVYjVHN05kRWtDcHMwTGJsejRoQ3BWYXFBczNJbGZ5SHp0c3I4SW13SEthXw?oc=5",
-          "sources": [
-            {
-              "name": "뉴시스",
-              "group": "wire:뉴시스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aUzUxMFFLUmdyNTI4VUZDbUZHbkRGUU9HV2I4YjdFeFBBeFRQUlVGMXhZM0tRZ2gzcUdHdTItcGxVNVRQb0Vzcjg3WmMxRVFsdG5fTkVaX3JqX3ZhcUF5ZdIBeEFVX3lxTE5KY3NDeXJnV3lGNWMybmQxRGlOSFpzVEJTQWJXYUFWZk5QaTdxaDg0aGpYZGhUSDlvWElYWkJEMGNJLTBZREJtZlN2cDdVYjVHN05kRWtDcHMwTGJsejRoQ3BWYXFBczNJbGZ5SHp0c3I4SW13SEthXw?oc=5",
-              "published_at": "2026-10-30T20:08:55Z",
-              "headline": "[속보] 뉴욕 증시, 기술주 실적 부진에 하락 마감···다우 1.09%↓ 나스닥 2.86%↓"
-            },
-            {
-              "name": "YTN",
-              "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoeGRueVI5ODN5S1NnOVVzaDB4TDVaR2JqQVpZUFZCbXVtWVhFODNlV2ZWN1JVRklYTm5hcVNSWVppSEs0YmdROUJUVEFOdlpXSmlIV2ZFZkR6SkVhT3c?oc=5",
-              "published_at": "2026-10-30T15:19:00Z",
-              "headline": "뉴욕 증시, 아마존·인텔 실적 부진에 하락 출발"
-            },
-            {
-              "name": "Chosunbiz",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQck5WTmI2SWhsd1NqYXpISk0wem9vZlc4VThZR25uZEtYbEFYSjBsSzdmU2xURGh1dlA3UnYxcmNkcVZTQWZTdkFicXFaMFo3d2hwdmZzRkFLMnFzRG9pUnhmVjJFZ01nbWtqaVkzVGZ2SjQ0SEl3UXJpY290a3puS3A4NFJWQ0U3ZzVsVmVNdVhvVzBlUGMxendjSGx2UdIBsgFBVV95cUxPc3RQWnc1YXhaRGZjLUpERjJoOEVYaW1ESUZONF9jZkFxY1lrTV9uckF1V0c0dU5jSVdnMV9JalFfMHdjTUE3a2FrTEI5RnhCeTAxMU55ZkctTHlOby0wam56cl9xZGVOT2JHOVZCeW5KNlFXSHRhSjJVQ1o0Nm1CdWhFSGNEaVNtajZISExrZHAtSDVKUENfT1VUT1BvakRNSjZpdHh4LVdSVFJ0bFZMcGpR?oc=5",
-              "published_at": "2026-10-30T14:11:00Z",
-              "headline": "뉴욕증시, 기술주 실적 부진에 하락 출발…나스닥 2.26%↓"
-            }
-          ]
-        }
-      },
-      "source_groups": 3,
-      "daily_sources": [
-        3,
-        0,
-        0
-      ],
-      "tracking_hours": 22.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 16
+      "rank": 17
     },
     {
       "topic": {
@@ -1118,11 +1190,11 @@
         0,
         3
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 17
+      "rank": 18
     },
     {
       "topic": {
@@ -1176,11 +1248,11 @@
         3,
         0
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 18
+      "rank": 19
     },
     {
       "topic": {
@@ -1234,11 +1306,11 @@
         0,
         3
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 19
+      "rank": 20
     },
     {
       "topic": {
@@ -1289,14 +1361,14 @@
       "source_groups": 3,
       "daily_sources": [
         0,
-        2,
-        1
+        3,
+        0
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 20
+      "rank": 21
     },
     {
       "topic": {
@@ -1350,32 +1422,32 @@
         0,
         3
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 21
+      "rank": 22
     },
     {
       "topic": {
-        "id": "06f6a01cf31311b7489e",
+        "id": "b6bb3eca933ca383c4f6",
         "category": "스포츠",
         "title": "한 경기 86점씩 올리는 뜨거운 프로농구…작년보다 10.3점 증가",
         "summary": "한 경기 86점씩 올리는 뜨거운 프로농구…작년보다 10.3점 증가",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
         "opener": "‘한 경기 86점씩 올리는 뜨거운 프로농구…작년보다 10.3점 증가’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
         "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
         "source": "연합뉴스",
-        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uOTRSRVg0VG9IN1lWV3A3UHk0UXJTX1VVVUhjdnQycGtSNS02VWFOMHcwNWdNWlZmWmlMNjlyVnk4anpwZHlnUkFRelVkWDdqV1VZUVVVY0ZXU1hMR0R3X9IBYEFVX3lxTE9uOTRSRVg0VG9IN1lWV3A3UHk0UXJTX1VVVUhjdnQycGtSNS02VWFOMHcwNWdNWlZmWmlMNjlyVnk4anpwZHlnUkFRelVkWDdqV1VZUVVVY0ZXU1hMR0R3Xw?oc=5",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRmxkaXFTY2RYTEhwWXp4X3B4NGNDZkM2OXJDWFRlem0xSzk5bUFBRHV5NWdLZFhQdWQ3d3J1UWRDbi0yck91R3AtOTdkOUtEYlh4SkNieFBhZ1HSAWBBVV95cUxPbjk0UkVYNFRvSDdZVldwN1B5NFFyU19VVVVIY3Z0MnBrUjUtNlVhTjB3MDVnTVpWZlppTDY5clZ5OGp6cGR5Z1JBUXpVZFg3aldVWVFVVWNGV1NYTEdEd18?oc=5",
         "published_at": "2026-11-02T08:03:15Z",
         "evidence": "headline",
         "coverage": {
           "source_groups": 3,
-          "report_count": 3,
+          "report_count": 4,
           "span_hours": 1.3,
           "first_report_at": "2026-11-02T08:03:15Z",
           "last_report_at": "2026-11-02T09:19:55Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uOTRSRVg0VG9IN1lWV3A3UHk0UXJTX1VVVUhjdnQycGtSNS02VWFOMHcwNWdNWlZmWmlMNjlyVnk4anpwZHlnUkFRelVkWDdqV1VZUVVVY0ZXU1hMR0R3X9IBYEFVX3lxTE9uOTRSRVg0VG9IN1lWV3A3UHk0UXJTX1VVVUhjdnQycGtSNS02VWFOMHcwNWdNWlZmWmlMNjlyVnk4anpwZHlnUkFRelVkWDdqV1VZUVVVY0ZXU1hMR0R3Xw?oc=5",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRmxkaXFTY2RYTEhwWXp4X3B4NGNDZkM2OXJDWFRlem0xSzk5bUFBRHV5NWdLZFhQdWQ3d3J1UWRDbi0yck91R3AtOTdkOUtEYlh4SkNieFBhZ1HSAWBBVV95cUxPbjk0UkVYNFRvSDdZVldwN1B5NFFyU19VVVVIY3Z0MnBrUjUtNlVhTjB3MDVnTVpWZlppTDY5clZ5OGp6cGR5Z1JBUXpVZFg3aldVWVFVVWNGV1NYTEdEd18?oc=5",
           "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rRGJzejRRZkF4SWdJeHlqdXlNQk13NGF5ajh5OERlMndsbWFiMTBYT09kaHN3cWY3WGE1bzhKbks5WkEtYzlSaVRHRGZGRGoyQmxTc2ozOEdLd0VIYnFCVtIBeEFVX3lxTE81QTgxRDY2V2kwVjNhMjFtQ1JKYkZ0eXlHcHoxT3NVVU1LSmRsZEpSNzFjWXhNUVBuRmgtTFY1UjBVOGxCWXFQcXpCQVlCMEZyRWpvWjVVUzJJWnJLUmxvN1dnaUt0X0NZNGlmaGk5SXB5TVRvby1uWA?oc=5",
           "sources": [
             {
@@ -1395,7 +1467,7 @@
             {
               "name": "연합뉴스",
               "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uOTRSRVg0VG9IN1lWV3A3UHk0UXJTX1VVVUhjdnQycGtSNS02VWFOMHcwNWdNWlZmWmlMNjlyVnk4anpwZHlnUkFRelVkWDdqV1VZUVVVY0ZXU1hMR0R3X9IBYEFVX3lxTE9uOTRSRVg0VG9IN1lWV3A3UHk0UXJTX1VVVUhjdnQycGtSNS02VWFOMHcwNWdNWlZmWmlMNjlyVnk4anpwZHlnUkFRelVkWDdqV1VZUVVVY0ZXU1hMR0R3Xw?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRmxkaXFTY2RYTEhwWXp4X3B4NGNDZkM2OXJDWFRlem0xSzk5bUFBRHV5NWdLZFhQdWQ3d3J1UWRDbi0yck91R3AtOTdkOUtEYlh4SkNieFBhZ1HSAWBBVV95cUxPbjk0UkVYNFRvSDdZVldwN1B5NFFyU19VVVVIY3Z0MnBrUjUtNlVhTjB3MDVnTVpWZlppTDY5clZ5OGp6cGR5Z1JBUXpVZFg3aldVWVFVVWNGV1NYTEdEd18?oc=5",
               "published_at": "2026-11-02T08:03:15Z",
               "headline": "한 경기 86점씩 올리는 뜨거운 프로농구…작년보다 10.3점 증가"
             }
@@ -1408,11 +1480,11 @@
         0,
         3
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 22
+      "rank": 23
     },
     {
       "topic": {
@@ -1466,11 +1538,11 @@
         0,
         3
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 23
+      "rank": 24
     },
     {
       "topic": {
@@ -1524,58 +1596,7 @@
         0,
         3
       ],
-      "tracking_hours": 22.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 24
-    },
-    {
-      "topic": {
-        "id": "087d434711c40eb8c788",
-        "category": "경제·주식",
-        "title": "[마켓 프리뷰] 美빅테크 실적 부진에 코스피 '덜컹'…뉴욕증시 '폭삭'",
-        "summary": "[마켓 프리뷰] 美빅테크 실적 부진에 코스피 '덜컹'…뉴욕증시 '폭삭'",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 58시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘[마켓 프리뷰] 美빅테크 실적 부진에 코스피 '덜컹'…뉴욕증시 '폭삭'’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
-        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-        "source": "SBS Biz",
-        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tbkFDcDJQMTFjY2VPTDFEdDB5ZjhRUjVvaV9QRGl2R0VMeURvSnVVM1ZSM25PZVZDSlBXcWNiNUVRVHZSVm0yN3ZnOGdwR0d2cGotZW5SR2LSAVhBVV95cUxObW5BQ3AyUDExY2NlT0wxRHQweWY4UVI1b2lfUERpdkdFTHlEb0p1VTNWUjNuT2VWQ0pQV3FjYjVFUVR2UlZtMjd2ZzhncEdHdnBqLWVuUkdi?oc=5",
-        "published_at": "2026-11-01T22:03:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 2,
-          "report_count": 3,
-          "span_hours": 58.0,
-          "first_report_at": "2026-10-30T12:05:30Z",
-          "last_report_at": "2026-11-01T22:03:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVtIBYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVg?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tbkFDcDJQMTFjY2VPTDFEdDB5ZjhRUjVvaV9QRGl2R0VMeURvSnVVM1ZSM25PZVZDSlBXcWNiNUVRVHZSVm0yN3ZnOGdwR0d2cGotZW5SR2LSAVhBVV95cUxObW5BQ3AyUDExY2NlT0wxRHQweWY4UVI1b2lfUERpdkdFTHlEb0p1VTNWUjNuT2VWQ0pQV3FjYjVFUVR2UlZtMjd2ZzhncEdHdnBqLWVuUkdi?oc=5",
-          "sources": [
-            {
-              "name": "SBS Biz",
-              "group": "sbs.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tbkFDcDJQMTFjY2VPTDFEdDB5ZjhRUjVvaV9QRGl2R0VMeURvSnVVM1ZSM25PZVZDSlBXcWNiNUVRVHZSVm0yN3ZnOGdwR0d2cGotZW5SR2LSAVhBVV95cUxObW5BQ3AyUDExY2NlT0wxRHQweWY4UVI1b2lfUERpdkdFTHlEb0p1VTNWUjNuT2VWQ0pQV3FjYjVFUVR2UlZtMjd2ZzhncEdHdnBqLWVuUkdi?oc=5",
-              "published_at": "2026-11-01T22:03:00Z",
-              "headline": "[마켓 프리뷰] 美빅테크 실적 부진에 코스피 '덜컹'…뉴욕증시 '폭삭'"
-            },
-            {
-              "name": "연합뉴스",
-              "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVtIBYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVg?oc=5",
-              "published_at": "2026-10-30T12:05:30Z",
-              "headline": "美 빅테크 실적 쇼크에…코스피 3%대 급락"
-            }
-          ]
-        }
-      },
-      "source_groups": 2,
-      "daily_sources": [
-        1,
-        0,
-        1
-      ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -1626,7 +1647,7 @@
         0,
         1
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -1673,11 +1694,11 @@
       },
       "source_groups": 2,
       "daily_sources": [
-        0,
+        1,
         2,
         1
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -1728,7 +1749,7 @@
         1,
         1
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -1779,7 +1800,7 @@
         2,
         0
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -1830,7 +1851,7 @@
         1,
         1
       ],
-      "tracking_hours": 22.0,
+      "tracking_hours": 27.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",

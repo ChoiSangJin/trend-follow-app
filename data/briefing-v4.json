@@ -2,8 +2,54 @@
   "schema_version": 4,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-02T10:46:28.820567Z",
+  "updated_at": "2026-11-02T15:44:53.704488Z",
   "cards": [
+    {
+      "id": "ae077744d60d07b70c79",
+      "category": "문화·예술",
+      "title": "'한화클래식' 첫 경남 공연, 22일 창원·24일 거제…주민 초청",
+      "summary": "'한화클래식' 첫 경남 공연, 22일 창원·24일 거제…주민 초청",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 3시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘'한화클래식' 첫 경남 공연, 22일 창원·24일 거제…주민 초청’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCddIBYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCdQ?oc=5",
+      "published_at": "2026-11-02T05:24:28Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 3,
+        "report_count": 3,
+        "span_hours": 3.3,
+        "first_report_at": "2026-11-02T05:24:28Z",
+        "last_report_at": "2026-11-02T08:44:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCddIBYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCdQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4UTVzQ0ZGbXhrZTI1X2FWenh4SzBnYllLXy1GTElxRnBlMkN6cEY0bWlCaHlWcUlHcEM1QTF6U3gwN3pQX3htSmY1N1hrWEtLR0h0MUQzUmhEZ0hqYTBEel9RU28?oc=5",
+        "sources": [
+          {
+            "name": "한겨레",
+            "group": "hani.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4UTVzQ0ZGbXhrZTI1X2FWenh4SzBnYllLXy1GTElxRnBlMkN6cEY0bWlCaHlWcUlHcEM1QTF6U3gwN3pQX3htSmY1N1hrWEtLR0h0MUQzUmhEZ0hqYTBEel9RU28?oc=5",
+            "published_at": "2026-11-02T08:44:00Z",
+            "headline": "‘한화클래식’ 첫 경남 공연…22일 창원·24일 거제"
+          },
+          {
+            "name": "뉴시스",
+            "group": "wire:뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91QTFfck9VV0NJbjkwZmRFVkRvRUJScWlFZE03MjZDZmtSVzI3dG90ZGZiZ0kxdmNzZUhVS3h2NGVtWkxlc3hyYWpzeVRZTDdBV3k3TEw0MkJtV1d3WUQxOVNrX2hvQ09uc0E1eVV5d1hyQXp0RDBqQ9IBeEFVX3lxTE91QTFfck9VV0NJbjkwZmRFVkRvRUJScWlFZE03MjZDZmtSVzI3dG90ZGZiZ0kxdmNzZUhVS3h2NGVtWkxlc3hyYWpzeVRZTDdBV3k3TEw0MkJtV1d3WUQxOVNrX2hvQ09uc0E1eVV5d1hyQXp0RDBqQw?oc=5",
+            "published_at": "2026-11-02T05:41:56Z",
+            "headline": "한화클래식, 첫 경남 공연 '창원·거제서 세계적 고음악 선율'"
+          },
+          {
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCddIBYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCdQ?oc=5",
+            "published_at": "2026-11-02T05:24:28Z",
+            "headline": "'한화클래식' 첫 경남 공연, 22일 창원·24일 거제…주민 초청"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
     {
       "id": "dcc65f6c8b0dedf6fecd",
       "category": "문화·예술",
@@ -38,45 +84,6 @@
             "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMaEMxZnVEYUszOVJ6VmRHV3k0XzVjXzJ2b1FpM09icEthTUNSMHJSdjlpT25hZ0o0VWRXU1k3QmNuTENnaWVVd05GWGhKYkFXMHZpZjBR?oc=5",
             "published_at": "2026-11-01T01:00:00Z",
             "headline": "‘고운숨결문학상’ 1회 수상자 9명 발표…대상 박현주"
-          }
-        ]
-      },
-      "selection_rank": 1
-    },
-    {
-      "id": "a92ce87a3047a2248c54",
-      "category": "문화·예술",
-      "title": "콘진원, 자카르타서 카카오프렌즈 특별전…캐릭터 IP 진출 지원",
-      "summary": "콘진원, 자카르타서 카카오프렌즈 특별전…캐릭터 IP 진출 지원",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘콘진원, 자카르타서 카카오프렌즈 특별전…캐릭터 IP 진출 지원’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
-      "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-      "source": "지디넷코리아",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3d01XdUNnWE5wRk43ZlQ3UU5xQUhDRWR4dHFVYUtJNmVRZEtGWTZWRmdZMFJ3ckpKY2pxdWdwSjBGMm9RcUxWLXBnNFlhUEZYWjYxdFhR?oc=5",
-      "published_at": "2026-11-02T00:59:23Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 1.3,
-        "first_report_at": "2026-11-02T00:59:23Z",
-        "last_report_at": "2026-11-02T02:15:35Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3d01XdUNnWE5wRk43ZlQ3UU5xQUhDRWR4dHFVYUtJNmVRZEtGWTZWRmdZMFJ3ckpKY2pxdWdwSjBGMm9RcUxWLXBnNFlhUEZYWjYxdFhR?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmYnhSUGs5QURCdEVneTRJdjVLd3M5WGVVOGxpNHNpclNxcHhrZGlJUC1GQS00SFFWLUNQQ2s2N3F1bkU5U04xZjFkTVlzQklHUHV3aVF2QWtjdk5VOHVz?oc=5",
-        "sources": [
-          {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmYnhSUGs5QURCdEVneTRJdjVLd3M5WGVVOGxpNHNpclNxcHhrZGlJUC1GQS00SFFWLUNQQ2s2N3F1bkU5U04xZjFkTVlzQklHUHV3aVF2QWtjdk5VOHVz?oc=5",
-            "published_at": "2026-11-02T02:15:35Z",
-            "headline": "카카오프렌즈 자카르타 특별전…현지 수요 조사"
-          },
-          {
-            "name": "지디넷코리아",
-            "group": "zdnet.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3d01XdUNnWE5wRk43ZlQ3UU5xQUhDRWR4dHFVYUtJNmVRZEtGWTZWRmdZMFJ3ckpKY2pxdWdwSjBGMm9RcUxWLXBnNFlhUEZYWjYxdFhR?oc=5",
-            "published_at": "2026-11-02T00:59:23Z",
-            "headline": "콘진원, 자카르타서 카카오프렌즈 특별전…캐릭터 IP 진출 지원"
           }
         ]
       },
@@ -163,7 +170,7 @@
       "category": "스포츠",
       "title": "'손흥민 3경기 연속 침묵' LA FC, 미네소타에 1-3 완패…4위 무산",
       "summary": "'손흥민 3경기 연속 침묵' LA FC, 미네소타에 1-3 완패…4위 무산",
-      "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 11개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 5시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘'손흥민 3경기 연속 침묵' LA FC, 미네소타에 1-3 완패…4위 무산’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
       "source": "뉴스1",
@@ -171,14 +178,42 @@
       "published_at": "2026-11-02T03:45:01Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 6,
-        "report_count": 6,
-        "span_hours": 1.8,
+        "source_groups": 8,
+        "report_count": 11,
+        "span_hours": 5.1,
         "first_report_at": "2026-11-02T02:35:07Z",
-        "last_report_at": "2026-11-02T04:22:00Z",
+        "last_report_at": "2026-11-02T07:39:45Z",
         "first_report_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMT1JTOWpoZGZManpBOHJGUENPWEdteEszRm83ZDZLM3hVOGw5YW1mZVpRNDFhaFV6Y3c3ZXl2S1BMVU83c0pFdVRSYW54cjVzY0tzNllEd1hYTTBGRkFrVi1OS3dvR3NhZEtIZHBGaHFEZzdOSmZkcGNtb1hvdw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zWEUxMmN4Nnd5ZjM1MHFOZVNPb3JSQjRzREVRQ2NQdEh2TzNHeDBnYVdpYkg5clJKaWZsT2FGOU4xb3JSNnBnWXRiTmtmNnJfZ3Y3SS1FdFAyVG5BMFJPMm9QZ1ZBZ2hmb2fSAW9BVV95cUxNTzZ5QnpfdHdrNHJVNjhLLUFFUUd5Z0dVMVlnS1VjRUw4QWdGb1l0SWM3bVZ1V3RYcDNtU1FsVVZRY21wOEdBZFQxTmNIZGhDdHMxTVRKa1BhNHRaZlVCdEdqaHpmMXNpdVdYbUdidUE?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKX0pUeHhJTU9scTV3UG9FWjRSRXRZYktIQ19ac3duVGFFOTdsV2p2SDB5cmI3MmFWdDlVdjhrempQT3dKZGliUExpQ3h1Q3pJT3d5bW9xQUpSeTBUTjhxczh1eVVabjZiaklDMmttQ3c?oc=5",
         "sources": [
+          {
+            "name": "SPOTV NEWS",
+            "group": "spotvnews.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKX0pUeHhJTU9scTV3UG9FWjRSRXRZYktIQ19ac3duVGFFOTdsV2p2SDB5cmI3MmFWdDlVdjhrempQT3dKZGliUExpQ3h1Q3pJT3d5bW9xQUpSeTBUTjhxczh1eVVabjZiaklDMmttQ3c?oc=5",
+            "published_at": "2026-11-02T07:39:45Z",
+            "headline": "'손흥민 탄식 늘어난다' MLS 경기에서 또 침묵...LAFC, 미네소타에 충격의 1-3 패배→플레이오프 앞두고 비상"
+          },
+          {
+            "name": "스포츠동아",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tdW9PM2JTRXRTd1NmNkN2akZTTzkydHdfcnY2OG03NGNLQVdaQnluUGJQZzRoVG80V3J5bzJyTW5FQnJEbDA1VjhlNFJjaWVJSUlBdUpQZVowRFhVZ3JpdjZrNjM4ZEpaejYxcDNzRUlEdw?oc=5",
+            "published_at": "2026-11-02T05:03:20Z",
+            "headline": "‘손흥민 풀타임 침묵’ LAFC, 미네소타에 1-3 완패 ‘상위권 도약 실패’"
+          },
+          {
+            "name": "뉴시스",
+            "group": "wire:뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRb2pKeEZTVEgzRHVUNFhtVzlFN2FuSm9nLVMzYWRpemdfTDA1Z1ZOemtZdGQwZ1NNRkRsZ0taRGxIYVlZM2tIRXFQRzk5eTRjdXVOd010ams1MXpfT1JQWdIBeEFVX3lxTE5hLVluSmxTRXZFQVNyS3pBTHo4azktdlpuNFZXRjhzZ014SnJleUJybDhQYURUbjNjVWhQVGpULURQa1hUUXdsb3ZBRjZ0SDFDN1NqUlYxdDFWelZLOGhjT3Q2R09wbEY4Qjh3ZC1zQ2hqa3lkV0VRdQ?oc=5",
+            "published_at": "2026-11-02T04:58:58Z",
+            "headline": "손흥민 도움 15개로 정정…LAFC, 미네소타에 1-3 완패(종합)"
+          },
+          {
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDVINGNiZEU4UnVFRDVSX1c4aHRMUndTbzRDV0d1NUduTlRsWlptTEMwbXd0VnBsVEdOQkJLa1ZHYjU0ekE2aWVKUWR0ajV4Rzc5LTg2NU0xQlduY1pfX180QWprZEg0MFBIekhzZXJkRnNGdlkwSE14azFKM0pKUkFjUUFET3lyQVY0?oc=5",
+            "published_at": "2026-11-02T04:29:18Z",
+            "headline": "손흥민, 기회 못 살렸다... LAFC, 미네소타에 완패"
+          },
           {
             "name": "머니투데이",
             "group": "mt.co.kr",
@@ -206,108 +241,134 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05OWEyeHhWRkNac3FGVFpNTXp0NUZ1MUxCcGVnSHYwcURMcTVZTUZWRTVSYXFUMmtvRTNSQVBVOVAtNFNCTTFkZ2pHZUlHUHpQalZRX3lwcVYySGlzc1lpcQ?oc=5",
             "published_at": "2026-11-02T03:45:01Z",
             "headline": "'손흥민 3경기 연속 침묵' LA FC, 미네소타에 1-3 완패…4위 무산"
-          },
-          {
-            "name": "스타뉴스",
-            "group": "starnewskorea.com",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WcXRJbEU4WXNoMjhjZ1lNMWJvN1B5bkx1akx6YjNveDFwNko4dHJaNkR6WDdmRFR0MUxobS1BWGJvS1UyYUNxMUFtMU1Td2EtRVRiQ2U5a2wwMzNzbGhYRllTZ3h6WXA0bFJfblMxYmZTRmRqTGc?oc=5",
-            "published_at": "2026-11-02T03:42:16Z",
-            "headline": "'손흥민 결국 침묵' 상대 밀집수비에, GK 슈퍼세이브... LAFC, 하위권 미네소타에 1-3 충격패"
-          },
-          {
-            "name": "스포츠조선",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMT1JTOWpoZGZManpBOHJGUENPWEdteEszRm83ZDZLM3hVOGw5YW1mZVpRNDFhaFV6Y3c3ZXl2S1BMVU83c0pFdVRSYW54cjVzY0tzNllEd1hYTTBGRkFrVi1OS3dvR3NhZEtIZHBGaHFEZzdOSmZkcGNtb1hvdw?oc=5",
-            "published_at": "2026-11-02T02:35:07Z",
-            "headline": "걸어다니는 손흥민, '10번' 위치서 영향력 제로…'노답 경기력' LA FC, 하위권 미네소타에 전반 0-2 리드 허용 '충격'(전반 종료)"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "7a0f5055919809f311d0",
+      "id": "b6bb3eca933ca383c4f6",
       "category": "스포츠",
-      "title": "도둑 맞은 '8호골' 되찾는다! 손흥민, 미네소타전 선발 출격...공격형 미드필더로 '구단 최다 AS 도전'",
-      "summary": "도둑 맞은 '8호골' 되찾는다! 손흥민, 미네소타전 선발 출격...공격형 미드필더로 '구단 최다 AS 도전'",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘도둑 맞은 '8호골' 되찾는다! 손흥민, 미네소타전 선발 출격...공격형 미드필더로 '구단 최다 AS 도전'’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "title": "한 경기 86점씩 올리는 뜨거운 프로농구…작년보다 10.3점 증가",
+      "summary": "한 경기 86점씩 올리는 뜨거운 프로농구…작년보다 10.3점 증가",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘한 경기 86점씩 올리는 뜨거운 프로농구…작년보다 10.3점 증가’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "마이데일리",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92V0NZSmJGb0sxYkNSczdwM1BGVUpMQ2RrTTJISm1fNy05dDNDU1FWbFdaQ1hFbUtYMGJyejUzMVk5WUtLcGtqM0I5Njhub2dXZEk2cTdZdGpyUnE4eHZwaQ?oc=5",
-      "published_at": "2026-11-02T00:48:22Z",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRmxkaXFTY2RYTEhwWXp4X3B4NGNDZkM2OXJDWFRlem0xSzk5bUFBRHV5NWdLZFhQdWQ3d3J1UWRDbi0yck91R3AtOTdkOUtEYlh4SkNieFBhZ1HSAWBBVV95cUxPbjk0UkVYNFRvSDdZVldwN1B5NFFyU19VVVVIY3Z0MnBrUjUtNlVhTjB3MDVnTVpWZlppTDY5clZ5OGp6cGR5Z1JBUXpVZFg3aldVWVFVVWNGV1NYTEdEd18?oc=5",
+      "published_at": "2026-11-02T08:03:15Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 3,
         "report_count": 3,
-        "span_hours": 0.5,
-        "first_report_at": "2026-11-02T00:44:04Z",
-        "last_report_at": "2026-11-02T01:16:10Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2bWpfTk5yVWhXbkxLNFRfX1k1ajUtbjlpZXQ0VVFNNDdJZUpZR0FjMkg3RXVVa0g1RmdaNHRVU0N3UmZKWkpnR2xTUjdETXhxbThhTmpVd0g4RHNYWTZwM20teGVWQUFSbGJpNnU3NUw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1QUJBTlEwSXFoNEhaT052RFNVWXNCNXdJak1IaGdCVmk0VHhvV2xnWjE0b0FabzMycWs2Qm9DTnlsUjdnVWtGZzFLMzdIWDN6QzdPNXJGOVhWSVpqWFVjS9IBeEFVX3lxTE9ETXlRZDNEVXNtbHRacEZnWm5aZnJkaVZLTUprMjItNGhWdUhSY2k5Z29idlVUQktteWJWa3dyV0FDTDVicFlNaG52dnpFNnhoWjk4akV4cWU3cHRGOE1JOWxRUFhNdU1ad3dXdGlJendkdU44YnpRdQ?oc=5",
+        "span_hours": 1.3,
+        "first_report_at": "2026-11-02T08:03:15Z",
+        "last_report_at": "2026-11-02T09:19:55Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRmxkaXFTY2RYTEhwWXp4X3B4NGNDZkM2OXJDWFRlem0xSzk5bUFBRHV5NWdLZFhQdWQ3d3J1UWRDbi0yck91R3AtOTdkOUtEYlh4SkNieFBhZ1HSAWBBVV95cUxPbjk0UkVYNFRvSDdZVldwN1B5NFFyU19VVVVIY3Z0MnBrUjUtNlVhTjB3MDVnTVpWZlppTDY5clZ5OGp6cGR5Z1JBUXpVZFg3aldVWVFVVWNGV1NYTEdEd18?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rRGJzejRRZkF4SWdJeHlqdXlNQk13NGF5ajh5OERlMndsbWFiMTBYT09kaHN3cWY3WGE1bzhKbks5WkEtYzlSaVRHRGZGRGoyQmxTc2ozOEdLd0VIYnFCVtIBeEFVX3lxTE81QTgxRDY2V2kwVjNhMjFtQ1JKYkZ0eXlHcHoxT3NVVU1LSmRsZEpSNzFjWXhNUVBuRmgtTFY1UjBVOGxCWXFQcXpCQVlCMEZyRWpvWjVVUzJJWnJLUmxvN1dnaUt0X0NZNGlmaGk5SXB5TVRvby1uWA?oc=5",
         "sources": [
           {
             "name": "뉴시스",
             "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1QUJBTlEwSXFoNEhaT052RFNVWXNCNXdJak1IaGdCVmk0VHhvV2xnWjE0b0FabzMycWs2Qm9DTnlsUjdnVWtGZzFLMzdIWDN6QzdPNXJGOVhWSVpqWFVjS9IBeEFVX3lxTE9ETXlRZDNEVXNtbHRacEZnWm5aZnJkaVZLTUprMjItNGhWdUhSY2k5Z29idlVUQktteWJWa3dyV0FDTDVicFlNaG52dnpFNnhoWjk4akV4cWU3cHRGOE1JOWxRUFhNdU1ad3dXdGlJendkdU44YnpRdQ?oc=5",
-            "published_at": "2026-11-02T01:16:10Z",
-            "headline": "LAFC 손흥민, 미네소타전 선발 출격…구단 최다 도움 도전"
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rRGJzejRRZkF4SWdJeHlqdXlNQk13NGF5ajh5OERlMndsbWFiMTBYT09kaHN3cWY3WGE1bzhKbks5WkEtYzlSaVRHRGZGRGoyQmxTc2ozOEdLd0VIYnFCVtIBeEFVX3lxTE81QTgxRDY2V2kwVjNhMjFtQ1JKYkZ0eXlHcHoxT3NVVU1LSmRsZEpSNzFjWXhNUVBuRmgtTFY1UjBVOGxCWXFQcXpCQVlCMEZyRWpvWjVVUzJJWnJLUmxvN1dnaUt0X0NZNGlmaGk5SXB5TVRvby1uWA?oc=5",
+            "published_at": "2026-11-02T09:19:55Z",
+            "headline": "1R 팀 평균 86점…치열해진 프로농구, 지난 시즌 대비 10.3점 증가"
           },
           {
-            "name": "마이데일리",
-            "group": "mydaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92V0NZSmJGb0sxYkNSczdwM1BGVUpMQ2RrTTJISm1fNy05dDNDU1FWbFdaQ1hFbUtYMGJyejUzMVk5WUtLcGtqM0I5Njhub2dXZEk2cTdZdGpyUnE4eHZwaQ?oc=5",
-            "published_at": "2026-11-02T00:48:22Z",
-            "headline": "도둑 맞은 '8호골' 되찾는다! 손흥민, 미네소타전 선발 출격...공격형 미드필더로 '구단 최다 AS 도전'"
+            "name": "news.sbs.co.kr",
+            "group": "sbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVmdPM1VZVFVmTThEYW1rQU1aWTdIdVkyd29ycWpYeUdCRDZPU01BSF9ycTVzOFlmSlgtTDMwWWZPWWkyb1M2Y1lGRFptY2dtWFRKc2Nsb2hGVDJ3TnpMcnlvVjdlVWVfWGp3enpyZVJBTk1vblVPNWRYZURVWWVoUGdnNmRrZHU3QmhYaldNMA?oc=5",
+            "published_at": "2026-11-02T08:28:35Z",
+            "headline": "한 경기 86점씩 올리는 뜨거운 프로농구…작년보다 팀 평균 득점 10.3점 증가"
           },
           {
-            "name": "SPOTV NEWS",
-            "group": "spotvnews.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2bWpfTk5yVWhXbkxLNFRfX1k1ajUtbjlpZXQ0VVFNNDdJZUpZR0FjMkg3RXVVa0g1RmdaNHRVU0N3UmZKWkpnR2xTUjdETXhxbThhTmpVd0g4RHNYWTZwM20teGVWQUFSbGJpNnU3NUw?oc=5",
-            "published_at": "2026-11-02T00:44:04Z",
-            "headline": "'1도움만 더하면 구단 역사 새로 쓴다!' 손흥민, 미네소타전서 대기록 도전…LAFC는 5위 도약 정조준"
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRmxkaXFTY2RYTEhwWXp4X3B4NGNDZkM2OXJDWFRlem0xSzk5bUFBRHV5NWdLZFhQdWQ3d3J1UWRDbi0yck91R3AtOTdkOUtEYlh4SkNieFBhZ1HSAWBBVV95cUxPbjk0UkVYNFRvSDdZVldwN1B5NFFyU19VVVVIY3Z0MnBrUjUtNlVhTjB3MDVnTVpWZlppTDY5clZ5OGp6cGR5Z1JBUXpVZFg3aldVWVFVVWNGV1NYTEdEd18?oc=5",
+            "published_at": "2026-11-02T08:03:15Z",
+            "headline": "한 경기 86점씩 올리는 뜨거운 프로농구…작년보다 10.3점 증가"
           }
         ]
       },
       "selection_rank": 2
     },
     {
-      "id": "f75ffcae082afdcaa7fb",
+      "id": "55c18845411f2893a097",
       "category": "기술·과학",
-      "title": "행안부, 공무원 업무망에 AI 웹검색 도입…12월 한글 보고서 작성 지원",
-      "summary": "행안부, 공무원 업무망에 AI 웹검색 도입…12월 한글 보고서 작성 지원",
-      "why_now": "이전 수집(11.01 19:40 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘행안부, 공무원 업무망에 AI 웹검색 도입…12월 한글 보고서 작성 지원’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "title": "삼성전자, 아프리카 진출 31년 만에 스마트폰 시장 첫 1위",
+      "summary": "삼성전자, 아프리카 진출 31년 만에 스마트폰 시장 첫 1위",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘삼성전자, 아프리카 진출 31년 만에 스마트폰 시장 첫 1위’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-      "source": "지디넷코리아",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82VUVJWGowOXdaTnU0NHU3MjVTbW5zMV9oSWhWWGQ5NVBlMWIzSG9yN1NxcURHQkd2YVhFOWM0T1R5WVdtUU83NW11M3RDbW1OZ1JNa3dR?oc=5",
-      "published_at": "2026-11-01T04:05:29Z",
+      "source": "동아일보",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94MlR3M21FVDU4bFhBWWJlYjFBalpQRWFNcFp3T3l4TlRlMV9rek5taFVKS214MXZvRm9nTXhDall6SkhiYldPVkM4ek9SUkY4dnI0RWlIbjNIMDdBRV9PSklDT2FxQdIBZkFVX3lxTE94MlR3M21FVDU4bFhBWWJlYjFBalpQRWFNcFp3T3l4TlRlMV9rek5taFVKS214MXZvRm9nTXhDall6SkhiYldPVkM4ek9SUkY4dnI0RWlIbjNIMDdBRV9PSklDT2FxQQ?oc=5",
+      "published_at": "2026-11-02T06:41:48Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 2,
         "report_count": 2,
-        "span_hours": 1.1,
-        "first_report_at": "2026-11-01T03:00:06Z",
-        "last_report_at": "2026-11-01T04:05:29Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85TU9fRkV6Wkl3aXFzb29VdnVhZzl6MWg2MHpXLWYwdGxiUFU4MmFmUzVaUWpvcXlrQWVmei1IaGY2MEZtcG8xdnhXMXJiNzI3VEZhTExPVnJiSkHSAWBBVV95cUxQR2g3TS1FNUU3V0FUOGJTOFc5Y2hHVlJEajBmVFNVcHNfRUktSFlMem82ZWpZSjFmRU00LWF6ZHVvTG9oblpzbDM2WnVGSjFEdzdIb2gwS3FwcjRmbjlHWEY?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82VUVJWGowOXdaTnU0NHU3MjVTbW5zMV9oSWhWWGQ5NVBlMWIzSG9yN1NxcURHQkd2YVhFOWM0T1R5WVdtUU83NW11M3RDbW1OZ1JNa3dR?oc=5",
+        "span_hours": 6.5,
+        "first_report_at": "2026-11-02T00:11:33Z",
+        "last_report_at": "2026-11-02T06:41:48Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96b19ZODVUOTU2QnlDSUdMVEtQLXJEbGowZHVXM2FGcDRyVEpBbFJ1U3JKcE5MaGhfT1VFTzRXSFJWTG5VZUNzeFZlTzhBRW5KMDg0LWpsZzhHQQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94MlR3M21FVDU4bFhBWWJlYjFBalpQRWFNcFp3T3l4TlRlMV9rek5taFVKS214MXZvRm9nTXhDall6SkhiYldPVkM4ek9SUkY4dnI0RWlIbjNIMDdBRV9PSklDT2FxQdIBZkFVX3lxTE94MlR3M21FVDU4bFhBWWJlYjFBalpQRWFNcFp3T3l4TlRlMV9rek5taFVKS214MXZvRm9nTXhDall6SkhiYldPVkM4ek9SUkY4dnI0RWlIbjNIMDdBRV9PSklDT2FxQQ?oc=5",
         "sources": [
           {
-            "name": "지디넷코리아",
-            "group": "zdnet.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82VUVJWGowOXdaTnU0NHU3MjVTbW5zMV9oSWhWWGQ5NVBlMWIzSG9yN1NxcURHQkd2YVhFOWM0T1R5WVdtUU83NW11M3RDbW1OZ1JNa3dR?oc=5",
-            "published_at": "2026-11-01T04:05:29Z"
+            "name": "동아일보",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE94MlR3M21FVDU4bFhBWWJlYjFBalpQRWFNcFp3T3l4TlRlMV9rek5taFVKS214MXZvRm9nTXhDall6SkhiYldPVkM4ek9SUkY4dnI0RWlIbjNIMDdBRV9PSklDT2FxQdIBZkFVX3lxTE94MlR3M21FVDU4bFhBWWJlYjFBalpQRWFNcFp3T3l4TlRlMV9rek5taFVKS214MXZvRm9nTXhDall6SkhiYldPVkM4ek9SUkY4dnI0RWlIbjNIMDdBRV9PSklDT2FxQQ?oc=5",
+            "published_at": "2026-11-02T06:41:48Z",
+            "headline": "삼성전자, 아프리카 진출 31년 만에 스마트폰 시장 첫 1위"
           },
           {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85TU9fRkV6Wkl3aXFzb29VdnVhZzl6MWg2MHpXLWYwdGxiUFU4MmFmUzVaUWpvcXlrQWVmei1IaGY2MEZtcG8xdnhXMXJiNzI3VEZhTExPVnJiSkHSAWBBVV95cUxQR2g3TS1FNUU3V0FUOGJTOFc5Y2hHVlJEajBmVFNVcHNfRUktSFlMem82ZWpZSjFmRU00LWF6ZHVvTG9oblpzbDM2WnVGSjFEdzdIb2gwS3FwcjRmbjlHWEY?oc=5",
-            "published_at": "2026-11-01T03:00:06Z"
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96b19ZODVUOTU2QnlDSUdMVEtQLXJEbGowZHVXM2FGcDRyVEpBbFJ1U3JKcE5MaGhfT1VFTzRXSFJWTG5VZUNzeFZlTzhBRW5KMDg0LWpsZzhHQQ?oc=5",
+            "published_at": "2026-11-02T00:11:33Z",
+            "headline": "삼성전자, 아프리카 진출 31년 만에 스마트폰 1위…'현지 맞춤 전략' 통했다"
           }
         ]
       },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-01T10:40:44.808655Z"
+      "selection_rank": 1
+    },
+    {
+      "id": "aa32ab82b2cb77384ff2",
+      "category": "기술·과학",
+      "title": "크래프톤, 사회적 지능 갖춘 로봇 AI '루디 0.2' 공개",
+      "summary": "크래프톤, 사회적 지능 갖춘 로봇 AI '루디 0.2' 공개",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘크래프톤, 사회적 지능 갖춘 로봇 AI '루디 0.2' 공개’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+      "source": "아시아경제",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lazYxNlJYZlVIOEJ4UEFiOWlUUHpfWW1meWJ6amtPejZhSHlnTllhS25zSkFGMHdJcGFuX2pTTllLZldudjRzcllRRkJzay1jOHd3YWc4UUgyWGdadjJsRA?oc=5",
+      "published_at": "2026-11-02T09:11:22Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 0.2,
+        "first_report_at": "2026-11-02T09:00:03Z",
+        "last_report_at": "2026-11-02T09:11:22Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45LU0xam1oemdybW9Eb1YtSFJtUWJ1aDRMb0tiY3c1R0tVQU9EdG9XMm5kX0xjeW5zdzVtMC1sZWIxMHRPak5zTmh5cUtMVzBRTG9zSDBn?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lazYxNlJYZlVIOEJ4UEFiOWlUUHpfWW1meWJ6amtPejZhSHlnTllhS25zSkFGMHdJcGFuX2pTTllLZldudjRzcllRRkJzay1jOHd3YWc4UUgyWGdadjJsRA?oc=5",
+        "sources": [
+          {
+            "name": "아시아경제",
+            "group": "asiae.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lazYxNlJYZlVIOEJ4UEFiOWlUUHpfWW1meWJ6amtPejZhSHlnTllhS25zSkFGMHdJcGFuX2pTTllLZldudjRzcllRRkJzay1jOHd3YWc4UUgyWGdadjJsRA?oc=5",
+            "published_at": "2026-11-02T09:11:22Z",
+            "headline": "크래프톤, 사회적 지능 갖춘 로봇 AI '루디 0.2' 공개"
+          },
+          {
+            "name": "지디넷코리아",
+            "group": "zdnet.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45LU0xam1oemdybW9Eb1YtSFJtUWJ1aDRMb0tiY3c1R0tVQU9EdG9XMm5kX0xjeW5zdzVtMC1sZWIxMHRPak5zTmh5cUtMVzBRTG9zSDBn?oc=5",
+            "published_at": "2026-11-02T09:00:03Z",
+            "headline": "크래프톤 산하 루도 로보틱스, 로봇용 AI 시스템 '루디 0.2' 공개"
+          }
+        ]
+      },
+      "selection_rank": 2
     },
     {
       "id": "9aad586804d3d493f85d",
@@ -422,71 +483,32 @@
       "last_collected_at": "2026-11-01T21:59:20.810500Z"
     },
     {
-      "id": "087d434711c40eb8c788",
-      "category": "경제·주식",
-      "title": "[마켓 프리뷰] 美빅테크 실적 부진에 코스피 '덜컹'…뉴욕증시 '폭삭'",
-      "summary": "[마켓 프리뷰] 美빅테크 실적 부진에 코스피 '덜컹'…뉴욕증시 '폭삭'",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 58시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘[마켓 프리뷰] 美빅테크 실적 부진에 코스피 '덜컹'…뉴욕증시 '폭삭'’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
-      "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-      "source": "SBS Biz",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tbkFDcDJQMTFjY2VPTDFEdDB5ZjhRUjVvaV9QRGl2R0VMeURvSnVVM1ZSM25PZVZDSlBXcWNiNUVRVHZSVm0yN3ZnOGdwR0d2cGotZW5SR2LSAVhBVV95cUxObW5BQ3AyUDExY2NlT0wxRHQweWY4UVI1b2lfUERpdkdFTHlEb0p1VTNWUjNuT2VWQ0pQV3FjYjVFUVR2UlZtMjd2ZzhncEdHdnBqLWVuUkdi?oc=5",
-      "published_at": "2026-11-01T22:03:00Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 58.0,
-        "first_report_at": "2026-10-30T12:05:30Z",
-        "last_report_at": "2026-11-01T22:03:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVtIBYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVg?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tbkFDcDJQMTFjY2VPTDFEdDB5ZjhRUjVvaV9QRGl2R0VMeURvSnVVM1ZSM25PZVZDSlBXcWNiNUVRVHZSVm0yN3ZnOGdwR0d2cGotZW5SR2LSAVhBVV95cUxObW5BQ3AyUDExY2NlT0wxRHQweWY4UVI1b2lfUERpdkdFTHlEb0p1VTNWUjNuT2VWQ0pQV3FjYjVFUVR2UlZtMjd2ZzhncEdHdnBqLWVuUkdi?oc=5",
-        "sources": [
-          {
-            "name": "SBS Biz",
-            "group": "sbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tbkFDcDJQMTFjY2VPTDFEdDB5ZjhRUjVvaV9QRGl2R0VMeURvSnVVM1ZSM25PZVZDSlBXcWNiNUVRVHZSVm0yN3ZnOGdwR0d2cGotZW5SR2LSAVhBVV95cUxObW5BQ3AyUDExY2NlT0wxRHQweWY4UVI1b2lfUERpdkdFTHlEb0p1VTNWUjNuT2VWQ0pQV3FjYjVFUVR2UlZtMjd2ZzhncEdHdnBqLWVuUkdi?oc=5",
-            "published_at": "2026-11-01T22:03:00Z",
-            "headline": "[마켓 프리뷰] 美빅테크 실적 부진에 코스피 '덜컹'…뉴욕증시 '폭삭'"
-          },
-          {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVtIBYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVg?oc=5",
-            "published_at": "2026-10-30T12:05:30Z",
-            "headline": "美 빅테크 실적 쇼크에…코스피 3%대 급락"
-          }
-        ]
-      },
-      "selection_rank": 1
-    },
-    {
       "id": "a81649472a523bb075d4",
       "category": "경제·주식",
-      "title": "중간선거·애플 실적·고용지표…AI주 방향타는 팔란티어·AMD[이번주 美 증시는] - 머니투데이",
-      "summary": "중간선거·애플 실적·고용지표…AI주 방향타는 팔란티어·AMD[이번주 美 증시는] - 머니투데이",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 12시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘중간선거·애플 실적·고용지표…AI주 방향타는 팔란티어·AMD[이번주 美 증시는] - 머니투데이’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+      "title": "[뉴스프레소] 뉴욕증시, 인텔 급락발 '삭풍'… 중간선거·고용지표 주시 - 머니투데이",
+      "summary": "[뉴스프레소] 뉴욕증시, 인텔 급락발 '삭풍'… 중간선거·고용지표 주시 - 머니투데이",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 22시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘[뉴스프레소] 뉴욕증시, 인텔 급락발 '삭풍'… 중간선거·고용지표 주시 - 머니투데이’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
       "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
       "source": "머니투데이",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XNmVPcmRJaVZIYThZazlhQk5qWkdtN1doZERqbENIejV5SGdUeHBLbVZDbTFCR0VDQkQxbG1remU5bHJnLVZOaG9HcXB6eExwMDJiQ1FfSFJDaUczWlFyNUx3UDhhQW5s0gFuQVVfeXFMT2hVUnA1YTJ6NFFuQnZsRk5ZLVJBcXVuVnkxYy1jdVphcUhIWkhoMzVwT2JRN2FDSVdZeEJydUxRaXY2V1YzdDRXVlpnUU1WRkZTMExqeGM1X3pkX3pRYVZ4QzdyU1VrWmozc21OcEE?oc=5",
-      "published_at": "2026-11-01T20:35:00Z",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSXVDZURYUmxCNXc5SnVkckl5aG40b3FTWlZwVFY1RDRFa2xKUmxiMWRMUmFibEtqUXpDNzBYRVgxTnhVZVFOSkFSalk0ckp3eFhiU0hySW5pc2VOaWU1YmhlaGxrM2gxMnJJZ3lB0gFuQVVfeXFMUE9JdUNlRFhSbEI1dzlKdWRySXlobjRvcVNaVnBUVjVENEVrbEpSbGIxZExSYWJsS2pRekM3MFhFWDFOeFVlUU5KQVJqWTRySnd4WGJTSHJJbmlzZU5pZTViaGVobGszaDEycklneUE?oc=5",
+      "published_at": "2026-11-02T06:07:20Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 12.7,
+        "report_count": 3,
+        "span_hours": 22.2,
         "first_report_at": "2026-11-01T07:54:11Z",
-        "last_report_at": "2026-11-01T20:35:00Z",
+        "last_report_at": "2026-11-02T06:07:20Z",
         "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03bkdlVS1lOVJ6aGMteDNiaXlXOUd3b3VEVm05Z2NXcFV1Mkxsb3hXbXlkdGZCUVF6cmZVT2NGM0V5LWZLUnR5bmxsb3hMM2txTk5mdEwtRjM0Zw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XNmVPcmRJaVZIYThZazlhQk5qWkdtN1doZERqbENIejV5SGdUeHBLbVZDbTFCR0VDQkQxbG1remU5bHJnLVZOaG9HcXB6eExwMDJiQ1FfSFJDaUczWlFyNUx3UDhhQW5s0gFuQVVfeXFMT2hVUnA1YTJ6NFFuQnZsRk5ZLVJBcXVuVnkxYy1jdVphcUhIWkhoMzVwT2JRN2FDSVdZeEJydUxRaXY2V1YzdDRXVlpnUU1WRkZTMExqeGM1X3pkX3pRYVZ4QzdyU1VrWmozc21OcEE?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSXVDZURYUmxCNXc5SnVkckl5aG40b3FTWlZwVFY1RDRFa2xKUmxiMWRMUmFibEtqUXpDNzBYRVgxTnhVZVFOSkFSalk0ckp3eFhiU0hySW5pc2VOaWU1YmhlaGxrM2gxMnJJZ3lB0gFuQVVfeXFMUE9JdUNlRFhSbEI1dzlKdWRySXlobjRvcVNaVnBUVjVENEVrbEpSbGIxZExSYWJsS2pRekM3MFhFWDFOeFVlUU5KQVJqWTRySnd4WGJTSHJJbmlzZU5pZTViaGVobGszaDEycklneUE?oc=5",
         "sources": [
           {
             "name": "머니투데이",
             "group": "mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XNmVPcmRJaVZIYThZazlhQk5qWkdtN1doZERqbENIejV5SGdUeHBLbVZDbTFCR0VDQkQxbG1remU5bHJnLVZOaG9HcXB6eExwMDJiQ1FfSFJDaUczWlFyNUx3UDhhQW5s0gFuQVVfeXFMT2hVUnA1YTJ6NFFuQnZsRk5ZLVJBcXVuVnkxYy1jdVphcUhIWkhoMzVwT2JRN2FDSVdZeEJydUxRaXY2V1YzdDRXVlpnUU1WRkZTMExqeGM1X3pkX3pRYVZ4QzdyU1VrWmozc21OcEE?oc=5",
-            "published_at": "2026-11-01T20:35:00Z",
-            "headline": "중간선거·애플 실적·고용지표…AI주 방향타는 팔란티어·AMD[이번주 美 증시는] - 머니투데이"
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSXVDZURYUmxCNXc5SnVkckl5aG40b3FTWlZwVFY1RDRFa2xKUmxiMWRMUmFibEtqUXpDNzBYRVgxTnhVZVFOSkFSalk0ckp3eFhiU0hySW5pc2VOaWU1YmhlaGxrM2gxMnJJZ3lB0gFuQVVfeXFMUE9JdUNlRFhSbEI1dzlKdWRySXlobjRvcVNaVnBUVjVENEVrbEpSbGIxZExSYWJsS2pRekM3MFhFWDFOeFVlUU5KQVJqWTRySnd4WGJTSHJJbmlzZU5pZTViaGVobGszaDEycklneUE?oc=5",
+            "published_at": "2026-11-02T06:07:20Z",
+            "headline": "[뉴스프레소] 뉴욕증시, 인텔 급락발 '삭풍'… 중간선거·고용지표 주시 - 머니투데이"
           },
           {
             "name": "파이낸셜뉴스",
@@ -494,6 +516,45 @@
             "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03bkdlVS1lOVJ6aGMteDNiaXlXOUd3b3VEVm05Z2NXcFV1Mkxsb3hXbXlkdGZCUVF6cmZVT2NGM0V5LWZLUnR5bmxsb3hMM2txTk5mdEwtRjM0Zw?oc=5",
             "published_at": "2026-11-01T07:54:11Z",
             "headline": "美 중간선거·고용지표에 쏠린 눈…\"실적보다는 매크로 주목\" [주간 증시 전망]"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "62f2de783db6537ecfba",
+      "category": "경제·주식",
+      "title": "[증시전략] 인텔 폭락 속 애플·AMD 실적 발표…美 중간선거 주시",
+      "summary": "[증시전략] 인텔 폭락 속 애플·AMD 실적 발표…美 중간선거 주시",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 12시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘[증시전략] 인텔 폭락 속 애플·AMD 실적 발표…美 중간선거 주시’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+      "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+      "source": "SBS Biz",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1feEVyaFdPUXM0X05vZXhLS0dVWktFbU9HTktoWWlQSkQzdWpCSkU2TWI1ak9lUzdGV1BiLTJzV09ubjRhVjNvS2dzOFM1VnlSQldpY2prdGzSAVhBVV95cUxNX3hFcmhXT1FzNF9Ob2V4S0tHVVpLRW1PR05LaFlpUEpEM3VqQkpFNk1iNWpPZVM3RldQYi0yc1dPbm40YVYzb0tnczhTNVZ5UkJXaWNqa3Rs?oc=5",
+      "published_at": "2026-11-01T21:02:00Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 12.1,
+        "first_report_at": "2026-11-01T08:57:29Z",
+        "last_report_at": "2026-11-01T21:02:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mYXRlemctc2N0ZXpfcEdyUVk1bkdFb01QblpMaGdoMlZiUnFKVGVJMTBfU1J6U2JCbzlvTnYxdE1tRkYwYXRDVk5kbS1Jam1ubFdjY29iUzBHdw?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1feEVyaFdPUXM0X05vZXhLS0dVWktFbU9HTktoWWlQSkQzdWpCSkU2TWI1ak9lUzdGV1BiLTJzV09ubjRhVjNvS2dzOFM1VnlSQldpY2prdGzSAVhBVV95cUxNX3hFcmhXT1FzNF9Ob2V4S0tHVVpLRW1PR05LaFlpUEpEM3VqQkpFNk1iNWpPZVM3RldQYi0yc1dPbm40YVYzb0tnczhTNVZ5UkJXaWNqa3Rs?oc=5",
+        "sources": [
+          {
+            "name": "SBS Biz",
+            "group": "sbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1feEVyaFdPUXM0X05vZXhLS0dVWktFbU9HTktoWWlQSkQzdWpCSkU2TWI1ak9lUzdGV1BiLTJzV09ubjRhVjNvS2dzOFM1VnlSQldpY2prdGzSAVhBVV95cUxNX3hFcmhXT1FzNF9Ob2V4S0tHVVpLRW1PR05LaFlpUEpEM3VqQkpFNk1iNWpPZVM3RldQYi0yc1dPbm40YVYzb0tnczhTNVZ5UkJXaWNqa3Rs?oc=5",
+            "published_at": "2026-11-01T21:02:00Z",
+            "headline": "[증시전략] 인텔 폭락 속 애플·AMD 실적 발표…美 중간선거 주시"
+          },
+          {
+            "name": "한국경제",
+            "group": "hankyung.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mYXRlemctc2N0ZXpfcEdyUVk1bkdFb01QblpMaGdoMlZiUnFKVGVJMTBfU1J6U2JCbzlvTnYxdE1tRkYwYXRDVk5kbS1Jam1ubFdjY29iUzBHdw?oc=5",
+            "published_at": "2026-11-01T08:57:29Z",
+            "headline": "뉴욕·상하이 증시, 애플·팰런티어·AMD 실적 주목"
           }
         ]
       },
