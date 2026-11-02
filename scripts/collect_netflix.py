@@ -2,6 +2,7 @@
 Ranks are Netflix's country chart; no inferred Korean view counts or buzz scores.
 """
 import csv
+from http.client import IncompleteRead
 import io
 import re
 import json
@@ -17,7 +18,12 @@ CHART = 'https://www.netflix.com/tudum/top10/south-korea'
 
 def fetch(url, limit=100_000_000):
     with urlopen(Request(url, headers={'User-Agent': 'Malmun/4.0 (public Netflix Top 10 data)'}), timeout=60) as response:
-        data = response.read(limit + 1)
+        try:
+            data = response.read(limit + 1)
+        except IncompleteRead as error:
+            if url == SOURCE or b'</html>' not in error.partial[-2000:]:
+                raise
+            data = error.partial
     if len(data) > limit:
         raise ValueError('Source exceeds size limit')
     return data.decode('utf-8-sig')
@@ -58,11 +64,11 @@ def build(text, now=None):
                 total = int(r['cumulative_weeks_in_top_10'])
                 if total < 1:
                     raise ValueError('Invalid weeks in Top 10')
-                items.append({'id': category + ':' + '|'.join(key), 'title': key[0], 'season': key[1] or None,
+                items.append({'id': category + ':' + '|'.join(key), 'title': key[0], 'season': None if key[1] in ('', 'N/A') else key[1],
                               'rank': int(r['weekly_rank']), 'previous_rank': old.get(key), 'weeks_in_top10': total})
             charts[category] = items
         if len(charts) == 2:
-            weeks.append({'week': end, 'charts': charts})
+            weeks.append({'week': end, 'previous_available': all(sum(1 for r in rows if r['week'] == (date.fromisoformat(end) - timedelta(days=7)).isoformat() and r['category'] == c) == 10 for c in ('TV', 'Films')), 'charts': charts})
     return {'schema_version': 1, 'country': 'KR', 'source_url': SOURCE, 'chart_url': CHART,
             'fetched_at': now.isoformat(), 'weeks': weeks}
 
