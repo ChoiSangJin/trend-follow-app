@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "region": "KR",
-  "updated_at": "2026-11-01T21:59:20.810500Z",
+  "updated_at": "2026-11-02T05:57:46.641116Z",
   "tracking_started_at": "2026-11-01T12:43:04.983950Z",
-  "snapshot_count": 4,
+  "snapshot_count": 5,
   "cards": [
     {
       "topic": {
@@ -75,10 +75,10 @@
       "source_groups": 7,
       "daily_sources": [
         0,
-        4,
-        4
+        6,
+        1
       ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -90,7 +90,7 @@
         "category": "경제·주식",
         "title": "코스피, 美 빅테크 실적 부진에 3%대 급락 마감",
         "summary": "코스피, 美 빅테크 실적 부진에 3%대 급락 마감",
-        "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 38시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "why_now": "수집 범위에서 관련 보도 9개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 65시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
         "opener": "‘코스피, 美 빅테크 실적 부진에 3%대 급락 마감’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
         "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
         "source": "MBC 뉴스",
@@ -98,14 +98,26 @@
         "published_at": "2026-10-30T07:59:53Z",
         "evidence": "headline",
         "coverage": {
-          "source_groups": 5,
-          "report_count": 6,
-          "span_hours": 38.1,
+          "source_groups": 6,
+          "report_count": 9,
+          "span_hours": 65.3,
           "first_report_at": "2026-10-30T07:06:05Z",
-          "last_report_at": "2026-10-31T21:13:44Z",
+          "last_report_at": "2026-11-02T00:26:00Z",
           "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RSGl6VlA2ejRTVDE5UF8zTGpROUFGX2p6bEc1a0I5U0pueTE0ZFpkNjBpcEkzeGxVTlpOeWw0ZWZIZTNGS1pQb183QzBZOFN0MzZiUklRN25HeW_SAWBBVV95cUxOQkhoaDJyenhOYm5SS3JsQWx3TFV4TmhVUmllQy1ubjhmODFnNGpuVzZJd0lPOXBPWVZjaDFsSmgzYnRhTEVTVTlDSHhobzNVSVhIZ3RTRkItTXFGSDRiaGM?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50cGttSVE4cTVPZUg2N21wZG1zSXNJSnlYZ0c5eVE2cHR0QlQ2SVNKdlZySFU0cmNPLUdOa1BMeDFTbjkwX1hDcFhNSnItZlBxNkg1SmhVaTRPOGpRX2Z6MXBuUUQ0U2ZORDIyS1ZWd1R4TEdX0gF0QVVfeXFMTnRwa21JUThxNU9lSDY3bXBkbXNJc0lKeVhnRzl5UTZwdHRCVDZJU0p2VnJIVTRyY08tR05rUEx4MVNuOTBfWENwWE1Kci1mUHE2SDVKaFVpNE84alFfZnoxcG5RRDRTZk5EMjJLVlZ3VHhMR1c?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zMGtyTXRad1c4WlMxZTZ4aHZoTGRQVjdXei1PdF9Bei1ZMzhSdUJlYWlUMk5XWVBnS0VmQ05zYlNJNW1Ib1BzN056Q0FpcmdlcXNSLUduckxhRGc?oc=5",
           "sources": [
+            {
+              "name": "KBS 뉴스",
+              "group": "kbs.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zMGtyTXRad1c4WlMxZTZ4aHZoTGRQVjdXei1PdF9Bei1ZMzhSdUJlYWlUMk5XWVBnS0VmQ05zYlNJNW1Ib1BzN056Q0FpcmdlcXNSLUduckxhRGc?oc=5",
+              "published_at": "2026-11-02T00:26:00Z"
+            },
+            {
+              "name": "SBS Biz",
+              "group": "sbs.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5tbkFDcDJQMTFjY2VPTDFEdDB5ZjhRUjVvaV9QRGl2R0VMeURvSnVVM1ZSM25PZVZDSlBXcWNiNUVRVHZSVm0yN3ZnOGdwR0d2cGotZW5SR2LSAVhBVV95cUxObW5BQ3AyUDExY2NlT0wxRHQweWY4UVI1b2lfUERpdkdFTHlEb0p1VTNWUjNuT2VWQ0pQV3FjYjVFUVR2UlZtMjd2ZzhncEdHdnBqLWVuUkdi?oc=5",
+              "published_at": "2026-11-01T22:03:00Z"
+            },
             {
               "name": "IT조선",
               "group": "chosun.com",
@@ -113,10 +125,10 @@
               "published_at": "2026-10-31T21:13:44Z"
             },
             {
-              "name": "SBS Biz",
-              "group": "sbs.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fRDB2NHJjQkVoLTlJaFdvdDhUSHUwenRoYW5xQks4Ull4d1ZHQ1dyaDZfNWdKQXhab0xwRmM2b1JzXzdSQnVHYmNWSUltWkI2cjh30gFYQVVfeXFMTnh2NHRqTl92QzdfSGExRmg1N2RXdnJDaFRaQ3YyLUstWWlrdjRxVEV1XzF4Y0Z1Sy03M01ibTBjVFg1b1pyRUt1MEZGR25ONW9wMllHVWZONw?oc=5",
-              "published_at": "2026-10-30T08:01:00Z"
+              "name": "연합뉴스",
+              "group": "wire:연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVtIBYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVg?oc=5",
+              "published_at": "2026-10-30T12:05:30Z"
             },
             {
               "name": "MBC 뉴스",
@@ -129,23 +141,17 @@
               "group": "etnews.com",
               "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JZFdhMTVsZ08xZzJBUzZTeElOT1g3NXlieDFSR2J5M0k0V0dKVy16VEw2cVB5ZDVCTUhYYXJEVTRoUVJ3NTZfcUgxUHdpUQ?oc=5",
               "published_at": "2026-10-30T07:17:31Z"
-            },
-            {
-              "name": "연합뉴스",
-              "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9RSGl6VlA2ejRTVDE5UF8zTGpROUFGX2p6bEc1a0I5U0pueTE0ZFpkNjBpcEkzeGxVTlpOeWw0ZWZIZTNGS1pQb183QzBZOFN0MzZiUklRN25HeW_SAWBBVV95cUxOQkhoaDJyenhOYm5SS3JsQWx3TFV4TmhVUmllQy1ubjhmODFnNGpuVzZJd0lPOXBPWVZjaDFsSmgzYnRhTEVTVTlDSHhobzNVSVhIZ3RTRkItTXFGSDRiaGM?oc=5",
-              "published_at": "2026-10-30T07:06:05Z"
             }
           ]
         }
       },
-      "source_groups": 5,
+      "source_groups": 6,
       "daily_sources": [
         4,
         1,
-        0
+        2
       ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -212,7 +218,7 @@
         0,
         5
       ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -224,7 +230,7 @@
         "category": "스포츠",
         "title": "'약물 커피' 먹이고 내기 골프...7,500만 원 가로챘다",
         "summary": "'약물 커피' 먹이고 내기 골프...7,500만 원 가로챘다",
-        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 17시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 18시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
         "opener": "‘'약물 커피' 먹이고 내기 골프...7,500만 원 가로챘다’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
         "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
         "source": "YTN",
@@ -234,23 +240,23 @@
         "coverage": {
           "source_groups": 4,
           "report_count": 5,
-          "span_hours": 17.1,
+          "span_hours": 18.5,
           "first_report_at": "2026-11-01T04:23:55Z",
-          "last_report_at": "2026-11-01T21:31:14Z",
+          "last_report_at": "2026-11-01T22:56:00Z",
           "first_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54ZTBRbzZITGwydXYwOTZhRF9xNWVUZVdjeW1IS2hVMkoycG80WkpVYU1IUWhval81ZUVjTldDcHNEaFRKM0Z4UnJCb2VjRHE1aXJtZE1ILW1NbXlEUXVSTm84dnN2ZllUaGc?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XSzQ1ODhWSzE3cVdnbzk4THFLd1pyRXVwOEdtbXd1ZmdiYV9seXRUWFpheXo3RHZCU09vVG1uZnM3YlhNdkpocXpNdWItRTItenR1aDVHLVhucVlnM0dMUGFjQVRzRlRMT0FyLTBEdm1GUm9iOEV0bDhR0gF6QVVfeXFMT05MZW4tdF9WcWxNbHVWd1VxMl9mMUlsZUVLZ2ZiekNJU2xVUzFWZmRELVFmajJLSWVJaHdxTWI0UmdnNWVzSUpSdWZpMzZWdjBSenZZZUo1LVBxT3hrYnM2V1pJUldGTTJ5OWFDRW5ueGV0WTdVT184ZFE?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EYWE1eTdaVG9KREFESXd3Sng4NGdYQlZJRFREYjNHYzJTbHI3clQ1WlVMd3pFRnpBNUNZdmhMVUM3c1l3Mm0wNkd4SDRObVZ3TW92eURSRzI0NG8?oc=5",
           "sources": [
+            {
+              "name": "KBS 뉴스",
+              "group": "kbs.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EYWE1eTdaVG9KREFESXd3Sng4NGdYQlZJRFREYjNHYzJTbHI3clQ1WlVMd3pFRnpBNUNZdmhMVUM3c1l3Mm0wNkd4SDRObVZ3TW92eURSRzI0NG8?oc=5",
+              "published_at": "2026-11-01T22:56:00Z"
+            },
             {
               "name": "MBC 뉴스",
               "group": "imbc.com",
               "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XSzQ1ODhWSzE3cVdnbzk4THFLd1pyRXVwOEdtbXd1ZmdiYV9seXRUWFpheXo3RHZCU09vVG1uZnM3YlhNdkpocXpNdWItRTItenR1aDVHLVhucVlnM0dMUGFjQVRzRlRMT0FyLTBEdm1GUm9iOEV0bDhR0gF6QVVfeXFMT05MZW4tdF9WcWxNbHVWd1VxMl9mMUlsZUVLZ2ZiekNJU2xVUzFWZmRELVFmajJLSWVJaHdxTWI0UmdnNWVzSUpSdWZpMzZWdjBSenZZZUo1LVBxT3hrYnM2V1pJUldGTTJ5OWFDRW5ueGV0WTdVT184ZFE?oc=5",
               "published_at": "2026-11-01T21:31:14Z"
-            },
-            {
-              "name": "KBS 뉴스",
-              "group": "kbs.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LcVJYdy1fUlV4NlBnU3NNdUFlaTZjTVF2TEVUc19CT0JQanVBVGhwR1dSQ09QRzdZX0Zjc2R0eGhLZ001MXZPM0dpM2lRRGFFV0g3VUJmQ3lZQVBuOXdpb0Vnb1Zwdw?oc=5",
-              "published_at": "2026-11-01T12:14:00Z"
             },
             {
               "name": "YTN",
@@ -270,10 +276,10 @@
       "source_groups": 4,
       "daily_sources": [
         0,
-        0,
-        4
+        1,
+        3
       ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -331,10 +337,10 @@
       "source_groups": 4,
       "daily_sources": [
         0,
-        1,
-        3
+        3,
+        1
       ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -392,10 +398,10 @@
       "source_groups": 4,
       "daily_sources": [
         0,
-        0,
-        4
+        3,
+        2
       ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -403,58 +409,180 @@
     },
     {
       "topic": {
-        "id": "525d3db13be43c749bf7",
-        "category": "문화·예술",
-        "title": "제1회 고운숨결문학상 시상식 개최…대상 박현주 씨",
-        "summary": "제1회 고운숨결문학상 시상식 개최…대상 박현주 씨",
-        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 43시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘제1회 고운숨결문학상 시상식 개최…대상 박현주 씨’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
-        "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-        "source": "서울신문",
-        "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0RTZjB6c2hHakxCU1VPMEQyeEF0dkpteWM1TlZ2Ql9Ham1ZZWNlbS1aNjN6b19rYWZOMHE1WkY4WThXcWNENlBXVVZRYWxFUGVWbFJxdFlVcWRUTk9wUG1nZlpOSzZTUUJYdTR5V3dQZkg0bXU2UFpEV0l3UnJsbjhPY3hkM0ZlSmc?oc=5",
-        "published_at": "2026-10-30T05:18:22Z",
+        "id": "db25be27fd292129f19b",
+        "category": "기술·과학",
+        "title": "[AI픽] 크래프톤, 사람 의도 읽는 로봇 AI '루디 0.2' 공개",
+        "summary": "[AI픽] 크래프톤, 사람 의도 읽는 로봇 AI '루디 0.2' 공개",
+        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 3시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘[AI픽] 크래프톤, 사람 의도 읽는 로봇 AI '루디 0.2' 공개’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+        "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+        "source": "연합뉴스",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EZnJVRENOM2w4d0VfSWZxS19mQ1NlWmFxSnRDTzFlRVlrZ2t0RWpYeDlNeVBUZV9lMXI0aGhuQjJQS1dXZzdDREFZVjBDZGpXRE4tYTh6MnpZSzU1UFl2b9IBYEFVX3lxTE1EZnJVRENOM2w4d0VfSWZxS19mQ1NlWmFxSnRDTzFlRVlrZ2t0RWpYeDlNeVBUZV9lMXI0aGhuQjJQS1dXZzdDREFZVjBDZGpXRE4tYTh6MnpZSzU1UFl2bw?oc=5",
+        "published_at": "2026-11-02T01:21:15Z",
         "evidence": "headline",
         "coverage": {
-          "source_groups": 3,
+          "source_groups": 4,
           "report_count": 4,
-          "span_hours": 43.7,
-          "first_report_at": "2026-10-30T05:18:00Z",
-          "last_report_at": "2026-11-01T01:00:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3amZpY0w2dDhnUE1JSWFxVGZHSElzV0RMbGp6ZlFmM2dUajMxUlE1LW52X2dPRm5kdnp4emhReUdNYzZTWDJtNlJ6Z3FLTTgxOTdsTUFLazAzRzNSVnNtOWx2UlVaNWEtdGdXaE02Unk?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMaEMxZnVEYUszOVJ6VmRHV3k0XzVjXzJ2b1FpM09icEthTUNSMHJSdjlpT25hZ0o0VWRXU1k3QmNuTENnaWVVd05GWGhKYkFXMHZpZjBR?oc=5",
+          "span_hours": 3.5,
+          "first_report_at": "2026-11-02T01:21:15Z",
+          "last_report_at": "2026-11-02T04:49:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EZnJVRENOM2w4d0VfSWZxS19mQ1NlWmFxSnRDTzFlRVlrZ2t0RWpYeDlNeVBUZV9lMXI0aGhuQjJQS1dXZzdDREFZVjBDZGpXRE4tYTh6MnpZSzU1UFl2b9IBYEFVX3lxTE1EZnJVRENOM2w4d0VfSWZxS19mQ1NlWmFxSnRDTzFlRVlrZ2t0RWpYeDlNeVBUZV9lMXI0aGhuQjJQS1dXZzdDREFZVjBDZGpXRE4tYTh6MnpZSzU1UFl2bw?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYjl0bU5kZzhWSk15OUxCbUk2UkN0VDNKOGw2ZzdUX1lvdk5tUXA1em9GWVlaTkU1aW42Sk11WVdjclhBQUNjWWc0VXh3aFZmdUxjbWZFYktNQXFQUkUyWTNJMktMMF94T3dWazdLVlpBSEVRTGZuYkFieGpuaVk4TmlB0gGWAUFVX3lxTFA4QmJqel9jenBLeGNWRlFKR1VRZTBJeS1NZ1FFb0ZwZzFjcXF5NDQxa3Q1b25VcnRWUTdCZmpsX3NwUlNuOHhjSFVhNUFUSFdOT3FQVGJvckZlaHJrbF9BVGgtTDZyd1FVTWwzY2ZpdS1KSFVHSHdpVzNwbXVvU3ZQX1lzMTQ0dzctbFQzbmxkbFlwMEFFQQ?oc=5",
           "sources": [
+            {
+              "name": "Chosunbiz",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYjl0bU5kZzhWSk15OUxCbUk2UkN0VDNKOGw2ZzdUX1lvdk5tUXA1em9GWVlaTkU1aW42Sk11WVdjclhBQUNjWWc0VXh3aFZmdUxjbWZFYktNQXFQUkUyWTNJMktMMF94T3dWazdLVlpBSEVRTGZuYkFieGpuaVk4TmlB0gGWAUFVX3lxTFA4QmJqel9jenBLeGNWRlFKR1VRZTBJeS1NZ1FFb0ZwZzFjcXF5NDQxa3Q1b25VcnRWUTdCZmpsX3NwUlNuOHhjSFVhNUFUSFdOT3FQVGJvckZlaHJrbF9BVGgtTDZyd1FVTWwzY2ZpdS1KSFVHSHdpVzNwbXVvU3ZQX1lzMTQ0dzctbFQzbmxkbFlwMEFFQQ?oc=5",
+              "published_at": "2026-11-02T04:49:00Z"
+            },
+            {
+              "name": "문화일보",
+              "group": "munhwa.com",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyZnBIbmxBSzAwSk5IYWJ6MDdlYjlpcF9vdUJTWW9LLUwwWGpicWpRdHpseVJMZUhCTC1EdFVRek04QzdMV2I5cG1tVGQ1Qlhz?oc=5",
+              "published_at": "2026-11-02T02:19:08Z"
+            },
+            {
+              "name": "전자신문",
+              "group": "etnews.com",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9uN3BxblVqOUI4clJ1dEFyUktia3hUZ0RVN2hHcHk1dk9MUlpKN0RVZnlleGYtWjEzZVdrdkRad29laDdwNnBYTFVBTWt3Zw?oc=5",
+              "published_at": "2026-11-02T01:35:09Z"
+            },
+            {
+              "name": "연합뉴스",
+              "group": "wire:연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EZnJVRENOM2w4d0VfSWZxS19mQ1NlWmFxSnRDTzFlRVlrZ2t0RWpYeDlNeVBUZV9lMXI0aGhuQjJQS1dXZzdDREFZVjBDZGpXRE4tYTh6MnpZSzU1UFl2b9IBYEFVX3lxTE1EZnJVRENOM2w4d0VfSWZxS19mQ1NlWmFxSnRDTzFlRVlrZ2t0RWpYeDlNeVBUZV9lMXI0aGhuQjJQS1dXZzdDREFZVjBDZGpXRE4tYTh6MnpZSzU1UFl2bw?oc=5",
+              "published_at": "2026-11-02T01:21:15Z"
+            }
+          ]
+        }
+      },
+      "source_groups": 4,
+      "daily_sources": [
+        0,
+        0,
+        4
+      ],
+      "tracking_hours": 17.2,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 7
+    },
+    {
+      "topic": {
+        "id": "1a69aba8781ca2ef105a",
+        "category": "스포츠",
+        "title": "‘손흥민 풀타임 침묵’ LAFC, 미네소타에 1-3 완패 ‘상위권 도약 실패’",
+        "summary": "‘손흥민 풀타임 침묵’ LAFC, 미네소타에 1-3 완패 ‘상위권 도약 실패’",
+        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘‘손흥민 풀타임 침묵’ LAFC, 미네소타에 1-3 완패 ‘상위권 도약 실패’’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "스포츠동아",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tdW9PM2JTRXRTd1NmNkN2akZTTzkydHdfcnY2OG03NGNLQVdaQnluUGJQZzRoVG80V3J5bzJyTW5FQnJEbDA1VjhlNFJjaWVJSUlBdUpQZVowRFhVZ3JpdjZrNjM4ZEpaejYxcDNzRUlEdw?oc=5",
+        "published_at": "2026-11-02T05:03:20Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 4,
+          "report_count": 4,
+          "span_hours": 0.9,
+          "first_report_at": "2026-11-02T04:08:07Z",
+          "last_report_at": "2026-11-02T05:03:20Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lalExXzNHbjNhRmNSbW9DZWtFZGpTMHpITlhLeTNqY2IwSGVLOTlYME55aVZOaHd1SlNiUTV2M25SNHZjNVNybnRpbS1qODV1OEZR?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tdW9PM2JTRXRTd1NmNkN2akZTTzkydHdfcnY2OG03NGNLQVdaQnluUGJQZzRoVG80V3J5bzJyTW5FQnJEbDA1VjhlNFJjaWVJSUlBdUpQZVowRFhVZ3JpdjZrNjM4ZEpaejYxcDNzRUlEdw?oc=5",
+          "sources": [
+            {
+              "name": "스포츠동아",
+              "group": "donga.com",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tdW9PM2JTRXRTd1NmNkN2akZTTzkydHdfcnY2OG03NGNLQVdaQnluUGJQZzRoVG80V3J5bzJyTW5FQnJEbDA1VjhlNFJjaWVJSUlBdUpQZVowRFhVZ3JpdjZrNjM4ZEpaejYxcDNzRUlEdw?oc=5",
+              "published_at": "2026-11-02T05:03:20Z"
+            },
+            {
+              "name": "조선일보",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDVINGNiZEU4UnVFRDVSX1c4aHRMUndTbzRDV0d1NUduTlRsWlptTEMwbXd0VnBsVEdOQkJLa1ZHYjU0ekE2aWVKUWR0ajV4Rzc5LTg2NU0xQlduY1pfX180QWprZEg0MFBIekhzZXJkRnNGdlkwSE14azFKM0pKUkFjUUFET3lyQVY0?oc=5",
+              "published_at": "2026-11-02T04:22:00Z"
+            },
             {
               "name": "중앙일보",
               "group": "joongang.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMaEMxZnVEYUszOVJ6VmRHV3k0XzVjXzJ2b1FpM09icEthTUNSMHJSdjlpT25hZ0o0VWRXU1k3QmNuTENnaWVVd05GWGhKYkFXMHZpZjBR?oc=5",
-              "published_at": "2026-11-01T01:00:00Z"
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5YXdHckR5djR3ZkVPV2VDZlY3NnZTV3ZmUllaYTJKcHFuUGNiUlVVakxwWXRHVlUxOC1oLUtlUmQteHhQM1hJU2d0b0J1emxfbWZySEZR?oc=5",
+              "published_at": "2026-11-02T04:08:51Z"
             },
             {
-              "name": "동아일보",
-              "group": "donga.com",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NTWdmVlZHWGl1SDZ2V2JieG5QTE55MzA4YlN2aXdPai1LcnRCSTF3SEs4RVNVOVhqdGo4RG1xUUQ0V0kyZEVNam43VG82NWliUVFvZk15NVVxRnU3OEJxUzBSYzYtQdIBZkFVX3lxTE1NTWdmVlZHWGl1SDZ2V2JieG5QTE55MzA4YlN2aXdPai1LcnRCSTF3SEs4RVNVOVhqdGo4RG1xUUQ0V0kyZEVNam43VG82NWliUVFvZk15NVVxRnU3OEJxUzBSYzYtQQ?oc=5",
-              "published_at": "2026-10-31T01:00:00Z"
+              "name": "매일경제",
+              "group": "mk.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lalExXzNHbjNhRmNSbW9DZWtFZGpTMHpITlhLeTNqY2IwSGVLOTlYME55aVZOaHd1SlNiUTV2M25SNHZjNVNybnRpbS1qODV1OEZR?oc=5",
+              "published_at": "2026-11-02T04:08:07Z"
+            }
+          ]
+        }
+      },
+      "source_groups": 4,
+      "daily_sources": [
+        0,
+        0,
+        4
+      ],
+      "tracking_hours": 17.2,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 8
+    },
+    {
+      "topic": {
+        "id": "7198f9f84a5c3142bd0a",
+        "category": "스포츠",
+        "title": "307억 대신 빅리그…노시환, MLB 도전 시작",
+        "summary": "307억 대신 빅리그…노시환, MLB 도전 시작",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 25시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘307억 대신 빅리그…노시환, MLB 도전 시작’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "동아일보",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JcHVRNGswMkV6ZTR0Qmo0VE1IYkxIb2ptaGRfWUc0cy1tUGx5bUNlZGF2dEwyZW9Cd19VTjFNbFZhcXpMbkhldlNmWGJSYUVqdGFuQ2JxWlh0NE1HN0JtOHJBMXRlaHptaDRBS0xLZ0tFQVc40gFmQVVfeXFMT1RacFRNLVc5cDZoVGhkN0pYRDJ0SGJkY0NsNmZoc2RWWXNEVGRuWjh6Mi0waE9uLWZHQk5tRzVtcjlOWTN1MndyTGJCbl9rN0dsOThEWndWMVBiVDZfLW4xMkJ0SFdn?oc=5",
+        "published_at": "2026-11-01T04:31:48Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 3,
+          "span_hours": 25.2,
+          "first_report_at": "2026-11-01T04:31:48Z",
+          "last_report_at": "2026-11-02T05:43:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JcHVRNGswMkV6ZTR0Qmo0VE1IYkxIb2ptaGRfWUc0cy1tUGx5bUNlZGF2dEwyZW9Cd19VTjFNbFZhcXpMbkhldlNmWGJSYUVqdGFuQ2JxWlh0NE1HN0JtOHJBMXRlaHptaDRBS0xLZ0tFQVc40gFmQVVfeXFMT1RacFRNLVc5cDZoVGhkN0pYRDJ0SGJkY0NsNmZoc2RWWXNEVGRuWjh6Mi0waE9uLWZHQk5tRzVtcjlOWTN1MndyTGJCbl9rN0dsOThEWndWMVBiVDZfLW4xMkJ0SFdn?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xdlo5WFFEUmk2ejRtREZtQ01Da2JmVzZnNnlJWHV4Z18xMWNMQjlwb25Nb3JqR1V2RUpKR2N5c1gycWlUX0s3NS1VSzF0X0VPcWJMYzJKb3BUNm8?oc=5",
+          "sources": [
+            {
+              "name": "일간스포츠",
+              "group": "edaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xdlo5WFFEUmk2ejRtREZtQ01Da2JmVzZnNnlJWHV4Z18xMWNMQjlwb25Nb3JqR1V2RUpKR2N5c1gycWlUX0s3NS1VSzF0X0VPcWJMYzJKb3BUNm8?oc=5",
+              "published_at": "2026-11-02T05:43:00Z"
             },
             {
               "name": "서울신문",
               "group": "seoul.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNX0RTZjB6c2hHakxCU1VPMEQyeEF0dkpteWM1TlZ2Ql9Ham1ZZWNlbS1aNjN6b19rYWZOMHE1WkY4WThXcWNENlBXVVZRYWxFUGVWbFJxdFlVcWRUTk9wUG1nZlpOSzZTUUJYdTR5V3dQZkg0bXU2UFpEV0l3UnJsbjhPY3hkM0ZlSmc?oc=5",
-              "published_at": "2026-10-30T05:18:22Z"
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81V2dXVXhwdzZIeTM0MVk3QTM1bk9sdHkySmFZQy1paW9sRTFDZktIYW5uWThKcko3cjZxano5ZnlDVTN3TkRFaTdwemlTQl8tSGVhR2tIbkdIYW1lM1RUUkZBVy1jdUpRSkdaSkNBcXN6dUpZYVlHcQ?oc=5",
+              "published_at": "2026-11-01T13:06:10Z"
+            },
+            {
+              "name": "동아일보",
+              "group": "donga.com",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JcHVRNGswMkV6ZTR0Qmo0VE1IYkxIb2ptaGRfWUc0cy1tUGx5bUNlZGF2dEwyZW9Cd19VTjFNbFZhcXpMbkhldlNmWGJSYUVqdGFuQ2JxWlh0NE1HN0JtOHJBMXRlaHptaDRBS0xLZ0tFQVc40gFmQVVfeXFMT1RacFRNLVc5cDZoVGhkN0pYRDJ0SGJkY0NsNmZoc2RWWXNEVGRuWjh6Mi0waE9uLWZHQk5tRzVtcjlOWTN1MndyTGJCbl9rN0dsOThEWndWMVBiVDZfLW4xMkJ0SFdn?oc=5",
+              "published_at": "2026-11-01T04:31:48Z"
             }
           ]
         }
       },
       "source_groups": 3,
       "daily_sources": [
+        0,
         1,
-        1,
-        1
+        2
       ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 7
+      "rank": 9
     },
     {
       "topic": {
@@ -502,120 +630,10 @@
       "source_groups": 3,
       "daily_sources": [
         0,
-        0,
-        3
-      ],
-      "tracking_hours": 9.2,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 8
-    },
-    {
-      "topic": {
-        "id": "d98f3807ab35d756244b",
-        "category": "경제·주식",
-        "title": "[마켓 ING]6000선 회복 실패 코스피, 美 중간선거 주목",
-        "summary": "[마켓 ING]6000선 회복 실패 코스피, 美 중간선거 주목",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 14시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘[마켓 ING]6000선 회복 실패 코스피, 美 중간선거 주목’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
-        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-        "source": "아시아경제",
-        "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zUjFCVHRaRlNfS3BpeF9kMnZXc2ZWR0tEZDgyVDR2UDRTNkJuN1RTblNzMkh0eDR5TXkzSnBGSHYwVmphMUV3MWcxbGFJOWQ2MDdtYU1mUWhIY0NSaTZDZVd3?oc=5",
-        "published_at": "2026-11-01T02:07:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 3,
-          "report_count": 3,
-          "span_hours": 14.2,
-          "first_report_at": "2026-10-31T21:00:00Z",
-          "last_report_at": "2026-11-01T11:09:48Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uQm02UFVQVGM3Qm9SRkE3c2dSQmhycHhicm1PNWtXdmhjREIwRVZlZ2tNeDVrLW1WTHFnc0ZQandxbVdGUHFydzBybTJXVUdPdnl3NXhSWDdDVXc?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTYnNKSnFOR1ZTWnNscF92TFlaOXlCUndCcjJLOTZoQlVmVWRiekZoOTZ1QlhHNzZDV2RuY3hESGRSSlFZVUpucE5ITDBNa1FMMEE?oc=5",
-          "sources": [
-            {
-              "name": "매일경제",
-              "group": "mk.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTYnNKSnFOR1ZTWnNscF92TFlaOXlCUndCcjJLOTZoQlVmVWRiekZoOTZ1QlhHNzZDV2RuY3hESGRSSlFZVUpucE5ITDBNa1FMMEE?oc=5",
-              "published_at": "2026-11-01T11:09:48Z"
-            },
-            {
-              "name": "아시아경제",
-              "group": "asiae.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zUjFCVHRaRlNfS3BpeF9kMnZXc2ZWR0tEZDgyVDR2UDRTNkJuN1RTblNzMkh0eDR5TXkzSnBGSHYwVmphMUV3MWcxbGFJOWQ2MDdtYU1mUWhIY0NSaTZDZVd3?oc=5",
-              "published_at": "2026-11-01T02:07:00Z"
-            },
-            {
-              "name": "뉴스1",
-              "group": "wire:뉴스1",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uQm02UFVQVGM3Qm9SRkE3c2dSQmhycHhicm1PNWtXdmhjREIwRVZlZ2tNeDVrLW1WTHFnc0ZQandxbVdGUHFydzBybTJXVUdPdnl3NXhSWDdDVXc?oc=5",
-              "published_at": "2026-10-31T21:00:00Z"
-            }
-          ]
-        }
-      },
-      "source_groups": 3,
-      "daily_sources": [
-        0,
         1,
         2
       ],
-      "tracking_hours": 9.2,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 9
-    },
-    {
-      "topic": {
-        "id": "88ad734a61ae9e9c1f43",
-        "category": "경제·주식",
-        "title": "알파벳 실적 쇼크에 코스피 5%대 급락…매도 사이드카 발동",
-        "summary": "알파벳 실적 쇼크에 코스피 5%대 급락…매도 사이드카 발동",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘알파벳 실적 쇼크에 코스피 5%대 급락…매도 사이드카 발동’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
-        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-        "source": "한국경제",
-        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zYmg5dXpFdnp5VjJqQzN6dVlCWndXazFiSXI0b09oNU5FbGdVOVVGVWltRzdMb1dPbmdRaUpsT1EzVklOSWNFVDduOFhkQmRuNFV1WkpsT3NCZw?oc=5",
-        "published_at": "2026-10-30T01:33:58Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 3,
-          "report_count": 3,
-          "span_hours": 10.6,
-          "first_report_at": "2026-10-30T01:29:00Z",
-          "last_report_at": "2026-10-30T12:05:30Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hUUUyTDBKX3NBQWtBU0I5VDRqZUJyYVlkOUZibHZLSXl2Zng3ejBHQm5ISlJ2VHMtdnN2TUx5RWotNmF6cmcxQzBFMlBvSXFtcHJjVFVsaUZBUdIBX0FVX3lxTE9NNWRCS1JhanVUVmhGUlFjc1dpdThmejVzNFNEOW91N2d2VVpYQWtaU0UwMEJlZWpGTlBzbVY5d2lKOElzTkxBcUJianZIZ3BYcUhySTItY1VGcmZfc0pF?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVtIBYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVg?oc=5",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVtIBYEFVX3lxTE52SS0xdG9HQWg5YVZWR091bHVGQ0x0b1FRME9EZ19XWmNYZk9MQVFPc2hXVUQ2THBfTmtfSlpkZi1tQjRUMXpiLXRmaWo1dGFqYVdYeWY2eG9rUzM0X2tjVg?oc=5",
-              "published_at": "2026-10-30T12:05:30Z"
-            },
-            {
-              "name": "한국경제",
-              "group": "hankyung.com",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zYmg5dXpFdnp5VjJqQzN6dVlCWndXazFiSXI0b09oNU5FbGdVOVVGVWltRzdMb1dPbmdRaUpsT1EzVklOSWNFVDduOFhkQmRuNFV1WkpsT3NCZw?oc=5",
-              "published_at": "2026-10-30T01:33:58Z"
-            },
-            {
-              "name": "경향신문",
-              "group": "khan.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hUUUyTDBKX3NBQWtBU0I5VDRqZUJyYVlkOUZibHZLSXl2Zng3ejBHQm5ISlJ2VHMtdnN2TUx5RWotNmF6cmcxQzBFMlBvSXFtcHJjVFVsaUZBUdIBX0FVX3lxTE9NNWRCS1JhanVUVmhGUlFjc1dpdThmejVzNFNEOW91N2d2VVpYQWtaU0UwMEJlZWpGTlBzbVY5d2lKOElzTkxBcUJianZIZ3BYcUhySTItY1VGcmZfc0pF?oc=5",
-              "published_at": "2026-10-30T01:29:00Z"
-            }
-          ]
-        }
-      },
-      "source_groups": 3,
-      "daily_sources": [
-        3,
-        0,
-        0
-      ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -670,7 +688,7 @@
         0,
         0
       ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -725,7 +743,7 @@
         0,
         3
       ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -780,11 +798,335 @@
         0,
         3
       ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
       "rank": 13
+    },
+    {
+      "topic": {
+        "id": "721cc6cd8fc6a37226d3",
+        "category": "연예",
+        "title": "AI로 '임권택 없는 임권택 영화'…대한민국예술원 영화전",
+        "summary": "AI로 '임권택 없는 임권택 영화'…대한민국예술원 영화전",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘AI로 '임권택 없는 임권택 영화'…대한민국예술원 영화전’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+        "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
+        "source": "뉴시스",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Dc3pkMURRZ0pZa3ZaS2loTWYwdTYzb3V5NlFPNVpmYk9WN2ZhSk1pUV9Mem9FcDBWS0JZVUIxMy1EcFRIcXRPcXZVSEZ3bkNmU3RxSmVCcXdsMEZEb1cwb9IBeEFVX3lxTE5UYTg2SGdkTTNzUUZtV1lzamtGbU8yaTRBc3hNbE8tSDhlR3dORGtVdUtybl9SVzlWRUVUc2E3eDBpa3o2WkUteVN4cWdrd0p5ZnEzbzF0MHpsS1JNN3A2a2ZRQW9VeWhzLVRYMGk0WXlFb2FsUnFQbA?oc=5",
+        "published_at": "2026-11-02T02:21:35Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 3,
+          "span_hours": 1.6,
+          "first_report_at": "2026-11-02T00:44:03Z",
+          "last_report_at": "2026-11-02T02:21:35Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwaW1QNkFYRWkwc1JRb012RG9Fbjg5ejF5Q0IyaFZ5Nm9WUjhSbC1nZXRWM2tMWS1tUURXUXRYNURYVXRkcm93clN2azZQVGdHNks0cXJDS0FwV2NqSHlYMdIBYEFVX3lxTFBwaW1QNkFYRWkwc1JRb012RG9Fbjg5ejF5Q0IyaFZ5Nm9WUjhSbC1nZXRWM2tMWS1tUURXUXRYNURYVXRkcm93clN2azZQVGdHNks0cXJDS0FwV2NqSHlYMQ?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Dc3pkMURRZ0pZa3ZaS2loTWYwdTYzb3V5NlFPNVpmYk9WN2ZhSk1pUV9Mem9FcDBWS0JZVUIxMy1EcFRIcXRPcXZVSEZ3bkNmU3RxSmVCcXdsMEZEb1cwb9IBeEFVX3lxTE5UYTg2SGdkTTNzUUZtV1lzamtGbU8yaTRBc3hNbE8tSDhlR3dORGtVdUtybl9SVzlWRUVUc2E3eDBpa3o2WkUteVN4cWdrd0p5ZnEzbzF0MHpsS1JNN3A2a2ZRQW9VeWhzLVRYMGk0WXlFb2FsUnFQbA?oc=5",
+          "sources": [
+            {
+              "name": "뉴시스",
+              "group": "wire:뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Dc3pkMURRZ0pZa3ZaS2loTWYwdTYzb3V5NlFPNVpmYk9WN2ZhSk1pUV9Mem9FcDBWS0JZVUIxMy1EcFRIcXRPcXZVSEZ3bkNmU3RxSmVCcXdsMEZEb1cwb9IBeEFVX3lxTE5UYTg2SGdkTTNzUUZtV1lzamtGbU8yaTRBc3hNbE8tSDhlR3dORGtVdUtybl9SVzlWRUVUc2E3eDBpa3o2WkUteVN4cWdrd0p5ZnEzbzF0MHpsS1JNN3A2a2ZRQW9VeWhzLVRYMGk0WXlFb2FsUnFQbA?oc=5",
+              "published_at": "2026-11-02T02:21:35Z"
+            },
+            {
+              "name": "지디넷코리아",
+              "group": "zdnet.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IYTlDM3YtLTlPOU1va3p5dEVESWJhWVZIdXVwa3BveWh3YW83V2x1V1RWcDZJUEVhdVZNcXUyV1ZlWjRQaDIwOXBNSnNqOWRjamVWX1Rn?oc=5",
+              "published_at": "2026-11-02T00:58:50Z"
+            },
+            {
+              "name": "연합뉴스",
+              "group": "wire:연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwaW1QNkFYRWkwc1JRb012RG9Fbjg5ejF5Q0IyaFZ5Nm9WUjhSbC1nZXRWM2tMWS1tUURXUXRYNURYVXRkcm93clN2azZQVGdHNks0cXJDS0FwV2NqSHlYMdIBYEFVX3lxTFBwaW1QNkFYRWkwc1JRb012RG9Fbjg5ejF5Q0IyaFZ5Nm9WUjhSbC1nZXRWM2tMWS1tUURXUXRYNURYVXRkcm93clN2azZQVGdHNks0cXJDS0FwV2NqSHlYMQ?oc=5",
+              "published_at": "2026-11-02T00:44:03Z"
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        0,
+        0,
+        3
+      ],
+      "tracking_hours": 17.2,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 14
+    },
+    {
+      "topic": {
+        "id": "6f0a1f1aec69f9738c35",
+        "category": "스포츠",
+        "title": "맨시티 충격 패배 속 축구토토 승무패 65회차 1등 2명 탄생…각 4억 9천만 원의 주인공은?",
+        "summary": "맨시티 충격 패배 속 축구토토 승무패 65회차 1등 2명 탄생…각 4억 9천만 원의 주인공은?",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘맨시티 충격 패배 속 축구토토 승무패 65회차 1등 2명 탄생…각 4억 9천만 원의 주인공은?’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "매일경제",
+        "source_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85cTlQVXpqNF9VQW0tYU40REEwNnU1NGRLb0JaVTZSeDZleVVscG5SSnBwRVlRd3FwT3dxVDllWGE3NkpudGc?oc=5",
+        "published_at": "2026-11-02T03:34:31Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 3,
+          "span_hours": 1.1,
+          "first_report_at": "2026-11-02T03:34:31Z",
+          "last_report_at": "2026-11-02T04:39:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85cTlQVXpqNF9VQW0tYU40REEwNnU1NGRLb0JaVTZSeDZleVVscG5SSnBwRVlRd3FwT3dxVDllWGE3NkpudGc?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdGtIVm5OOVMwV2p6NXdqMEtzTnhGR2VmNlNBLTJISzRaWjIxLThxbjZSdHFWT2pvQ1N3bndVNFRqUlpnV2d6Rk9LVjVPOGYtd0tVTXlmaUpubVBpLVF4ZGJoTEVvQ09VSDNoYzE2cUtsdE4zTl9OQWZYdXkxN21Ia1NnVlNOb2V0T3BB0gGfAUFVX3lxTE82ZHQzdHN5bzRodG04Q2gzNVo2SHNKM3o3dTlzRmRmeWdWa2FvR2pIT3BDVU9OdWdTdWU0TDVScFlhX0F4eWJONGtFWm5sanRQdTNZaUJjUlJsR01vbUdOX0w5V3RZcFpvbHFlVFVOdjl3dXJXMjNQNG80U0VNMFNkcGYtempETzJjUDF1b09MdEwzbDJZRUlydlNiWldDYw?oc=5",
+          "sources": [
+            {
+              "name": "Chosunbiz",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdGtIVm5OOVMwV2p6NXdqMEtzTnhGR2VmNlNBLTJISzRaWjIxLThxbjZSdHFWT2pvQ1N3bndVNFRqUlpnV2d6Rk9LVjVPOGYtd0tVTXlmaUpubVBpLVF4ZGJoTEVvQ09VSDNoYzE2cUtsdE4zTl9OQWZYdXkxN21Ia1NnVlNOb2V0T3BB0gGfAUFVX3lxTE82ZHQzdHN5bzRodG04Q2gzNVo2SHNKM3o3dTlzRmRmeWdWa2FvR2pIT3BDVU9OdWdTdWU0TDVScFlhX0F4eWJONGtFWm5sanRQdTNZaUJjUlJsR01vbUdOX0w5V3RZcFpvbHFlVFVOdjl3dXJXMjNQNG80U0VNMFNkcGYtempETzJjUDF1b09MdEwzbDJZRUlydlNiWldDYw?oc=5",
+              "published_at": "2026-11-02T04:39:00Z"
+            },
+            {
+              "name": "이데일리",
+              "group": "edaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLUZoZ3RFVEpXTXNyNW1tTkJFMVpYUmRqSzNZby1vZFdlcWp6bTBmQlpIaGxfQk5MeWxpRFZiUG9DcVp5bHI5MGdVVXZIT2NWS0I1bkxVemV0cGJ2bDFJSmtuSzZuUFhmR1BVS005eGVabklQUEZWNUEtd09YZE5zUA?oc=5",
+              "published_at": "2026-11-02T04:18:32Z"
+            },
+            {
+              "name": "매일경제",
+              "group": "mk.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE85cTlQVXpqNF9VQW0tYU40REEwNnU1NGRLb0JaVTZSeDZleVVscG5SSnBwRVlRd3FwT3dxVDllWGE3NkpudGc?oc=5",
+              "published_at": "2026-11-02T03:34:31Z"
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        0,
+        0,
+        3
+      ],
+      "tracking_hours": 17.2,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 15
+    },
+    {
+      "topic": {
+        "id": "8dc4fffb45f75beeafe8",
+        "category": "연예",
+        "title": "아이돌·프로야구 티켓 최대 110배에 되팔아 22억 챙긴 일당",
+        "summary": "아이돌·프로야구 티켓 최대 110배에 되팔아 22억 챙긴 일당",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘아이돌·프로야구 티켓 최대 110배에 되팔아 22억 챙긴 일당’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+        "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
+        "source": "연합뉴스",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwcjV1OVVMSmdqOGtXSUlvd1lqdUdWQ2x5S0d3RXozbVludi1sUk1mdm9BdjFRM1N3Y1BLa293N1d6WkZaMzhKeE16TUs3djhTWVU4OFdaMHpmSkXSAWBBVV95cUxNWWNlLWxiMlZ2dENNY3RnOE8wRDZ4c1hVRlBPT0w4NzY5UFZMOVYzd2VsdEVyemk3ZGpzVHNvVFB0eHpuaG1tVU9rY3VERzRwN2pqRHlnc25VSlZOeWRYVWI?oc=5",
+        "published_at": "2026-11-02T01:26:39Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 3,
+          "span_hours": 1.1,
+          "first_report_at": "2026-11-02T01:26:39Z",
+          "last_report_at": "2026-11-02T02:31:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwcjV1OVVMSmdqOGtXSUlvd1lqdUdWQ2x5S0d3RXozbVludi1sUk1mdm9BdjFRM1N3Y1BLa293N1d6WkZaMzhKeE16TUs3djhTWVU4OFdaMHpmSkXSAWBBVV95cUxNWWNlLWxiMlZ2dENNY3RnOE8wRDZ4c1hVRlBPT0w4NzY5UFZMOVYzd2VsdEVyemk3ZGpzVHNvVFB0eHpuaG1tVU9rY3VERzRwN2pqRHlnc25VSlZOeWRYVWI?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVHpqLVFGN1d5VkhZM0MzemlxRXpmTDNWbEVvVDdYLTRqejFVTjNXNWpVelItMnR5dGlpSmN5UjdQUlYyWEx4YTNJam1vcVNJWWFnaktYaG5KVzZkY3d5bDNfWnNJSFY2NFl3MVB0RjFKR3JLb09MRm9LSGJBZ241TmpEZm5zQQ?oc=5",
+          "sources": [
+            {
+              "name": "조선일보",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVHpqLVFGN1d5VkhZM0MzemlxRXpmTDNWbEVvVDdYLTRqejFVTjNXNWpVelItMnR5dGlpSmN5UjdQUlYyWEx4YTNJam1vcVNJWWFnaktYaG5KVzZkY3d5bDNfWnNJSFY2NFl3MVB0RjFKR3JLb09MRm9LSGJBZ241TmpEZm5zQQ?oc=5",
+              "published_at": "2026-11-02T02:31:00Z"
+            },
+            {
+              "name": "동아일보",
+              "group": "donga.com",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzVjdtMzhOU2h5X0hqQUtKeXNDTnhJRlhrZkJ3dF9YYkFnR1JhdlAtQTZSbXZvNHhvMXkzRzZDVTB4Vlp5NjBUaUJJVUpKVThDOXgtXzlrdEFMWG9MbGlwMGtTQVRjRV9JN2hpc1dOcmkydV8xM3fSAWZBVV95cUxPLW9UbkxZV1Q2eWZNbGJLUno3S0xvSGMxTFU0YmJLS2h3QlA4NzVHOTRRam1pOWVXX0lWM2JxbzhsMmFnT1VoM1Q2Y1UwSUpRamZPbUJ2SVNsWFA0Q3haOGpYLUVMOFE?oc=5",
+              "published_at": "2026-11-02T01:50:42Z"
+            },
+            {
+              "name": "연합뉴스",
+              "group": "wire:연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwcjV1OVVMSmdqOGtXSUlvd1lqdUdWQ2x5S0d3RXozbVludi1sUk1mdm9BdjFRM1N3Y1BLa293N1d6WkZaMzhKeE16TUs3djhTWVU4OFdaMHpmSkXSAWBBVV95cUxNWWNlLWxiMlZ2dENNY3RnOE8wRDZ4c1hVRlBPT0w4NzY5UFZMOVYzd2VsdEVyemk3ZGpzVHNvVFB0eHpuaG1tVU9rY3VERzRwN2pqRHlnc25VSlZOeWRYVWI?oc=5",
+              "published_at": "2026-11-02T01:26:39Z"
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        0,
+        0,
+        3
+      ],
+      "tracking_hours": 17.2,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 16
+    },
+    {
+      "topic": {
+        "id": "b50df7629944b6944660",
+        "category": "스포츠",
+        "title": "국내 골프 인구 581만명…2년 동안 43만명 감소",
+        "summary": "국내 골프 인구 581만명…2년 동안 43만명 감소",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘국내 골프 인구 581만명…2년 동안 43만명 감소’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "연합뉴스",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SdEFIQURJclh3bktETUc2bXVRS1gxZjBBenBMZllwZEFteWlQZTd2ZGtTakZkanBVb2FOZVpTZEt2R2pLaG1yVktGU1BsTGc4cEtfT2tSSXAwcmJSaml4NNIBYEFVX3lxTE1SdEFIQURJclh3bktETUc2bXVRS1gxZjBBenBMZllwZEFteWlQZTd2ZGtTakZkanBVb2FOZVpTZEt2R2pLaG1yVktGU1BsTGc4cEtfT2tSSXAwcmJSaml4NA?oc=5",
+        "published_at": "2026-11-02T01:23:18Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 3,
+          "span_hours": 0.8,
+          "first_report_at": "2026-11-02T01:23:18Z",
+          "last_report_at": "2026-11-02T02:11:50Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SdEFIQURJclh3bktETUc2bXVRS1gxZjBBenBMZllwZEFteWlQZTd2ZGtTakZkanBVb2FOZVpTZEt2R2pLaG1yVktGU1BsTGc4cEtfT2tSSXAwcmJSaml4NNIBYEFVX3lxTE1SdEFIQURJclh3bktETUc2bXVRS1gxZjBBenBMZllwZEFteWlQZTd2ZGtTakZkanBVb2FOZVpTZEt2R2pLaG1yVktGU1BsTGc4cEtfT2tSSXAwcmJSaml4NA?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RYTR2RENWcXVqZWZsWDdWbDNEQm9FdE1sVGpCWi1vbVNNWTlRM3BZMVpWek1Sdmhvd010aGtOYkF0ZGhJVUVGaVdZQ1hmeWhCOHc?oc=5",
+          "sources": [
+            {
+              "name": "뉴스1",
+              "group": "wire:뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RYTR2RENWcXVqZWZsWDdWbDNEQm9FdE1sVGpCWi1vbVNNWTlRM3BZMVpWek1Sdmhvd010aGtOYkF0ZGhJVUVGaVdZQ1hmeWhCOHc?oc=5",
+              "published_at": "2026-11-02T02:11:50Z"
+            },
+            {
+              "name": "서울신문",
+              "group": "seoul.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QQVRiWDJqYnlaSEtWMjJ5NnQ3VWxCYmFOV1hkSTNKNFRLM3pGWGE1cDJnU254X3lZNHNLR1JDV2c5c2N0ZkhpT3lFRGR0cWxQYmxDclNrelVFTTVBUmNBZmo5WU1LbHp1WWlYTmhKbGxXaEE?oc=5",
+              "published_at": "2026-11-02T01:42:11Z"
+            },
+            {
+              "name": "연합뉴스",
+              "group": "wire:연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SdEFIQURJclh3bktETUc2bXVRS1gxZjBBenBMZllwZEFteWlQZTd2ZGtTakZkanBVb2FOZVpTZEt2R2pLaG1yVktGU1BsTGc4cEtfT2tSSXAwcmJSaml4NNIBYEFVX3lxTE1SdEFIQURJclh3bktETUc2bXVRS1gxZjBBenBMZllwZEFteWlQZTd2ZGtTakZkanBVb2FOZVpTZEt2R2pLaG1yVktGU1BsTGc4cEtfT2tSSXAwcmJSaml4NA?oc=5",
+              "published_at": "2026-11-02T01:23:18Z"
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        0,
+        0,
+        3
+      ],
+      "tracking_hours": 17.2,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 17
+    },
+    {
+      "topic": {
+        "id": "7a0f5055919809f311d0",
+        "category": "스포츠",
+        "title": "도둑 맞은 '8호골' 되찾는다! 손흥민, 미네소타전 선발 출격...공격형 미드필더로 '구단 최다 AS 도전'",
+        "summary": "도둑 맞은 '8호골' 되찾는다! 손흥민, 미네소타전 선발 출격...공격형 미드필더로 '구단 최다 AS 도전'",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘도둑 맞은 '8호골' 되찾는다! 손흥민, 미네소타전 선발 출격...공격형 미드필더로 '구단 최다 AS 도전'’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "마이데일리",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92V0NZSmJGb0sxYkNSczdwM1BGVUpMQ2RrTTJISm1fNy05dDNDU1FWbFdaQ1hFbUtYMGJyejUzMVk5WUtLcGtqM0I5Njhub2dXZEk2cTdZdGpyUnE4eHZwaQ?oc=5",
+        "published_at": "2026-11-02T00:48:22Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 3,
+          "span_hours": 0.5,
+          "first_report_at": "2026-11-02T00:44:04Z",
+          "last_report_at": "2026-11-02T01:16:10Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2bWpfTk5yVWhXbkxLNFRfX1k1ajUtbjlpZXQ0VVFNNDdJZUpZR0FjMkg3RXVVa0g1RmdaNHRVU0N3UmZKWkpnR2xTUjdETXhxbThhTmpVd0g4RHNYWTZwM20teGVWQUFSbGJpNnU3NUw?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1QUJBTlEwSXFoNEhaT052RFNVWXNCNXdJak1IaGdCVmk0VHhvV2xnWjE0b0FabzMycWs2Qm9DTnlsUjdnVWtGZzFLMzdIWDN6QzdPNXJGOVhWSVpqWFVjS9IBeEFVX3lxTE9ETXlRZDNEVXNtbHRacEZnWm5aZnJkaVZLTUprMjItNGhWdUhSY2k5Z29idlVUQktteWJWa3dyV0FDTDVicFlNaG52dnpFNnhoWjk4akV4cWU3cHRGOE1JOWxRUFhNdU1ad3dXdGlJendkdU44YnpRdQ?oc=5",
+          "sources": [
+            {
+              "name": "뉴시스",
+              "group": "wire:뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1QUJBTlEwSXFoNEhaT052RFNVWXNCNXdJak1IaGdCVmk0VHhvV2xnWjE0b0FabzMycWs2Qm9DTnlsUjdnVWtGZzFLMzdIWDN6QzdPNXJGOVhWSVpqWFVjS9IBeEFVX3lxTE9ETXlRZDNEVXNtbHRacEZnWm5aZnJkaVZLTUprMjItNGhWdUhSY2k5Z29idlVUQktteWJWa3dyV0FDTDVicFlNaG52dnpFNnhoWjk4akV4cWU3cHRGOE1JOWxRUFhNdU1ad3dXdGlJendkdU44YnpRdQ?oc=5",
+              "published_at": "2026-11-02T01:16:10Z"
+            },
+            {
+              "name": "마이데일리",
+              "group": "mydaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92V0NZSmJGb0sxYkNSczdwM1BGVUpMQ2RrTTJISm1fNy05dDNDU1FWbFdaQ1hFbUtYMGJyejUzMVk5WUtLcGtqM0I5Njhub2dXZEk2cTdZdGpyUnE4eHZwaQ?oc=5",
+              "published_at": "2026-11-02T00:48:22Z"
+            },
+            {
+              "name": "SPOTV NEWS",
+              "group": "spotvnews.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2bWpfTk5yVWhXbkxLNFRfX1k1ajUtbjlpZXQ0VVFNNDdJZUpZR0FjMkg3RXVVa0g1RmdaNHRVU0N3UmZKWkpnR2xTUjdETXhxbThhTmpVd0g4RHNYWTZwM20teGVWQUFSbGJpNnU3NUw?oc=5",
+              "published_at": "2026-11-02T00:44:04Z"
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        0,
+        0,
+        3
+      ],
+      "tracking_hours": 17.2,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 18
+    },
+    {
+      "topic": {
+        "id": "4cc3be50952211700898",
+        "category": "문화·예술",
+        "title": "‘제1회 고운숨결문학상’ 시상식 성료⋯첫 수상자 선정",
+        "summary": "‘제1회 고운숨결문학상’ 시상식 성료⋯첫 수상자 선정",
+        "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 48시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘‘제1회 고운숨결문학상’ 시상식 성료⋯첫 수상자 선정’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+        "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
+        "source": "국민일보",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yVV9OSk9ZM0toalZUZENLMXZiYUVSTjNzZkFZTTAtaDBQVEFxbnd6WmxEWVlSUHlidUh3SHc2WjhQVGdzY2F3d1V3OS04Rk5YMm8tZWJKWTk?oc=5",
+        "published_at": "2026-11-02T01:55:55Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 2,
+          "report_count": 2,
+          "span_hours": 48.9,
+          "first_report_at": "2026-10-31T01:00:00Z",
+          "last_report_at": "2026-11-02T01:55:55Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NTWdmVlZHWGl1SDZ2V2JieG5QTE55MzA4YlN2aXdPai1LcnRCSTF3SEs4RVNVOVhqdGo4RG1xUUQ0V0kyZEVNam43VG82NWliUVFvZk15NVVxRnU3OEJxUzBSYzYtQdIBZkFVX3lxTE1NTWdmVlZHWGl1SDZ2V2JieG5QTE55MzA4YlN2aXdPai1LcnRCSTF3SEs4RVNVOVhqdGo4RG1xUUQ0V0kyZEVNam43VG82NWliUVFvZk15NVVxRnU3OEJxUzBSYzYtQQ?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yVV9OSk9ZM0toalZUZENLMXZiYUVSTjNzZkFZTTAtaDBQVEFxbnd6WmxEWVlSUHlidUh3SHc2WjhQVGdzY2F3d1V3OS04Rk5YMm8tZWJKWTk?oc=5",
+          "sources": [
+            {
+              "name": "국민일보",
+              "group": "kmib.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yVV9OSk9ZM0toalZUZENLMXZiYUVSTjNzZkFZTTAtaDBQVEFxbnd6WmxEWVlSUHlidUh3SHc2WjhQVGdzY2F3d1V3OS04Rk5YMm8tZWJKWTk?oc=5",
+              "published_at": "2026-11-02T01:55:55Z"
+            },
+            {
+              "name": "동아일보",
+              "group": "donga.com",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NTWdmVlZHWGl1SDZ2V2JieG5QTE55MzA4YlN2aXdPai1LcnRCSTF3SEs4RVNVOVhqdGo4RG1xUUQ0V0kyZEVNam43VG82NWliUVFvZk15NVVxRnU3OEJxUzBSYzYtQdIBZkFVX3lxTE1NTWdmVlZHWGl1SDZ2V2JieG5QTE55MzA4YlN2aXdPai1LcnRCSTF3SEs4RVNVOVhqdGo4RG1xUUQ0V0kyZEVNam43VG82NWliUVFvZk15NVVxRnU3OEJxUzBSYzYtQQ?oc=5",
+              "published_at": "2026-10-31T01:00:00Z"
+            }
+          ]
+        }
+      },
+      "source_groups": 2,
+      "daily_sources": [
+        1,
+        0,
+        1
+      ],
+      "tracking_hours": 17.2,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 19
     },
     {
       "topic": {
@@ -829,11 +1171,60 @@
         0,
         1
       ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 14
+      "rank": 20
+    },
+    {
+      "topic": {
+        "id": "38ce977a917696453149",
+        "category": "스포츠",
+        "title": "韓 축구 절망 “이강인 세컨톱 제대로 못 뛴다…” 냉정한 혹평 떴다 “시메오네 감독 LEE 포지션 고민 중”",
+        "summary": "韓 축구 절망 “이강인 세컨톱 제대로 못 뛴다…” 냉정한 혹평 떴다 “시메오네 감독 LEE 포지션 고민 중”",
+        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 31시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘韓 축구 절망 “이강인 세컨톱 제대로 못 뛴다…” 냉정한 혹평 떴다 “시메오네 감독 LEE 포지션 고민 중”’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "SPOTV NEWS",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mQ2VBVm1hRTZweE5ianF2WXJYVV93OE50ODlTeXBhajhVWjF2NFc2bEdTYVpmWlpUWF9qU09zT2dkQUpNWE1BREVKNmdUa1kzRTBONjNacUQydXNncTRHSExpWTBTTEEySHMzRndXY3k?oc=5",
+        "published_at": "2026-11-01T23:31:39Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 2,
+          "report_count": 5,
+          "span_hours": 31.3,
+          "first_report_at": "2026-10-31T16:11:52Z",
+          "last_report_at": "2026-11-01T23:31:39Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yNU1WTzZWbG5ZWmJmSV81ek9iYVM5RmVLMWEwRG00OTZBTFdFaGNXVVRHcFRsNkJxZG1Kd0pwTHo3WWx2M085dnZ5ZVVvTU5KMW45ZWRBWk1HMFVpVVVKMmZ5WVp2a284aEZWMTJkNWZPZjFwRkE?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mQ2VBVm1hRTZweE5ianF2WXJYVV93OE50ODlTeXBhajhVWjF2NFc2bEdTYVpmWlpUWF9qU09zT2dkQUpNWE1BREVKNmdUa1kzRTBONjNacUQydXNncTRHSExpWTBTTEEySHMzRndXY3k?oc=5",
+          "sources": [
+            {
+              "name": "SPOTV NEWS",
+              "group": "spotvnews.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mQ2VBVm1hRTZweE5ianF2WXJYVV93OE50ODlTeXBhajhVWjF2NFc2bEdTYVpmWlpUWF9qU09zT2dkQUpNWE1BREVKNmdUa1kzRTBONjNacUQydXNncTRHSExpWTBTTEEySHMzRndXY3k?oc=5",
+              "published_at": "2026-11-01T23:31:39Z"
+            },
+            {
+              "name": "조선일보",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX2NUWmswWVRRdFdVSHY1c2RFbmZNRGVfUGlHM2FJYU80R21Gb05LeVlJVjlPcnRMdUp6MFh0U2JQZW84VDJaYm8zd3Mwdkl1emlHVDVDbDFDZ2pFb2I2Ry1QLWFGQmpaNmJCNkk1bFlTeUFFYV9pNWRsVTZDZ1VQcGNIU3U3VjNCVGs4?oc=5",
+              "published_at": "2026-10-31T17:54:00Z"
+            }
+          ]
+        }
+      },
+      "source_groups": 2,
+      "daily_sources": [
+        0,
+        1,
+        1
+      ],
+      "tracking_hours": 17.2,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 21
     },
     {
       "topic": {
@@ -874,15 +1265,64 @@
       },
       "source_groups": 2,
       "daily_sources": [
-        0,
         1,
+        0,
         2
       ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 15
+      "rank": 22
+    },
+    {
+      "topic": {
+        "id": "f497695f6c8a390814c6",
+        "category": "경제·주식",
+        "title": "금융위원장 “중소기업 연체율 증가세…지방에 4.5조 원 저리 대출 공급”",
+        "summary": "금융위원장 “중소기업 연체율 증가세…지방에 4.5조 원 저리 대출 공급”",
+        "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 23시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘금융위원장 “중소기업 연체율 증가세…지방에 4.5조 원 저리 대출 공급”’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+        "source": "KBS 뉴스",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SZno4RnQ0NGFpTHp6Z0hfc21MOGF0RE5CSks4VGR5SjFySHpJQ01OVTl6QjREX0o5Q2RSSGFzMUFjRWxEWl9DYTVySkloRGxlTGpLUmMxc0xMVms?oc=5",
+        "published_at": "2026-11-02T05:02:00Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 2,
+          "report_count": 2,
+          "span_hours": 23.3,
+          "first_report_at": "2026-11-01T05:43:12Z",
+          "last_report_at": "2026-11-02T05:02:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fMWFjbzNNZ0tZWjN0M1NnR1VHUUJoZE9MX0VyQWg4Um5PUml1eUxHVmFlV3lrLWdmbGtGVEF0NDdiOEFmS1NlQXpjWDNVelFYSVdnU0ZsbWxSdw?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SZno4RnQ0NGFpTHp6Z0hfc21MOGF0RE5CSks4VGR5SjFySHpJQ01OVTl6QjREX0o5Q2RSSGFzMUFjRWxEWl9DYTVySkloRGxlTGpLUmMxc0xMVms?oc=5",
+          "sources": [
+            {
+              "name": "KBS 뉴스",
+              "group": "kbs.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SZno4RnQ0NGFpTHp6Z0hfc21MOGF0RE5CSks4VGR5SjFySHpJQ01OVTl6QjREX0o5Q2RSSGFzMUFjRWxEWl9DYTVySkloRGxlTGpLUmMxc0xMVms?oc=5",
+              "published_at": "2026-11-02T05:02:00Z"
+            },
+            {
+              "name": "한국경제",
+              "group": "hankyung.com",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fMWFjbzNNZ0tZWjN0M1NnR1VHUUJoZE9MX0VyQWg4Um5PUml1eUxHVmFlV3lrLWdmbGtGVEF0NDdiOEFmS1NlQXpjWDNVelFYSVdnU0ZsbWxSdw?oc=5",
+              "published_at": "2026-11-01T05:43:12Z"
+            }
+          ]
+        }
+      },
+      "source_groups": 2,
+      "daily_sources": [
+        0,
+        1,
+        1
+      ],
+      "tracking_hours": 17.2,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 23
     },
     {
       "topic": {
@@ -927,11 +1367,11 @@
         1,
         1
       ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 16
+      "rank": 24
     },
     {
       "topic": {
@@ -974,13 +1414,111 @@
       "daily_sources": [
         0,
         1,
-        2
+        1
       ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 17
+      "rank": 25
+    },
+    {
+      "topic": {
+        "id": "2bfb60a586baf4676ee9",
+        "category": "기술·과학",
+        "title": "\"메타, 中 기업과 협력한 휴머노이드 로봇 시제품 선봬\"",
+        "summary": "\"메타, 中 기업과 협력한 휴머노이드 로봇 시제품 선봬\"",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 18시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘\"메타, 中 기업과 협력한 휴머노이드 로봇 시제품 선봬\"’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+        "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+        "source": "연합뉴스",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEWTlGUWVQNXVaTWRnbWh3YW45M1h3bWlFckpadDZhTFBldWtVSzdMVkljZ21tc3p4ODYzbDM3SDJhSjNIR1dwd0NrYkNfa0lzMm95bTE5Rk1MRzg?oc=5",
+        "published_at": "2026-11-02T01:18:07Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 2,
+          "report_count": 3,
+          "span_hours": 18.6,
+          "first_report_at": "2026-11-01T06:43:00Z",
+          "last_report_at": "2026-11-02T01:18:07Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jcFVFcVMzTUxKY2hhTmFPZWdZR2dLQmx1aWltZl9jNHNfZmM3VXNPekpTdUtVdDZ0UmtlT2VzTWNGVnVrZ2kwenBIVEo1SUdRTVBZUDBNcmktVklNY0RsdnoxOWNlS3ZUWG9iNDJMONIBZkFVX3lxTE9WNUtsVlBRMDRhMkQtcmRfa1ZBek5aR3A2WDVEVXZCNFhWZE5MbGh3eEFFU1BjM3dDODBycHJYMlg1RlhKTWZFenVlMGdhLThoM2JFTEVSTzRiUG44R3FJSGFFUHIydw?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEWTlGUWVQNXVaTWRnbWh3YW45M1h3bWlFckpadDZhTFBldWtVSzdMVkljZ21tc3p4ODYzbDM3SDJhSjNIR1dwd0NrYkNfa0lzMm95bTE5Rk1MRzg?oc=5",
+          "sources": [
+            {
+              "name": "연합뉴스",
+              "group": "wire:연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEWTlGUWVQNXVaTWRnbWh3YW45M1h3bWlFckpadDZhTFBldWtVSzdMVkljZ21tc3p4ODYzbDM3SDJhSjNIR1dwd0NrYkNfa0lzMm95bTE5Rk1MRzg?oc=5",
+              "published_at": "2026-11-02T01:18:07Z"
+            },
+            {
+              "name": "동아일보",
+              "group": "donga.com",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hZ0JiQnh3UFNjU2pDUGd1eTdaaks0OWVTVHhVM09zaHlqNktzeVRJVVQ3UHdpc1dXOHJkY2I0cDJBMC1mTUZodWRkekQyaGpjSEVhY0QwbXZLblJVd0hXWUxfUHgxRjR6enFVSE9saUNNMTlCNVHSAWZBVV95cUxNVHl5RzgxOTdfRW1GaDVZb1BjaHNtaG1YZllPM2JPdUhDUUNnT3A4ODFPTEdqc21Bc0QxTzVHb0pkNlZQQ2RZbDRDdmJuNk5pYUhaTGUtYjF2a01IUlVDTDFycUxxN3c?oc=5",
+              "published_at": "2026-11-01T15:30:00Z"
+            }
+          ]
+        }
+      },
+      "source_groups": 2,
+      "daily_sources": [
+        0,
+        0,
+        2
+      ],
+      "tracking_hours": 17.2,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 26
+    },
+    {
+      "topic": {
+        "id": "6ef6e1f1a229b9a4f33a",
+        "category": "스포츠",
+        "title": "[그래픽] 2026 KBO 한국시리즈 'KT vs 삼성' 경기 일정",
+        "summary": "[그래픽] 2026 KBO 한국시리즈 'KT vs 삼성' 경기 일정",
+        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 17시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘[그래픽] 2026 KBO 한국시리즈 'KT vs 삼성' 경기 일정’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "뉴시스",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95WUtZakJoWUctcHRkVW1iTnltZllvWklOMjdHWUZyQnFYNHhXV2w1Q2xEN3p5ZmNsZFhPSldERGZvdlBOc0h5d09UQ01JTFNwQlNjZkJ4VG9hOGxSeUFyY09BXzBxZw?oc=5",
+        "published_at": "2026-11-02T00:43:08Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 2,
+          "report_count": 5,
+          "span_hours": 17.0,
+          "first_report_at": "2026-11-01T07:44:46Z",
+          "last_report_at": "2026-11-02T00:43:08Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjT29VN3lNcVFGWDhrRHhaNHlQMGJVRUxaeXVhamZDZE5YNGR4SFFYZG1HQnBzSnNwUGxoblpTUl93UDI3UDdQcF8zRURnbFAwYjhXRVYwMVNIemvSAWBBVV95cUxOZWxMUGtlRkJXNEFMY20yMkZqczd6bXFkVmNXWnRsM1ZRNjliLV9RazBTOGpqdmRwdHBWUG5vYzVYRXhxOGhjRlgweC10cUYzV3VpRk5BWTZrT2FfYjlBTF8?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95WUtZakJoWUctcHRkVW1iTnltZllvWklOMjdHWUZyQnFYNHhXV2w1Q2xEN3p5ZmNsZFhPSldERGZvdlBOc0h5d09UQ01JTFNwQlNjZkJ4VG9hOGxSeUFyY09BXzBxZw?oc=5",
+          "sources": [
+            {
+              "name": "뉴시스",
+              "group": "wire:뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95WUtZakJoWUctcHRkVW1iTnltZllvWklOMjdHWUZyQnFYNHhXV2w1Q2xEN3p5ZmNsZFhPSldERGZvdlBOc0h5d09UQ01JTFNwQlNjZkJ4VG9hOGxSeUFyY09BXzBxZw?oc=5",
+              "published_at": "2026-11-02T00:43:08Z"
+            },
+            {
+              "name": "뉴스1",
+              "group": "wire:뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1JY3F6bWs2RmxCYml1RmxLaE5GOXdoODlHZTZvNnFZdDZIbjBDSUc5bGJBZlYxVmJYbVBqWWtVY0txaVUzQkZvLVNjMA?oc=5",
+              "published_at": "2026-11-01T08:16:06Z"
+            }
+          ]
+        }
+      },
+      "source_groups": 2,
+      "daily_sources": [
+        0,
+        0,
+        2
+      ],
+      "tracking_hours": 17.2,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 27
     },
     {
       "topic": {
@@ -1021,64 +1559,64 @@
       },
       "source_groups": 2,
       "daily_sources": [
-        1,
-        1,
+        2,
+        0,
         0
       ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 18
+      "rank": 28
     },
     {
       "topic": {
-        "id": "d446dd41d5de2feb34e5",
-        "category": "문화·예술",
-        "title": "[요즘 서점가] 하루키 신작소설 ‘가호’ 교보 베스트셀러 1위",
-        "summary": "[요즘 서점가] 하루키 신작소설 ‘가호’ 교보 베스트셀러 1위",
-        "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 14시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘[요즘 서점가] 하루키 신작소설 ‘가호’ 교보 베스트셀러 1위’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
-        "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-        "source": "조선일보",
-        "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMU81Rm1Yem9qdHVaN21QV1JKb2FJQUN0eDV4bU1fRDg5ZWI5MUFSUHBaMFMyTkxqa1V3OFNFSy1CZGxBZ0RtemdZRjB1WlFlUjlld01fTl9iS0h3NmJVaXQycEFtU01aLU1Gbks1N3FENzAwNHBteWt5OWFPdUxjOE9YTjFtZw?oc=5",
-        "published_at": "2026-10-30T15:41:00Z",
+        "id": "c950eb2cb4786b4e535d",
+        "category": "경제·주식",
+        "title": "코스피 6천피 회복할까…AI 실적·미국 중간선거에 쏠린 눈",
+        "summary": "코스피 6천피 회복할까…AI 실적·미국 중간선거에 쏠린 눈",
+        "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 15시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘코스피 6천피 회복할까…AI 실적·미국 중간선거에 쏠린 눈’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+        "source": "매일경제",
+        "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hZkE3VnR2Tld5czV1bWE0WUFmNGJMaEdMTWJZVU1OU0hIWUczVDhaNEhpR01zampuRzdhRUFZd3pRdkJ6ZXBnd01xRHByN0dJUEE?oc=5",
+        "published_at": "2026-11-01T22:59:36Z",
         "evidence": "headline",
         "coverage": {
           "source_groups": 2,
           "report_count": 2,
-          "span_hours": 14.2,
-          "first_report_at": "2026-10-30T01:30:00Z",
-          "last_report_at": "2026-10-30T15:41:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EcWs0eE5TX25pQ0xnYngzTW9lMTBVbWx4QjNmc1NMLU01UHZzSFNLenhyYXN3dlhBZ2xaQnRUeXJrQWZNTVZqb2dsOWtQaFE1WTlTalFqdHJ4d9IBX0FVX3lxTE1mYWtoSjk5ZzN2SFM1clFDSXhBa29lM2RVOFo3WFJPTFpOdWZraDJidXQydm9rMmkwTENVZFdsa3BGRW5EMy1aSGVfSTJORTdLMkl2VVhRRUhYTkZhX1FR?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMU81Rm1Yem9qdHVaN21QV1JKb2FJQUN0eDV4bU1fRDg5ZWI5MUFSUHBaMFMyTkxqa1V3OFNFSy1CZGxBZ0RtemdZRjB1WlFlUjlld01fTl9iS0h3NmJVaXQycEFtU01aLU1Gbks1N3FENzAwNHBteWt5OWFPdUxjOE9YTjFtZw?oc=5",
+          "span_hours": 15.0,
+          "first_report_at": "2026-11-01T08:00:00Z",
+          "last_report_at": "2026-11-01T22:59:36Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TR0o0aFVlN3k5UkNhU1J6b2hGcDNXMDdRWHF1dTZuRnZjdEhBeENnZDVXTmVQWWVwbHFNR1BTQ09MTzlzME1UanQtX0l6TnJmaUh4WTFJY1NHdU1UOVUyX1VDckM3Ni1VZUptQnVn0gFzQVVfeXFMT1hSRGNRR1dMUUVUd0hvRVV2c2Q1X1pHblNXc21EYXpJNS1meU55ZVByNHR4SDJ1dlkyS0RlNEhhS3J6RWpkbDJsalJtM0xkajdESGd3aFRqcUpuVU95MGdTN0FaV2JYc3BlekRXSllPRldtVQ?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hZkE3VnR2Tld5czV1bWE0WUFmNGJMaEdMTWJZVU1OU0hIWUczVDhaNEhpR01zampuRzdhRUFZd3pRdkJ6ZXBnd01xRHByN0dJUEE?oc=5",
           "sources": [
             {
-              "name": "조선일보",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMU81Rm1Yem9qdHVaN21QV1JKb2FJQUN0eDV4bU1fRDg5ZWI5MUFSUHBaMFMyTkxqa1V3OFNFSy1CZGxBZ0RtemdZRjB1WlFlUjlld01fTl9iS0h3NmJVaXQycEFtU01aLU1Gbks1N3FENzAwNHBteWt5OWFPdUxjOE9YTjFtZw?oc=5",
-              "published_at": "2026-10-30T15:41:00Z"
+              "name": "매일경제",
+              "group": "mk.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hZkE3VnR2Tld5czV1bWE0WUFmNGJMaEdMTWJZVU1OU0hIWUczVDhaNEhpR01zampuRzdhRUFZd3pRdkJ6ZXBnd01xRHByN0dJUEE?oc=5",
+              "published_at": "2026-11-01T22:59:36Z"
             },
             {
-              "name": "경향신문",
-              "group": "khan.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EcWs0eE5TX25pQ0xnYngzTW9lMTBVbWx4QjNmc1NMLU01UHZzSFNLenhyYXN3dlhBZ2xaQnRUeXJrQWZNTVZqb2dsOWtQaFE1WTlTalFqdHJ4d9IBX0FVX3lxTE1mYWtoSjk5ZzN2SFM1clFDSXhBa29lM2RVOFo3WFJPTFpOdWZraDJidXQydm9rMmkwTENVZFdsa3BGRW5EMy1aSGVfSTJORTdLMkl2VVhRRUhYTkZhX1FR?oc=5",
-              "published_at": "2026-10-30T01:30:00Z"
+              "name": "한국일보",
+              "group": "hankookilbo.com",
+              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TR0o0aFVlN3k5UkNhU1J6b2hGcDNXMDdRWHF1dTZuRnZjdEhBeENnZDVXTmVQWWVwbHFNR1BTQ09MTzlzME1UanQtX0l6TnJmaUh4WTFJY1NHdU1UOVUyX1VDckM3Ni1VZUptQnVn0gFzQVVfeXFMT1hSRGNRR1dMUUVUd0hvRVV2c2Q1X1pHblNXc21EYXpJNS1meU55ZVByNHR4SDJ1dlkyS0RlNEhhS3J6RWpkbDJsalJtM0xkajdESGd3aFRqcUpuVU95MGdTN0FaV2JYc3BlekRXSllPRldtVQ?oc=5",
+              "published_at": "2026-11-01T08:00:00Z"
             }
           ]
         }
       },
       "source_groups": 2,
       "daily_sources": [
-        2,
         0,
-        0
+        0,
+        2
       ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 19
+      "rank": 29
     },
     {
       "topic": {
@@ -1123,497 +1661,7 @@
         0,
         2
       ],
-      "tracking_hours": 9.2,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 20
-    },
-    {
-      "topic": {
-        "id": "3d29444990c5130ab500",
-        "category": "스포츠",
-        "title": "'캡틴 손흥민 왕따설' 대한민국, 오히려 좋아?...카타르 매체 \"아시안컵 1년 전격 연기\"",
-        "summary": "'캡틴 손흥민 왕따설' 대한민국, 오히려 좋아?...카타르 매체 \"아시안컵 1년 전격 연기\"",
-        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘'캡틴 손흥민 왕따설' 대한민국, 오히려 좋아?...카타르 매체 \"아시안컵 1년 전격 연기\"’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "스포츠조선",
-        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Sc0Nib3c0Z2dEREEtTHVndmVjZDZtZUdLTUNpSnJ4SUdaQkN6SVh1LTJWb2JDRUM4R01iOEFiQ1U3dFh0YUhWNVpWeUFYTTg3TzMtaGVEQWJVM0psUTB5dmpkNm9Xbk9aVmwyYUNOSUtPV0lWQXZRci1obDZLQQ?oc=5",
-        "published_at": "2026-11-01T20:00:44Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 2,
-          "report_count": 5,
-          "span_hours": 10.9,
-          "first_report_at": "2026-11-01T09:07:33Z",
-          "last_report_at": "2026-11-01T20:00:44Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sdUZiRC1MWEVXVTNkVkxQNm5MaGYtdjdpU0lBRm5iUUxjWThDOUJVbHZHUnZWa3N3cGx0QUN1SnVjVEItelE5WkYxcVNrMzhGR1RCblZuU245S20zUFFYY2ZQMmdjQzF3ODVVNzBsZjFNTnJOMGNCZzRPdGZjQQ?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Sc0Nib3c0Z2dEREEtTHVndmVjZDZtZUdLTUNpSnJ4SUdaQkN6SVh1LTJWb2JDRUM4R01iOEFiQ1U3dFh0YUhWNVpWeUFYTTg3TzMtaGVEQWJVM0psUTB5dmpkNm9Xbk9aVmwyYUNOSUtPV0lWQXZRci1obDZLQQ?oc=5",
-          "sources": [
-            {
-              "name": "스포츠조선",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Sc0Nib3c0Z2dEREEtTHVndmVjZDZtZUdLTUNpSnJ4SUdaQkN6SVh1LTJWb2JDRUM4R01iOEFiQ1U3dFh0YUhWNVpWeUFYTTg3TzMtaGVEQWJVM0psUTB5dmpkNm9Xbk9aVmwyYUNOSUtPV0lWQXZRci1obDZLQQ?oc=5",
-              "published_at": "2026-11-01T20:00:44Z"
-            },
-            {
-              "name": "SPOTV NEWS",
-              "group": "spotvnews.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByMWxmaVpVa3lNNjh4N0FqaVZ1cVZLakZ4NGFKOWtwd3E5MHhMVFlTZUkzRVFvenJxR3BKU2lMd3EzUVhBUnRrb0V5dWxKZjB5cEpQcTJkNzhRWV9aaTYyV2VGdDJoRGJHamQyRWwzWHE?oc=5",
-              "published_at": "2026-11-01T14:00:00Z"
-            }
-          ]
-        }
-      },
-      "source_groups": 2,
-      "daily_sources": [
-        0,
-        0,
-        2
-      ],
-      "tracking_hours": 9.2,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 21
-    },
-    {
-      "topic": {
-        "id": "f5cdb8754aff5d554b7e",
-        "category": "기술·과학",
-        "title": "국민AI서비스혁신추진단장에 김세웅 전 카카오 부사장",
-        "summary": "국민AI서비스혁신추진단장에 김세웅 전 카카오 부사장",
-        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘국민AI서비스혁신추진단장에 김세웅 전 카카오 부사장’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
-        "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-        "source": "아시아경제",
-        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KMFJ4MFRCczZNU2FxTVh1QzBvZllRaDY4WmllNXNybXdYcTdsbXJjMENaaWx6endSSmhUeURROW9KTF8wRkxHdTF5R1A1UzBJVEEwZTlqQ0tFWmhHM0J1QQ?oc=5",
-        "published_at": "2026-11-01T13:34:01Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 2,
-          "report_count": 5,
-          "span_hours": 10.6,
-          "first_report_at": "2026-11-01T03:00:05Z",
-          "last_report_at": "2026-11-01T13:34:01Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYUTlLZEQtaFVYenowckhFb1R0a0N1QmRVdGNXekdMQXNKNDU2dlgySWI5T0Y5U1dDUFZlZjRsRENhbWpOdDAxSURWbW5Vdl9lS3pYbDJPaGdYN0nSAWBBVV95cUxPRGRqNS1ZRXRjdkhvMmxZejhkaThHbmo5QUU0bGp1OTNOd2VWTUNfYUVMd1djejcxbjM3VkJ3ZHBrcVdMbnpqYnlUQ2JvU0FaMVo1Zy1TWi1RVFBtSU1nV0I?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KMFJ4MFRCczZNU2FxTVh1QzBvZllRaDY4WmllNXNybXdYcTdsbXJjMENaaWx6endSSmhUeURROW9KTF8wRkxHdTF5R1A1UzBJVEEwZTlqQ0tFWmhHM0J1QQ?oc=5",
-          "sources": [
-            {
-              "name": "아시아경제",
-              "group": "asiae.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KMFJ4MFRCczZNU2FxTVh1QzBvZllRaDY4WmllNXNybXdYcTdsbXJjMENaaWx6endSSmhUeURROW9KTF8wRkxHdTF5R1A1UzBJVEEwZTlqQ0tFWmhHM0J1QQ?oc=5",
-              "published_at": "2026-11-01T13:34:01Z"
-            },
-            {
-              "name": "MBC 뉴스",
-              "group": "imbc.com",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pRUtzX2c3cWdJUFQ0al9BdXY2S2JmVTRlRlpLcVJULXgxUExKdDNlcENTd0toaTlNOWtMTjRvenJWYU5zSmotTHJ3UXBFZTZCaTUzX1hCaXlZRFZCVDRWZm9LSW1hYTg0NTFLSnlPWWpCcU9Q0gF0QVVfeXFMUHhURlZVdThwcUdVRWZyQXVDbzZReE9TeDVGQldIYnBpS0phbWkzSFhja2k4bUR0SGFOTnZ3SWtFZzcxNzZLcEE3Ujc5OGIzUU1fWGhfU1ZkbmYzWjJFdjJ1REVsakV5NGx4dXJSaWFGV1JlSjk?oc=5",
-              "published_at": "2026-11-01T04:34:57Z"
-            }
-          ]
-        }
-      },
-      "source_groups": 2,
-      "daily_sources": [
-        0,
-        0,
-        2
-      ],
-      "tracking_hours": 9.2,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 22
-    },
-    {
-      "topic": {
-        "id": "644b23655eecdaeb245c",
-        "category": "기술·과학",
-        "title": "AI 안경 쓰고 美 SAT 풀어보니… 제미나이, 문제 83% 정답 맞혀",
-        "summary": "AI 안경 쓰고 美 SAT 풀어보니… 제미나이, 문제 83% 정답 맞혀",
-        "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘AI 안경 쓰고 美 SAT 풀어보니… 제미나이, 문제 83% 정답 맞혀’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
-        "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-        "source": "조선일보",
-        "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQURVWlBUZnVlS09JbHNOWjVfTG85cDRTanNjWndoNkJKRDlJUXJTYUYxY0RMeXNsU1BwUElBdjZlWVF4Z0FVQjFJZ3dTMlVqVFU4RWdGSWlQallkek1JcS1YWEdJYWh1SG11T3c5NjV3b2M5RHdfSktDZ0lra0JLb0pGbw?oc=5",
-        "published_at": "2026-11-01T15:34:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 2,
-          "report_count": 2,
-          "span_hours": 10.2,
-          "first_report_at": "2026-11-01T05:20:00Z",
-          "last_report_at": "2026-11-01T15:34:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5SGNYU3k5MXNkMVJoZlE0dEZxZ1hmRm10RGc1NGUtbHRySUY5Z1VtMXZWYzJnLUkzNDN6UVRCcE8xdExkc3hRQXlRaFViWmIybGdHSDdyeXd6UWp1eEFF?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQURVWlBUZnVlS09JbHNOWjVfTG85cDRTanNjWndoNkJKRDlJUXJTYUYxY0RMeXNsU1BwUElBdjZlWVF4Z0FVQjFJZ3dTMlVqVFU4RWdGSWlQallkek1JcS1YWEdJYWh1SG11T3c5NjV3b2M5RHdfSktDZ0lra0JLb0pGbw?oc=5",
-          "sources": [
-            {
-              "name": "조선일보",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQURVWlBUZnVlS09JbHNOWjVfTG85cDRTanNjWndoNkJKRDlJUXJTYUYxY0RMeXNsU1BwUElBdjZlWVF4Z0FVQjFJZ3dTMlVqVFU4RWdGSWlQallkek1JcS1YWEdJYWh1SG11T3c5NjV3b2M5RHdfSktDZ0lra0JLb0pGbw?oc=5",
-              "published_at": "2026-11-01T15:34:00Z"
-            },
-            {
-              "name": "YTN",
-              "group": "ytn.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5SGNYU3k5MXNkMVJoZlE0dEZxZ1hmRm10RGc1NGUtbHRySUY5Z1VtMXZWYzJnLUkzNDN6UVRCcE8xdExkc3hRQXlRaFViWmIybGdHSDdyeXd6UWp1eEFF?oc=5",
-              "published_at": "2026-11-01T05:20:00Z"
-            }
-          ]
-        }
-      },
-      "source_groups": 2,
-      "daily_sources": [
-        0,
-        0,
-        2
-      ],
-      "tracking_hours": 9.2,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 23
-    },
-    {
-      "topic": {
-        "id": "7198f9f84a5c3142bd0a",
-        "category": "스포츠",
-        "title": "307억 타자 노시환, MLB 노크… “3루수 자원 부족해 유리”",
-        "summary": "307억 타자 노시환, MLB 노크… “3루수 자원 부족해 유리”",
-        "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 8시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘307억 타자 노시환, MLB 노크… “3루수 자원 부족해 유리”’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "서울신문",
-        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81V2dXVXhwdzZIeTM0MVk3QTM1bk9sdHkySmFZQy1paW9sRTFDZktIYW5uWThKcko3cjZxano5ZnlDVTN3TkRFaTdwemlTQl8tSGVhR2tIbkdIYW1lM1RUUkZBVy1jdUpRSkdaSkNBcXN6dUpZYVlHcQ?oc=5",
-        "published_at": "2026-11-01T13:06:10Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 2,
-          "report_count": 2,
-          "span_hours": 8.6,
-          "first_report_at": "2026-11-01T04:31:48Z",
-          "last_report_at": "2026-11-01T13:06:10Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JcHVRNGswMkV6ZTR0Qmo0VE1IYkxIb2ptaGRfWUc0cy1tUGx5bUNlZGF2dEwyZW9Cd19VTjFNbFZhcXpMbkhldlNmWGJSYUVqdGFuQ2JxWlh0NE1HN0JtOHJBMXRlaHptaDRBS0xLZ0tFQVc40gFmQVVfeXFMT1RacFRNLVc5cDZoVGhkN0pYRDJ0SGJkY0NsNmZoc2RWWXNEVGRuWjh6Mi0waE9uLWZHQk5tRzVtcjlOWTN1MndyTGJCbl9rN0dsOThEWndWMVBiVDZfLW4xMkJ0SFdn?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81V2dXVXhwdzZIeTM0MVk3QTM1bk9sdHkySmFZQy1paW9sRTFDZktIYW5uWThKcko3cjZxano5ZnlDVTN3TkRFaTdwemlTQl8tSGVhR2tIbkdIYW1lM1RUUkZBVy1jdUpRSkdaSkNBcXN6dUpZYVlHcQ?oc=5",
-          "sources": [
-            {
-              "name": "서울신문",
-              "group": "seoul.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81V2dXVXhwdzZIeTM0MVk3QTM1bk9sdHkySmFZQy1paW9sRTFDZktIYW5uWThKcko3cjZxano5ZnlDVTN3TkRFaTdwemlTQl8tSGVhR2tIbkdIYW1lM1RUUkZBVy1jdUpRSkdaSkNBcXN6dUpZYVlHcQ?oc=5",
-              "published_at": "2026-11-01T13:06:10Z"
-            },
-            {
-              "name": "동아일보",
-              "group": "donga.com",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1JcHVRNGswMkV6ZTR0Qmo0VE1IYkxIb2ptaGRfWUc0cy1tUGx5bUNlZGF2dEwyZW9Cd19VTjFNbFZhcXpMbkhldlNmWGJSYUVqdGFuQ2JxWlh0NE1HN0JtOHJBMXRlaHptaDRBS0xLZ0tFQVc40gFmQVVfeXFMT1RacFRNLVc5cDZoVGhkN0pYRDJ0SGJkY0NsNmZoc2RWWXNEVGRuWjh6Mi0waE9uLWZHQk5tRzVtcjlOWTN1MndyTGJCbl9rN0dsOThEWndWMVBiVDZfLW4xMkJ0SFdn?oc=5",
-              "published_at": "2026-11-01T04:31:48Z"
-            }
-          ]
-        }
-      },
-      "source_groups": 2,
-      "daily_sources": [
-        0,
-        0,
-        2
-      ],
-      "tracking_hours": 9.2,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 24
-    },
-    {
-      "topic": {
-        "id": "796548d9a03c6fee9e20",
-        "category": "연예",
-        "title": "유재석 '예능 사관학교' 갇힌 한상진·허성태",
-        "summary": "유재석 '예능 사관학교' 갇힌 한상진·허성태",
-        "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 7시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘유재석 '예능 사관학교' 갇힌 한상진·허성태’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-        "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-        "source": "뉴시스",
-        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yZW02Y3k3WmM2VUp3Z2p0T1JqTEdsdjYyYXBZV204aGZ2SUlqVk9iUW5NZ1JPTzVMZi1FQTVjMW9rSmY2Z0VZZUVsTzNzdmtfU0o4RE1EM0cta0ZtZ2N5OElOa0NmaUhOcldjbkUwM0x5WDRYQnBDUNIBeEFVX3lxTE8yZW02Y3k3WmM2VUp3Z2p0T1JqTEdsdjYyYXBZV204aGZ2SUlqVk9iUW5NZ1JPTzVMZi1FQTVjMW9rSmY2Z0VZZUVsTzNzdmtfU0o4RE1EM0cta0ZtZ2N5OElOa0NmaUhOcldjbkUwM0x5WDRYQnBDUA?oc=5",
-        "published_at": "2026-11-01T09:30:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 2,
-          "report_count": 2,
-          "span_hours": 7.4,
-          "first_report_at": "2026-11-01T02:08:33Z",
-          "last_report_at": "2026-11-01T09:30:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DcjhOSjFaaDR5Q2xoZnVfckJ0V2oydnNSeVNwdV84N0d6RmRBY2ltbjFIRHNDc3ZDaEtrMmVHalJvT3Y4LU1YSWtRT29hNVFvT3IzNzUyU21URGR1dmxhczRZaUxqTDJoYXQ1S05B?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yZW02Y3k3WmM2VUp3Z2p0T1JqTEdsdjYyYXBZV204aGZ2SUlqVk9iUW5NZ1JPTzVMZi1FQTVjMW9rSmY2Z0VZZUVsTzNzdmtfU0o4RE1EM0cta0ZtZ2N5OElOa0NmaUhOcldjbkUwM0x5WDRYQnBDUNIBeEFVX3lxTE8yZW02Y3k3WmM2VUp3Z2p0T1JqTEdsdjYyYXBZV204aGZ2SUlqVk9iUW5NZ1JPTzVMZi1FQTVjMW9rSmY2Z0VZZUVsTzNzdmtfU0o4RE1EM0cta0ZtZ2N5OElOa0NmaUhOcldjbkUwM0x5WDRYQnBDUA?oc=5",
-          "sources": [
-            {
-              "name": "뉴시스",
-              "group": "wire:뉴시스",
-              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yZW02Y3k3WmM2VUp3Z2p0T1JqTEdsdjYyYXBZV204aGZ2SUlqVk9iUW5NZ1JPTzVMZi1FQTVjMW9rSmY2Z0VZZUVsTzNzdmtfU0o4RE1EM0cta0ZtZ2N5OElOa0NmaUhOcldjbkUwM0x5WDRYQnBDUNIBeEFVX3lxTE8yZW02Y3k3WmM2VUp3Z2p0T1JqTEdsdjYyYXBZV204aGZ2SUlqVk9iUW5NZ1JPTzVMZi1FQTVjMW9rSmY2Z0VZZUVsTzNzdmtfU0o4RE1EM0cta0ZtZ2N5OElOa0NmaUhOcldjbkUwM0x5WDRYQnBDUA?oc=5",
-              "published_at": "2026-11-01T09:30:00Z"
-            },
-            {
-              "name": "스포츠동아",
-              "group": "donga.com",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DcjhOSjFaaDR5Q2xoZnVfckJ0V2oydnNSeVNwdV84N0d6RmRBY2ltbjFIRHNDc3ZDaEtrMmVHalJvT3Y4LU1YSWtRT29hNVFvT3IzNzUyU21URGR1dmxhczRZaUxqTDJoYXQ1S05B?oc=5",
-              "published_at": "2026-11-01T02:08:33Z"
-            }
-          ]
-        }
-      },
-      "source_groups": 2,
-      "daily_sources": [
-        0,
-        0,
-        2
-      ],
-      "tracking_hours": 9.2,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 25
-    },
-    {
-      "topic": {
-        "id": "0586edbf54c6d7bd7376",
-        "category": "기술·과학",
-        "title": "21일 걸리던 업무, 8일로…HD현대로보틱스·팔란티어 '피지컬AI' 고도화",
-        "summary": "21일 걸리던 업무, 8일로…HD현대로보틱스·팔란티어 '피지컬AI' 고도화",
-        "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘21일 걸리던 업무, 8일로…HD현대로보틱스·팔란티어 '피지컬AI' 고도화’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
-        "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-        "source": "지디넷코리아",
-        "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1COXBpLXliZlhyRGRJRXpDYjVWTkUtTFFRcXdNTXlNSktaRmV1RFIzZmdYS3JqQm9YdHl5d1dkV3B2Mi00TXFiZDlVRGx1eDlFREF2WFVR?oc=5",
-        "published_at": "2026-11-01T06:58:47Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 2,
-          "report_count": 2,
-          "span_hours": 6.5,
-          "first_report_at": "2026-11-01T00:30:50Z",
-          "last_report_at": "2026-11-01T06:58:47Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHQVhfWjVSbjRVeE9QRmRjT0NQOVVWMHdWN3Q2UUdxVERVNlFfQ2tmM1JBaHJ1cVYtRjZmbV9Tc0tPa1JNUFFVeXNiaDB4VldzWExGVjNiREJPRlVsYWFjedIBYEFVX3lxTFBHQVhfWjVSbjRVeE9QRmRjT0NQOVVWMHdWN3Q2UUdxVERVNlFfQ2tmM1JBaHJ1cVYtRjZmbV9Tc0tPa1JNUFFVeXNiaDB4VldzWExGVjNiREJPRlVsYWFjeQ?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1COXBpLXliZlhyRGRJRXpDYjVWTkUtTFFRcXdNTXlNSktaRmV1RFIzZmdYS3JqQm9YdHl5d1dkV3B2Mi00TXFiZDlVRGx1eDlFREF2WFVR?oc=5",
-          "sources": [
-            {
-              "name": "지디넷코리아",
-              "group": "zdnet.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1COXBpLXliZlhyRGRJRXpDYjVWTkUtTFFRcXdNTXlNSktaRmV1RFIzZmdYS3JqQm9YdHl5d1dkV3B2Mi00TXFiZDlVRGx1eDlFREF2WFVR?oc=5",
-              "published_at": "2026-11-01T06:58:47Z"
-            },
-            {
-              "name": "연합뉴스",
-              "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHQVhfWjVSbjRVeE9QRmRjT0NQOVVWMHdWN3Q2UUdxVERVNlFfQ2tmM1JBaHJ1cVYtRjZmbV9Tc0tPa1JNUFFVeXNiaDB4VldzWExGVjNiREJPRlVsYWFjedIBYEFVX3lxTFBHQVhfWjVSbjRVeE9QRmRjT0NQOVVWMHdWN3Q2UUdxVERVNlFfQ2tmM1JBaHJ1cVYtRjZmbV9Tc0tPa1JNUFFVeXNiaDB4VldzWExGVjNiREJPRlVsYWFjeQ?oc=5",
-              "published_at": "2026-11-01T00:30:50Z"
-            }
-          ]
-        }
-      },
-      "source_groups": 2,
-      "daily_sources": [
-        0,
-        0,
-        2
-      ],
-      "tracking_hours": 9.2,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 26
-    },
-    {
-      "topic": {
-        "id": "f07f935cae493806add1",
-        "category": "경제·주식",
-        "title": "대규모 정보유출 日 IT대기업 \"해킹 배후에 北‥정부에 보고\"",
-        "summary": "대규모 정보유출 日 IT대기업 \"해킹 배후에 北‥정부에 보고\"",
-        "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘대규모 정보유출 日 IT대기업 \"해킹 배후에 北‥정부에 보고\"’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
-        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-        "source": "MBC 뉴스",
-        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KZjZRSkRFOFNNN082ZTFhZUctWmJOYmF1UXlKcGw5N25OZU82Z1Z4d0laOGRMc1FXenpvRkdGWFNDejJpVDg2cDRRZWx4Ym9Id1hfay1oS2JuQ2dYTzVBYkwtVC1vTDBVS3JORHNjUHBwdWFt0gF0QVVfeXFMTmFfVTlNOHBhc0N3eUFadzN1cVI5ZGtRekVrelhpMXJOenpMd0tVNmc5SFdDbW00ajNRQzBuN1FrWVRoS2s4YnI2LS04aW91bjRmQmVDUnlCMEhlSU43TndXMUdod09CN0xGNVdQMUxUektUcWg?oc=5",
-        "published_at": "2026-11-01T18:47:46Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 2,
-          "report_count": 2,
-          "span_hours": 6.2,
-          "first_report_at": "2026-11-01T12:36:00Z",
-          "last_report_at": "2026-11-01T18:47:46Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50cUc2TE0xcmt0bEtEN3dWRHdrUkhiYWQwMDhlb3dfRXN6eXJVSU9wbm9nSlBBTDZmNU5qMmxfMmdKbktmZVZad3RJVVg4WGs3ZmVFbjRZemZNa2M?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KZjZRSkRFOFNNN082ZTFhZUctWmJOYmF1UXlKcGw5N25OZU82Z1Z4d0laOGRMc1FXenpvRkdGWFNDejJpVDg2cDRRZWx4Ym9Id1hfay1oS2JuQ2dYTzVBYkwtVC1vTDBVS3JORHNjUHBwdWFt0gF0QVVfeXFMTmFfVTlNOHBhc0N3eUFadzN1cVI5ZGtRekVrelhpMXJOenpMd0tVNmc5SFdDbW00ajNRQzBuN1FrWVRoS2s4YnI2LS04aW91bjRmQmVDUnlCMEhlSU43TndXMUdod09CN0xGNVdQMUxUektUcWg?oc=5",
-          "sources": [
-            {
-              "name": "MBC 뉴스",
-              "group": "imbc.com",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KZjZRSkRFOFNNN082ZTFhZUctWmJOYmF1UXlKcGw5N25OZU82Z1Z4d0laOGRMc1FXenpvRkdGWFNDejJpVDg2cDRRZWx4Ym9Id1hfay1oS2JuQ2dYTzVBYkwtVC1vTDBVS3JORHNjUHBwdWFt0gF0QVVfeXFMTmFfVTlNOHBhc0N3eUFadzN1cVI5ZGtRekVrelhpMXJOenpMd0tVNmc5SFdDbW00ajNRQzBuN1FrWVRoS2s4YnI2LS04aW91bjRmQmVDUnlCMEhlSU43TndXMUdod09CN0xGNVdQMUxUektUcWg?oc=5",
-              "published_at": "2026-11-01T18:47:46Z"
-            },
-            {
-              "name": "KBS 뉴스",
-              "group": "kbs.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50cUc2TE0xcmt0bEtEN3dWRHdrUkhiYWQwMDhlb3dfRXN6eXJVSU9wbm9nSlBBTDZmNU5qMmxfMmdKbktmZVZad3RJVVg4WGs3ZmVFbjRZemZNa2M?oc=5",
-              "published_at": "2026-11-01T12:36:00Z"
-            }
-          ]
-        }
-      },
-      "source_groups": 2,
-      "daily_sources": [
-        0,
-        0,
-        2
-      ],
-      "tracking_hours": 9.2,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 27
-    },
-    {
-      "topic": {
-        "id": "4cd46d9f3981ae0896fe",
-        "category": "연예",
-        "title": "베이비돈크라이, 신곡 ‘Replay’ 일부 공개…싸이 총괄·크러쉬 참여",
-        "summary": "베이비돈크라이, 신곡 ‘Replay’ 일부 공개…싸이 총괄·크러쉬 참여",
-        "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘베이비돈크라이, 신곡 ‘Replay’ 일부 공개…싸이 총괄·크러쉬 참여’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-        "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-        "source": "JTBC",
-        "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2ODlxRTBHdXFKZzg2SWtTQm4tOF9XYkxCM3NkNlhSWGFJZlYyWjdXY2lTT1ZZcS1pcXZteFpPb2ttN3NFYUpQTTBwMnlMYWJ5cjFqRA?oc=5",
-        "published_at": "2026-11-01T12:28:05Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 2,
-          "report_count": 2,
-          "span_hours": 6.1,
-          "first_report_at": "2026-11-01T06:19:08Z",
-          "last_report_at": "2026-11-01T12:28:05Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFRml1SmlZZUFzREljUlk2dnFFWVdWTmhYX0RJRFJlMTlfREw2TjNPRDVuQm13QUhqaExZS3dyVF9KemxJYllIX3RqNFpab19Ma2o4cXJOdWFJdlpyLUlVMWdQeEUxNHpVVGZCb2hrcnA?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2ODlxRTBHdXFKZzg2SWtTQm4tOF9XYkxCM3NkNlhSWGFJZlYyWjdXY2lTT1ZZcS1pcXZteFpPb2ttN3NFYUpQTTBwMnlMYWJ5cjFqRA?oc=5",
-          "sources": [
-            {
-              "name": "JTBC",
-              "group": "jtbc.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA2ODlxRTBHdXFKZzg2SWtTQm4tOF9XYkxCM3NkNlhSWGFJZlYyWjdXY2lTT1ZZcS1pcXZteFpPb2ttN3NFYUpQTTBwMnlMYWJ5cjFqRA?oc=5",
-              "published_at": "2026-11-01T12:28:05Z"
-            },
-            {
-              "name": "SPOTV NEWS",
-              "group": "spotvnews.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFRml1SmlZZUFzREljUlk2dnFFWVdWTmhYX0RJRFJlMTlfREw2TjNPRDVuQm13QUhqaExZS3dyVF9KemxJYllIX3RqNFpab19Ma2o4cXJOdWFJdlpyLUlVMWdQeEUxNHpVVGZCb2hrcnA?oc=5",
-              "published_at": "2026-11-01T06:19:08Z"
-            }
-          ]
-        }
-      },
-      "source_groups": 2,
-      "daily_sources": [
-        0,
-        0,
-        2
-      ],
-      "tracking_hours": 9.2,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 28
-    },
-    {
-      "topic": {
-        "id": "ea3fcc5ba0af9ec58191",
-        "category": "스포츠",
-        "title": "K리그2 수원, 대구와 무승부...3년 만의 1부 승격 확정 다음 주로",
-        "summary": "K리그2 수원, 대구와 무승부...3년 만의 1부 승격 확정 다음 주로",
-        "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘K리그2 수원, 대구와 무승부...3년 만의 1부 승격 확정 다음 주로’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "YTN",
-        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fdXVKemJpeGtrV1NnRXZjcmRkcVJFaERXSzlacFQxb2VkdnNpSkctdHhFeFcyVG92aWFfVUtyY2h2M2w3NDNfYzFhZ05tdlFQZDlsTGc3clp0OXdyckE?oc=5",
-        "published_at": "2026-10-31T14:23:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 2,
-          "report_count": 2,
-          "span_hours": 4.7,
-          "first_report_at": "2026-10-31T09:43:48Z",
-          "last_report_at": "2026-10-31T14:23:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wM1VvWjdsazNzU1loT1NwSF9LdVQzU2hvYVkwUUlMWElJc1E0TVNVNVhTMW93R1M1WlJrZHVtTkl0SERlTHAySUQ5WmV2MThURDhsOVR2cFdaUzjSAWBBVV95cUxNWVNaU1I4bDlHR19XeC03RElFT1dNQ0M4ZGVacW9kMzZPM2taYTR2a2dtanhtc0s0Wm1CcXFMNWJvV0hianc1OVdhZzlWN3R5MGswdWxwNjNJbXdnanVDV0o?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fdXVKemJpeGtrV1NnRXZjcmRkcVJFaERXSzlacFQxb2VkdnNpSkctdHhFeFcyVG92aWFfVUtyY2h2M2w3NDNfYzFhZ05tdlFQZDlsTGc3clp0OXdyckE?oc=5",
-          "sources": [
-            {
-              "name": "YTN",
-              "group": "ytn.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fdXVKemJpeGtrV1NnRXZjcmRkcVJFaERXSzlacFQxb2VkdnNpSkctdHhFeFcyVG92aWFfVUtyY2h2M2w3NDNfYzFhZ05tdlFQZDlsTGc3clp0OXdyckE?oc=5",
-              "published_at": "2026-10-31T14:23:00Z"
-            },
-            {
-              "name": "연합뉴스",
-              "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wM1VvWjdsazNzU1loT1NwSF9LdVQzU2hvYVkwUUlMWElJc1E0TVNVNVhTMW93R1M1WlJrZHVtTkl0SERlTHAySUQ5WmV2MThURDhsOVR2cFdaUzjSAWBBVV95cUxNWVNaU1I4bDlHR19XeC03RElFT1dNQ0M4ZGVacW9kMzZPM2taYTR2a2dtanhtc0s0Wm1CcXFMNWJvV0hianc1OVdhZzlWN3R5MGswdWxwNjNJbXdnanVDV0o?oc=5",
-              "published_at": "2026-10-31T09:43:48Z"
-            }
-          ]
-        }
-      },
-      "source_groups": 2,
-      "daily_sources": [
-        0,
-        2,
-        0
-      ],
-      "tracking_hours": 9.2,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 29
-    },
-    {
-      "topic": {
-        "id": "07193c6455683d103ab0",
-        "category": "스포츠",
-        "title": "[자막뉴스] '내기 골프' 7천만 원 털렸는데…CCTV에 포착된 '수상한 커피'",
-        "summary": "[자막뉴스] '내기 골프' 7천만 원 털렸는데…CCTV에 포착된 '수상한 커피'",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 3시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘[자막뉴스] '내기 골프' 7천만 원 털렸는데…CCTV에 포착된 '수상한 커피'’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "SBS 뉴스",
-        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2QtM3ZnOTR0djBSTUNSNlE3amVyZUFiZVhreWVKME1GdVV6VDhaZkh5cnRHSzBJN3pJT193Yk56Y2RBUjRLYjRpTlBlNGhnMEQtZ3gyTERUYTJXS1g1SnZ0X3k0VEg4MHd1WHpJeEVWYlpTQ1BkNzRsXzNMTzgtZHZXQzEwMzl30gFmQVVfeXFMTkRUTXRwTVNYaVVzWFJCcFlnMDZxWUE3TWRwb05tWWp1Mk9EdHYwel8wa0ozb0drV0FXcm1XNFdkNkFyLXVidk5yZU5JMFF0VE9XNktudm9adkhBUWVZWnI4OEQ5YmRR?oc=5",
-        "published_at": "2026-11-01T08:54:40Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 2,
-          "report_count": 3,
-          "span_hours": 3.9,
-          "first_report_at": "2026-11-01T05:02:00Z",
-          "last_report_at": "2026-11-01T08:54:40Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mWWZBZUxXUlNKc1RzR04weU4yalp0WkdrS01aWXZmRWtSS1A2UW13ZURFX0R2akNUVnZQd0tpeHlNSXFZdUZrQUhMelRIS08yeGE3bGIzVm9Ia0d6eHc?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzBQeWtIa2JOY3psYUhQQ1hBYW9PMXUxaDJFX1MyUVlPSlpfWkZESXB3WkRxcFZyS3JfbUF5ZVQxTzE2ZVl6TTNCcVZtTkJjY2w3aDdhYWpMbV9xZVp3d2ZQRTBUdzNYTDI2ejA0bDZVSjdVcERqS0o1dmtyR3JwRGpxWXdNUTZx0gFmQVVfeXFMTkRUTXRwTVNYaVVzWFJCcFlnMDZxWUE3TWRwb05tWWp1Mk9EdHYwel8wa0ozb0drV0FXcm1XNFdkNkFyLXVidk5yZU5JMFF0VE9XNktudm9adkhBUWVZWnI4OEQ5YmRR?oc=5",
-          "sources": [
-            {
-              "name": "SBS 뉴스",
-              "group": "sbs.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2QtM3ZnOTR0djBSTUNSNlE3amVyZUFiZVhreWVKME1GdVV6VDhaZkh5cnRHSzBJN3pJT193Yk56Y2RBUjRLYjRpTlBlNGhnMEQtZ3gyTERUYTJXS1g1SnZ0X3k0VEg4MHd1WHpJeEVWYlpTQ1BkNzRsXzNMTzgtZHZXQzEwMzl30gFmQVVfeXFMTkRUTXRwTVNYaVVzWFJCcFlnMDZxWUE3TWRwb05tWWp1Mk9EdHYwel8wa0ozb0drV0FXcm1XNFdkNkFyLXVidk5yZU5JMFF0VE9XNktudm9adkhBUWVZWnI4OEQ5YmRR?oc=5",
-              "published_at": "2026-11-01T08:54:40Z"
-            },
-            {
-              "name": "YTN",
-              "group": "ytn.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mWWZBZUxXUlNKc1RzR04weU4yalp0WkdrS01aWXZmRWtSS1A2UW13ZURFX0R2akNUVnZQd0tpeHlNSXFZdUZrQUhMelRIS08yeGE3bGIzVm9Ia0d6eHc?oc=5",
-              "published_at": "2026-11-01T05:02:00Z"
-            }
-          ]
-        }
-      },
-      "source_groups": 2,
-      "daily_sources": [
-        0,
-        0,
-        2
-      ],
-      "tracking_hours": 9.2,
+      "tracking_hours": 17.2,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
