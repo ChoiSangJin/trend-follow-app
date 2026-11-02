@@ -196,7 +196,40 @@ void main() {
       coachedTopic(6, '기술·과학', '국민AI서비스혁신추진단장에 김세웅 전 카카오 부사장'),
     );
     expect(realCatalog().match(topic), isNull);
+    final award = Topic.fromJson(
+      coachedTopic(7, '문화·예술', '제1회 문학상 시상식 개최…대상 작가 선정'),
+    );
+    expect(realCatalog().match(award), isNull);
+    final resale = Topic.fromJson(
+      coachedTopic(8, '스포츠', '프로야구 경기 티켓 되팔아 돈 챙긴 일당'),
+    );
+    expect(realCatalog().match(resale), isNull);
+    final ticketCrime = Topic.fromJson(
+      coachedTopic(9, '문화·예술', '공연 티켓 웃돈 판매로 돈 챙긴 일당'),
+    );
+    expect(realCatalog().match(ticketCrime), isNull);
+    final market = Topic.fromJson(
+      coachedTopic(10, '문화·예술', '공연시장 티켓판매 증가 통계 발표'),
+    );
+    expect(realCatalog().match(market)?.id, 'ticket-sales');
   });
+  test(
+    'matching quoted evidence can come from the wider pool without duplicating lessons',
+    () {
+      final quoted = Briefing.fromJson(coachedFeed()).topics.first;
+      final old = Topic.fromJson({
+        ...quoted.toJson(),
+        'coverage': coverageJson(),
+      });
+      final items = eligibleBriefings(
+        [old, quoted, quoted],
+        realCatalog(),
+        coachNow(),
+      );
+      expect(items.length, 1);
+      expect(items.single.topic.coverage!.sources.last.headline, quoted.title);
+    },
+  );
   test('daily progress uses the Korean date boundary', () {
     expect(koreaDay(DateTime.utc(2026, 11, 1, 14, 59)), '2026-11-01');
     expect(koreaDay(DateTime.utc(2026, 11, 1, 15)), '2026-11-02');

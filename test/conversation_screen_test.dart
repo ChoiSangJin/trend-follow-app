@@ -30,6 +30,11 @@ void main() {
     await tester.pumpWidget(
       ProviderScope(
         overrides: [
+          conversationPoolProvider.overrideWith(
+            (ref) => ConversationPool(
+              ref.watch(briefingProvider).valueOrNull?.briefing.topics ?? [],
+            ),
+          ),
           repositoryProvider.overrideWithValue(repository),
           storeProvider.overrideWithValue(store),
           guideCatalogProvider.overrideWith((ref) async => realCatalog()),
@@ -81,6 +86,46 @@ void main() {
         160,
       );
       expect(find.text('AI가 답을 빨리 찾으면 확인도 끝난 걸까?'), findsOneWidget);
+      expect(tester.takeException(), isNull);
+    },
+  );
+  testWidgets(
+    'waits for the full source pool before pinning three diverse lessons',
+    (tester) async {
+      final base = Briefing.fromJson(coachedFeed()).topics;
+      final book = Topic.fromJson(coachedTopic(6, '문화·예술', '김영하 신간 소설 출간'));
+      final partial = StateProvider<ConversationPool>(
+        (ref) => ConversationPool([base[0], base[2], book], loading: true),
+      );
+      final repository = StubRepository()
+        ..result = FeedResult(Briefing.fromJson(coachedFeed()), FeedMode.live);
+      await tester.pumpWidget(
+        ProviderScope(
+          overrides: [
+            repositoryProvider.overrideWithValue(repository),
+            guideCatalogProvider.overrideWith((ref) async => realCatalog()),
+            conversationClockProvider.overrideWithValue(coachNow),
+            conversationPoolProvider.overrideWith((ref) => ref.watch(partial)),
+          ],
+          child: const MalmunApp(),
+        ),
+      );
+      await tester.pump();
+      await tester.pump(const Duration(milliseconds: 100));
+      expect(find.byKey(const ValueKey('coach-open-t1')), findsNothing);
+      final container = ProviderScope.containerOf(
+        tester.element(find.byType(CoachView)),
+      );
+      container.read(partial.notifier).state = ConversationPool([
+        ...base,
+        book,
+      ]);
+      await tester.pumpAndSettle();
+      await tester.scrollUntilVisible(
+        find.byKey(const ValueKey('coach-open-t2')),
+        200,
+      );
+      expect(find.byKey(const ValueKey('coach-open-t2')), findsOneWidget);
       expect(tester.takeException(), isNull);
     },
   );

@@ -39,6 +39,11 @@ void main() {
     await tester.pumpWidget(
       ProviderScope(
         overrides: [
+          conversationPoolProvider.overrideWith(
+            (ref) => ConversationPool(
+              ref.watch(briefingProvider).valueOrNull?.briefing.topics ?? [],
+            ),
+          ),
           guideCatalogProvider.overrideWith((ref) async => realCatalog()),
           repositoryProvider.overrideWithValue(repository),
           storeProvider.overrideWithValue(store ?? MemoryStore()),

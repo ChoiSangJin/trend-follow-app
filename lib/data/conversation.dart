@@ -131,6 +131,7 @@ List<ConversationBrief> eligibleBriefings(
 ) {
   final cutoff = now.toUtc().subtract(const Duration(hours: 72));
   final result = <ConversationBrief>[];
+  final ids = <String>{};
   for (final topic in topics) {
     final guide = catalog.match(topic);
     if (guide == null ||
@@ -154,7 +155,9 @@ List<ConversationBrief> eligibleBriefings(
               ),
         )
         .toList();
-    if (quotes.length >= 2) result.add(ConversationBrief(topic, guide));
+    if (quotes.length >= 2 && ids.add(topic.id)) {
+      result.add(ConversationBrief(topic, guide));
+    }
   }
   return result;
 }

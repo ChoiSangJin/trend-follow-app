@@ -47,7 +47,11 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
     final state = ref.watch(briefingProvider);
     final result = state.valueOrNull;
     final trends = _view == 1 ? ref.watch(trendsProvider) : null;
-    final loading = _view == 1 ? trends!.isLoading : state.isLoading;
+    final loading = _view == 0
+        ? ref.watch(conversationPoolProvider).loading
+        : _view == 1
+        ? trends!.isLoading
+        : state.isLoading;
     final saved = ref.watch(savedProvider);
     final all = _view == 2 ? saved : result?.briefing.topics ?? <Topic>[];
     final categoryOptions = ['전체', ...topicCategories];
@@ -112,7 +116,9 @@ class _HomeScreenState extends ConsumerState<HomeScreen> {
               tooltip: '새로고침',
               onPressed: loading
                   ? null
-                  : () => _view == 1
+                  : () => _view == 0
+                        ? refreshConversation(ref)
+                        : _view == 1
                         ? ref.read(trendsProvider.notifier).refresh()
                         : ref.read(briefingProvider.notifier).refresh(),
               icon: const Icon(Icons.refresh_rounded),
