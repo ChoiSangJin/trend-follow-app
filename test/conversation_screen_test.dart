@@ -10,6 +10,7 @@ import 'package:malmun/main.dart';
 import 'package:malmun/state/briefing_provider.dart';
 import 'package:malmun/state/conversation_provider.dart';
 import 'package:malmun/ui/conversation_views.dart';
+
 import 'conversation_fixtures.dart';
 import 'home_screen_test.dart' show StubRepository;
 
@@ -78,14 +79,11 @@ void main() {
     'home caps daily lessons at three and changes its selection for the audience',
     (tester) async {
       await mount(tester, MemoryStore());
-      expect(find.text('오늘은 3개만,\n대화할 만큼 이해하기'), findsOneWidget);
+      expect(find.text('오늘 무슨 얘기 하지?'), findsOneWidget);
       expect(find.text('오늘 확인한 0 / 3개'), findsOneWidget);
       await tap(tester, find.byKey(const ValueKey('audience-work')));
-      await tester.scrollUntilVisible(
-        find.text('AI가 답을 빨리 찾으면 확인도 끝난 걸까?'),
-        160,
-      );
-      expect(find.text('AI가 답을 빨리 찾으면 확인도 끝난 걸까?'), findsOneWidget);
+      await tester.scrollUntilVisible(find.text('행안부 업무망 AI 검색 기능 도입'), 160);
+      expect(find.text('행안부 업무망 AI 검색 기능 도입'), findsOneWidget);
       expect(tester.takeException(), isNull);
     },
   );
@@ -130,28 +128,23 @@ void main() {
     },
   );
   testWidgets(
-    'source evidence, background, understanding check, memo, feedback and review form one flow',
+    'source evidence, background, memo, feedback and review work without a quiz',
     (tester) async {
       final store = MemoryStore();
       await mount(tester, store);
       await tap(tester, find.byKey(const ValueKey('coach-open-t1')));
-      expect(find.text('1. 어떤 소식과 연결되나요?'), findsOneWidget);
+      expect(find.text('어떤 소식인가요?'), findsOneWidget);
       await tester.scrollUntilVisible(
-        find.text('개념 설명 · 앱 편집'),
+        find.text('배경 참고 · 앱 편집'),
         200,
         scrollable: mainScroll(),
       );
-      expect(find.text('개념 설명 · 앱 편집'), findsOneWidget);
+      expect(find.text('배경 참고 · 앱 편집'), findsOneWidget);
       final container = ProviderScope.containerOf(
         tester.element(find.byType(ConversationScreen)),
       );
-      await tap(tester, find.byKey(const ValueKey('understanding-1')));
-      expect(container.read(learningProvider).understoodIds, isEmpty);
-      await tap(
-        tester,
-        find.byKey(const ValueKey('understanding-0')),
-        direction: -100,
-      );
+      expect(find.text('생각해 보기'), findsNothing);
+      await tap(tester, find.text('이해했어요'));
       expect(container.read(learningProvider).understoodIds.length, 1);
       await tester.scrollUntilVisible(
         find.byKey(const ValueKey('conversation-note')),
@@ -160,7 +153,7 @@ void main() {
       );
       await tester.enterText(
         find.byKey(const ValueKey('conversation-note')),
-        '관찰한 것과 내 해석을 구분해서 말하기',
+        '모네 전시 다녀왔는지 물어보기',
       );
       tester.testTextInput.hide();
       await tester.pumpAndSettle();
@@ -168,14 +161,44 @@ void main() {
       await tap(tester, find.text('대화에 써봤어요'));
       await tester.pageBack();
       await tester.pumpAndSettle();
-      await tap(tester, find.text('내가 이해한 이야기'), direction: -200);
+      await tap(tester, find.text('내가 남긴 이야기'), direction: -200);
       expect(find.text('이해 표시 1개 · 대화에 써본 1개'), findsOneWidget);
-      expect(find.textContaining('관찰한 것과 내 해석을 구분해서 말하기'), findsOneWidget);
+      expect(find.textContaining('모네 전시 다녀왔는지 물어보기'), findsOneWidget);
       await tester.pumpWidget(const SizedBox.shrink());
       await tester.pumpAndSettle();
       await mount(tester, store);
-      await tap(tester, find.text('내가 이해한 이야기'));
-      expect(find.textContaining('관찰한 것과 내 해석을 구분해서 말하기'), findsOneWidget);
+      await tap(tester, find.text('내가 남긴 이야기'));
+      expect(find.textContaining('모네 전시 다녀왔는지 물어보기'), findsOneWidget);
+      expect(tester.takeException(), isNull);
+    },
+  );
+  testWidgets(
+    'audience changes keep the displayed and copied first line identical',
+    (tester) async {
+      String? copied;
+      tester.binding.defaultBinaryMessenger.setMockMethodCallHandler(
+        SystemChannels.platform,
+        (call) async {
+          if (call.method == 'Clipboard.setData') {
+            copied = (call.arguments as Map)['text'] as String;
+          }
+          return null;
+        },
+      );
+      addTearDown(
+        () => tester.binding.defaultBinaryMessenger.setMockMethodCallHandler(
+          SystemChannels.platform,
+          null,
+        ),
+      );
+      await mount(tester, MemoryStore());
+      await tap(tester, find.byKey(const ValueKey('coach-open-t2')));
+      expect(find.text('이강인 경기 소식 봤어요? 이번 경기 봤어요?'), findsWidgets);
+      await tap(tester, find.text('회사 동료'));
+      await tap(tester, find.text('첫마디 복사'));
+      expect(copied, '이강인 경기 기사 봤어요? 경기 챙겨 보셨어요?');
+      expect(find.text(copied!), findsWidgets);
+      expect(copied, isNot(contains('{subject}')));
       expect(tester.takeException(), isNull);
     },
   );
@@ -189,11 +212,11 @@ void main() {
       await tester.pageBack();
       await tester.pumpAndSettle();
       await tester.scrollUntilVisible(
-        find.text('오늘은 3개만,\n대화할 만큼 이해하기'),
+        find.text('오늘 무슨 얘기 하지?'),
         -250,
         scrollable: mainScroll(),
       );
-      expect(find.text('오늘은 3개만,\n대화할 만큼 이해하기'), findsOneWidget);
+      expect(find.text('오늘 무슨 얘기 하지?'), findsOneWidget);
       expect(tester.takeException(), isNull);
     },
   );
@@ -209,7 +232,7 @@ void main() {
       await mount(tester, MemoryStore());
       await tap(tester, find.byKey(const ValueKey('coach-open-t1')));
       await tester.scrollUntilVisible(
-        find.byKey(const ValueKey('understanding-0')),
+        find.text('반응에 따라 이어가기'),
         250,
         scrollable: mainScroll(),
       );

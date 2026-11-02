@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:url_launcher/url_launcher.dart';
+
 import '../data/briefing.dart';
 import '../data/briefing_repository.dart';
 import '../state/briefing_provider.dart';
@@ -411,10 +412,11 @@ class TopicCard extends ConsumerWidget {
             ],
             if (!topic.isPractice && topic.coverage == null)
               const Text('이전 보관 자료 · 새 선정 근거 없음'),
-            Text(
-              topic.opener,
-              style: TextStyle(color: colors.primary, height: 1.6),
-            ),
+            if (topic.isPractice)
+              Text(
+                topic.opener,
+                style: TextStyle(color: colors.primary, height: 1.6),
+              ),
             const SizedBox(height: 12),
             Wrap(
               spacing: 8,
@@ -498,23 +500,25 @@ class TopicScreen extends StatelessWidget {
             const SizedBox(height: 24),
             _section(context, '왜 지금 이야기해?', topic.whyNow),
             const SizedBox(height: 24),
-            _section(context, '이렇게 말 걸어봐', topic.opener),
-            Align(
-              alignment: Alignment.centerLeft,
-              child: TextButton.icon(
-                onPressed: () async {
-                  await Clipboard.setData(ClipboardData(text: topic.opener));
-                  if (context.mounted) {
-                    ScaffoldMessenger.of(
-                      context,
-                    ).showSnackBar(const SnackBar(content: Text('질문을 복사했어요.')));
-                  }
-                },
-                icon: const Icon(Icons.copy_outlined),
-                label: const Text('질문 복사'),
+            if (topic.isPractice) ...[
+              _section(context, '이렇게 말 걸어봐', topic.opener),
+              Align(
+                alignment: Alignment.centerLeft,
+                child: TextButton.icon(
+                  onPressed: () async {
+                    await Clipboard.setData(ClipboardData(text: topic.opener));
+                    if (context.mounted) {
+                      ScaffoldMessenger.of(context).showSnackBar(
+                        const SnackBar(content: Text('질문을 복사했어요.')),
+                      );
+                    }
+                  },
+                  icon: const Icon(Icons.copy_outlined),
+                  label: const Text('질문 복사'),
+                ),
               ),
-            ),
-            const SizedBox(height: 24),
+              const SizedBox(height: 24),
+            ],
             if (topic.coverage != null) ...[
               const SizedBox(height: 24),
               _coverage(context),
