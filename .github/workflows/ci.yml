@@ -36,6 +36,9 @@ jobs:
       - name: Verify live Korean Netflix sources
         if: github.ref == 'refs/heads/main'
         run: bash scripts/check_command.sh python3 scripts/collect_netflix.py
+      - name: Verify live anime sources
+        if: github.ref == 'refs/heads/main'
+        run: bash scripts/check_command.sh python3 scripts/collect_anime.py
       - run: bash scripts/check_flutter.sh build apk --debug --target-platform=android-arm64
       - uses: actions/upload-artifact@v4
         with:
@@ -47,6 +50,7 @@ jobs:
           name: malmun-build-metadata
           path: |
             pubspec.lock
+            data/anime-v1.json
             data/netflix-kr-v1.json
             data/briefing.json
             data/briefing-v3.json
