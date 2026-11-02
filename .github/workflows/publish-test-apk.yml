@@ -111,4 +111,4 @@ jobs:
         run: |
           gh release create "$RELEASE_TAG" Malmun-arm64.apk SHA256SUMS docs/INSTALL.md \
             --verify-tag --prerelease --title "말문 $RELEASE_TAG · 테스트 APK" \
-            --notes '말문 — 오늘의 스몰토크. 최근 기사에서 선별한 대화 소재, 출처와 기사 날짜, 대화 질문, 보관함과 오프라인 연습을 제공합니다. Android 7.0+ ARM64용 개발용 서명 APK입니다. Follow MZ와 다른 앱 ID이므로 별도로 설치됩니다. 체크섬 파일을 함께 제공합니다.'
+            --notes '말문 — 한국 넷플릭스에서 뭐 볼까? 공식 주간 Top 10, 순위 변화, 출처가 있는 작품 소개, 보고 싶은 작품과 본 작품의 개인 목록을 제공합니다. Netflix의 비공식 독립 앱입니다. Android 7.0+ ARM64용 개발용 서명 테스트 APK이며 체크섬과 설치 안내를 제공합니다.'

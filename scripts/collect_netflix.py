@@ -46,7 +46,6 @@ def build(text, now=None):
     week = date.fromisoformat(latest)
     if week.weekday() != 6 or week > now.date():
         raise ValueError('Invalid chart week')
-    previous = (week - timedelta(days=7)).isoformat()
     weeks = []
     for offset in range(4):
         end = (week - timedelta(days=7 * offset)).isoformat()
@@ -238,6 +237,12 @@ def enrich(result, fetcher=fetch):
             for item in items:
                 if item['id'] in refs:
                     item['metadata'] = refs[item['id']]
+    links_path = ROOT / 'data/netflix-title-links.json'
+    links = json.loads(links_path.read_text()) if links_path.exists() else {}
+    for items in result['weeks'][0]['charts'].values():
+        for item in items:
+            if item['title'] in links and item.get('metadata'):
+                item['metadata']['title_url'] = links[item['title']]
     latest = [i for items in result['weeks'][0]['charts'].values() for i in items if i.get('metadata')]
     def load(item):
         url = item['metadata']['title_url']
@@ -257,8 +262,41 @@ def enrich(result, fetcher=fetch):
                 if item['id'] in metadata: item['metadata'] = metadata[item['id']]
     return result
 
+
+def apply_editorial(result, known, translations):
+    for week in result['weeks']:
+        for items in week['charts'].values():
+            for item in items:
+                metadata = item.get('metadata', {})
+                previous = known.get(item['id'], {})
+                if metadata.get('synopsis_language') != 'ko' and previous.get('synopsis_language') == 'ko':
+                    metadata = dict(previous)
+                entry = translations.get(item['id'])
+                if metadata.get('synopsis_language') != 'ko' and entry and entry['source_synopsis'] == metadata.get('synopsis'):
+                    metadata['original_synopsis'] = metadata['synopsis']
+                    metadata['synopsis'] = entry['translation']
+                    metadata['synopsis_language'] = 'ko'
+                    metadata['synopsis_credit'] = 'Netflix 공식 소개 · 말문 번역'
+                if metadata: item['metadata'] = metadata
+    images = {}
+    for items in result['weeks'][0]['charts'].values():
+        for item in items:
+            image = item.get('metadata', {}).get('image_url')
+            if image: images.setdefault(image, set()).add(item['title'])
+    # Shared artwork across unrelated titles is usually a generic fallback image.
+    for week in result['weeks']:
+        for items in week['charts'].values():
+            for item in items:
+                metadata = item.get('metadata', {})
+                if len(images.get(metadata.get('image_url'), set())) > 1:
+                    metadata.pop('image_url', None)
+    return result
+
 def main():
     result = enrich(build(fetch(SOURCE)))
+    known = json.loads((ROOT / 'data/netflix-metadata.json').read_text())['titles']
+    editorial = json.loads((ROOT / 'data/netflix-editorial.json').read_text())['translations']
+    result = apply_editorial(result, known, editorial)
     path = ROOT / 'data/netflix-kr-v1.json'
     # Never replace a newer chart with a stale response.
     if path.exists():

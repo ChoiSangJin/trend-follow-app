@@ -1,0 +1,1061 @@
+{
+  "schema_version": 1,
+  "country": "KR",
+  "source_url": "https://www.netflix.com/tudum/top10/data/all-weeks-countries.tsv",
+  "chart_url": "https://www.netflix.com/tudum/top10/south-korea",
+  "fetched_at": "2026-11-02T10:15:37.181537+00:00",
+  "weeks": [
+    {
+      "week": "2026-10-25",
+      "charts": {
+        "TV": [
+          {
+            "id": "TV:Doctor X: Mafia in White|Doctor X: Mafia in White: Limited Series",
+            "title": "Doctor X: Mafia in White",
+            "season": "Doctor X: Mafia in White: Limited Series",
+            "rank": 1,
+            "previous_rank": 1,
+            "weeks_in_top10": 3,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/82682379?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "자존심과 부조리로 가득한 병원에 천재 외과의가 나타나, 거센 반대 속에서도 어려운 수술에 도전한다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:100 Days of Deception|100 Days of Deception: Limited Series",
+            "title": "100 Days of Deception",
+            "season": "100 Days of Deception: Limited Series",
+            "rank": 2,
+            "previous_rank": 2,
+            "weeks_in_top10": 3,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/82682433?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "자유를 꿈꾸던 경성의 소매치기가 조선총독부에 잠입했다가 표적의 아들과 사랑에 빠진다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:I am Solo|I am Solo: Part 34",
+            "title": "I am Solo",
+            "season": "I am Solo: Part 34",
+            "rank": 3,
+            "previous_rank": 3,
+            "weeks_in_top10": 3,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/81551819?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "짝을 찾으러 모인 싱글 남녀들의 설레는 데이트와 현실적인 연애 과정을 담은 프로그램.",
+              "synopsis_language": "ko",
+              "original_synopsis": "Hopeful singles enter Solo Nation to find a partner, meeting potential matches as they navigate dates and rivalries for the chance to find lasting love.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:World Dice Tour|World Dice Tour: Season 4",
+            "title": "World Dice Tour",
+            "season": "World Dice Tour: Season 4",
+            "rank": 4,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/83202451?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "곽튜브·빠니보틀·원지가 다시 주사위를 굴린다. 이번 세계 여행에는 영화 같은 미션이 더해진다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "Kwaktube, Pani Bottle and Won Ji return to roll the dice. This time, their globe-trotting adventures come with a cinematic twist!",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:The Ballad of Us|The Ballad of Us: Season 2",
+            "title": "The Ballad of Us",
+            "season": "The Ballad of Us: Season 2",
+            "rank": 5,
+            "previous_rank": 5,
+            "weeks_in_top10": 3,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/83226074?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "여러 시대의 발라드를 자신만의 이야기로 다시 부르는 가수들이 150명의 평가단 앞에 선다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "New voices put fresh spins on beloved ballads, bringing personal stories to songs from across four decades as singers vie to impress a 150-person panel.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:Take Charge of My Heart|Take Charge of My Heart: Limited Series",
+            "title": "Take Charge of My Heart",
+            "season": "Take Charge of My Heart: Limited Series",
+            "rank": 6,
+            "previous_rank": 4,
+            "weeks_in_top10": 3,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/82016402?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "인공 심장을 가진 재벌 후계자와 온몸에 전기가 흐르는 여자가 특별한 계약을 맺는다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:Where the Mask Ends|Where the Mask Ends: Season 1",
+            "title": "Where the Mask Ends",
+            "season": "Where the Mask Ends: Season 1",
+            "rank": 7,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/83150089?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/83150089?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/83150089?locale=ko-KR",
+              "synopsis": "소박하게 살아가던 아추. 부유한 상속녀와 기이할 만큼 닮은 외모 때문에, 그녀를 대신해 중병에 걸린 귀족과 결혼하게 된다. 하지만 새로운 삶을 유지한다는 건 위험천만한 일이다.",
+              "synopsis_language": "ko",
+              "local_title": "가금채",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcFUXwt_5w7QNAhzEWHSFW5oDEK-qrgoQOJyMiAHuU2KG0JpMTu4tXK5YL5NZHremrquWndL736x8_hvRZPVmcbIUIJ1o8PFeSTh.jpg?r=ff9"
+            }
+          },
+          {
+            "id": "TV:The Wonder Coach|The Wonder Coach: Season 2",
+            "title": "The Wonder Coach",
+            "season": "The Wonder Coach: Season 2",
+            "rank": 8,
+            "previous_rank": 7,
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/83140061?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "김연경과 원더독스가 구단주를 찾고 한국의 여덟 번째 프로 배구팀이 되기 위한 도전에 나선다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "Kim Yeon-koung and the Wonder Dogs return with a new mission: secure an owner and establish themselves as Korea's eighth professional volleyball team.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:Cyberpunk: Edgerunners|Cyberpunk: Edgerunners 2",
+            "title": "Cyberpunk: Edgerunners",
+            "season": "Cyberpunk: Edgerunners 2",
+            "rank": 9,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/81054853?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "게임 《사이버펑크 2077》의 세계를 배경으로, 새로운 아웃사이더들이 나이트 시티에서 사건에 휘말린다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "Fresh crew, fresh chaos. A new group of misfits hits the streets of Night City in this raw standalone story from the world of Cyberpunk 2077.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:Extraordinary Attorney Minami|Extraordinary Attorney Minami: Season 1",
+            "title": "Extraordinary Attorney Minami",
+            "season": "Extraordinary Attorney Minami: Season 1",
+            "rank": 10,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/81986279?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/81986279?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/81986279?locale=ko-KR",
+              "synopsis": "자폐 스펙트럼 장애가 있는 신참 변호사 미나미다 미나미. 법정 안팎에서 여러 난관에 부딪히지만, 경이로운 기억력과 본인만의 관점을 무기로 하나씩 헤쳐 나간다.",
+              "synopsis_language": "ko",
+              "local_title": "이상한 변호사 미나미",
+              "kind": "드라마",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdej0uKM80Kl-BGHmHMC5ih6tPEodRerxFrIaR2SldGNcEEB9KSQekUeOKaHJAwBCywy-pCHLbO9LcR9ux_VB2mWhTDlpKjhkJCT.jpg?r=572"
+            }
+          }
+        ],
+        "Films": [
+          {
+            "id": "Films:Evil Dead Burn|N/A",
+            "title": "Evil Dead Burn",
+            "season": null,
+            "rank": 1,
+            "previous_rank": 5,
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/82715255?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "가족 모임에서 저주받은 책이 악령을 깨우면서 평범했던 자리가 공포로 뒤바뀐다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "A family reunion turns into a bloodbath when a cursed book unleashes a demonic force that possesses and terrorizes the guests.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "Films:The Eyes|N/A",
+            "title": "The Eyes",
+            "season": null,
+            "rank": 2,
+            "previous_rank": 1,
+            "weeks_in_top10": 3,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/83131305?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "시력을 잃어가는 여자가 쌍둥이의 죽음을 추적하다 자신도 범인의 표적일 수 있음을 깨닫는다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "A woman going blind tries to uncover the truth of her twin's death before completely losing her sight — and learns she may be the killer's next target.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "Films:Drop|N/A",
+            "title": "Drop",
+            "season": null,
+            "rank": 3,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/82019017?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/82019017?locale=ko-KR",
+              "synopsis": "데이트 중 정체불명의 근거리 메시지를 받은 여자가 아들의 목숨을 위협하는 심리전에 휘말린다.",
+              "synopsis_language": "ko",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/U6_eu_lw5TPOkLCYXBHQsUANDp0/AAAABautQJWzVX4Li0zX8L3MES3NsfUnCsE2rA7l37QsK15PXaizta7bPDhtTdm9IUKiyJvPI0TZ.jpg",
+              "original_synopsis": "While on a date, a woman receives sinister \"drops\" — messages from a nearby sender — and becomes entangled in a mind game that threatens her son's life.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "Films:Tomb Raider|N/A",
+            "title": "Tomb Raider",
+            "season": null,
+            "rank": 4,
+            "previous_rank": 3,
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/80209042?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "라라 크로프트가 7년 전 실종된 아버지가 남긴 단서를 따라 그의 행방을 찾아 나선다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "Seven years after her wealthy dad's mysterious disappearance, Lara Croft embarks on a quest to discover his fate using the clues he left behind.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "Films:The Ultimate Duo|N/A",
+            "title": "The Ultimate Duo",
+            "season": null,
+            "rank": 5,
+            "previous_rank": 6,
+            "weeks_in_top10": 5,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/81949585?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "종결된 살인 사건의 용의자를 체포한 베테랑 형사와 인플루언서 출신 경찰이 진범을 찾아 서울로 향한다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "After arresting a key suspect in an already closed murder case, a veteran detective and an influencer-turned-cop visit Seoul to uncover the real killer.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "Films:Surviving Hurricane Otis|N/A",
+            "title": "Surviving Hurricane Otis",
+            "season": null,
+            "rank": 6,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/81913551?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/81913551?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/81913551?locale=ko-KR",
+              "synopsis": "허리케인 오티스가 덮친 아카풀코. 서로 거리를 두던 두 형제가 살아남기 위해 함께 사투를 벌이고, 절망적인 상황에서도 형제애와 용기로 희망의 불씨를 피워 낸다. 실화를 바탕으로 한 이야기.",
+              "synopsis_language": "ko",
+              "local_title": "허리케인을 거슬러",
+              "kind": "드라마",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSsUFm_F3_hZa1UBdo6fn7nUFr7VgSpDQjWx8GWsS2JaL9MZjoMCq56Qrzul7ltJa0iUmefrQi6UvvPLJj6BghAlzeXBEY-FOWHR.jpg?r=2b3"
+            }
+          },
+          {
+            "id": "Films:Armored|N/A",
+            "title": "Armored",
+            "season": null,
+            "rank": 7,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/70113008?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/70113008?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/70113008?locale=ko-KR",
+              "synopsis": "무장 수송 트럭으로 안전하게 전달해야 할 천만 달러를 오히려 가로채려는 세 명의 경비원. 하지만 계획이 걷잡을 수 없게 흘러가자 서로에게서 등을 돌린다.",
+              "synopsis_language": "ko",
+              "local_title": "아머드",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTgjvM_ZW-MaZzL3kj1icFKVFreynrAJ3TYyHS70QQLL_szhU30oL_lrONeLXRfdXE6B7uz5EdVUystXv1a5rkJgG0ltGwCD3-Q4.jpg?r=e75"
+            }
+          },
+          {
+            "id": "Films:My Boss My Hero|N/A",
+            "title": "My Boss My Hero",
+            "season": null,
+            "rank": 8,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/81711127?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "조직에서 승진하려면 고등학교 졸업장이 필요한 조폭이 학생들 사이에서 다시 학교생활을 시작한다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "Before he can be promoted in the criminal underworld, a gangster needs to return to high school and survive the world of teenagers to get his diploma.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "Films:Animals|N/A",
+            "title": "Animals",
+            "season": null,
+            "rank": 9,
+            "previous_rank": 2,
+            "weeks_in_top10": 3,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/81757047?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/81757047?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/81757047?locale=ko-KR",
+              "synopsis": "아들이 납치되자, LA 시장 후보와 그의 아내가 몸값을 마련하기 위해 안간힘을 쓴다. 그 과정에서 그들의 삶을 산산조각 낼 수 있는 선택을 하게 된다.",
+              "synopsis_language": "ko",
+              "local_title": "짐승들",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcDSvYGwjd7uA2ow2yP6xB9Gwo8kjaZKKJBv8oJzJ_PKM6oW6cwUdIcgKf4Dyidw0WAxNuZdcIqbcLHyzlps7cds9SkD_8QbKjHw.jpg?r=c8a"
+            }
+          },
+          {
+            "id": "Films:Manok|N/A",
+            "title": "Manok",
+            "season": null,
+            "rank": 10,
+            "previous_rank": 9,
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/83193572?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "서울의 퀴어 바를 운영하던 주인이 고향으로 돌아와 차별에 맞서고, 시장 선거에서 전남편에게 도전한다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "The owner of a once-iconic queer bar in Seoul returns home only to face harsh discrimination — but fights back by challenging her ex-husband for mayor.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          }
+        ]
+      },
+      "previous_available": true
+    },
+    {
+      "week": "2026-10-18",
+      "previous_available": true,
+      "charts": {
+        "TV": [
+          {
+            "id": "TV:Doctor X: Mafia in White|Doctor X: Mafia in White: Limited Series",
+            "title": "Doctor X: Mafia in White",
+            "season": "Doctor X: Mafia in White: Limited Series",
+            "rank": 1,
+            "previous_rank": 1,
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/82682379?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "자존심과 부조리로 가득한 병원에 천재 외과의가 나타나, 거센 반대 속에서도 어려운 수술에 도전한다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:100 Days of Deception|100 Days of Deception: Limited Series",
+            "title": "100 Days of Deception",
+            "season": "100 Days of Deception: Limited Series",
+            "rank": 2,
+            "previous_rank": 6,
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/82682433?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "자유를 꿈꾸던 경성의 소매치기가 조선총독부에 잠입했다가 표적의 아들과 사랑에 빠진다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:I am Solo|I am Solo: Part 34",
+            "title": "I am Solo",
+            "season": "I am Solo: Part 34",
+            "rank": 3,
+            "previous_rank": 2,
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/81551819?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "짝을 찾으러 모인 싱글 남녀들의 설레는 데이트와 현실적인 연애 과정을 담은 프로그램.",
+              "synopsis_language": "ko",
+              "original_synopsis": "Hopeful singles enter Solo Nation to find a partner, meeting potential matches as they navigate dates and rivalries for the chance to find lasting love.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:Take Charge of My Heart|Take Charge of My Heart: Limited Series",
+            "title": "Take Charge of My Heart",
+            "season": "Take Charge of My Heart: Limited Series",
+            "rank": 4,
+            "previous_rank": 7,
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/82016402?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "인공 심장을 가진 재벌 후계자와 온몸에 전기가 흐르는 여자가 특별한 계약을 맺는다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:The Ballad of Us|The Ballad of Us: Season 2",
+            "title": "The Ballad of Us",
+            "season": "The Ballad of Us: Season 2",
+            "rank": 5,
+            "previous_rank": 4,
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/83226074?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "여러 시대의 발라드를 자신만의 이야기로 다시 부르는 가수들이 150명의 평가단 앞에 선다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "New voices put fresh spins on beloved ballads, bringing personal stories to songs from across four decades as singers vie to impress a 150-person panel.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:Marriage of Convenience|Marriage of Convenience: Season 1",
+            "title": "Marriage of Convenience",
+            "season": "Marriage of Convenience: Season 1",
+            "rank": 6,
+            "previous_rank": 5,
+            "weeks_in_top10": 3
+          },
+          {
+            "id": "TV:The Wonder Coach|The Wonder Coach: Season 2",
+            "title": "The Wonder Coach",
+            "season": "The Wonder Coach: Season 2",
+            "rank": 7,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/83140061?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "김연경과 원더독스가 구단주를 찾고 한국의 여덟 번째 프로 배구팀이 되기 위한 도전에 나선다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "Kim Yeon-koung and the Wonder Dogs return with a new mission: secure an owner and establish themselves as Korea's eighth professional volleyball team.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:Below|Below: Limited Series",
+            "title": "Below",
+            "season": "Below: Limited Series",
+            "rank": 8,
+            "previous_rank": null,
+            "weeks_in_top10": 1
+          },
+          {
+            "id": "TV:Kian’s Bizarre B&B|Kian’s Bizarre B&B: Season 2",
+            "title": "Kian’s Bizarre B&B",
+            "season": "Kian’s Bizarre B&B: Season 2",
+            "rank": 9,
+            "previous_rank": 3,
+            "weeks_in_top10": 4
+          },
+          {
+            "id": "TV:The Apothecary Diaries|The Apothecary Diaries: Season 3",
+            "title": "The Apothecary Diaries",
+            "season": "The Apothecary Diaries: Season 3",
+            "rank": 10,
+            "previous_rank": 9,
+            "weeks_in_top10": 2
+          }
+        ],
+        "Films": [
+          {
+            "id": "Films:The Eyes|N/A",
+            "title": "The Eyes",
+            "season": null,
+            "rank": 1,
+            "previous_rank": 1,
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/83131305?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "시력을 잃어가는 여자가 쌍둥이의 죽음을 추적하다 자신도 범인의 표적일 수 있음을 깨닫는다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "A woman going blind tries to uncover the truth of her twin's death before completely losing her sight — and learns she may be the killer's next target.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "Films:Animals|N/A",
+            "title": "Animals",
+            "season": null,
+            "rank": 2,
+            "previous_rank": 5,
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/81757047?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/81757047?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/81757047?locale=ko-KR",
+              "synopsis": "아들이 납치되자, LA 시장 후보와 그의 아내가 몸값을 마련하기 위해 안간힘을 쓴다. 그 과정에서 그들의 삶을 산산조각 낼 수 있는 선택을 하게 된다.",
+              "synopsis_language": "ko",
+              "local_title": "짐승들",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcDSvYGwjd7uA2ow2yP6xB9Gwo8kjaZKKJBv8oJzJ_PKM6oW6cwUdIcgKf4Dyidw0WAxNuZdcIqbcLHyzlps7cds9SkD_8QbKjHw.jpg?r=c8a"
+            }
+          },
+          {
+            "id": "Films:Tomb Raider|N/A",
+            "title": "Tomb Raider",
+            "season": null,
+            "rank": 3,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/80209042?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "라라 크로프트가 7년 전 실종된 아버지가 남긴 단서를 따라 그의 행방을 찾아 나선다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "Seven years after her wealthy dad's mysterious disappearance, Lara Croft embarks on a quest to discover his fate using the clues he left behind.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "Films:Hana Korea|N/A",
+            "title": "Hana Korea",
+            "season": null,
+            "rank": 4,
+            "previous_rank": 3,
+            "weeks_in_top10": 2
+          },
+          {
+            "id": "Films:Evil Dead Burn|N/A",
+            "title": "Evil Dead Burn",
+            "season": null,
+            "rank": 5,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/82715255?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "가족 모임에서 저주받은 책이 악령을 깨우면서 평범했던 자리가 공포로 뒤바뀐다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "A family reunion turns into a bloodbath when a cursed book unleashes a demonic force that possesses and terrorizes the guests.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "Films:The Ultimate Duo|N/A",
+            "title": "The Ultimate Duo",
+            "season": null,
+            "rank": 6,
+            "previous_rank": 2,
+            "weeks_in_top10": 4,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/81949585?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "종결된 살인 사건의 용의자를 체포한 베테랑 형사와 인플루언서 출신 경찰이 진범을 찾아 서울로 향한다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "After arresting a key suspect in an already closed murder case, a veteran detective and an influencer-turned-cop visit Seoul to uncover the real killer.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "Films:Novocaine|N/A",
+            "title": "Novocaine",
+            "season": null,
+            "rank": 7,
+            "previous_rank": 10,
+            "weeks_in_top10": 2
+          },
+          {
+            "id": "Films:Ben-Hur|N/A",
+            "title": "Ben-Hur",
+            "season": null,
+            "rank": 8,
+            "previous_rank": 9,
+            "weeks_in_top10": 2
+          },
+          {
+            "id": "Films:Manok|N/A",
+            "title": "Manok",
+            "season": null,
+            "rank": 9,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/83193572?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "서울의 퀴어 바를 운영하던 주인이 고향으로 돌아와 차별에 맞서고, 시장 선거에서 전남편에게 도전한다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "The owner of a once-iconic queer bar in Seoul returns home only to face harsh discrimination — but fights back by challenging her ex-husband for mayor.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "Films:Land of Happiness|N/A",
+            "title": "Land of Happiness",
+            "season": null,
+            "rank": 10,
+            "previous_rank": 8,
+            "weeks_in_top10": 4
+          }
+        ]
+      }
+    },
+    {
+      "week": "2026-10-11",
+      "previous_available": true,
+      "charts": {
+        "TV": [
+          {
+            "id": "TV:Doctor X: Mafia in White|Doctor X: Mafia in White: Limited Series",
+            "title": "Doctor X: Mafia in White",
+            "season": "Doctor X: Mafia in White: Limited Series",
+            "rank": 1,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/82682379?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "자존심과 부조리로 가득한 병원에 천재 외과의가 나타나, 거센 반대 속에서도 어려운 수술에 도전한다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:I am Solo|I am Solo: Part 34",
+            "title": "I am Solo",
+            "season": "I am Solo: Part 34",
+            "rank": 2,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/81551819?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "짝을 찾으러 모인 싱글 남녀들의 설레는 데이트와 현실적인 연애 과정을 담은 프로그램.",
+              "synopsis_language": "ko",
+              "original_synopsis": "Hopeful singles enter Solo Nation to find a partner, meeting potential matches as they navigate dates and rivalries for the chance to find lasting love.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:Kian’s Bizarre B&B|Kian’s Bizarre B&B: Season 2",
+            "title": "Kian’s Bizarre B&B",
+            "season": "Kian’s Bizarre B&B: Season 2",
+            "rank": 3,
+            "previous_rank": 1,
+            "weeks_in_top10": 3
+          },
+          {
+            "id": "TV:The Ballad of Us|The Ballad of Us: Season 2",
+            "title": "The Ballad of Us",
+            "season": "The Ballad of Us: Season 2",
+            "rank": 4,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/83226074?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "여러 시대의 발라드를 자신만의 이야기로 다시 부르는 가수들이 150명의 평가단 앞에 선다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "New voices put fresh spins on beloved ballads, bringing personal stories to songs from across four decades as singers vie to impress a 150-person panel.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:Marriage of Convenience|Marriage of Convenience: Season 1",
+            "title": "Marriage of Convenience",
+            "season": "Marriage of Convenience: Season 1",
+            "rank": 5,
+            "previous_rank": 2,
+            "weeks_in_top10": 2
+          },
+          {
+            "id": "TV:100 Days of Deception|100 Days of Deception: Limited Series",
+            "title": "100 Days of Deception",
+            "season": "100 Days of Deception: Limited Series",
+            "rank": 6,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/82682433?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "자유를 꿈꾸던 경성의 소매치기가 조선총독부에 잠입했다가 표적의 아들과 사랑에 빠진다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:Take Charge of My Heart|Take Charge of My Heart: Limited Series",
+            "title": "Take Charge of My Heart",
+            "season": "Take Charge of My Heart: Limited Series",
+            "rank": 7,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/82016402?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "인공 심장을 가진 재벌 후계자와 온몸에 전기가 흐르는 여자가 특별한 계약을 맺는다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "TV:Four Hands, Two Sonatas|Four Hands, Two Sonatas: Limited Series",
+            "title": "Four Hands, Two Sonatas",
+            "season": "Four Hands, Two Sonatas: Limited Series",
+            "rank": 8,
+            "previous_rank": 4,
+            "weeks_in_top10": 7
+          },
+          {
+            "id": "TV:The Apothecary Diaries|The Apothecary Diaries: Season 3",
+            "title": "The Apothecary Diaries",
+            "season": "The Apothecary Diaries: Season 3",
+            "rank": 9,
+            "previous_rank": null,
+            "weeks_in_top10": 1
+          },
+          {
+            "id": "TV:The Scandal|The Scandal: Limited Series",
+            "title": "The Scandal",
+            "season": "The Scandal: Limited Series",
+            "rank": 10,
+            "previous_rank": 3,
+            "weeks_in_top10": 4
+          }
+        ],
+        "Films": [
+          {
+            "id": "Films:The Eyes|N/A",
+            "title": "The Eyes",
+            "season": null,
+            "rank": 1,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/83131305?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "시력을 잃어가는 여자가 쌍둥이의 죽음을 추적하다 자신도 범인의 표적일 수 있음을 깨닫는다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "A woman going blind tries to uncover the truth of her twin's death before completely losing her sight — and learns she may be the killer's next target.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "Films:The Ultimate Duo|N/A",
+            "title": "The Ultimate Duo",
+            "season": null,
+            "rank": 2,
+            "previous_rank": 1,
+            "weeks_in_top10": 3,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/81949585?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "종결된 살인 사건의 용의자를 체포한 베테랑 형사와 인플루언서 출신 경찰이 진범을 찾아 서울로 향한다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "After arresting a key suspect in an already closed murder case, a veteran detective and an influencer-turned-cop visit Seoul to uncover the real killer.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "Films:Hana Korea|N/A",
+            "title": "Hana Korea",
+            "season": null,
+            "rank": 3,
+            "previous_rank": null,
+            "weeks_in_top10": 1
+          },
+          {
+            "id": "Films:The Desperate Chase|N/A",
+            "title": "The Desperate Chase",
+            "season": null,
+            "rank": 4,
+            "previous_rank": 3,
+            "weeks_in_top10": 4
+          },
+          {
+            "id": "Films:Animals|N/A",
+            "title": "Animals",
+            "season": null,
+            "rank": 5,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/81757047?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/81757047?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/81757047?locale=ko-KR",
+              "synopsis": "아들이 납치되자, LA 시장 후보와 그의 아내가 몸값을 마련하기 위해 안간힘을 쓴다. 그 과정에서 그들의 삶을 산산조각 낼 수 있는 선택을 하게 된다.",
+              "synopsis_language": "ko",
+              "local_title": "짐승들",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcDSvYGwjd7uA2ow2yP6xB9Gwo8kjaZKKJBv8oJzJ_PKM6oW6cwUdIcgKf4Dyidw0WAxNuZdcIqbcLHyzlps7cds9SkD_8QbKjHw.jpg?r=c8a"
+            }
+          },
+          {
+            "id": "Films:The Mummy|N/A",
+            "title": "The Mummy",
+            "season": null,
+            "rank": 6,
+            "previous_rank": 7,
+            "weeks_in_top10": 2
+          },
+          {
+            "id": "Films:UNABOMBER|N/A",
+            "title": "UNABOMBER",
+            "season": null,
+            "rank": 7,
+            "previous_rank": 2,
+            "weeks_in_top10": 3
+          },
+          {
+            "id": "Films:Land of Happiness|N/A",
+            "title": "Land of Happiness",
+            "season": null,
+            "rank": 8,
+            "previous_rank": null,
+            "weeks_in_top10": 3
+          },
+          {
+            "id": "Films:Ben-Hur|N/A",
+            "title": "Ben-Hur",
+            "season": null,
+            "rank": 9,
+            "previous_rank": null,
+            "weeks_in_top10": 1
+          },
+          {
+            "id": "Films:Novocaine|N/A",
+            "title": "Novocaine",
+            "season": null,
+            "rank": 10,
+            "previous_rank": null,
+            "weeks_in_top10": 1
+          }
+        ]
+      }
+    },
+    {
+      "week": "2026-10-04",
+      "previous_available": true,
+      "charts": {
+        "TV": [
+          {
+            "id": "TV:Kian’s Bizarre B&B|Kian’s Bizarre B&B: Season 2",
+            "title": "Kian’s Bizarre B&B",
+            "season": "Kian’s Bizarre B&B: Season 2",
+            "rank": 1,
+            "previous_rank": 1,
+            "weeks_in_top10": 2
+          },
+          {
+            "id": "TV:Marriage of Convenience|Marriage of Convenience: Season 1",
+            "title": "Marriage of Convenience",
+            "season": "Marriage of Convenience: Season 1",
+            "rank": 2,
+            "previous_rank": null,
+            "weeks_in_top10": 1
+          },
+          {
+            "id": "TV:The Scandal|The Scandal: Limited Series",
+            "title": "The Scandal",
+            "season": "The Scandal: Limited Series",
+            "rank": 3,
+            "previous_rank": 2,
+            "weeks_in_top10": 3
+          },
+          {
+            "id": "TV:Four Hands, Two Sonatas|Four Hands, Two Sonatas: Limited Series",
+            "title": "Four Hands, Two Sonatas",
+            "season": "Four Hands, Two Sonatas: Limited Series",
+            "rank": 4,
+            "previous_rank": 3,
+            "weeks_in_top10": 6
+          },
+          {
+            "id": "TV:I am Solo|I am Solo: Part 33",
+            "title": "I am Solo",
+            "season": "I am Solo: Part 33",
+            "rank": 5,
+            "previous_rank": 5,
+            "weeks_in_top10": 9
+          },
+          {
+            "id": "TV:Your Personal Taxi|Your Personal Taxi: Season 1",
+            "title": "Your Personal Taxi",
+            "season": "Your Personal Taxi: Season 1",
+            "rank": 6,
+            "previous_rank": null,
+            "weeks_in_top10": 1
+          },
+          {
+            "id": "TV:Kian’s Bizarre B&B|Kian’s Bizarre B&B: Season 1",
+            "title": "Kian’s Bizarre B&B",
+            "season": "Kian’s Bizarre B&B: Season 1",
+            "rank": 7,
+            "previous_rank": 10,
+            "weeks_in_top10": 7
+          },
+          {
+            "id": "TV:Mousetrap|Mousetrap: Limited Series",
+            "title": "Mousetrap",
+            "season": "Mousetrap: Limited Series",
+            "rank": 8,
+            "previous_rank": 4,
+            "weeks_in_top10": 6
+          },
+          {
+            "id": "TV:I'm SOLO, Love goes on|I'm SOLO, Love goes on: 2026 Part 2",
+            "title": "I'm SOLO, Love goes on",
+            "season": "I'm SOLO, Love goes on: 2026 Part 2",
+            "rank": 9,
+            "previous_rank": 7,
+            "weeks_in_top10": 8
+          },
+          {
+            "id": "TV:Teach You a Lesson|Teach You a Lesson: Limited Series",
+            "title": "Teach You a Lesson",
+            "season": "Teach You a Lesson: Limited Series",
+            "rank": 10,
+            "previous_rank": 8,
+            "weeks_in_top10": 12
+          }
+        ],
+        "Films": [
+          {
+            "id": "Films:The Ultimate Duo|N/A",
+            "title": "The Ultimate Duo",
+            "season": null,
+            "rank": 1,
+            "previous_rank": 1,
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/81949585?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "종결된 살인 사건의 용의자를 체포한 베테랑 형사와 인플루언서 출신 경찰이 진범을 찾아 서울로 향한다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "After arresting a key suspect in an already closed murder case, a veteran detective and an influencer-turned-cop visit Seoul to uncover the real killer.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
+          },
+          {
+            "id": "Films:UNABOMBER|N/A",
+            "title": "UNABOMBER",
+            "season": null,
+            "rank": 2,
+            "previous_rank": 6,
+            "weeks_in_top10": 2
+          },
+          {
+            "id": "Films:The Desperate Chase|N/A",
+            "title": "The Desperate Chase",
+            "season": null,
+            "rank": 3,
+            "previous_rank": null,
+            "weeks_in_top10": 3
+          },
+          {
+            "id": "Films:Clash of the Titans|N/A",
+            "title": "Clash of the Titans",
+            "season": null,
+            "rank": 4,
+            "previous_rank": 10,
+            "weeks_in_top10": 2
+          },
+          {
+            "id": "Films:OK! Madam|N/A",
+            "title": "OK! Madam",
+            "season": null,
+            "rank": 5,
+            "previous_rank": 2,
+            "weeks_in_top10": 5
+          },
+          {
+            "id": "Films:The Silence of the Lambs|N/A",
+            "title": "The Silence of the Lambs",
+            "season": null,
+            "rank": 6,
+            "previous_rank": null,
+            "weeks_in_top10": 1
+          },
+          {
+            "id": "Films:The Mummy|N/A",
+            "title": "The Mummy",
+            "season": null,
+            "rank": 7,
+            "previous_rank": null,
+            "weeks_in_top10": 1
+          },
+          {
+            "id": "Films:Shelter|N/A",
+            "title": "Shelter",
+            "season": null,
+            "rank": 8,
+            "previous_rank": 4,
+            "weeks_in_top10": 6
+          },
+          {
+            "id": "Films:Law Abiding Citizen|N/A",
+            "title": "Law Abiding Citizen",
+            "season": null,
+            "rank": 9,
+            "previous_rank": null,
+            "weeks_in_top10": 4
+          },
+          {
+            "id": "Films:Hansel & Gretel|N/A",
+            "title": "Hansel & Gretel",
+            "season": null,
+            "rank": 10,
+            "previous_rank": null,
+            "weeks_in_top10": 1
+          }
+        ]
+      }
+    }
+  ]
+}

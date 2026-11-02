@@ -1,3 +1,4 @@
+import 'package:malmun/ui/home_screen.dart';
 import 'package:malmun/state/conversation_provider.dart';
 
 import 'conversation_fixtures.dart';
@@ -49,7 +50,7 @@ void main() {
           repositoryProvider.overrideWithValue(StubRepository()),
           trendsRepositoryProvider.overrideWithValue(repository),
         ],
-        child: const MalmunApp(),
+        child: const MalmunApp(home: HomeScreen()),
       ),
     );
     await tester.pumpAndSettle();

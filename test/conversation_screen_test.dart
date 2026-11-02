@@ -1,3 +1,4 @@
+import 'package:malmun/ui/home_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
@@ -41,7 +42,7 @@ void main() {
           guideCatalogProvider.overrideWith((ref) async => realCatalog()),
           conversationClockProvider.overrideWithValue(coachNow),
         ],
-        child: const MalmunApp(),
+        child: const MalmunApp(home: HomeScreen()),
       ),
     );
     await tester.pumpAndSettle();
@@ -105,7 +106,7 @@ void main() {
             conversationClockProvider.overrideWithValue(coachNow),
             conversationPoolProvider.overrideWith((ref) => ref.watch(partial)),
           ],
-          child: const MalmunApp(),
+          child: const MalmunApp(home: HomeScreen()),
         ),
       );
       await tester.pump();
