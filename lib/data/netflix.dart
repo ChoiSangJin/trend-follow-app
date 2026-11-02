@@ -67,8 +67,9 @@ class NetflixTitle {
   String? get seasonLabel {
     var value = season;
     if (value == null) return null;
-    if (value.startsWith('$originalTitle:'))
+    if (value.startsWith('$originalTitle:')) {
       value = value.substring(originalTitle.length + 1).trim();
+    }
     if (value == 'Limited Series') return '리미티드 시리즈';
     final match = RegExp(r'^(Season|Part) (\d+)$').firstMatch(value);
     return match == null
