@@ -18,5 +18,3 @@ jobs:
           name: netflix-source-check
           path: |
             data/netflix-kr-v1.json
-            /tmp/netflix-tv.html
-            /tmp/netflix-films.html

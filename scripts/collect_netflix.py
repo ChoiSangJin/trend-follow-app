@@ -3,6 +3,9 @@ Ranks are Netflix's country chart; no inferred Korean view counts or buzz scores
 """
 import csv
 import ast
+from html.parser import HTMLParser
+from urllib.parse import urlparse
+from concurrent.futures import ThreadPoolExecutor
 from http.client import IncompleteRead
 import io
 import re
@@ -74,8 +77,165 @@ def build(text, now=None):
             'fetched_at': now.isoformat(), 'weeks': weeks}
 
 
+
+def graph_data(html):
+    """Read JSON already embedded in the public page; never evaluate JS."""
+    for _, body in re.findall(r'<script([^>]*)>(.*?)</script>', html, re.S):
+        match = re.search(r"graphql\s*=\s*JSON.parse\(('(?:\\.|[^'\\])*')\)", body)
+        if match:
+            value = json.loads(ast.literal_eval(match.group(1)))
+            if isinstance(value.get('data'), dict):
+                return value['data']
+    raise ValueError('Public chart markup changed')
+
+
+def page_chart(html, category):
+    if 'South Korea' not in html:
+        raise ValueError('Country not confirmed')
+    candidates = {}
+    for key, entity in graph_data(html).items():
+        if not key.startswith('PulseTop10ItemEntity:') or not isinstance(entity, dict):
+            continue
+        chart, video = entity.get('top10', {}), entity.get('top10Video', {})
+        wanted = ('SERIES', 'TV') if category == 'TV' else ('FILM', 'FILMS', 'MOVIE', 'MOVIES')
+        if chart.get('category') not in wanted:
+            continue
+        rank = chart.get('weeklyRank')
+        if not any(r.get('countryId') == 'KR' and r.get('rank') == rank for r in entity.get('countryRanks', [])):
+            continue
+        title = video.get('parentShow', {}).get('title') or video.get('title')
+        season = video.get('title') if category == 'TV' else None
+        season_key = season or 'N/A'
+        item = {'id': category + ':' + title + '|' + season_key, 'title': title, 'season': season,
+                'rank': rank, 'previous_rank': None, 'weeks_in_top10': chart['cumulativeWeeksInTop10']}
+        display = entity.get('displayVideo', {}).get('video', {}) or {}
+        netflix_id = (display.get('parentShow') or {}).get('videoId') or display.get('videoId') or video.get('videoId')
+        if netflix_id:
+            item['metadata'] = {'source_url': f'https://www.netflix.com/kr/title/{netflix_id}',
+                                'watch_url': f'https://www.netflix.com/kr/title/{netflix_id}'}
+        key = (chart['weekEndDate'], rank)
+        if key in candidates and candidates[key]['id'] != item['id']:
+            raise ValueError('Conflicting country ranks')
+        candidates[key] = item
+    dates = {k[0] for k in candidates}
+    if len(dates) != 1 or sorted(k[1] for k in candidates) != list(range(1, 11)):
+        raise ValueError('Incomplete country chart page: ' + str(sorted(dates)))
+    end = dates.pop()
+    return end, [candidates[(end, n)] for n in range(1, 11)]
+
+
+class PublicTitleParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.meta = {}
+        self.scripts = []
+        self._script = None
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        if tag == 'meta' and attrs.get('content'):
+            self.meta[attrs.get('property') or attrs.get('name')] = attrs['content']
+        if tag == 'script' and attrs.get('type') == 'application/ld+json':
+            self._script = ''
+    def handle_data(self, data):
+        if self._script is not None:
+            self._script += data
+    def handle_endtag(self, tag):
+        if tag == 'script' and self._script is not None:
+            try: self.scripts.append(json.loads(self._script))
+            except ValueError: pass
+            self._script = None
+
+
+def title_metadata(html, url):
+    parser = PublicTitleParser()
+    parser.feed(html)
+    nodes = []
+    def walk(value):
+        if isinstance(value, dict):
+            types = value.get('@type', [])
+            if isinstance(types, str): types = [types]
+            if set(types) & {'TVSeries', 'Movie'}: nodes.append(value)
+            for child in value.values(): walk(child)
+        elif isinstance(value, list):
+            for child in value: walk(child)
+    for script in parser.scripts: walk(script)
+    if not nodes:
+        raise ValueError('No public title metadata')
+    node = nodes[0]
+    if urlparse(node.get('url', url)).path.rstrip('/').split('/')[-1] != urlparse(url).path.split('/')[-1]:
+        raise ValueError('Title identity mismatch')
+    name = node.get('name', '')
+    description = node.get('description', '')
+    genres = node.get('genre', [])
+    if isinstance(genres, str): genres = [genres]
+    genre_text = ' '.join(genres)
+    # Only use Korean metadata when the page actually supplies it.
+    result = {'source_url': url, 'watch_url': url}
+    if re.search('[가-힣]', name): result['local_title'] = name
+    if re.search('[가-힣]', description): result['synopsis'] = description
+    if re.search('애니|Anime|Animation', genre_text, re.I): result['kind'] = '애니'
+    elif re.search('리얼리티|예능|버라이어티|토크쇼|Reality|Variety', genre_text, re.I): result['kind'] = '예능'
+    elif re.search('드라마|Drama', genre_text, re.I): result['kind'] = '드라마'
+    actors = node.get('actor', [])
+    if isinstance(actors, dict): actors = [actors]
+    names = [a['name'] for a in actors if isinstance(a, dict) and a.get('name')]
+    if names: result['cast'] = ', '.join(names[:6])
+    image = node.get('image') or parser.meta.get('og:image')
+    if isinstance(image, list): image = image[0] if image else None
+    if isinstance(image, dict): image = image.get('url')
+    if isinstance(image, str) and urlparse(image).scheme == 'https' and urlparse(image).hostname.endswith(('.nflximg.net', '.nflxso.net')):
+        result['image_url'] = image
+    return result
+
+
+def enrich(result, fetcher=fetch):
+    """Prefer the newer public chart if both Korean categories agree on the week."""
+    pages = {}
+    for category, suffix in [('TV', '/tv'), ('Films', '')]:
+        try:
+            pages[category] = page_chart(fetcher(CHART + suffix, 10_000_000), category)
+        except Exception as error:
+            print('Public chart unavailable:', category, type(error).__name__)
+    if len(pages) == 2 and pages['TV'][0] == pages['Films'][0]:
+        end = pages['TV'][0]
+        date_end = date.fromisoformat(end)
+        if date_end.weekday() != 6 or date_end > datetime.now(timezone.utc).date():
+            raise ValueError('Invalid public chart date')
+        new_week = {'week': end, 'charts': {c: pages[c][1] for c in pages}, 'previous_available': False}
+        old_week = next((w for w in result['weeks'] if w['week'] == (date_end - timedelta(days=7)).isoformat()), None)
+        if old_week:
+            new_week['previous_available'] = True
+            for category, items in new_week['charts'].items():
+                old = {i['id']: i['rank'] for i in old_week['charts'][category]}
+                for item in items: item['previous_rank'] = old.get(item['id'])
+        if end >= result['weeks'][0]['week']:
+            result['weeks'] = [new_week] + [w for w in result['weeks'] if w['week'] < end][:3]
+    elif pages:
+        print('Retaining TSV charts: public categories did not agree')
+    # Match exact title+season identities, never loose title search.
+    refs = {item['id']: item.get('metadata') for _, items in pages.values() for item in items if item.get('metadata')}
+    for week in result['weeks']:
+        for items in week['charts'].values():
+            for item in items:
+                if item['id'] in refs:
+                    item['metadata'] = refs[item['id']]
+    latest = [i for items in result['weeks'][0]['charts'].values() for i in items if i.get('metadata')]
+    def load(item):
+        url = item['metadata']['source_url']
+        try: return item['id'], title_metadata(fetcher(url, 10_000_000), url)
+        except Exception as error:
+            print('Title metadata unavailable:', item['title'], type(error).__name__)
+            return item['id'], item['metadata']
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        metadata = dict(pool.map(load, latest))
+    for week in result['weeks']:
+        for items in week['charts'].values():
+            for item in items:
+                if item['id'] in metadata: item['metadata'] = metadata[item['id']]
+    return result
+
 def main():
-    result = build(fetch(SOURCE))
+    result = enrich(build(fetch(SOURCE)))
     path = ROOT / 'data/netflix-kr-v1.json'
     # Never replace a newer chart with a stale response.
     if path.exists():
@@ -87,28 +247,6 @@ def main():
     print('TV:', [i['title'] for i in result['weeks'][0]['charts']['TV']])
     if '--inspect' in sys.argv:
         print('NETFLIX_FEED_JSON=' + json.dumps(result, ensure_ascii=False))
-        inspection = []
-        for slug in ('tv', 'films'):
-            html = fetch(CHART + '/' + slug, 10_000_000)
-            for attrs, body in re.findall(r'<script([^>]*)>(.*?)</script>', html, re.S):
-                try:
-                    payload = json.loads(body)
-                except ValueError:
-                    match = re.search(r"graphql\s*=\s*JSON.parse\(('(?:\\.|[^'\\])*')\)", body)
-                    if match:
-                        payload = json.loads(ast.literal_eval(match.group(1)))
-                    else:
-                        inspection.append({'attrs': attrs[:200], 'prefix': body[:100]})
-                        continue
-                def walk(node, path=''):
-                    if isinstance(node, dict):
-                        if any(k.lower() in ('title', 'showtitle', 'name', 'videos', 'titles', 'synopsis', 'rank', 'weeklyrank') for k in node):
-                            inspection.append({'path': path, 'node': {k:(v if not isinstance(v,(dict,list)) else str(v)[:800]) for k,v in node.items()}})
-                        for k,v in node.items(): walk(v, path + '.' + k)
-                    elif isinstance(node, list):
-                        for i,v in enumerate(node): walk(v, path + '[' + str(i) + ']')
-                walk(payload)
-        print('NETFLIX_SOURCE_JSON=' + json.dumps(inspection[:500], ensure_ascii=False))
 
 
 if __name__ == '__main__':
