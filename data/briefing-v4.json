@@ -2,7 +2,7 @@
   "schema_version": 4,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-02T15:44:53.704488Z",
+  "updated_at": "2026-11-02T23:57:32.380968Z",
   "cards": [
     {
       "id": "ae077744d60d07b70c79",
@@ -51,11 +51,11 @@
       "selection_rank": 1
     },
     {
-      "id": "dcc65f6c8b0dedf6fecd",
+      "id": "625f319f841d25efd3fd",
       "category": "문화·예술",
       "title": "‘제1회 고운숨결문학상’ 시상식 성료⋯첫 수상자 선정",
       "summary": "‘제1회 고운숨결문학상’ 시상식 성료⋯첫 수상자 선정",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 24시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 48시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘‘제1회 고운숨결문학상’ 시상식 성료⋯첫 수상자 선정’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
       "source": "국민일보",
@@ -65,10 +65,10 @@
       "coverage": {
         "source_groups": 2,
         "report_count": 2,
-        "span_hours": 24.9,
-        "first_report_at": "2026-11-01T01:00:00Z",
+        "span_hours": 48.9,
+        "first_report_at": "2026-10-31T01:00:00Z",
         "last_report_at": "2026-11-02T01:55:55Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMaEMxZnVEYUszOVJ6VmRHV3k0XzVjXzJ2b1FpM09icEthTUNSMHJSdjlpT25hZ0o0VWRXU1k3QmNuTENnaWVVd05GWGhKYkFXMHZpZjBR?oc=5",
+        "first_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jMng2bzN6WUFzdi14OUFFaHVLWkZMYXNrbTFoX3dxWTB2cFFZUmp4V1hVaDh5Snp1c1kyanZadU12QWdZMkx1V3k3ZWplUks1S0Y3NnJGR19KclhqLWVDRUZ5VXJuVGNPZGdGWEItN0NWXzlaQmfSAWZBVV95cUxNTU1nZlZWR1hpdUg2dldiYnhuUExOeTMwOGJTdml3T2otS3J0Qkkxd0hLOEVTVTlYanRqOERtcVFENFdJMmRFTWpuN1RvNjVpYlFRb2ZNeTVVcUZ1NzhCcVMwUmM2LUE?oc=5",
         "last_report_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yVV9OSk9ZM0toalZUZENLMXZiYUVSTjNzZkFZTTAtaDBQVEFxbnd6WmxEWVlSUHlidUh3SHc2WjhQVGdzY2F3d1V3OS04Rk5YMm8tZWJKWTk?oc=5",
         "sources": [
           {
@@ -79,11 +79,11 @@
             "headline": "‘제1회 고운숨결문학상’ 시상식 성료⋯첫 수상자 선정"
           },
           {
-            "name": "중앙일보",
-            "group": "joongang.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMaEMxZnVEYUszOVJ6VmRHV3k0XzVjXzJ2b1FpM09icEthTUNSMHJSdjlpT25hZ0o0VWRXU1k3QmNuTENnaWVVd05GWGhKYkFXMHZpZjBR?oc=5",
-            "published_at": "2026-11-01T01:00:00Z",
-            "headline": "‘고운숨결문학상’ 1회 수상자 9명 발표…대상 박현주"
+            "name": "동아일보",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jMng2bzN6WUFzdi14OUFFaHVLWkZMYXNrbTFoX3dxWTB2cFFZUmp4V1hVaDh5Snp1c1kyanZadU12QWdZMkx1V3k3ZWplUks1S0Y3NnJGR19KclhqLWVDRUZ5VXJuVGNPZGdGWEItN0NWXzlaQmfSAWZBVV95cUxNTU1nZlZWR1hpdUg2dldiYnhuUExOeTMwOGJTdml3T2otS3J0Qkkxd0hLOEVTVTlYanRqOERtcVFENFdJMmRFTWpuN1RvNjVpYlFRb2ZNeTVVcUZ1NzhCcVMwUmM2LUE?oc=5",
+            "published_at": "2026-10-31T01:00:00Z",
+            "headline": "제1회 고운숨결문학상 개최…독후감 9편 수상작 선정"
           }
         ]
       },
@@ -166,24 +166,24 @@
       "last_collected_at": "2026-11-01T12:50:43.940854Z"
     },
     {
-      "id": "d3857fd9f54db2aead4c",
+      "id": "1ad860520f7f958d820c",
       "category": "스포츠",
-      "title": "'손흥민 3경기 연속 침묵' LA FC, 미네소타에 1-3 완패…4위 무산",
-      "summary": "'손흥민 3경기 연속 침묵' LA FC, 미네소타에 1-3 완패…4위 무산",
-      "why_now": "수집 범위에서 관련 보도 11개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 5시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘'손흥민 3경기 연속 침묵' LA FC, 미네소타에 1-3 완패…4위 무산’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "title": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승",
+      "summary": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승",
+      "why_now": "수집 범위에서 관련 보도 12개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "뉴스1",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05OWEyeHhWRkNac3FGVFpNTXp0NUZ1MUxCcGVnSHYwcURMcTVZTUZWRTVSYXFUMmtvRTNSQVBVOVAtNFNCTTFkZ2pHZUlHUHpQalZRX3lwcVYySGlzc1lpcQ?oc=5",
-      "published_at": "2026-11-02T03:45:01Z",
+      "source": "뉴시스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40R2FMbm9wamVYM0VfV0UzU1doOENXYWZjakE3WEljTl9ZdTE0bHJXN010VHZMRHFhSkVWUlpBdDNYNG5pYjZZcU1ycVdzb3FrQUkyR2lXdnJzLXEtUEpxdtIBeEFVX3lxTE1YZjMzTGsxOE1wZ1JnOHZDSHh5a3NSOGFRVDNPMVd4czhuVUNMckxnd001RTFLNmdkTFpOd0hxX1BYc0Zqbl91YWRKY2JIVV9BTWprTHEtLVlNVzJrbnkzTVN4cVZEWXRzZmhvaUN3Mm9zMVAySjU3Yw?oc=5",
+      "published_at": "2026-11-02T03:59:32Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 8,
-        "report_count": 11,
-        "span_hours": 5.1,
-        "first_report_at": "2026-11-02T02:35:07Z",
+        "report_count": 12,
+        "span_hours": 4.0,
+        "first_report_at": "2026-11-02T03:42:16Z",
         "last_report_at": "2026-11-02T07:39:45Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMT1JTOWpoZGZManpBOHJGUENPWEdteEszRm83ZDZLM3hVOGw5YW1mZVpRNDFhaFV6Y3c3ZXl2S1BMVU83c0pFdVRSYW54cjVzY0tzNllEd1hYTTBGRkFrVi1OS3dvR3NhZEtIZHBGaHFEZzdOSmZkcGNtb1hvdw?oc=5",
+        "first_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WcXRJbEU4WXNoMjhjZ1lNMWJvN1B5bkx1akx6YjNveDFwNko4dHJaNkR6WDdmRFR0MUxobS1BWGJvS1UyYUNxMUFtMU1Td2EtRVRiQ2U5a2wwMzNzbGhYRllTZ3h6WXA0bFJfblMxYmZTRmRqTGc?oc=5",
         "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKX0pUeHhJTU9scTV3UG9FWjRSRXRZYktIQ19ac3duVGFFOTdsV2p2SDB5cmI3MmFWdDlVdjhrempQT3dKZGliUExpQ3h1Q3pJT3d5bW9xQUpSeTBUTjhxczh1eVVabjZiaklDMmttQ3c?oc=5",
         "sources": [
           {
@@ -194,18 +194,11 @@
             "headline": "'손흥민 탄식 늘어난다' MLS 경기에서 또 침묵...LAFC, 미네소타에 충격의 1-3 패배→플레이오프 앞두고 비상"
           },
           {
-            "name": "스포츠동아",
+            "name": "동아일보",
             "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tdW9PM2JTRXRTd1NmNkN2akZTTzkydHdfcnY2OG03NGNLQVdaQnluUGJQZzRoVG80V3J5bzJyTW5FQnJEbDA1VjhlNFJjaWVJSUlBdUpQZVowRFhVZ3JpdjZrNjM4ZEpaejYxcDNzRUlEdw?oc=5",
-            "published_at": "2026-11-02T05:03:20Z",
-            "headline": "‘손흥민 풀타임 침묵’ LAFC, 미네소타에 1-3 완패 ‘상위권 도약 실패’"
-          },
-          {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRb2pKeEZTVEgzRHVUNFhtVzlFN2FuSm9nLVMzYWRpemdfTDA1Z1ZOemtZdGQwZ1NNRkRsZ0taRGxIYVlZM2tIRXFQRzk5eTRjdXVOd010ams1MXpfT1JQWdIBeEFVX3lxTE5hLVluSmxTRXZFQVNyS3pBTHo4azktdlpuNFZXRjhzZ014SnJleUJybDhQYURUbjNjVWhQVGpULURQa1hUUXdsb3ZBRjZ0SDFDN1NqUlYxdDFWelZLOGhjT3Q2R09wbEY4Qjh3ZC1zQ2hqa3lkV0VRdQ?oc=5",
-            "published_at": "2026-11-02T04:58:58Z",
-            "headline": "손흥민 도움 15개로 정정…LAFC, 미네소타에 1-3 완패(종합)"
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GWTAwN25rRUxWRkFfa3NmTTV3T21qQmpMTy14M3lsSE1CeXJwMkNSSkV1Ym9UVHV3LVg1SXQ5YjdkNldqUmE2aDZuU1BtUTJMUkg2WDZkUVhPQWVEbUtvQjhYSzlUVzBBYk1wY182QWQycExF0gFmQVVfeXFMT29vZ25BX0lUeFlfMUdNd2d0RjdfRkZ2NWNnMXJNMHAwekRTcnZuVjhWalpsZTUxZnk4TVFubFlvdVBwNDlzWE1ILXRZTWxDS2E3bGlTc0F1UG9TY05WTWhIYXItZW1B?oc=5",
+            "published_at": "2026-11-02T05:09:01Z",
+            "headline": "손흥민 도움 15개로 정정…LAFC, 미네소타에 1-3 완패"
           },
           {
             "name": "조선일보",
@@ -222,6 +215,13 @@
             "headline": "손흥민, 최다 기회 창출에도 소용없었다...팅 2회·패스 성공률 87%...LAFC, 하위권 미네소타에 1-3 완패 - 머니투데이"
           },
           {
+            "name": "news.sbs.co.kr",
+            "group": "sbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDVEVFYxTl9GMWdzUk5kRV9CRXM1ejV0VDEwUm01ZVk3M3dnNDA1eXoyTlUxeUNteG9PNy1fSE91b1dZZHRuWVk1a1dXaGNMUldVYnNDR1gyZkNDMFBLQTd1S3BxeDllOHFISjdFNGNhYkdRSG1Id2dWSmhpdFV4NDJSZi1hNUl6bkllSnVnaw?oc=5",
+            "published_at": "2026-11-02T04:06:19Z",
+            "headline": "'손흥민 풀타임' LAFC, 홈에서 미네소타에 3대 1 완패"
+          },
+          {
             "name": "일간스포츠",
             "group": "edaily.co.kr",
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fNU1JNFBQcjRxQi1wRnUzWUNJVDlIQkpiaXpTREhGTVl4UnBfM1NBbW9jbFk1eENuMEtHZGpLNzRWcnJ5Nm1jd0thcXBBVjk1RnFxV3FNel85a28?oc=5",
@@ -229,64 +229,71 @@
             "headline": "손흥민, 3G 연속 침묵·대기록도 다음에…LAFC는 미네소타에 1-3 완패"
           },
           {
+            "name": "뉴시스",
+            "group": "wire:뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40R2FMbm9wamVYM0VfV0UzU1doOENXYWZjakE3WEljTl9ZdTE0bHJXN010VHZMRHFhSkVWUlpBdDNYNG5pYjZZcU1ycVdzb3FrQUkyR2lXdnJzLXEtUEpxdtIBeEFVX3lxTE1YZjMzTGsxOE1wZ1JnOHZDSHh5a3NSOGFRVDNPMVd4czhuVUNMckxnd001RTFLNmdkTFpOd0hxX1BYc0Zqbl91YWRKY2JIVV9BTWprTHEtLVlNVzJrbnkzTVN4cVZEWXRzZmhvaUN3Mm9zMVAySjU3Yw?oc=5",
+            "published_at": "2026-11-02T03:59:32Z",
+            "headline": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승"
+          },
+          {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xcGp4bFJwY2Y0cEd4U1pnRmhTd2lPcVpUejY4TGFfTE9wUTdDZVQtTWR5TjZvTnFfbnVrZVpCeEFaRG02dnJ0bWVZTVlncnJKTXJVNmVjeVR0b2Q1TnNUatIBYEFVX3lxTE9xcGp4bFJwY2Y0cEd4U1pnRmhTd2lPcVpUejY4TGFfTE9wUTdDZVQtTWR5TjZvTnFfbnVrZVpCeEFaRG02dnJ0bWVZTVlncnJKTXJVNmVjeVR0b2Q1TnNUag?oc=5",
             "published_at": "2026-11-02T03:51:34Z",
             "headline": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…PO 상위 시드 불발"
-          },
-          {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05OWEyeHhWRkNac3FGVFpNTXp0NUZ1MUxCcGVnSHYwcURMcTVZTUZWRTVSYXFUMmtvRTNSQVBVOVAtNFNCTTFkZ2pHZUlHUHpQalZRX3lwcVYySGlzc1lpcQ?oc=5",
-            "published_at": "2026-11-02T03:45:01Z",
-            "headline": "'손흥민 3경기 연속 침묵' LA FC, 미네소타에 1-3 완패…4위 무산"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "b6bb3eca933ca383c4f6",
+      "id": "4b05d6b4b47a962b264d",
       "category": "스포츠",
-      "title": "한 경기 86점씩 올리는 뜨거운 프로농구…작년보다 10.3점 증가",
-      "summary": "한 경기 86점씩 올리는 뜨거운 프로농구…작년보다 10.3점 증가",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘한 경기 86점씩 올리는 뜨거운 프로농구…작년보다 10.3점 증가’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "title": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출",
+      "summary": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출",
+      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘프로농구 정관장, 한국가스공사 잡고 3연패 탈출’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "연합뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRmxkaXFTY2RYTEhwWXp4X3B4NGNDZkM2OXJDWFRlem0xSzk5bUFBRHV5NWdLZFhQdWQ3d3J1UWRDbi0yck91R3AtOTdkOUtEYlh4SkNieFBhZ1HSAWBBVV95cUxPbjk0UkVYNFRvSDdZVldwN1B5NFFyU19VVVVIY3Z0MnBrUjUtNlVhTjB3MDVnTVpWZlppTDY5clZ5OGp6cGR5Z1JBUXpVZFg3aldVWVFVVWNGV1NYTEdEd18?oc=5",
-      "published_at": "2026-11-02T08:03:15Z",
+      "source": "news.sbs.co.kr",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLVVQRlhhMTNQa3Jydkx1NGcyR0VVVG8xcnN4WUE4b1pyNlhha0lLSHlhY0dBOE0zdGlzYXR6ZGdsNVJfWTVIX2VmRGEzREtkN3RJVExFZVZrX3FmbEJJQ2NFVnFPWGp2Z2hxUnloS3J6YnVQMTJ6Qm1qdmJMbWNPajZBNGFQQQ?oc=5",
+      "published_at": "2026-11-02T12:44:46Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 3,
-        "report_count": 3,
-        "span_hours": 1.3,
-        "first_report_at": "2026-11-02T08:03:15Z",
-        "last_report_at": "2026-11-02T09:19:55Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRmxkaXFTY2RYTEhwWXp4X3B4NGNDZkM2OXJDWFRlem0xSzk5bUFBRHV5NWdLZFhQdWQ3d3J1UWRDbi0yck91R3AtOTdkOUtEYlh4SkNieFBhZ1HSAWBBVV95cUxPbjk0UkVYNFRvSDdZVldwN1B5NFFyU19VVVVIY3Z0MnBrUjUtNlVhTjB3MDVnTVpWZlppTDY5clZ5OGp6cGR5Z1JBUXpVZFg3aldVWVFVVWNGV1NYTEdEd18?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rRGJzejRRZkF4SWdJeHlqdXlNQk13NGF5ajh5OERlMndsbWFiMTBYT09kaHN3cWY3WGE1bzhKbks5WkEtYzlSaVRHRGZGRGoyQmxTc2ozOEdLd0VIYnFCVtIBeEFVX3lxTE81QTgxRDY2V2kwVjNhMjFtQ1JKYkZ0eXlHcHoxT3NVVU1LSmRsZEpSNzFjWXhNUVBuRmgtTFY1UjBVOGxCWXFQcXpCQVlCMEZyRWpvWjVVUzJJWnJLUmxvN1dnaUt0X0NZNGlmaGk5SXB5TVRvby1uWA?oc=5",
+        "source_groups": 4,
+        "report_count": 4,
+        "span_hours": 0.5,
+        "first_report_at": "2026-11-02T12:15:27Z",
+        "last_report_at": "2026-11-02T12:44:46Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42Z1llbkdTR3g5dnBUZDVxZFNnZ0tMaW5DQU5ncEVuRDFLV2drdzk5a1hDN0VfdnlvR29ZZXRMME1lcWpONHcwbW02Qjg2aTc0NTFqVlQ0cDRBUQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLVVQRlhhMTNQa3Jydkx1NGcyR0VVVG8xcnN4WUE4b1pyNlhha0lLSHlhY0dBOE0zdGlzYXR6ZGdsNVJfWTVIX2VmRGEzREtkN3RJVExFZVZrX3FmbEJJQ2NFVnFPWGp2Z2hxUnloS3J6YnVQMTJ6Qm1qdmJMbWNPajZBNGFQQQ?oc=5",
         "sources": [
-          {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rRGJzejRRZkF4SWdJeHlqdXlNQk13NGF5ajh5OERlMndsbWFiMTBYT09kaHN3cWY3WGE1bzhKbks5WkEtYzlSaVRHRGZGRGoyQmxTc2ozOEdLd0VIYnFCVtIBeEFVX3lxTE81QTgxRDY2V2kwVjNhMjFtQ1JKYkZ0eXlHcHoxT3NVVU1LSmRsZEpSNzFjWXhNUVBuRmgtTFY1UjBVOGxCWXFQcXpCQVlCMEZyRWpvWjVVUzJJWnJLUmxvN1dnaUt0X0NZNGlmaGk5SXB5TVRvby1uWA?oc=5",
-            "published_at": "2026-11-02T09:19:55Z",
-            "headline": "1R 팀 평균 86점…치열해진 프로농구, 지난 시즌 대비 10.3점 증가"
-          },
           {
             "name": "news.sbs.co.kr",
             "group": "sbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVmdPM1VZVFVmTThEYW1rQU1aWTdIdVkyd29ycWpYeUdCRDZPU01BSF9ycTVzOFlmSlgtTDMwWWZPWWkyb1M2Y1lGRFptY2dtWFRKc2Nsb2hGVDJ3TnpMcnlvVjdlVWVfWGp3enpyZVJBTk1vblVPNWRYZURVWWVoUGdnNmRrZHU3QmhYaldNMA?oc=5",
-            "published_at": "2026-11-02T08:28:35Z",
-            "headline": "한 경기 86점씩 올리는 뜨거운 프로농구…작년보다 팀 평균 득점 10.3점 증가"
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLVVQRlhhMTNQa3Jydkx1NGcyR0VVVG8xcnN4WUE4b1pyNlhha0lLSHlhY0dBOE0zdGlzYXR6ZGdsNVJfWTVIX2VmRGEzREtkN3RJVExFZVZrX3FmbEJJQ2NFVnFPWGp2Z2hxUnloS3J6YnVQMTJ6Qm1qdmJMbWNPajZBNGFQQQ?oc=5",
+            "published_at": "2026-11-02T12:44:46Z",
+            "headline": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출"
           },
           {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRmxkaXFTY2RYTEhwWXp4X3B4NGNDZkM2OXJDWFRlem0xSzk5bUFBRHV5NWdLZFhQdWQ3d3J1UWRDbi0yck91R3AtOTdkOUtEYlh4SkNieFBhZ1HSAWBBVV95cUxPbjk0UkVYNFRvSDdZVldwN1B5NFFyU19VVVVIY3Z0MnBrUjUtNlVhTjB3MDVnTVpWZlppTDY5clZ5OGp6cGR5Z1JBUXpVZFg3aldVWVFVVWNGV1NYTEdEd18?oc=5",
-            "published_at": "2026-11-02T08:03:15Z",
-            "headline": "한 경기 86점씩 올리는 뜨거운 프로농구…작년보다 10.3점 증가"
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51TmU4YzNLcGg3SDhRTlotelFJTW1jcEc1SGtGUVFoTnNaZjJtU2R6TkRWLTEwOW1qV3Z3aVFodWJuT042RWxxSjFubkpvWlIxTGxWQzExYjR1SUlQWTE0TtIBYEFVX3lxTE51TmU4YzNLcGg3SDhRTlotelFJTW1jcEc1SGtGUVFoTnNaZjJtU2R6TkRWLTEwOW1qV3Z3aVFodWJuT042RWxxSjFubkpvWlIxTGxWQzExYjR1SUlQWTE0Tg?oc=5",
+            "published_at": "2026-11-02T12:19:54Z",
+            "headline": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출…변준형 15점"
+          },
+          {
+            "name": "뉴시스",
+            "group": "wire:뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLUW9aSTNxdmlsOXFGS3FJT21hSHlXZzZscHUxTTBtMDVxX1JLQ1J4bjdYTFI3VHNpWkxDTTZiVUpkUUExOV9GaTFEX0pDaFUycDlCSElodzhiVjlsU040cGdmWndfOTVfcE9IaXU3RXgzbHdadndjMdIBeEFVX3lxTFBLUW9aSTNxdmlsOXFGS3FJT21hSHlXZzZscHUxTTBtMDVxX1JLQ1J4bjdYTFI3VHNpWkxDTTZiVUpkUUExOV9GaTFEX0pDaFUycDlCSElodzhiVjlsU040cGdmWndfOTVfcE9IaXU3RXgzbHdadndjMQ?oc=5",
+            "published_at": "2026-11-02T12:18:18Z",
+            "headline": "프로농구 정관장, 한국가스공사 77-71 격파…4경기 만에 승리"
+          },
+          {
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42Z1llbkdTR3g5dnBUZDVxZFNnZ0tMaW5DQU5ncEVuRDFLV2drdzk5a1hDN0VfdnlvR29ZZXRMME1lcWpONHcwbW02Qjg2aTc0NTFqVlQ0cDRBUQ?oc=5",
+            "published_at": "2026-11-02T12:15:27Z",
+            "headline": "프로농구 정관장, 가스공사 77-71 제압…3연패 탈출"
           }
         ]
       },
@@ -297,7 +304,7 @@
       "category": "기술·과학",
       "title": "삼성전자, 아프리카 진출 31년 만에 스마트폰 시장 첫 1위",
       "summary": "삼성전자, 아프리카 진출 31년 만에 스마트폰 시장 첫 1위",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.03 00:44 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘삼성전자, 아프리카 진출 31년 만에 스마트폰 시장 첫 1위’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
       "source": "동아일보",
@@ -329,14 +336,15 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-02T15:44:53.704488Z"
     },
     {
       "id": "aa32ab82b2cb77384ff2",
       "category": "기술·과학",
       "title": "크래프톤, 사회적 지능 갖춘 로봇 AI '루디 0.2' 공개",
       "summary": "크래프톤, 사회적 지능 갖춘 로봇 AI '루디 0.2' 공개",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.03 00:44 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘크래프톤, 사회적 지능 갖춘 로봇 AI '루디 0.2' 공개’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
       "source": "아시아경제",
@@ -368,7 +376,8 @@
           }
         ]
       },
-      "selection_rank": 2
+      "selection_rank": 2,
+      "last_collected_at": "2026-11-02T15:44:53.704488Z"
     },
     {
       "id": "9aad586804d3d493f85d",
@@ -483,65 +492,33 @@
       "last_collected_at": "2026-11-01T21:59:20.810500Z"
     },
     {
-      "id": "a81649472a523bb075d4",
-      "category": "경제·주식",
-      "title": "[뉴스프레소] 뉴욕증시, 인텔 급락발 '삭풍'… 중간선거·고용지표 주시 - 머니투데이",
-      "summary": "[뉴스프레소] 뉴욕증시, 인텔 급락발 '삭풍'… 중간선거·고용지표 주시 - 머니투데이",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 22시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘[뉴스프레소] 뉴욕증시, 인텔 급락발 '삭풍'… 중간선거·고용지표 주시 - 머니투데이’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
-      "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-      "source": "머니투데이",
-      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSXVDZURYUmxCNXc5SnVkckl5aG40b3FTWlZwVFY1RDRFa2xKUmxiMWRMUmFibEtqUXpDNzBYRVgxTnhVZVFOSkFSalk0ckp3eFhiU0hySW5pc2VOaWU1YmhlaGxrM2gxMnJJZ3lB0gFuQVVfeXFMUE9JdUNlRFhSbEI1dzlKdWRySXlobjRvcVNaVnBUVjVENEVrbEpSbGIxZExSYWJsS2pRekM3MFhFWDFOeFVlUU5KQVJqWTRySnd4WGJTSHJJbmlzZU5pZTViaGVobGszaDEycklneUE?oc=5",
-      "published_at": "2026-11-02T06:07:20Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 2,
-        "report_count": 3,
-        "span_hours": 22.2,
-        "first_report_at": "2026-11-01T07:54:11Z",
-        "last_report_at": "2026-11-02T06:07:20Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03bkdlVS1lOVJ6aGMteDNiaXlXOUd3b3VEVm05Z2NXcFV1Mkxsb3hXbXlkdGZCUVF6cmZVT2NGM0V5LWZLUnR5bmxsb3hMM2txTk5mdEwtRjM0Zw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSXVDZURYUmxCNXc5SnVkckl5aG40b3FTWlZwVFY1RDRFa2xKUmxiMWRMUmFibEtqUXpDNzBYRVgxTnhVZVFOSkFSalk0ckp3eFhiU0hySW5pc2VOaWU1YmhlaGxrM2gxMnJJZ3lB0gFuQVVfeXFMUE9JdUNlRFhSbEI1dzlKdWRySXlobjRvcVNaVnBUVjVENEVrbEpSbGIxZExSYWJsS2pRekM3MFhFWDFOeFVlUU5KQVJqWTRySnd4WGJTSHJJbmlzZU5pZTViaGVobGszaDEycklneUE?oc=5",
-        "sources": [
-          {
-            "name": "머니투데이",
-            "group": "mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSXVDZURYUmxCNXc5SnVkckl5aG40b3FTWlZwVFY1RDRFa2xKUmxiMWRMUmFibEtqUXpDNzBYRVgxTnhVZVFOSkFSalk0ckp3eFhiU0hySW5pc2VOaWU1YmhlaGxrM2gxMnJJZ3lB0gFuQVVfeXFMUE9JdUNlRFhSbEI1dzlKdWRySXlobjRvcVNaVnBUVjVENEVrbEpSbGIxZExSYWJsS2pRekM3MFhFWDFOeFVlUU5KQVJqWTRySnd4WGJTSHJJbmlzZU5pZTViaGVobGszaDEycklneUE?oc=5",
-            "published_at": "2026-11-02T06:07:20Z",
-            "headline": "[뉴스프레소] 뉴욕증시, 인텔 급락발 '삭풍'… 중간선거·고용지표 주시 - 머니투데이"
-          },
-          {
-            "name": "파이낸셜뉴스",
-            "group": "fnnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03bkdlVS1lOVJ6aGMteDNiaXlXOUd3b3VEVm05Z2NXcFV1Mkxsb3hXbXlkdGZCUVF6cmZVT2NGM0V5LWZLUnR5bmxsb3hMM2txTk5mdEwtRjM0Zw?oc=5",
-            "published_at": "2026-11-01T07:54:11Z",
-            "headline": "美 중간선거·고용지표에 쏠린 눈…\"실적보다는 매크로 주목\" [주간 증시 전망]"
-          }
-        ]
-      },
-      "selection_rank": 1
-    },
-    {
       "id": "62f2de783db6537ecfba",
       "category": "경제·주식",
-      "title": "[증시전략] 인텔 폭락 속 애플·AMD 실적 발표…美 중간선거 주시",
-      "summary": "[증시전략] 인텔 폭락 속 애플·AMD 실적 발표…美 중간선거 주시",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 12시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘[증시전략] 인텔 폭락 속 애플·AMD 실적 발표…美 중간선거 주시’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+      "title": "뉴욕·상하이 증시, 애플·팰런티어·AMD 실적 주목",
+      "summary": "뉴욕·상하이 증시, 애플·팰런티어·AMD 실적 주목",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 15시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘뉴욕·상하이 증시, 애플·팰런티어·AMD 실적 주목’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
       "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-      "source": "SBS Biz",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1feEVyaFdPUXM0X05vZXhLS0dVWktFbU9HTktoWWlQSkQzdWpCSkU2TWI1ak9lUzdGV1BiLTJzV09ubjRhVjNvS2dzOFM1VnlSQldpY2prdGzSAVhBVV95cUxNX3hFcmhXT1FzNF9Ob2V4S0tHVVpLRW1PR05LaFlpUEpEM3VqQkpFNk1iNWpPZVM3RldQYi0yc1dPbm40YVYzb0tnczhTNVZ5UkJXaWNqa3Rs?oc=5",
-      "published_at": "2026-11-01T21:02:00Z",
+      "source": "한국경제",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mYXRlemctc2N0ZXpfcEdyUVk1bkdFb01QblpMaGdoMlZiUnFKVGVJMTBfU1J6U2JCbzlvTnYxdE1tRkYwYXRDVk5kbS1Jam1ubFdjY29iUzBHdw?oc=5",
+      "published_at": "2026-11-01T08:57:29Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 12.1,
+        "source_groups": 3,
+        "report_count": 3,
+        "span_hours": 15.9,
         "first_report_at": "2026-11-01T08:57:29Z",
-        "last_report_at": "2026-11-01T21:02:00Z",
+        "last_report_at": "2026-11-02T00:50:30Z",
         "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mYXRlemctc2N0ZXpfcEdyUVk1bkdFb01QblpMaGdoMlZiUnFKVGVJMTBfU1J6U2JCbzlvTnYxdE1tRkYwYXRDVk5kbS1Jam1ubFdjY29iUzBHdw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1feEVyaFdPUXM0X05vZXhLS0dVWktFbU9HTktoWWlQSkQzdWpCSkU2TWI1ak9lUzdGV1BiLTJzV09ubjRhVjNvS2dzOFM1VnlSQldpY2prdGzSAVhBVV95cUxNX3hFcmhXT1FzNF9Ob2V4S0tHVVpLRW1PR05LaFlpUEpEM3VqQkpFNk1iNWpPZVM3RldQYi0yc1dPbm40YVYzb0tnczhTNVZ5UkJXaWNqa3Rs?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IemlTZWtTRkkwSmVlRnhMTnFqOVlWMzBtczVpS1lheXVtak81TERMUXI2cXlaZlpGZ2NLQ0hkc0g2WVVBVnFjeHpLbTVDTEFESGRkaHhJYmkwczRKaDZCbXFkbU45eFd1czNJOGUwaXRKM2x2cFFodtIBeEFVX3lxTE1IemlTZWtTRkkwSmVlRnhMTnFqOVlWMzBtczVpS1lheXVtak81TERMUXI2cXlaZlpGZ2NLQ0hkc0g2WVVBVnFjeHpLbTVDTEFESGRkaHhJYmkwczRKaDZCbXFkbU45eFd1czNJOGUwaXRKM2x2cFFodg?oc=5",
         "sources": [
+          {
+            "name": "뉴시스",
+            "group": "wire:뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IemlTZWtTRkkwSmVlRnhMTnFqOVlWMzBtczVpS1lheXVtak81TERMUXI2cXlaZlpGZ2NLQ0hkc0g2WVVBVnFjeHpLbTVDTEFESGRkaHhJYmkwczRKaDZCbXFkbU45eFd1czNJOGUwaXRKM2x2cFFodtIBeEFVX3lxTE1IemlTZWtTRkkwSmVlRnhMTnFqOVlWMzBtczVpS1lheXVtak81TERMUXI2cXlaZlpGZ2NLQ0hkc0g2WVVBVnFjeHpLbTVDTEFESGRkaHhJYmkwczRKaDZCbXFkbU45eFd1czNJOGUwaXRKM2x2cFFodg?oc=5",
+            "published_at": "2026-11-02T00:50:30Z",
+            "headline": "[주간 뉴욕증시] 美중간선거·고용보고서 주목…애플·AMD 실적도 변수"
+          },
           {
             "name": "SBS Biz",
             "group": "sbs.co.kr",
@@ -555,6 +532,45 @@
             "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mYXRlemctc2N0ZXpfcEdyUVk1bkdFb01QblpMaGdoMlZiUnFKVGVJMTBfU1J6U2JCbzlvTnYxdE1tRkYwYXRDVk5kbS1Jam1ubFdjY29iUzBHdw?oc=5",
             "published_at": "2026-11-01T08:57:29Z",
             "headline": "뉴욕·상하이 증시, 애플·팰런티어·AMD 실적 주목"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "59f40e22dea8c07e51ff",
+      "category": "경제·주식",
+      "title": "[뉴스프레소] 뉴욕증시, 인텔 급락발 '삭풍'… 중간선거·고용지표 주시 - 머니투데이",
+      "summary": "[뉴스프레소] 뉴욕증시, 인텔 급락발 '삭풍'… 중간선거·고용지표 주시 - 머니투데이",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘[뉴스프레소] 뉴욕증시, 인텔 급락발 '삭풍'… 중간선거·고용지표 주시 - 머니투데이’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+      "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+      "source": "머니투데이",
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSXVDZURYUmxCNXc5SnVkckl5aG40b3FTWlZwVFY1RDRFa2xKUmxiMWRMUmFibEtqUXpDNzBYRVgxTnhVZVFOSkFSalk0ckp3eFhiU0hySW5pc2VOaWU1YmhlaGxrM2gxMnJJZ3lB0gFuQVVfeXFMUE9JdUNlRFhSbEI1dzlKdWRySXlobjRvcVNaVnBUVjVENEVrbEpSbGIxZExSYWJsS2pRekM3MFhFWDFOeFVlUU5KQVJqWTRySnd4WGJTSHJJbmlzZU5pZTViaGVobGszaDEycklneUE?oc=5",
+      "published_at": "2026-11-02T06:07:20Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 6.2,
+        "first_report_at": "2026-11-01T23:55:09Z",
+        "last_report_at": "2026-11-02T06:07:20Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LVXZEWmFvdWpCeXJTUmJ2SVdfSXVVTEVEVnRhQ2dqN0NNSnZhbXc3SEs2QUNiUTFoam53dExISjIxcjMzUGxhb1JfcXlJZFRRSExyS01FZ2Y?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSXVDZURYUmxCNXc5SnVkckl5aG40b3FTWlZwVFY1RDRFa2xKUmxiMWRMUmFibEtqUXpDNzBYRVgxTnhVZVFOSkFSalk0ckp3eFhiU0hySW5pc2VOaWU1YmhlaGxrM2gxMnJJZ3lB0gFuQVVfeXFMUE9JdUNlRFhSbEI1dzlKdWRySXlobjRvcVNaVnBUVjVENEVrbEpSbGIxZExSYWJsS2pRekM3MFhFWDFOeFVlUU5KQVJqWTRySnd4WGJTSHJJbmlzZU5pZTViaGVobGszaDEycklneUE?oc=5",
+        "sources": [
+          {
+            "name": "머니투데이",
+            "group": "mt.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPSXVDZURYUmxCNXc5SnVkckl5aG40b3FTWlZwVFY1RDRFa2xKUmxiMWRMUmFibEtqUXpDNzBYRVgxTnhVZVFOSkFSalk0ckp3eFhiU0hySW5pc2VOaWU1YmhlaGxrM2gxMnJJZ3lB0gFuQVVfeXFMUE9JdUNlRFhSbEI1dzlKdWRySXlobjRvcVNaVnBUVjVENEVrbEpSbGIxZExSYWJsS2pRekM3MFhFWDFOeFVlUU5KQVJqWTRySnd4WGJTSHJJbmlzZU5pZTViaGVobGszaDEycklneUE?oc=5",
+            "published_at": "2026-11-02T06:07:20Z",
+            "headline": "[뉴스프레소] 뉴욕증시, 인텔 급락발 '삭풍'… 중간선거·고용지표 주시 - 머니투데이"
+          },
+          {
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LVXZEWmFvdWpCeXJTUmJ2SVdfSXVVTEVEVnRhQ2dqN0NNSnZhbXc3SEs2QUNiUTFoam53dExISjIxcjMzUGxhb1JfcXlJZFRRSExyS01FZ2Y?oc=5",
+            "published_at": "2026-11-01T23:55:09Z",
+            "headline": "뉴욕증시 선물 소폭 상승…AI주 불안 속 중간선거·고용지표 주시"
           }
         ]
       },

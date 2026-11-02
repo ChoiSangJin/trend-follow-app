@@ -1,26 +1,26 @@
 {
   "schema_version": 1,
   "region": "KR",
-  "updated_at": "2026-11-02T15:44:53.704488Z",
+  "updated_at": "2026-11-02T23:57:32.380968Z",
   "tracking_started_at": "2026-11-01T12:43:04.983950Z",
-  "snapshot_count": 8,
+  "snapshot_count": 9,
   "cards": [
     {
       "topic": {
         "id": "d3857fd9f54db2aead4c",
         "category": "스포츠",
-        "title": "'손흥민 3경기 연속 침묵' LA FC, 미네소타에 1-3 완패…4위 무산",
-        "summary": "'손흥민 3경기 연속 침묵' LA FC, 미네소타에 1-3 완패…4위 무산",
-        "why_now": "수집 범위에서 관련 보도 11개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘'손흥민 3경기 연속 침묵' LA FC, 미네소타에 1-3 완패…4위 무산’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "title": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승",
+        "summary": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승",
+        "why_now": "수집 범위에서 관련 보도 12개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
         "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "뉴스1",
-        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05OWEyeHhWRkNac3FGVFpNTXp0NUZ1MUxCcGVnSHYwcURMcTVZTUZWRTVSYXFUMmtvRTNSQVBVOVAtNFNCTTFkZ2pHZUlHUHpQalZRX3lwcVYySGlzc1lpcQ?oc=5",
-        "published_at": "2026-11-02T03:45:01Z",
+        "source": "뉴시스",
+        "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YZjMzTGsxOE1wZ1JnOHZDSHh5a3NSOGFRVDNPMVd4czhuVUNMckxnd001RTFLNmdkTFpOd0hxX1BYc0Zqbl91YWRKY2JIVV9BTWprTHEtLVlNVzJrbnkzTVN4cVZEWXRzZmhvaUN3Mm9zMVAySjU3Y9IBeEFVX3lxTE1YZjMzTGsxOE1wZ1JnOHZDSHh5a3NSOGFRVDNPMVd4czhuVUNMckxnd001RTFLNmdkTFpOd0hxX1BYc0Zqbl91YWRKY2JIVV9BTWprTHEtLVlNVzJrbnkzTVN4cVZEWXRzZmhvaUN3Mm9zMVAySjU3Yw?oc=5",
+        "published_at": "2026-11-02T04:01:50Z",
         "evidence": "headline",
         "coverage": {
           "source_groups": 8,
-          "report_count": 11,
+          "report_count": 12,
           "span_hours": 1.8,
           "first_report_at": "2026-11-02T02:35:07Z",
           "last_report_at": "2026-11-02T04:22:00Z",
@@ -33,6 +33,13 @@
               "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zWEUxMmN4Nnd5ZjM1MHFOZVNPb3JSQjRzREVRQ2NQdEh2TzNHeDBnYVdpYkg5clJKaWZsT2FGOU4xb3JSNnBnWXRiTmtmNnJfZ3Y3SS1FdFAyVG5BMFJPMm9QZ1ZBZ2hmb2fSAW9BVV95cUxNTzZ5QnpfdHdrNHJVNjhLLUFFUUd5Z0dVMVlnS1VjRUw4QWdGb1l0SWM3bVZ1V3RYcDNtU1FsVVZRY21wOEdBZFQxTmNIZGhDdHMxTVRKa1BhNHRaZlVCdEdqaHpmMXNpdVdYbUdidUE?oc=5",
               "published_at": "2026-11-02T04:22:00Z",
               "headline": "손흥민, 최다 기회 창출에도 소용없었다...팅 2회·패스 성공률 87%...LAFC, 하위권 미네소타에 1-3 완패 - 머니투데이"
+            },
+            {
+              "name": "news.sbs.co.kr",
+              "group": "sbs.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDVEVFYxTl9GMWdzUk5kRV9CRXM1ejV0VDEwUm01ZVk3M3dnNDA1eXoyTlUxeUNteG9PNy1fSE91b1dZZHRuWVk1a1dXaGNMUldVYnNDR1gyZkNDMFBLQTd1S3BxeDllOHFISjdFNGNhYkdRSG1Id2dWSmhpdFV4NDJSZi1hNUl6bkllSnVnaw?oc=5",
+              "published_at": "2026-11-02T04:06:19Z",
+              "headline": "'손흥민 풀타임' LAFC, 홈에서 미네소타에 3대 1 완패"
             },
             {
               "name": "일간스포츠",
@@ -67,7 +74,7 @@
               "group": "starnewskorea.com",
               "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WcXRJbEU4WXNoMjhjZ1lNMWJvN1B5bkx1akx6YjNveDFwNko4dHJaNkR6WDdmRFR0MUxobS1BWGJvS1UyYUNxMUFtMU1Td2EtRVRiQ2U5a2wwMzNzbGhYRllTZ3h6WXA0bFJfblMxYmZTRmRqTGc?oc=5",
               "published_at": "2026-11-02T03:42:16Z",
-              "headline": "'손흥민 결국 침묵' 상대 밀집수비에, GK 슈퍼세이브... LAFC, 하위권 미네소타에 1-3 충격패"
+              "headline": "손흥민 패배 속에서도 1도움, GK 슈퍼세이브에 득점에는 실패... LAFC, 하위권 미네소타에 1-3 충격패"
             },
             {
               "name": "마이데일리",
@@ -75,24 +82,17 @@
               "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WczRTT3Nfb0YzalV5RGhjc3RTbjN2a3lkNjFjb0ZEX0diZHJtZnlZamZ0STZtVE5VcUcwU0hvazkwYkR6cmdKWGdmSmI2UzdmSHRNNW5Uamo4OXVMSUhnZA?oc=5",
               "published_at": "2026-11-02T02:35:53Z",
               "headline": "[MLS 리뷰] '아쉽다' 손흥민, 결정적인 왼발 슛→GK 선방에 '좌절'...졸전 펼치는 LAFC, 미네소타에 0-2로 끌려가 (전반 종료)"
-            },
-            {
-              "name": "스포츠조선",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMT1JTOWpoZGZManpBOHJGUENPWEdteEszRm83ZDZLM3hVOGw5YW1mZVpRNDFhaFV6Y3c3ZXl2S1BMVU83c0pFdVRSYW54cjVzY0tzNllEd1hYTTBGRkFrVi1OS3dvR3NhZEtIZHBGaHFEZzdOSmZkcGNtb1hvdw?oc=5",
-              "published_at": "2026-11-02T02:35:07Z",
-              "headline": "걸어다니는 손흥민, '10번' 위치서 영향력 제로…'노답 경기력' LA FC, 하위권 미네소타에 전반 0-2 리드 허용 '충격'(전반 종료)"
             }
           ]
         }
       },
-      "source_groups": 8,
+      "source_groups": 9,
       "daily_sources": [
         0,
         0,
-        8
+        9
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -174,11 +174,11 @@
       },
       "source_groups": 7,
       "daily_sources": [
-        3,
         5,
-        1
+        4,
+        0
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -264,11 +264,83 @@
         0,
         7
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
       "rank": 3
+    },
+    {
+      "topic": {
+        "id": "de0bd9fd1eac9d335248",
+        "category": "문화·예술",
+        "title": "리센느 원이, 공연 도중 ‘긴급 무대 이탈’…“숨 안 쉬어져”",
+        "summary": "리센느 원이, 공연 도중 ‘긴급 무대 이탈’…“숨 안 쉬어져”",
+        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 16시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘리센느 원이, 공연 도중 ‘긴급 무대 이탈’…“숨 안 쉬어져”’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+        "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
+        "source": "서울신문",
+        "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUDdHMG8xa2otcmszNXJYSzBvYnRYV2daX3ZKR2xBdG9rZS1MVy1OMHYwUkdFcTlJNEd3bkNwY3VKdUIwNlMzckxMQURyakpVOUFRRF9WVDd4MHp5a0VSNHZKSWVCeGwzbG5WNWNmRTJTd19Fb2ZaYjl4dzdXeVZXa0x1djJsQQ?oc=5",
+        "published_at": "2026-11-02T21:09:45Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 5,
+          "report_count": 5,
+          "span_hours": 16.0,
+          "first_report_at": "2026-11-02T05:09:35Z",
+          "last_report_at": "2026-11-02T21:09:45Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KZ0NYQ2RSRGhEV0I1VjdZbmpnUWx6SDF4b2xTUkk1Rm5TZFJQSHllM2EwTkxobEdDdGxzSzJWU1g3b3A0UVN6dG9HZWl3Z0dQRDhpR19KdzV4YnZQRTlsRkVFQ1JQTnJ6RU91V1dvNWI?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUDdHMG8xa2otcmszNXJYSzBvYnRYV2daX3ZKR2xBdG9rZS1MVy1OMHYwUkdFcTlJNEd3bkNwY3VKdUIwNlMzckxMQURyakpVOUFRRF9WVDd4MHp5a0VSNHZKSWVCeGwzbG5WNWNmRTJTd19Fb2ZaYjl4dzdXeVZXa0x1djJsQQ?oc=5",
+          "sources": [
+            {
+              "name": "서울신문",
+              "group": "seoul.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUDdHMG8xa2otcmszNXJYSzBvYnRYV2daX3ZKR2xBdG9rZS1MVy1OMHYwUkdFcTlJNEd3bkNwY3VKdUIwNlMzckxMQURyakpVOUFRRF9WVDd4MHp5a0VSNHZKSWVCeGwzbG5WNWNmRTJTd19Fb2ZaYjl4dzdXeVZXa0x1djJsQQ?oc=5",
+              "published_at": "2026-11-02T21:09:45Z",
+              "headline": "리센느 원이, 공연 도중 ‘긴급 무대 이탈’…“숨 안 쉬어져”"
+            },
+            {
+              "name": "중앙일보",
+              "group": "joongang.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uaUZoVE9YYUFyeFZuQ1NfR21xNG80TUxpVnJ5TDE4TTBCZkxhMzJjZkhPTTZlQmRFZko3UGIwTjJGU1BmeTYwdXBSR1lCX3lYOVZvdHpB?oc=5",
+              "published_at": "2026-11-02T13:43:32Z",
+              "headline": "“숨이 안 쉬어졌다”…리센느 원이, 공연 중 무대 이탈한 이유"
+            },
+            {
+              "name": "동아일보",
+              "group": "donga.com",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSR3NaNmxRcUZWa09taWlFUjMtRy14V184aEJVck9iLThDWm5PeTBnTmtvSGYzTnVMam93VE1xWUV6Sm93c2oyTFhPMXlURWlWSGZmYm9fZkp4Z3pMdmFoMGNhT1h6XzRRa2FBbWlRSG9EOGRRLVHSAWZBVV95cUxOVVhDbzVaVU9kR2dBbFI3aXhLazlRa3hkcURjbW0xZlJFMVNqSXBmRk1oQmNoREJoUVQxakxGQ2NCcWswbUszY2dPM2c2MEYyNXIwYmttM3hpdDRaSVl6S1dFZDBtTnc?oc=5",
+              "published_at": "2026-11-02T11:22:00Z",
+              "headline": "리센느 원이, 공연중 무대 떠나…“숨이 안 쉬어졌다”, 무슨일?"
+            },
+            {
+              "name": "조선일보",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPemwtZGEyX0p6YXRKOTJmZjNHRnFGOHlIRkxhZVVzZXFUZm9HdUM5aXFBb05lOEFnU3JET3c1U1lpWEhJZVJoZlNMZEotZ3lCaTRveERrNXJnZGNqYkk3aUV6N0pxWWNxNGdEVDM0d3pGOXRDUXl4eFJfbnRFQ0ZSUXZwdVNXS3hoclJnU05iRQ?oc=5",
+              "published_at": "2026-11-02T09:02:00Z",
+              "headline": "리센느 원이, 공연 중 무대 이탈…\"세탁 후 줄어든 의상 탓\""
+            },
+            {
+              "name": "SPOTV NEWS",
+              "group": "spotvnews.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KZ0NYQ2RSRGhEV0I1VjdZbmpnUWx6SDF4b2xTUkk1Rm5TZFJQSHllM2EwTkxobEdDdGxzSzJWU1g3b3A0UVN6dG9HZWl3Z0dQRDhpR19KdzV4YnZQRTlsRkVFQ1JQTnJ6RU91V1dvNWI?oc=5",
+              "published_at": "2026-11-02T05:09:35Z",
+              "headline": "리센느 원이, 공연 중 돌연 무대 이탈…\"숨 안 쉬어져\" 직접 밝힌 전말[이슈S]"
+            }
+          ]
+        }
+      },
+      "source_groups": 5,
+      "daily_sources": [
+        0,
+        0,
+        5
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 4
     },
     {
       "topic": {
@@ -336,11 +408,11 @@
         5,
         0
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 4
+      "rank": 5
     },
     {
       "topic": {
@@ -397,15 +469,15 @@
       },
       "source_groups": 4,
       "daily_sources": [
-        0,
-        4,
+        1,
+        3,
         0
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 5
+      "rank": 6
     },
     {
       "topic": {
@@ -462,76 +534,11 @@
       },
       "source_groups": 4,
       "daily_sources": [
-        0,
+        1,
         4,
         0
       ],
-      "tracking_hours": 27.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 6
-    },
-    {
-      "topic": {
-        "id": "de0bd9fd1eac9d335248",
-        "category": "문화·예술",
-        "title": "리센느 원이, 공연 도중 무대 이탈…“숨이 안 쉬어졌다”",
-        "summary": "리센느 원이, 공연 도중 무대 이탈…“숨이 안 쉬어졌다”",
-        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 8시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘리센느 원이, 공연 도중 무대 이탈…“숨이 안 쉬어졌다”’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
-        "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-        "source": "중앙일보",
-        "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uaUZoVE9YYUFyeFZuQ1NfR21xNG80TUxpVnJ5TDE4TTBCZkxhMzJjZkhPTTZlQmRFZko3UGIwTjJGU1BmeTYwdXBSR1lCX3lYOVZvdHpB?oc=5",
-        "published_at": "2026-11-02T13:43:32Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 4,
-          "report_count": 4,
-          "span_hours": 8.6,
-          "first_report_at": "2026-11-02T05:09:35Z",
-          "last_report_at": "2026-11-02T13:43:32Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KZ0NYQ2RSRGhEV0I1VjdZbmpnUWx6SDF4b2xTUkk1Rm5TZFJQSHllM2EwTkxobEdDdGxzSzJWU1g3b3A0UVN6dG9HZWl3Z0dQRDhpR19KdzV4YnZQRTlsRkVFQ1JQTnJ6RU91V1dvNWI?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uaUZoVE9YYUFyeFZuQ1NfR21xNG80TUxpVnJ5TDE4TTBCZkxhMzJjZkhPTTZlQmRFZko3UGIwTjJGU1BmeTYwdXBSR1lCX3lYOVZvdHpB?oc=5",
-          "sources": [
-            {
-              "name": "중앙일보",
-              "group": "joongang.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uaUZoVE9YYUFyeFZuQ1NfR21xNG80TUxpVnJ5TDE4TTBCZkxhMzJjZkhPTTZlQmRFZko3UGIwTjJGU1BmeTYwdXBSR1lCX3lYOVZvdHpB?oc=5",
-              "published_at": "2026-11-02T13:43:32Z",
-              "headline": "리센느 원이, 공연 도중 무대 이탈…“숨이 안 쉬어졌다”"
-            },
-            {
-              "name": "동아일보",
-              "group": "donga.com",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSR3NaNmxRcUZWa09taWlFUjMtRy14V184aEJVck9iLThDWm5PeTBnTmtvSGYzTnVMam93VE1xWUV6Sm93c2oyTFhPMXlURWlWSGZmYm9fZkp4Z3pMdmFoMGNhT1h6XzRRa2FBbWlRSG9EOGRRLVHSAWZBVV95cUxOVVhDbzVaVU9kR2dBbFI3aXhLazlRa3hkcURjbW0xZlJFMVNqSXBmRk1oQmNoREJoUVQxakxGQ2NCcWswbUszY2dPM2c2MEYyNXIwYmttM3hpdDRaSVl6S1dFZDBtTnc?oc=5",
-              "published_at": "2026-11-02T11:22:00Z",
-              "headline": "리센느 원이, 공연중 무대 떠나…“숨이 안 쉬어졌다”, 무슨일?"
-            },
-            {
-              "name": "조선일보",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPemwtZGEyX0p6YXRKOTJmZjNHRnFGOHlIRkxhZVVzZXFUZm9HdUM5aXFBb05lOEFnU3JET3c1U1lpWEhJZVJoZlNMZEotZ3lCaTRveERrNXJnZGNqYkk3aUV6N0pxWWNxNGdEVDM0d3pGOXRDUXl4eFJfbnRFQ0ZSUXZwdVNXS3hoclJnU05iRQ?oc=5",
-              "published_at": "2026-11-02T09:02:00Z",
-              "headline": "리센느 원이, 공연 중 무대 이탈…\"세탁 후 줄어든 의상 탓\""
-            },
-            {
-              "name": "SPOTV NEWS",
-              "group": "spotvnews.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KZ0NYQ2RSRGhEV0I1VjdZbmpnUWx6SDF4b2xTUkk1Rm5TZFJQSHllM2EwTkxobEdDdGxzSzJWU1g3b3A0UVN6dG9HZWl3Z0dQRDhpR19KdzV4YnZQRTlsRkVFQ1JQTnJ6RU91V1dvNWI?oc=5",
-              "published_at": "2026-11-02T05:09:35Z",
-              "headline": "리센느 원이, 공연 중 돌연 무대 이탈…\"숨 안 쉬어져\" 직접 밝힌 전말[이슈S]"
-            }
-          ]
-        }
-      },
-      "source_groups": 4,
-      "daily_sources": [
-        0,
-        0,
-        4
-      ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -596,7 +603,7 @@
         0,
         4
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -608,7 +615,7 @@
         "category": "스포츠",
         "title": "축구토토 승무패 65회차 결과 발표…‘1등 2건’ 각각 4억9천여만 원",
         "summary": "축구토토 승무패 65회차 결과 발표…‘1등 2건’ 각각 4억9천여만 원",
-        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
         "opener": "‘축구토토 승무패 65회차 결과 발표…‘1등 2건’ 각각 4억9천여만 원’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
         "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
         "source": "스포츠동아",
@@ -617,7 +624,7 @@
         "evidence": "headline",
         "coverage": {
           "source_groups": 4,
-          "report_count": 5,
+          "report_count": 6,
           "span_hours": 1.5,
           "first_report_at": "2026-11-02T03:34:31Z",
           "last_report_at": "2026-11-02T05:01:58Z",
@@ -661,7 +668,7 @@
         0,
         4
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -726,7 +733,7 @@
         0,
         4
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -784,11 +791,127 @@
         1,
         1
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
       "rank": 11
+    },
+    {
+      "topic": {
+        "id": "3d29444990c5130ab500",
+        "category": "스포츠",
+        "title": "손흥민 다섯 번째 우승 도전 변수…아시안컵 정상 개최 자신했던 AFC, 사우디아라비아와 대회 연기 논의",
+        "summary": "손흥민 다섯 번째 우승 도전 변수…아시안컵 정상 개최 자신했던 AFC, 사우디아라비아와 대회 연기 논의",
+        "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 38시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘손흥민 다섯 번째 우승 도전 변수…아시안컵 정상 개최 자신했던 AFC, 사우디아라비아와 대회 연기 논의’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "마이데일리",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GdlNQMXhxWUNISmtxcUVzTTh6TmJiMGpDUWpVUElIbzAxSVgzMFB6Q2t0WncxSHBwVHVwNUN2VlBIeW5ySF9XU0t2MHZEXzItTDkxX2ZUcUxLdTROVUlNUWZPWnVEdw?oc=5",
+        "published_at": "2026-11-02T23:30:00Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 7,
+          "span_hours": 38.4,
+          "first_report_at": "2026-11-01T09:07:33Z",
+          "last_report_at": "2026-11-02T23:30:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sdUZiRC1MWEVXVTNkVkxQNm5MaGYtdjdpU0lBRm5iUUxjWThDOUJVbHZHUnZWa3N3cGx0QUN1SnVjVEItelE5WkYxcVNrMzhGR1RCblZuU245S20zUFFYY2ZQMmdjQzF3ODVVNzBsZjFNTnJOMGNCZzRPdGZjQQ?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GdlNQMXhxWUNISmtxcUVzTTh6TmJiMGpDUWpVUElIbzAxSVgzMFB6Q2t0WncxSHBwVHVwNUN2VlBIeW5ySF9XU0t2MHZEXzItTDkxX2ZUcUxLdTROVUlNUWZPWnVEdw?oc=5",
+          "sources": [
+            {
+              "name": "마이데일리",
+              "group": "mydaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GdlNQMXhxWUNISmtxcUVzTTh6TmJiMGpDUWpVUElIbzAxSVgzMFB6Q2t0WncxSHBwVHVwNUN2VlBIeW5ySF9XU0t2MHZEXzItTDkxX2ZUcUxLdTROVUlNUWZPWnVEdw?oc=5",
+              "published_at": "2026-11-02T23:30:00Z",
+              "headline": "손흥민 다섯 번째 우승 도전 변수…아시안컵 정상 개최 자신했던 AFC, 사우디아라비아와 대회 연기 논의"
+            },
+            {
+              "name": "SPOTV NEWS",
+              "group": "spotvnews.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CS091NXV1OVBMdkFXbmF2VHlmS1ZvYzN6OTJzRGhoNDFnYTljUUpLRWhJREJMQzJwakRTcWRScjJpbzVsVlZyVjRZYjZ0T1dEX21MWm4wb0ltMkg4MENjNnd4aWZ0dVVOLTNyeldacnI?oc=5",
+              "published_at": "2026-11-02T10:38:00Z",
+              "headline": "'손흥민 마지막 아시안컵 어쩌나' 호날두도 못 피한 사우디 안보 불안...2027 아시안컵, 2028년 연기 가능성"
+            },
+            {
+              "name": "스포츠조선",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Sc0Nib3c0Z2dEREEtTHVndmVjZDZtZUdLTUNpSnJ4SUdaQkN6SVh1LTJWb2JDRUM4R01iOEFiQ1U3dFh0YUhWNVpWeUFYTTg3TzMtaGVEQWJVM0psUTB5dmpkNm9Xbk9aVmwyYUNOSUtPV0lWQXZRci1obDZLQQ?oc=5",
+              "published_at": "2026-11-01T20:00:44Z",
+              "headline": "'캡틴 손흥민 왕따설' 대한민국, 오히려 좋아?...카타르 매체 \"아시안컵 1년 전격 연기\""
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        0,
+        2,
+        2
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 12
+    },
+    {
+      "topic": {
+        "id": "39dfad516e7baa95078b",
+        "category": "경제·주식",
+        "title": "중소기업 대출 연체율 9년 반 만에 최고",
+        "summary": "중소기업 대출 연체율 9년 반 만에 최고",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 26시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘중소기업 대출 연체율 9년 반 만에 최고’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+        "source": "한국경제",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fMWFjbzNNZ0tZWjN0M1NnR1VHUUJoZE9MX0VyQWg4Um5PUml1eUxHVmFlV3lrLWdmbGtGVEF0NDdiOEFmS1NlQXpjWDNVelFYSVdnU0ZsbWxSdw?oc=5",
+        "published_at": "2026-11-01T05:43:12Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 3,
+          "span_hours": 26.5,
+          "first_report_at": "2026-11-01T02:34:07Z",
+          "last_report_at": "2026-11-02T05:02:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXzh5Y3JOVU9fUFY1bHI3VlhQMm4wRHZNSHRHQmJTSENmSEZPX1FoUWhPZTFyVEJjMGl1eDRFZ2hfVUh0OTNCRDlkOWRYTzRITHdPUGV4cEtVYjRkNjNBNFpFM0dOLVBWV0FMV0E5VVA5aVVhd051OUJyZXFLdHl1UFUzSnJXM05HUS15dXBB?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SZno4RnQ0NGFpTHp6Z0hfc21MOGF0RE5CSks4VGR5SjFySHpJQ01OVTl6QjREX0o5Q2RSSGFzMUFjRWxEWl9DYTVySkloRGxlTGpLUmMxc0xMVms?oc=5",
+          "sources": [
+            {
+              "name": "KBS 뉴스",
+              "group": "kbs.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SZno4RnQ0NGFpTHp6Z0hfc21MOGF0RE5CSks4VGR5SjFySHpJQ01OVTl6QjREX0o5Q2RSSGFzMUFjRWxEWl9DYTVySkloRGxlTGpLUmMxc0xMVms?oc=5",
+              "published_at": "2026-11-02T05:02:00Z",
+              "headline": "금융위원장 “중소기업 연체율 증가세…지방에 4.5조 원 저리 대출 공급”"
+            },
+            {
+              "name": "한국경제",
+              "group": "hankyung.com",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fMWFjbzNNZ0tZWjN0M1NnR1VHUUJoZE9MX0VyQWg4Um5PUml1eUxHVmFlV3lrLWdmbGtGVEF0NDdiOEFmS1NlQXpjWDNVelFYSVdnU0ZsbWxSdw?oc=5",
+              "published_at": "2026-11-01T05:43:12Z",
+              "headline": "중소기업 대출 연체율 9년 반 만에 최고"
+            },
+            {
+              "name": "조선일보",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXzh5Y3JOVU9fUFY1bHI3VlhQMm4wRHZNSHRHQmJTSENmSEZPX1FoUWhPZTFyVEJjMGl1eDRFZ2hfVUh0OTNCRDlkOWRYTzRITHdPUGV4cEtVYjRkNjNBNFpFM0dOLVBWV0FMV0E5VVA5aVVhd051OUJyZXFLdHl1UFUzSnJXM05HUS15dXBB?oc=5",
+              "published_at": "2026-11-01T02:34:07Z",
+              "headline": "5대 은행 중소기업 대출 연체율 0.6%… 9년 6개월 만에 최고"
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        0,
+        2,
+        1
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 13
     },
     {
       "topic": {
@@ -842,11 +965,11 @@
         2,
         1
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 12
+      "rank": 14
     },
     {
       "topic": {
@@ -896,15 +1019,15 @@
       },
       "source_groups": 3,
       "daily_sources": [
-        0,
+        1,
         2,
-        1
+        0
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 13
+      "rank": 15
     },
     {
       "topic": {
@@ -958,11 +1081,11 @@
         2,
         1
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 14
+      "rank": 16
     },
     {
       "topic": {
@@ -1016,11 +1139,11 @@
         0,
         3
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 15
+      "rank": 17
     },
     {
       "topic": {
@@ -1074,11 +1197,11 @@
         0,
         3
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 16
+      "rank": 18
     },
     {
       "topic": {
@@ -1132,11 +1255,11 @@
         0,
         3
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 17
+      "rank": 19
     },
     {
       "topic": {
@@ -1190,11 +1313,69 @@
         0,
         3
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 18
+      "rank": 20
+    },
+    {
+      "topic": {
+        "id": "eeaf72d66625676f5c4f",
+        "category": "사회",
+        "title": "길 막는 ‘도심 마라톤’ 비판에···오세훈 “시민 불편 무겁게 받아들여···코스·일정 원점 협의”",
+        "summary": "길 막는 ‘도심 마라톤’ 비판에···오세훈 “시민 불편 무겁게 받아들여···코스·일정 원점 협의”",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 3시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘길 막는 ‘도심 마라톤’ 비판에···오세훈 “시민 불편 무겁게 받아들여···코스·일정 원점 협의”’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
+        "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
+        "source": "경향신문",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2cW5aZDBPbGhtR1V6MXBMSDFqZFJyNlFGYUJja29ZaUNiLUJqdm1pcW5oR2YzLTJ4aTNWaU0wMS1OcEs5b0dKeDl0Q0RzQzY4VC04b1ZVVXhUQdIBX0FVX3lxTE1iTEEzN09kN3JTZzc3eFdXdDBNLV9FNzR3c2M0bkhsOFJ6am9SOVV0YmluQmVTOFBoSnQxYm5JNDRFLXpWUXFqWDEwWVlkLVZuYlAwSk1hcUxCZktDczRV?oc=5",
+        "published_at": "2026-11-02T03:12:00Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 3,
+          "span_hours": 3.2,
+          "first_report_at": "2026-11-02T03:12:00Z",
+          "last_report_at": "2026-11-02T06:24:28Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2cW5aZDBPbGhtR1V6MXBMSDFqZFJyNlFGYUJja29ZaUNiLUJqdm1pcW5oR2YzLTJ4aTNWaU0wMS1OcEs5b0dKeDl0Q0RzQzY4VC04b1ZVVXhUQdIBX0FVX3lxTE1iTEEzN09kN3JTZzc3eFdXdDBNLV9FNzR3c2M0bkhsOFJ6am9SOVV0YmluQmVTOFBoSnQxYm5JNDRFLXpWUXFqWDEwWVlkLVZuYlAwSk1hcUxCZktDczRV?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TMk5ZM2FucmlrX1I5OFA2X0FhVFRoM1pIZFVab0lsWFF6a1M2STg3Q0NsekREeUx5Qk1Dd1Z4eDZWSHd2OFg3cF93OEJGWktZSVFUMjhOYVNPdG1jZld6Nk5YQlktZ0V1Ynl5R2I4TnJqWFBUc1NN0gF3QVVfeXFMTzB2UWltSDNwQlprVDhUc3dlekdOLTRzZmhIVnFhWDI1dmxZTks2aGxDSjVUekNTLW1sbUdpQ1BDczBoNHIwemhhQnhqV09VZWZlc01WN0ZBN1FOMDhPbGRFRlpqWTBYRDlOSndBSmRHSVBzeGxTeGs?oc=5",
+          "sources": [
+            {
+              "name": "MBC 뉴스",
+              "group": "imbc.com",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TMk5ZM2FucmlrX1I5OFA2X0FhVFRoM1pIZFVab0lsWFF6a1M2STg3Q0NsekREeUx5Qk1Dd1Z4eDZWSHd2OFg3cF93OEJGWktZSVFUMjhOYVNPdG1jZld6Nk5YQlktZ0V1Ynl5R2I4TnJqWFBUc1NN0gF3QVVfeXFMTzB2UWltSDNwQlprVDhUc3dlekdOLTRzZmhIVnFhWDI1dmxZTks2aGxDSjVUekNTLW1sbUdpQ1BDczBoNHIwemhhQnhqV09VZWZlc01WN0ZBN1FOMDhPbGRFRlpqWTBYRDlOSndBSmRHSVBzeGxTeGs?oc=5",
+              "published_at": "2026-11-02T06:24:28Z",
+              "headline": "연이은 도심 마라톤에 주말 서울 교통 혼잡‥오세훈 시장 \"내년 대회 원점에서 협의\""
+            },
+            {
+              "name": "매일경제",
+              "group": "mk.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yUnFuRE5CSTE4UkNWaHZ5czhpUzhkMjdPdDhtUUFWc1lLVlhoTHhvUFJ5MlYzcXo4OUp0MmdpcnlxUkhGdE5PSTNLdmxRZERtQjZEWU1n?oc=5",
+              "published_at": "2026-11-02T04:03:13Z",
+              "headline": "오세훈 “도심 마라톤 코스·일정 원점 재협의…시민 불편 줄일 것”"
+            },
+            {
+              "name": "경향신문",
+              "group": "khan.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2cW5aZDBPbGhtR1V6MXBMSDFqZFJyNlFGYUJja29ZaUNiLUJqdm1pcW5oR2YzLTJ4aTNWaU0wMS1OcEs5b0dKeDl0Q0RzQzY4VC04b1ZVVXhUQdIBX0FVX3lxTE1iTEEzN09kN3JTZzc3eFdXdDBNLV9FNzR3c2M0bkhsOFJ6am9SOVV0YmluQmVTOFBoSnQxYm5JNDRFLXpWUXFqWDEwWVlkLVZuYlAwSk1hcUxCZktDczRV?oc=5",
+              "published_at": "2026-11-02T03:12:00Z",
+              "headline": "길 막는 ‘도심 마라톤’ 비판에···오세훈 “시민 불편 무겁게 받아들여···코스·일정 원점 협의”"
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        0,
+        0,
+        3
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 21
     },
     {
       "topic": {
@@ -1248,11 +1429,11 @@
         3,
         0
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 19
+      "rank": 22
     },
     {
       "topic": {
@@ -1306,11 +1487,11 @@
         0,
         3
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 20
+      "rank": 23
     },
     {
       "topic": {
@@ -1364,11 +1545,11 @@
         3,
         0
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 21
+      "rank": 24
     },
     {
       "topic": {
@@ -1422,11 +1603,11 @@
         0,
         3
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 22
+      "rank": 25
     },
     {
       "topic": {
@@ -1480,11 +1661,11 @@
         0,
         3
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 23
+      "rank": 26
     },
     {
       "topic": {
@@ -1538,11 +1719,11 @@
         0,
         3
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 24
+      "rank": 27
     },
     {
       "topic": {
@@ -1596,160 +1777,7 @@
         0,
         3
       ],
-      "tracking_hours": 27.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 25
-    },
-    {
-      "topic": {
-        "id": "4cc3be50952211700898",
-        "category": "문화·예술",
-        "title": "‘제1회 고운숨결문학상’ 시상식 성료⋯첫 수상자 선정",
-        "summary": "‘제1회 고운숨결문학상’ 시상식 성료⋯첫 수상자 선정",
-        "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 48시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘‘제1회 고운숨결문학상’ 시상식 성료⋯첫 수상자 선정’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
-        "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-        "source": "국민일보",
-        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yVV9OSk9ZM0toalZUZENLMXZiYUVSTjNzZkFZTTAtaDBQVEFxbnd6WmxEWVlSUHlidUh3SHc2WjhQVGdzY2F3d1V3OS04Rk5YMm8tZWJKWTk?oc=5",
-        "published_at": "2026-11-02T01:55:55Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 2,
-          "report_count": 2,
-          "span_hours": 48.9,
-          "first_report_at": "2026-10-31T01:00:00Z",
-          "last_report_at": "2026-11-02T01:55:55Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NTWdmVlZHWGl1SDZ2V2JieG5QTE55MzA4YlN2aXdPai1LcnRCSTF3SEs4RVNVOVhqdGo4RG1xUUQ0V0kyZEVNam43VG82NWliUVFvZk15NVVxRnU3OEJxUzBSYzYtQdIBZkFVX3lxTE1NTWdmVlZHWGl1SDZ2V2JieG5QTE55MzA4YlN2aXdPai1LcnRCSTF3SEs4RVNVOVhqdGo4RG1xUUQ0V0kyZEVNam43VG82NWliUVFvZk15NVVxRnU3OEJxUzBSYzYtQQ?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yVV9OSk9ZM0toalZUZENLMXZiYUVSTjNzZkFZTTAtaDBQVEFxbnd6WmxEWVlSUHlidUh3SHc2WjhQVGdzY2F3d1V3OS04Rk5YMm8tZWJKWTk?oc=5",
-          "sources": [
-            {
-              "name": "국민일보",
-              "group": "kmib.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yVV9OSk9ZM0toalZUZENLMXZiYUVSTjNzZkFZTTAtaDBQVEFxbnd6WmxEWVlSUHlidUh3SHc2WjhQVGdzY2F3d1V3OS04Rk5YMm8tZWJKWTk?oc=5",
-              "published_at": "2026-11-02T01:55:55Z",
-              "headline": "‘제1회 고운숨결문학상’ 시상식 성료⋯첫 수상자 선정"
-            },
-            {
-              "name": "동아일보",
-              "group": "donga.com",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NTWdmVlZHWGl1SDZ2V2JieG5QTE55MzA4YlN2aXdPai1LcnRCSTF3SEs4RVNVOVhqdGo4RG1xUUQ0V0kyZEVNam43VG82NWliUVFvZk15NVVxRnU3OEJxUzBSYzYtQdIBZkFVX3lxTE1NTWdmVlZHWGl1SDZ2V2JieG5QTE55MzA4YlN2aXdPai1LcnRCSTF3SEs4RVNVOVhqdGo4RG1xUUQ0V0kyZEVNam43VG82NWliUVFvZk15NVVxRnU3OEJxUzBSYzYtQQ?oc=5",
-              "published_at": "2026-10-31T01:00:00Z",
-              "headline": "제1회 고운숨결문학상 개최…독후감 9편 수상작 선정"
-            }
-          ]
-        }
-      },
-      "source_groups": 2,
-      "daily_sources": [
-        1,
-        0,
-        1
-      ],
-      "tracking_hours": 27.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 26
-    },
-    {
-      "topic": {
-        "id": "494fdb97d86d6fedf618",
-        "category": "스포츠",
-        "title": "'끝없는 부진' 손흥민 답답해 미칠 지경 \"선수단 마음가짐 용납 불가, 이런 식이면...\" 감독마저 분노의 '작심 발언' - 머니투데이",
-        "summary": "'끝없는 부진' 손흥민 답답해 미칠 지경 \"선수단 마음가짐 용납 불가, 이런 식이면...\" 감독마저 분노의 '작심 발언' - 머니투데이",
-        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 44시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘'끝없는 부진' 손흥민 답답해 미칠 지경 \"선수단 마음가짐 용납 불가, 이런 식이면...\" 감독마저 분노의 '작심 발언' - 머니투데이’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "머니투데이",
-        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LdmxtM0ZFbXZfRElyMXZDWXJ3TVFsZUxVRmVoX1ZSWDJrTko5WTkzNDl6TXhCNkdsSXBXNngyQVFVUVpjMGZJRmdMOHJsUS1OWjdQRGlLNnZKZS02NTJ0ek5pckloYXU1b1HSAW9BVV95cUxQU3JwOWhyR1k5LWRLRTBjc3FESnpFLVVNWThlSkR0VlBTVHBEakJ4Nl9LRF9WakJ6bTg0QXZkVlBwY1J6VHNHY2pCVm5weFZCMXpMYkJvVm9jaEdVS3BXRzhYSTh2OXA4dzBnY3pHZkU?oc=5",
-        "published_at": "2026-11-02T07:14:17Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 2,
-          "report_count": 5,
-          "span_hours": 44.0,
-          "first_report_at": "2026-10-31T11:11:33Z",
-          "last_report_at": "2026-11-02T07:14:17Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45eWRtS21QYVdKdk9Fci1neFkxVldzVlVYbnZ4eWtJZ1ZJaDc1TjJmWkx0LUtURS12SHBDM00wMDJiVzVvbTJydmVNVVcybW12WTh2Nk9MbDFRdVE5SVMyUzVlYS1LeEhuWVI00gFwQVVfeXFMTjN0TWJvSGhnTU5PVzZvV290TWhnVUJkSWVMM1dDQXkwTGxBQVBXSU9xT29iTnlYQXNZbUltWllDSDJWNmVJZ2dzT0xELTN0d2xSSjlsMXlGSU1BbVpoazZIUXZ4NUdXZy1POVVPZWFLQg?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LdmxtM0ZFbXZfRElyMXZDWXJ3TVFsZUxVRmVoX1ZSWDJrTko5WTkzNDl6TXhCNkdsSXBXNngyQVFVUVpjMGZJRmdMOHJsUS1OWjdQRGlLNnZKZS02NTJ0ek5pckloYXU1b1HSAW9BVV95cUxQU3JwOWhyR1k5LWRLRTBjc3FESnpFLVVNWThlSkR0VlBTVHBEakJ4Nl9LRF9WakJ6bTg0QXZkVlBwY1J6VHNHY2pCVm5weFZCMXpMYkJvVm9jaEdVS3BXRzhYSTh2OXA4dzBnY3pHZkU?oc=5",
-          "sources": [
-            {
-              "name": "머니투데이",
-              "group": "mt.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LdmxtM0ZFbXZfRElyMXZDWXJ3TVFsZUxVRmVoX1ZSWDJrTko5WTkzNDl6TXhCNkdsSXBXNngyQVFVUVpjMGZJRmdMOHJsUS1OWjdQRGlLNnZKZS02NTJ0ek5pckloYXU1b1HSAW9BVV95cUxQU3JwOWhyR1k5LWRLRTBjc3FESnpFLVVNWThlSkR0VlBTVHBEakJ4Nl9LRF9WakJ6bTg0QXZkVlBwY1J6VHNHY2pCVm5weFZCMXpMYkJvVm9jaEdVS3BXRzhYSTh2OXA4dzBnY3pHZkU?oc=5",
-              "published_at": "2026-11-02T07:14:17Z",
-              "headline": "'끝없는 부진' 손흥민 답답해 미칠 지경 \"선수단 마음가짐 용납 불가, 이런 식이면...\" 감독마저 분노의 '작심 발언' - 머니투데이"
-            },
-            {
-              "name": "YTN",
-              "group": "ytn.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qV3p1U1hIYUpndE93VGVuX3RoRGtZdXZIaVd5SDE4RDZRV05hT3BfNERPUmZIX1QyQWdhVFNzUVFmVTB6cnVmMHdvaGswT3VXYmYxVVFfYjNPVHJwVnc?oc=5",
-              "published_at": "2026-11-01T06:20:00Z",
-              "headline": "손흥민 하이파이브에 황희찬 '쌩'…다시 불붙는 불화설? [지금이뉴스]"
-            }
-          ]
-        }
-      },
-      "source_groups": 2,
-      "daily_sources": [
-        1,
-        2,
-        1
-      ],
-      "tracking_hours": 27.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 27
-    },
-    {
-      "topic": {
-        "id": "38ce977a917696453149",
-        "category": "스포츠",
-        "title": "韓 축구 절망 “이강인 세컨톱 제대로 못 뛴다…” 냉정한 혹평 떴다 “시메오네 감독 LEE 포지션 고민 중”",
-        "summary": "韓 축구 절망 “이강인 세컨톱 제대로 못 뛴다…” 냉정한 혹평 떴다 “시메오네 감독 LEE 포지션 고민 중”",
-        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 31시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘韓 축구 절망 “이강인 세컨톱 제대로 못 뛴다…” 냉정한 혹평 떴다 “시메오네 감독 LEE 포지션 고민 중”’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "SPOTV NEWS",
-        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mQ2VBVm1hRTZweE5ianF2WXJYVV93OE50ODlTeXBhajhVWjF2NFc2bEdTYVpmWlpUWF9qU09zT2dkQUpNWE1BREVKNmdUa1kzRTBONjNacUQydXNncTRHSExpWTBTTEEySHMzRndXY3k?oc=5",
-        "published_at": "2026-11-01T23:31:39Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 2,
-          "report_count": 5,
-          "span_hours": 31.3,
-          "first_report_at": "2026-10-31T16:11:52Z",
-          "last_report_at": "2026-11-01T23:31:39Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yNU1WTzZWbG5ZWmJmSV81ek9iYVM5RmVLMWEwRG00OTZBTFdFaGNXVVRHcFRsNkJxZG1Kd0pwTHo3WWx2M085dnZ5ZVVvTU5KMW45ZWRBWk1HMFVpVVVKMmZ5WVp2a284aEZWMTJkNWZPZjFwRkE?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mQ2VBVm1hRTZweE5ianF2WXJYVV93OE50ODlTeXBhajhVWjF2NFc2bEdTYVpmWlpUWF9qU09zT2dkQUpNWE1BREVKNmdUa1kzRTBONjNacUQydXNncTRHSExpWTBTTEEySHMzRndXY3k?oc=5",
-          "sources": [
-            {
-              "name": "SPOTV NEWS",
-              "group": "spotvnews.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mQ2VBVm1hRTZweE5ianF2WXJYVV93OE50ODlTeXBhajhVWjF2NFc2bEdTYVpmWlpUWF9qU09zT2dkQUpNWE1BREVKNmdUa1kzRTBONjNacUQydXNncTRHSExpWTBTTEEySHMzRndXY3k?oc=5",
-              "published_at": "2026-11-01T23:31:39Z",
-              "headline": "韓 축구 절망 “이강인 세컨톱 제대로 못 뛴다…” 냉정한 혹평 떴다 “시메오네 감독 LEE 포지션 고민 중”"
-            },
-            {
-              "name": "조선일보",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX2NUWmswWVRRdFdVSHY1c2RFbmZNRGVfUGlHM2FJYU80R21Gb05LeVlJVjlPcnRMdUp6MFh0U2JQZW84VDJaYm8zd3Mwdkl1emlHVDVDbDFDZ2pFb2I2Ry1QLWFGQmpaNmJCNkk1bFlTeUFFYV9pNWRsVTZDZ1VQcGNIU3U3VjNCVGs4?oc=5",
-              "published_at": "2026-10-31T17:54:00Z",
-              "headline": "'이강인 활용법에 두 감독 모두 골머리' 시메오네도 모레노도 같은 고민...스페인 언론 \"세컨드 스트라이커로 뛰면 존재감 사라진다\""
-            }
-          ]
-        }
-      },
-      "source_groups": 2,
-      "daily_sources": [
-        0,
-        1,
-        1
-      ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -1757,50 +1785,57 @@
     },
     {
       "topic": {
-        "id": "43eacf7efc27074f5ec6",
-        "category": "세계뉴스",
-        "title": "한미일 외교장관 \"北 비핵화 재확인\"... 조현, G20서 지뢰도발 '여론전'도",
-        "summary": "한미일 외교장관 \"北 비핵화 재확인\"... 조현, G20서 지뢰도발 '여론전'도",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 28시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘한미일 외교장관 \"北 비핵화 재확인\"... 조현, G20서 지뢰도발 '여론전'도’라는 소식을 봤어요. 최근 글로벌 소식 중 관심이 갔던 변화가 있어요?",
-        "context": "국가·사람 전체를 단정하지 말고 사실과 해석을 구분해 이야기해 보세요.",
-        "source": "한국일보",
-        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VMVpVdzlxbjFXaFpzSDluM3REU0F6X1oyTjYyMjBBSWVTR3h1U2hqX0lCaXpOMFA5S3NReUlPalRyQUdLZzlKdTNIYmpYMXZrZU5CYU1UMV9ScDBoazNKQ0VUaVhHRWtUUUx6ZDVB0gFzQVVfeXFMTVY1a2tyY2U4a0U5clJWRm5HQXFmbmQxb0FVZVR2Wk45UUhNZWR0U0JWQ3JtaFdFd1JJZFFWalNIWUNfQzhGYXZ4eEoySk5YQ2JWSjlyb21WREFYeVVRNmhBZ2ZiSmpPVVJaSVNoV0lhVGpzcw?oc=5",
-        "published_at": "2026-11-01T07:09:00Z",
+        "id": "0007676d1b046b6ffea3",
+        "category": "연예",
+        "title": "이무진, 새 둥지서 첫 신곡…1년 6개월만 `밤무대` 발매",
+        "summary": "이무진, 새 둥지서 첫 신곡…1년 6개월만 `밤무대` 발매",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘이무진, 새 둥지서 첫 신곡…1년 6개월만 `밤무대` 발매’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+        "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
+        "source": "마이데일리",
+        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PMXpEWW10bXlJZGNxa29VX3Y2TXY0Y0xyMjIzSzA5bF9HMUlmNlpMb29kaVNYUjk5Mml3NXIwWVhZdGthOU9YMGR2YVNZUW1qemtFYVA0Nmdwa05jd013TlJrQXB6dw?oc=5",
+        "published_at": "2026-11-02T23:40:00Z",
         "evidence": "headline",
         "coverage": {
-          "source_groups": 2,
+          "source_groups": 3,
           "report_count": 3,
-          "span_hours": 28.9,
-          "first_report_at": "2026-10-31T02:14:00Z",
-          "last_report_at": "2026-11-01T07:09:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ldXZqUVNhRklpX3JIT2owVmtCOGhvT2JuUnlsMzFPTXlQcUlSZmpFLTA5QUZLVTdKSWd1MUxFeTQ1QmZPcGRubjJKZ2dMTWRKTjFTR3lkRFhXWUJDcm5nam9CTktXczVSYXJHdGdn0gFzQVVfeXFMTzZtd2pHcm5rRnd6NV9IdkJCY011US1FUUR5RE11Um9GdldPUFF4MWZ6WjJKSkswUVk1N2R1aEZBNkpCT014ZXVfRDRJU0V5OXBYdW1ueFBSQzNyb2RNbmdIRExuUzA1bXBWV3RvLWNhY3pKTQ?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VMVpVdzlxbjFXaFpzSDluM3REU0F6X1oyTjYyMjBBSWVTR3h1U2hqX0lCaXpOMFA5S3NReUlPalRyQUdLZzlKdTNIYmpYMXZrZU5CYU1UMV9ScDBoazNKQ0VUaVhHRWtUUUx6ZDVB0gFzQVVfeXFMTVY1a2tyY2U4a0U5clJWRm5HQXFmbmQxb0FVZVR2Wk45UUhNZWR0U0JWQ3JtaFdFd1JJZFFWalNIWUNfQzhGYXZ4eEoySk5YQ2JWSjlyb21WREFYeVVRNmhBZ2ZiSmpPVVJaSVNoV0lhVGpzcw?oc=5",
+          "span_hours": 0.3,
+          "first_report_at": "2026-11-02T23:21:00Z",
+          "last_report_at": "2026-11-02T23:40:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vaV80NVljZ3pVR3RUdW1Nb0R1ZGNxeGFDZF9WeHFsZEhFeVJoVW9zQnhkRTlvUVM2RVFtQVZ5RGhqUHdMdW9OWUNra25IalVpeHRFbQ?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PMXpEWW10bXlJZGNxa29VX3Y2TXY0Y0xyMjIzSzA5bF9HMUlmNlpMb29kaVNYUjk5Mml3NXIwWVhZdGthOU9YMGR2YVNZUW1qemtFYVA0Nmdwa05jd013TlJrQXB6dw?oc=5",
           "sources": [
             {
-              "name": "한국일보",
-              "group": "hankookilbo.com",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VMVpVdzlxbjFXaFpzSDluM3REU0F6X1oyTjYyMjBBSWVTR3h1U2hqX0lCaXpOMFA5S3NReUlPalRyQUdLZzlKdTNIYmpYMXZrZU5CYU1UMV9ScDBoazNKQ0VUaVhHRWtUUUx6ZDVB0gFzQVVfeXFMTVY1a2tyY2U4a0U5clJWRm5HQXFmbmQxb0FVZVR2Wk45UUhNZWR0U0JWQ3JtaFdFd1JJZFFWalNIWUNfQzhGYXZ4eEoySk5YQ2JWSjlyb21WREFYeVVRNmhBZ2ZiSmpPVVJaSVNoV0lhVGpzcw?oc=5",
-              "published_at": "2026-11-01T07:09:00Z",
-              "headline": "한미일 외교장관 \"北 비핵화 재확인\"... 조현, G20서 지뢰도발 '여론전'도"
+              "name": "마이데일리",
+              "group": "mydaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PMXpEWW10bXlJZGNxa29VX3Y2TXY0Y0xyMjIzSzA5bF9HMUlmNlpMb29kaVNYUjk5Mml3NXIwWVhZdGthOU9YMGR2YVNZUW1qemtFYVA0Nmdwa05jd013TlJrQXB6dw?oc=5",
+              "published_at": "2026-11-02T23:40:00Z",
+              "headline": "이무진, 새 둥지서 첫 신곡…1년 6개월만 `밤무대` 발매"
             },
             {
-              "name": "경향신문",
-              "group": "khan.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VekxpeElraEZDRFZLUkdvcE1VclNzeGZGZHRMWUs5bWVxbnQ0cXVIeFZENTkzTU1xbEZRU2lEb2E1LTU3VWdHMDNiek03MnJ2VTRORmhqSkEyZ9IBX0FVX3lxTFBiNE5zWlc5dGtGSjNUY1JvN2g2eFE0elVaMk1xb2x5SHRuMkU3cmItZm5zVW1Ib2hnV2xqUmNlVDlLclM0eTBoN1puZnFHSmN6MTNXelU1VDR0cmRLanpN?oc=5",
-              "published_at": "2026-11-01T06:51:00Z",
-              "headline": "한·미·일 외교장관회의, ‘완전한 비핵화’·‘대중국 견제’ 현안 둘러싼 온도차"
+              "name": "이데일리",
+              "group": "edaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTkNCaERJN1pCckljMWV2NHBzRzhZVlFKbjlzMGxMYmtjbmY0b1JrN0UxbnhUeWE3OFVCWG1rNjlGdFo5V2V5UUNFbzU3cEh5NXRpU1A5dER5U0pkWGJiVERrZW1SMmhtTVJBdTRvRm13NzVVRWZ2UVc1RG5mcnR0Qw?oc=5",
+              "published_at": "2026-11-02T23:33:03Z",
+              "headline": "이무진, '밤무대'로 컴백…1년 6개월 만에 신곡"
+            },
+            {
+              "name": "OSEN",
+              "group": "osen.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vaV80NVljZ3pVR3RUdW1Nb0R1ZGNxeGFDZF9WeHFsZEhFeVJoVW9zQnhkRTlvUVM2RVFtQVZ5RGhqUHdMdW9OWUNra25IalVpeHRFbQ?oc=5",
+              "published_at": "2026-11-02T23:21:00Z",
+              "headline": "이무진, 1년 6개월만에 신곡 ‘밤무대’ 발매 확정…이번에도 자작곡"
             }
           ]
         }
       },
-      "source_groups": 2,
+      "source_groups": 3,
       "daily_sources": [
-        1,
-        2,
-        0
+        0,
+        0,
+        3
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -1808,50 +1843,57 @@
     },
     {
       "topic": {
-        "id": "c43d499fb68f4d889d29",
-        "category": "경제·주식",
-        "title": "코스피 6천피 회복할까…AI 실적·미국 중간선거에 쏠린 눈",
-        "summary": "코스피 6천피 회복할까…AI 실적·미국 중간선거에 쏠린 눈",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 25시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘코스피 6천피 회복할까…AI 실적·미국 중간선거에 쏠린 눈’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
-        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-        "source": "매일경제",
-        "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hZkE3VnR2Tld5czV1bWE0WUFmNGJMaEdMTWJZVU1OU0hIWUczVDhaNEhpR01zampuRzdhRUFZd3pRdkJ6ZXBnd01xRHByN0dJUEE?oc=5",
-        "published_at": "2026-11-01T22:59:36Z",
+        "id": "e8a6467cc35ecd223dc8",
+        "category": "문화·예술",
+        "title": "광주의 진실 알린 힌츠페터…옛 전남도청서 10주기 특별전",
+        "summary": "광주의 진실 알린 힌츠페터…옛 전남도청서 10주기 특별전",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘광주의 진실 알린 힌츠페터…옛 전남도청서 10주기 특별전’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+        "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
+        "source": "파이낸셜뉴스",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5McGx4NWVadHdWZmNqRmNjSGFmbmQyU2hZTDJtNVNBNWF0Y0xERHdPcDdDODhzT203WU9NdnlDUkxxb3pHbGJRRXloZnE2Y3ZxTjhQaXNsd2Rkdw?oc=5",
+        "published_at": "2026-11-02T23:00:00Z",
         "evidence": "headline",
         "coverage": {
-          "source_groups": 2,
+          "source_groups": 3,
           "report_count": 3,
-          "span_hours": 25.8,
-          "first_report_at": "2026-10-31T21:10:00Z",
-          "last_report_at": "2026-11-01T22:59:36Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rV2FuQWY0SVh3d2kxWks2WGRJX1VPZElDWWdaS1QzWlBhcUx1ZDIwQmFYY0M1N3o4YnpyYi1ZdzZJdzZPYWNBU2ZweGRBWFA2VGJRRG9GeHNYdTZaTmRheHdWR1VlYlA5anhPTFFVZzPSAXRBVV95cUxOdHBrbUlROHE1T2VINjdtcGRtc0lzSUp5WGdHOXlRNnB0dEJUNklTSnZWckhVNHJjTy1HTmtQTHgxU245MF9YQ3BYTUpyLWZQcTZINUpoVWk0TzhqUV9mejFwblFENFNmTkQyMktWVndUeExHVw?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hZkE3VnR2Tld5czV1bWE0WUFmNGJMaEdMTWJZVU1OU0hIWUczVDhaNEhpR01zampuRzdhRUFZd3pRdkJ6ZXBnd01xRHByN0dJUEE?oc=5",
+          "span_hours": 0.0,
+          "first_report_at": "2026-11-02T23:00:00Z",
+          "last_report_at": "2026-11-02T23:00:13Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5McGx4NWVadHdWZmNqRmNjSGFmbmQyU2hZTDJtNVNBNWF0Y0xERHdPcDdDODhzT203WU9NdnlDUkxxb3pHbGJRRXloZnE2Y3ZxTjhQaXNsd2Rkdw?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OczBhekM0UHpIVFVuMlRNX2hZX2liU0J4bGlSWkhuMk5ubDl1WlFfMy1WZ2IzREdvdTNmWmtld1IwMnpob2lTYUpVNU9jQ1dXTXhKNmZBT245Rldxa3Z0eEk4VmtvSW9YUkVJWnFCRE9IQQ?oc=5",
           "sources": [
             {
-              "name": "매일경제",
-              "group": "mk.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hZkE3VnR2Tld5czV1bWE0WUFmNGJMaEdMTWJZVU1OU0hIWUczVDhaNEhpR01zampuRzdhRUFZd3pRdkJ6ZXBnd01xRHByN0dJUEE?oc=5",
-              "published_at": "2026-11-01T22:59:36Z",
-              "headline": "코스피 6천피 회복할까…AI 실적·미국 중간선거에 쏠린 눈"
+              "name": "뉴스1",
+              "group": "wire:뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OczBhekM0UHpIVFVuMlRNX2hZX2liU0J4bGlSWkhuMk5ubDl1WlFfMy1WZ2IzREdvdTNmWmtld1IwMnpob2lTYUpVNU9jQ1dXTXhKNmZBT245Rldxa3Z0eEk4VmtvSW9YUkVJWnFCRE9IQQ?oc=5",
+              "published_at": "2026-11-02T23:00:13Z",
+              "headline": "힌츠페터 10주기 특별전…광주 취재 사진·타자기 등 공개"
             },
             {
-              "name": "IT조선",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50cGttSVE4cTVPZUg2N21wZG1zSXNJSnlYZ0c5eVE2cHR0QlQ2SVNKdlZySFU0cmNPLUdOa1BMeDFTbjkwX1hDcFhNSnItZlBxNkg1SmhVaTRPOGpRX2Z6MXBuUUQ0U2ZORDIyS1ZWd1R4TEdX0gF0QVVfeXFMTnRwa21JUThxNU9lSDY3bXBkbXNJc0lKeVhnRzl5UTZwdHRCVDZJU0p2VnJIVTRyY08tR05rUEx4MVNuOTBfWENwWE1Kci1mUHE2SDVKaFVpNE84alFfZnoxcG5RRDRTZk5EMjJLVlZ3VHhMR1c?oc=5",
-              "published_at": "2026-10-31T21:13:44Z",
-              "headline": "코스피, 6천선 회복 관건… 美선거·빅테크 실적 ‘주목’ [주간증시전망]"
+              "name": "아시아경제",
+              "group": "asiae.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xSG5BM09HdWc4b3k2TkxaT2RISDB0a0lHM3lhY1VsdU5GUVlTMmpPSm9CVEhITlNTR1VKWXdOM3pPNi1ZUGlmYWxRMnFzLVMtWkxPODltNC0zNGVKeWhTbw?oc=5",
+              "published_at": "2026-11-02T23:00:00Z",
+              "headline": "5·18 세계에 알린 獨기자 힌츠페터 10주기…기록·유품 특별전"
+            },
+            {
+              "name": "파이낸셜뉴스",
+              "group": "fnnews.com",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5McGx4NWVadHdWZmNqRmNjSGFmbmQyU2hZTDJtNVNBNWF0Y0xERHdPcDdDODhzT203WU9NdnlDUkxxb3pHbGJRRXloZnE2Y3ZxTjhQaXNsd2Rkdw?oc=5",
+              "published_at": "2026-11-02T23:00:00Z",
+              "headline": "광주의 진실 알린 힌츠페터…옛 전남도청서 10주기 특별전"
             }
           ]
         }
       },
-      "source_groups": 2,
+      "source_groups": 3,
       "daily_sources": [
         0,
-        1,
-        1
+        0,
+        3
       ],
-      "tracking_hours": 27.0,
+      "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
