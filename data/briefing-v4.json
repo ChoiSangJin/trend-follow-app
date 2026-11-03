@@ -2,42 +2,81 @@
   "schema_version": 4,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-03T00:56:21.542692Z",
+  "updated_at": "2026-11-03T14:08:54.534808Z",
   "cards": [
     {
-      "id": "ae077744d60d07b70c79",
+      "id": "d89a2b918d1e0b1c8b8f",
       "category": "문화·예술",
-      "title": "'한화클래식' 첫 경남 공연, 22일 창원·24일 거제…주민 초청",
-      "summary": "'한화클래식' 첫 경남 공연, 22일 창원·24일 거제…주민 초청",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 3시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘'한화클래식' 첫 경남 공연, 22일 창원·24일 거제…주민 초청’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "title": "제26회 현대불교문학상에 소설가 이상문·수완스님",
+      "summary": "제26회 현대불교문학상에 소설가 이상문·수완스님",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 7시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘제26회 현대불교문학상에 소설가 이상문·수완스님’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
       "source": "연합뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCddIBYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCdQ?oc=5",
-      "published_at": "2026-11-02T05:24:28Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DRXRtcW9FU09yZ0R2ZmFrVHR2YVY0a1BacFRrWWlKOFo2ekFtWU5wMF9fMkd1RHhBdHRCWjBiVUdYdWdPM3lFQmZia1pUM3BSU19EcG10eFctckHSAWBBVV95cUxNbGJuWjhhaEs5SHRtZzdGWmpFY2pLSXQ2ZkxYWm5LZkhoYlJSZTZhbk9mS1daUjhKbVlQcDBqNzY1YVNNR3ZDMEFSN0RmcXgzNXhhU3NiZ1l4OHVxYWY2TTE?oc=5",
+      "published_at": "2026-11-03T00:22:12Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 3,
         "report_count": 3,
-        "span_hours": 3.3,
-        "first_report_at": "2026-11-02T05:24:28Z",
-        "last_report_at": "2026-11-02T08:44:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCddIBYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCdQ?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4UTVzQ0ZGbXhrZTI1X2FWenh4SzBnYllLXy1GTElxRnBlMkN6cEY0bWlCaHlWcUlHcEM1QTF6U3gwN3pQX3htSmY1N1hrWEtLR0h0MUQzUmhEZ0hqYTBEel9RU28?oc=5",
+        "span_hours": 7.3,
+        "first_report_at": "2026-11-03T00:22:12Z",
+        "last_report_at": "2026-11-03T07:37:42Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DRXRtcW9FU09yZ0R2ZmFrVHR2YVY0a1BacFRrWWlKOFo2ekFtWU5wMF9fMkd1RHhBdHRCWjBiVUdYdWdPM3lFQmZia1pUM3BSU19EcG10eFctckHSAWBBVV95cUxNbGJuWjhhaEs5SHRtZzdGWmpFY2pLSXQ2ZkxYWm5LZkhoYlJSZTZhbk9mS1daUjhKbVlQcDBqNzY1YVNNR3ZDMEFSN0RmcXgzNXhhU3NiZ1l4OHVxYWY2TTE?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UcW1jZmhmUzJtLXV6aGk0NlpTSGNUSFduZjA0bXJCWV83eEsya29EUnliRlpsVDR1WUNnV3RnQ044V1dPSnY2cW1jd29nbzFpT2g3NlBYVDlpSjBhV3NCN1VZQm45Zjl5eUhibnEwN2JScURpdWtqeNIBeEFVX3lxTE1UcW1jZmhmUzJtLXV6aGk0NlpTSGNUSFduZjA0bXJCWV83eEsya29EUnliRlpsVDR1WUNnV3RnQ044V1dPSnY2cW1jd29nbzFpT2g3NlBYVDlpSjBhV3NCN1VZQm45Zjl5eUhibnEwN2JScURpdWtqeA?oc=5",
         "sources": [
-          {
-            "name": "한겨레",
-            "group": "hani.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4UTVzQ0ZGbXhrZTI1X2FWenh4SzBnYllLXy1GTElxRnBlMkN6cEY0bWlCaHlWcUlHcEM1QTF6U3gwN3pQX3htSmY1N1hrWEtLR0h0MUQzUmhEZ0hqYTBEel9RU28?oc=5",
-            "published_at": "2026-11-02T08:44:00Z",
-            "headline": "‘한화클래식’ 첫 경남 공연…22일 창원·24일 거제"
-          },
           {
             "name": "뉴시스",
             "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91QTFfck9VV0NJbjkwZmRFVkRvRUJScWlFZE03MjZDZmtSVzI3dG90ZGZiZ0kxdmNzZUhVS3h2NGVtWkxlc3hyYWpzeVRZTDdBV3k3TEw0MkJtV1d3WUQxOVNrX2hvQ09uc0E1eVV5d1hyQXp0RDBqQ9IBeEFVX3lxTE91QTFfck9VV0NJbjkwZmRFVkRvRUJScWlFZE03MjZDZmtSVzI3dG90ZGZiZ0kxdmNzZUhVS3h2NGVtWkxlc3hyYWpzeVRZTDdBV3k3TEw0MkJtV1d3WUQxOVNrX2hvQ09uc0E1eVV5d1hyQXp0RDBqQw?oc=5",
-            "published_at": "2026-11-02T05:41:56Z",
-            "headline": "한화클래식, 첫 경남 공연 '창원·거제서 세계적 고음악 선율'"
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UcW1jZmhmUzJtLXV6aGk0NlpTSGNUSFduZjA0bXJCWV83eEsya29EUnliRlpsVDR1WUNnV3RnQ044V1dPSnY2cW1jd29nbzFpT2g3NlBYVDlpSjBhV3NCN1VZQm45Zjl5eUhibnEwN2JScURpdWtqeNIBeEFVX3lxTE1UcW1jZmhmUzJtLXV6aGk0NlpTSGNUSFduZjA0bXJCWV83eEsya29EUnliRlpsVDR1WUNnV3RnQ044V1dPSnY2cW1jd29nbzFpT2g3NlBYVDlpSjBhV3NCN1VZQm45Zjl5eUhibnEwN2JScURpdWtqeA?oc=5",
+            "published_at": "2026-11-03T07:37:42Z",
+            "headline": "현대불교문학상에 소설가 이상문…선문학상에 수완 스님"
+          },
+          {
+            "name": "문화일보",
+            "group": "munhwa.com",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14Mk90YW1XRFc0eURVNW4xX2x6enlxMjc3dzRiYzgyaUhPeF9yZ0NaWGVram5SVDBPMFFSZ001amVFS1NNZkpoWlJtcnBuZEZW?oc=5",
+            "published_at": "2026-11-03T00:46:01Z",
+            "headline": "현대불교문학상에 수완 스님·이상문 소설가"
+          },
+          {
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DRXRtcW9FU09yZ0R2ZmFrVHR2YVY0a1BacFRrWWlKOFo2ekFtWU5wMF9fMkd1RHhBdHRCWjBiVUdYdWdPM3lFQmZia1pUM3BSU19EcG10eFctckHSAWBBVV95cUxNbGJuWjhhaEs5SHRtZzdGWmpFY2pLSXQ2ZkxYWm5LZkhoYlJSZTZhbk9mS1daUjhKbVlQcDBqNzY1YVNNR3ZDMEFSN0RmcXgzNXhhU3NiZ1l4OHVxYWY2TTE?oc=5",
+            "published_at": "2026-11-03T00:22:12Z",
+            "headline": "제26회 현대불교문학상에 소설가 이상문·수완스님"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "ae077744d60d07b70c79",
+      "category": "문화·예술",
+      "title": "한화클래식, 첫 경남 공연…프랑스 고음악 '태양왕의 음악'",
+      "summary": "한화클래식, 첫 경남 공연…프랑스 고음악 '태양왕의 음악'",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 20시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘한화클래식, 첫 경남 공연…프랑스 고음악 '태양왕의 음악'’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
+      "source": "뉴스1",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3RjdIMzV3OXFWd1FiX0d4a3ZnV19kR3JTaWpyM1N6ZVNydDRoRnNsR3pURm5LTktRc0Q1V2NzbjY0Yl9LQncyYlNJZDZtckZ5Q0dsTFZpYkd5NDNqZXJPZ2RPTmFMdmdrMVFjY1BTcElZZw?oc=5",
+      "published_at": "2026-11-03T01:35:14Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 20.2,
+        "first_report_at": "2026-11-02T05:24:28Z",
+        "last_report_at": "2026-11-03T01:35:14Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCddIBYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCdQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3RjdIMzV3OXFWd1FiX0d4a3ZnV19kR3JTaWpyM1N6ZVNydDRoRnNsR3pURm5LTktRc0Q1V2NzbjY0Yl9LQncyYlNJZDZtckZ5Q0dsTFZpYkd5NDNqZXJPZ2RPTmFMdmdrMVFjY1BTcElZZw?oc=5",
+        "sources": [
+          {
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3RjdIMzV3OXFWd1FiX0d4a3ZnV19kR3JTaWpyM1N6ZVNydDRoRnNsR3pURm5LTktRc0Q1V2NzbjY0Yl9LQncyYlNJZDZtckZ5Q0dsTFZpYkd5NDNqZXJPZ2RPTmFMdmdrMVFjY1BTcElZZw?oc=5",
+            "published_at": "2026-11-03T01:35:14Z",
+            "headline": "한화클래식, 첫 경남 공연…프랑스 고음악 '태양왕의 음악'"
           },
           {
             "name": "연합뉴스",
@@ -45,45 +84,6 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCddIBYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCdQ?oc=5",
             "published_at": "2026-11-02T05:24:28Z",
             "headline": "'한화클래식' 첫 경남 공연, 22일 창원·24일 거제…주민 초청"
-          }
-        ]
-      },
-      "selection_rank": 1
-    },
-    {
-      "id": "625f319f841d25efd3fd",
-      "category": "문화·예술",
-      "title": "‘제1회 고운숨결문학상’ 시상식 성료⋯첫 수상자 선정",
-      "summary": "‘제1회 고운숨결문학상’ 시상식 성료⋯첫 수상자 선정",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 48시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘‘제1회 고운숨결문학상’ 시상식 성료⋯첫 수상자 선정’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
-      "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-      "source": "국민일보",
-      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yVV9OSk9ZM0toalZUZENLMXZiYUVSTjNzZkFZTTAtaDBQVEFxbnd6WmxEWVlSUHlidUh3SHc2WjhQVGdzY2F3d1V3OS04Rk5YMm8tZWJKWTk?oc=5",
-      "published_at": "2026-11-02T01:55:55Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 48.9,
-        "first_report_at": "2026-10-31T01:00:00Z",
-        "last_report_at": "2026-11-02T01:55:55Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jMng2bzN6WUFzdi14OUFFaHVLWkZMYXNrbTFoX3dxWTB2cFFZUmp4V1hVaDh5Snp1c1kyanZadU12QWdZMkx1V3k3ZWplUks1S0Y3NnJGR19KclhqLWVDRUZ5VXJuVGNPZGdGWEItN0NWXzlaQmfSAWZBVV95cUxNTU1nZlZWR1hpdUg2dldiYnhuUExOeTMwOGJTdml3T2otS3J0Qkkxd0hLOEVTVTlYanRqOERtcVFENFdJMmRFTWpuN1RvNjVpYlFRb2ZNeTVVcUZ1NzhCcVMwUmM2LUE?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yVV9OSk9ZM0toalZUZENLMXZiYUVSTjNzZkFZTTAtaDBQVEFxbnd6WmxEWVlSUHlidUh3SHc2WjhQVGdzY2F3d1V3OS04Rk5YMm8tZWJKWTk?oc=5",
-        "sources": [
-          {
-            "name": "국민일보",
-            "group": "kmib.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yVV9OSk9ZM0toalZUZENLMXZiYUVSTjNzZkFZTTAtaDBQVEFxbnd6WmxEWVlSUHlidUh3SHc2WjhQVGdzY2F3d1V3OS04Rk5YMm8tZWJKWTk?oc=5",
-            "published_at": "2026-11-02T01:55:55Z",
-            "headline": "‘제1회 고운숨결문학상’ 시상식 성료⋯첫 수상자 선정"
-          },
-          {
-            "name": "동아일보",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jMng2bzN6WUFzdi14OUFFaHVLWkZMYXNrbTFoX3dxWTB2cFFZUmp4V1hVaDh5Snp1c1kyanZadU12QWdZMkx1V3k3ZWplUks1S0Y3NnJGR19KclhqLWVDRUZ5VXJuVGNPZGdGWEItN0NWXzlaQmfSAWZBVV95cUxNTU1nZlZWR1hpdUg2dldiYnhuUExOeTMwOGJTdml3T2otS3J0Qkkxd0hLOEVTVTlYanRqOERtcVFENFdJMmRFTWpuN1RvNjVpYlFRb2ZNeTVVcUZ1NzhCcVMwUmM2LUE?oc=5",
-            "published_at": "2026-10-31T01:00:00Z",
-            "headline": "제1회 고운숨결문학상 개최…독후감 9편 수상작 선정"
           }
         ]
       },
@@ -166,134 +166,134 @@
       "last_collected_at": "2026-11-01T12:50:43.940854Z"
     },
     {
-      "id": "1ad860520f7f958d820c",
+      "id": "ba1aa2a80e47eb0ff05a",
       "category": "스포츠",
-      "title": "손흥민 도움 15개로 정정…LAFC, 미네소타에 1-3 완패",
-      "summary": "손흥민 도움 15개로 정정…LAFC, 미네소타에 1-3 완패",
-      "why_now": "수집 범위에서 관련 보도 12개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘손흥민 도움 15개로 정정…LAFC, 미네소타에 1-3 완패’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "title": "'강원전 멀티골' 울산 에릭, K리그1 34라운드 MVP 선정",
+      "summary": "'강원전 멀티골' 울산 에릭, K리그1 34라운드 MVP 선정",
+      "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘'강원전 멀티골' 울산 에릭, K리그1 34라운드 MVP 선정’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "동아일보",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GWTAwN25rRUxWRkFfa3NmTTV3T21qQmpMTy14M3lsSE1CeXJwMkNSSkV1Ym9UVHV3LVg1SXQ5YjdkNldqUmE2aDZuU1BtUTJMUkg2WDZkUVhPQWVEbUtvQjhYSzlUVzBBYk1wY182QWQycExF0gFmQVVfeXFMT29vZ25BX0lUeFlfMUdNd2d0RjdfRkZ2NWNnMXJNMHAwekRTcnZuVjhWalpsZTUxZnk4TVFubFlvdVBwNDlzWE1ILXRZTWxDS2E3bGlTc0F1UG9TY05WTWhIYXItZW1B?oc=5",
-      "published_at": "2026-11-02T05:09:01Z",
+      "source": "뉴시스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92NW9IZnRaaGU4ZXhUMlpVOHVrUTA2eUM2cmhZSjUzX2RwMjItOXQ1N2FFLW5XcEhKc3pKVXN3eGhoc0dqeEZrcDFsSmtGUWk0UFhrTWhOVXFZUGlxNnM2d9IBeEFVX3lxTFByRnQ0Z09HNkZEbGlKMjRKaWNWODA1V1MtZkFoZDVSLXoxWDRpa2cwaDRydWxwcFowdWxfZll5NmxCTGNoYmFwYVRSZmpkd2lRX0ZvbHhHS3p0TU90TjhJX3ZlMEJ4MXlXb0JtZkVWT3VzVXE0VHlaTA?oc=5",
+      "published_at": "2026-11-03T01:38:57Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 8,
-        "report_count": 12,
-        "span_hours": 4.0,
-        "first_report_at": "2026-11-02T03:42:16Z",
-        "last_report_at": "2026-11-02T07:39:45Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WcXRJbEU4WXNoMjhjZ1lNMWJvN1B5bkx1akx6YjNveDFwNko4dHJaNkR6WDdmRFR0MUxobS1BWGJvS1UyYUNxMUFtMU1Td2EtRVRiQ2U5a2wwMzNzbGhYRllTZ3h6WXA0bFJfblMxYmZTRmRqTGc?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKX0pUeHhJTU9scTV3UG9FWjRSRXRZYktIQ19ac3duVGFFOTdsV2p2SDB5cmI3MmFWdDlVdjhrempQT3dKZGliUExpQ3h1Q3pJT3d5bW9xQUpSeTBUTjhxczh1eVVabjZiaklDMmttQ3c?oc=5",
+        "source_groups": 7,
+        "report_count": 7,
+        "span_hours": 6.6,
+        "first_report_at": "2026-11-03T01:26:23Z",
+        "last_report_at": "2026-11-03T08:04:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82eXhfeGZEdzBtRU5QdnVTZ1BGUnF2UzJOZVB0UW1Pbnd1V0JWSUVSVGwxV1M1cXVhMDdVOWI3Q0kzbjVLaFdRQ1A5U3hHMFJaYlhjZVYxZTFuZUx0Q2ZGatIBYEFVX3lxTE82eXhfeGZEdzBtRU5QdnVTZ1BGUnF2UzJOZVB0UW1Pbnd1V0JWSUVSVGwxV1M1cXVhMDdVOWI3Q0kzbjVLaFdRQ1A5U3hHMFJaYlhjZVYxZTFuZUx0Q2ZGag?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2NkljM0pnWmRBTHg5NE5FcmVBS3dFVS1fMjEwY21Tb1dDd1VxRDZqTVRaRXpKYmNHaFBaVWtHSGdKV21SVmpHQVFEYk1BTmlvMFlKMmI0emc0N0h4UUHSAWNBVV95cUxOOGQ3ZTVLaWhlQnJObHE3WHJ0SFl3SGw4S2ZuX25FdkFiTWtRZVg0ZVQ2c2pzaXpzNk5iR1VYbXpSazNobmdEakZSNEI4eDhPbUV4X2NiR0dJVTF6LW92R0pIRk0?oc=5",
         "sources": [
           {
-            "name": "SPOTV NEWS",
-            "group": "spotvnews.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKX0pUeHhJTU9scTV3UG9FWjRSRXRZYktIQ19ac3duVGFFOTdsV2p2SDB5cmI3MmFWdDlVdjhrempQT3dKZGliUExpQ3h1Q3pJT3d5bW9xQUpSeTBUTjhxczh1eVVabjZiaklDMmttQ3c?oc=5",
-            "published_at": "2026-11-02T07:39:45Z",
-            "headline": "'손흥민 탄식 늘어난다' MLS 경기에서 또 침묵...LAFC, 미네소타에 충격의 1-3 패배→플레이오프 앞두고 비상"
+            "name": "스포츠경향",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2NkljM0pnWmRBTHg5NE5FcmVBS3dFVS1fMjEwY21Tb1dDd1VxRDZqTVRaRXpKYmNHaFBaVWtHSGdKV21SVmpHQVFEYk1BTmlvMFlKMmI0emc0N0h4UUHSAWNBVV95cUxOOGQ3ZTVLaWhlQnJObHE3WHJ0SFl3SGw4S2ZuX25FdkFiTWtRZVg0ZVQ2c2pzaXpzNk5iR1VYbXpSazNobmdEakZSNEI4eDhPbUV4X2NiR0dJVTF6LW92R0pIRk0?oc=5",
+            "published_at": "2026-11-03T08:04:00Z",
+            "headline": "‘멀티골 역전승 견인’ 울산 에릭, K리그1 34라운드 MVP 선정…K리그2는 ‘2골 1도움’ 용인 가브리엘"
           },
           {
-            "name": "동아일보",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GWTAwN25rRUxWRkFfa3NmTTV3T21qQmpMTy14M3lsSE1CeXJwMkNSSkV1Ym9UVHV3LVg1SXQ5YjdkNldqUmE2aDZuU1BtUTJMUkg2WDZkUVhPQWVEbUtvQjhYSzlUVzBBYk1wY182QWQycExF0gFmQVVfeXFMT29vZ25BX0lUeFlfMUdNd2d0RjdfRkZ2NWNnMXJNMHAwekRTcnZuVjhWalpsZTUxZnk4TVFubFlvdVBwNDlzWE1ILXRZTWxDS2E3bGlTc0F1UG9TY05WTWhIYXItZW1B?oc=5",
-            "published_at": "2026-11-02T05:09:01Z",
-            "headline": "손흥민 도움 15개로 정정…LAFC, 미네소타에 1-3 완패"
+            "name": "문화일보",
+            "group": "munhwa.com",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OeXhkaWVWcFRCdlNRU21fZ0dSVEVFckRiazlhZm92cjFmSWMtOE9QWHV5am1OckRkcUUwYWp6enN6Y2gxc3FEbmVFLTg3SDZh?oc=5",
+            "published_at": "2026-11-03T05:11:06Z",
+            "headline": "‘원맨쇼’ 펼친 울산 에릭, K리그1 34라운드 MVP 선정"
+          },
+          {
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wMnVjMzRSeTRFSUs1NTQ1azFSUUhwRmkxNWU3V0JwaHZrYnBfUW5SSVdnVGNWanM3U2pNWi1PeUdwbXNxcGxXZXNaXzgwX2ZCRWdmdg?oc=5",
+            "published_at": "2026-11-03T04:59:42Z",
+            "headline": "'멀티골'로 울산 역전승 이끈 에릭, K리그1 34라운드 MVP 선정"
+          },
+          {
+            "name": "YTN",
+            "group": "ytn.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lV0VZdFd1S0xiNDV0OThxVGxVSjBQNERRbEFOeV9JU2ZUc21JaDBJMmtpRjBZWjRsME0tUFA5bHBiLXhtUFF1T2RxZGZwLVBUSjB6R2s1V2doanFwTHc?oc=5",
+            "published_at": "2026-11-03T04:41:00Z",
+            "headline": "'멀티골 원맨쇼' 울산 에릭, K리그1 34라운드 MVP"
           },
           {
             "name": "조선일보",
             "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMDVINGNiZEU4UnVFRDVSX1c4aHRMUndTbzRDV0d1NUduTlRsWlptTEMwbXd0VnBsVEdOQkJLa1ZHYjU0ekE2aWVKUWR0ajV4Rzc5LTg2NU0xQlduY1pfX180QWprZEg0MFBIekhzZXJkRnNGdlkwSE14azFKM0pKUkFjUUFET3lyQVY0?oc=5",
-            "published_at": "2026-11-02T04:29:18Z",
-            "headline": "손흥민, 기회 못 살렸다... LAFC, 미네소타에 완패"
-          },
-          {
-            "name": "머니투데이",
-            "group": "mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zWEUxMmN4Nnd5ZjM1MHFOZVNPb3JSQjRzREVRQ2NQdEh2TzNHeDBnYVdpYkg5clJKaWZsT2FGOU4xb3JSNnBnWXRiTmtmNnJfZ3Y3SS1FdFAyVG5BMFJPMm9QZ1ZBZ2hmb2fSAW9BVV95cUxNTzZ5QnpfdHdrNHJVNjhLLUFFUUd5Z0dVMVlnS1VjRUw4QWdGb1l0SWM3bVZ1V3RYcDNtU1FsVVZRY21wOEdBZFQxTmNIZGhDdHMxTVRKa1BhNHRaZlVCdEdqaHpmMXNpdVdYbUdidUE?oc=5",
-            "published_at": "2026-11-02T04:22:00Z",
-            "headline": "손흥민, 최다 기회 창출에도 소용없었다...팅 2회·패스 성공률 87%...LAFC, 하위권 미네소타에 1-3 완패 - 머니투데이"
-          },
-          {
-            "name": "중앙일보",
-            "group": "joongang.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5YXdHckR5djR3ZkVPV2VDZlY3NnZTV3ZmUllaYTJKcHFuUGNiUlVVakxwWXRHVlUxOC1oLUtlUmQteHhQM1hJU2d0b0J1emxfbWZySEZR?oc=5",
-            "published_at": "2026-11-02T04:08:51Z",
-            "headline": "손흥민 3경기째 침묵, LAFC도 웃지 못했다…PO 상위 시드 불발"
-          },
-          {
-            "name": "news.sbs.co.kr",
-            "group": "sbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDVEVFYxTl9GMWdzUk5kRV9CRXM1ejV0VDEwUm01ZVk3M3dnNDA1eXoyTlUxeUNteG9PNy1fSE91b1dZZHRuWVk1a1dXaGNMUldVYnNDR1gyZkNDMFBLQTd1S3BxeDllOHFISjdFNGNhYkdRSG1Id2dWSmhpdFV4NDJSZi1hNUl6bkllSnVnaw?oc=5",
-            "published_at": "2026-11-02T04:06:19Z",
-            "headline": "'손흥민 풀타임' LAFC, 홈에서 미네소타에 3대 1 완패"
-          },
-          {
-            "name": "일간스포츠",
-            "group": "edaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fNU1JNFBQcjRxQi1wRnUzWUNJVDlIQkpiaXpTREhGTVl4UnBfM1NBbW9jbFk1eENuMEtHZGpLNzRWcnJ5Nm1jd0thcXBBVjk1RnFxV3FNel85a28?oc=5",
-            "published_at": "2026-11-02T04:05:00Z",
-            "headline": "손흥민, 3G 연속 침묵·대기록도 다음에…LAFC는 미네소타에 1-3 완패"
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMXVoZXdySW8tb2ZWYnFrbFhsN3V3UkcxZUlYWDVxNThlRG1CcDZZMXhvMnAzMk5mVGdKRWRic0V1NG9wdlVEQ3hPdEZaLVc2ZjFLRlpjcTY1Q1puckwwaWRJQjVEamN1ZWxjcl9renluZk1zWHJkeU5RY09WMWFEelJKVQ?oc=5",
+            "published_at": "2026-11-03T02:23:00Z",
+            "headline": "[오피셜]'역전 멀티골' 에릭, K리그1 34라운드 MVP 선정…K리그2 '별중의 별'은 가브리엘"
           },
           {
             "name": "뉴시스",
             "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40R2FMbm9wamVYM0VfV0UzU1doOENXYWZjakE3WEljTl9ZdTE0bHJXN010VHZMRHFhSkVWUlpBdDNYNG5pYjZZcU1ycVdzb3FrQUkyR2lXdnJzLXEtUEpxdtIBeEFVX3lxTE1YZjMzTGsxOE1wZ1JnOHZDSHh5a3NSOGFRVDNPMVd4czhuVUNMckxnd001RTFLNmdkTFpOd0hxX1BYc0Zqbl91YWRKY2JIVV9BTWprTHEtLVlNVzJrbnkzTVN4cVZEWXRzZmhvaUN3Mm9zMVAySjU3Yw?oc=5",
-            "published_at": "2026-11-02T03:59:32Z",
-            "headline": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승"
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92NW9IZnRaaGU4ZXhUMlpVOHVrUTA2eUM2cmhZSjUzX2RwMjItOXQ1N2FFLW5XcEhKc3pKVXN3eGhoc0dqeEZrcDFsSmtGUWk0UFhrTWhOVXFZUGlxNnM2d9IBeEFVX3lxTFByRnQ0Z09HNkZEbGlKMjRKaWNWODA1V1MtZkFoZDVSLXoxWDRpa2cwaDRydWxwcFowdWxfZll5NmxCTGNoYmFwYVRSZmpkd2lRX0ZvbHhHS3p0TU90TjhJX3ZlMEJ4MXlXb0JtZkVWT3VzVXE0VHlaTA?oc=5",
+            "published_at": "2026-11-03T01:38:57Z",
+            "headline": "'강원전 멀티골' 울산 에릭, K리그1 34라운드 MVP 선정"
+          },
+          {
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82eXhfeGZEdzBtRU5QdnVTZ1BGUnF2UzJOZVB0UW1Pbnd1V0JWSUVSVGwxV1M1cXVhMDdVOWI3Q0kzbjVLaFdRQ1A5U3hHMFJaYlhjZVYxZTFuZUx0Q2ZGatIBYEFVX3lxTE82eXhfeGZEdzBtRU5QdnVTZ1BGUnF2UzJOZVB0UW1Pbnd1V0JWSUVSVGwxV1M1cXVhMDdVOWI3Q0kzbjVLaFdRQ1A5U3hHMFJaYlhjZVYxZTFuZUx0Q2ZGag?oc=5",
+            "published_at": "2026-11-03T01:26:23Z",
+            "headline": "동점골에 결승골까지 '원맨쇼'…울산 에릭, K리그1 34라운드 MVP"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "4b05d6b4b47a962b264d",
+      "id": "6182ec3b32209721056f",
       "category": "스포츠",
-      "title": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출",
-      "summary": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출",
-      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘프로농구 정관장, 한국가스공사 잡고 3연패 탈출’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "title": "칸터, 삼성 선수로는 9년 만에 프로농구 ‘라운드 MVP’",
+      "summary": "칸터, 삼성 선수로는 9년 만에 프로농구 ‘라운드 MVP’",
+      "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘칸터, 삼성 선수로는 9년 만에 프로농구 ‘라운드 MVP’’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "SBS 뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YVUJmNk55R0dwdlRqWXh3YklpTUdSRGQ1TmRWLW85NnR2YjRkSTNoWElRWDJCT2UzY2V1NEZ3RVpYMktpY1B0TjBodks2Z0dzTmZJUWNLV2VvZTlCWHNIWE1aN0tUdHlYdVE?oc=5",
-      "published_at": "2026-11-02T12:44:46Z",
+      "source": "조선일보",
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSFQtMlA3R0g4RVJjY0lTQVlPWmpMYTZLRTBGSHpWajFQdXBNNVhNODB0QTV5UG41ZlRkdFRKSE1iMjhuYW4xYUFiVEx3QkFIT053X0F1MlhOZDliaUVJT3ViQlMwZmZzektINmRZWUlLQzB1TENZT1k4RnZyYWxFaERFLVhfQQ?oc=5",
+      "published_at": "2026-11-03T03:07:02Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 4,
-        "report_count": 5,
-        "span_hours": 0.5,
-        "first_report_at": "2026-11-02T12:15:27Z",
-        "last_report_at": "2026-11-02T12:44:46Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42Z1llbkdTR3g5dnBUZDVxZFNnZ0tMaW5DQU5ncEVuRDFLV2drdzk5a1hDN0VfdnlvR29ZZXRMME1lcWpONHcwbW02Qjg2aTc0NTFqVlQ0cDRBUQ?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YVUJmNk55R0dwdlRqWXh3YklpTUdSRGQ1TmRWLW85NnR2YjRkSTNoWElRWDJCT2UzY2V1NEZ3RVpYMktpY1B0TjBodks2Z0dzTmZJUWNLV2VvZTlCWHNIWE1aN0tUdHlYdVE?oc=5",
+        "source_groups": 5,
+        "report_count": 7,
+        "span_hours": 4.4,
+        "first_report_at": "2026-11-03T02:20:10Z",
+        "last_report_at": "2026-11-03T06:46:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHLWdEd1hDUHZJZjVaWjhEYm5OR2ZWOXVYeFVpdzVnSzVsOUVCenJkUHV6Qnl0NGNPRzlIQjVrOTNlLUNCUkJxWEhPRHY5UmhKTXVheENuc0JvX2g5MFVrWtIBYEFVX3lxTFBHLWdEd1hDUHZJZjVaWjhEYm5OR2ZWOXVYeFVpdzVnSzVsOUVCenJkUHV6Qnl0NGNPRzlIQjVrOTNlLUNCUkJxWEhPRHY5UmhKTXVheENuc0JvX2g5MFVrWg?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nRFZicm9iM2hqTVM1X1VKSkVNekU0R3dBSUlYVTZ2TFR3cWZVOV9GZVNsMXVYRGRaWHo2M1pHbEFZUXBNWkhtTXdINHN2RzhmRFR3UmNyNzRGT0ZKQlVXUzByTm1rQ090ekE?oc=5",
         "sources": [
           {
-            "name": "SBS 뉴스",
-            "group": "sbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YVUJmNk55R0dwdlRqWXh3YklpTUdSRGQ1TmRWLW85NnR2YjRkSTNoWElRWDJCT2UzY2V1NEZ3RVpYMktpY1B0TjBodks2Z0dzTmZJUWNLV2VvZTlCWHNIWE1aN0tUdHlYdVE?oc=5",
-            "published_at": "2026-11-02T12:44:46Z",
-            "headline": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출"
+            "name": "한겨레",
+            "group": "hani.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nRFZicm9iM2hqTVM1X1VKSkVNekU0R3dBSUlYVTZ2TFR3cWZVOV9GZVNsMXVYRGRaWHo2M1pHbEFZUXBNWkhtTXdINHN2RzhmRFR3UmNyNzRGT0ZKQlVXUzByTm1rQ090ekE?oc=5",
+            "published_at": "2026-11-03T06:46:00Z",
+            "headline": "칸터, 프로농구 1라운드 MVP 선정…삼성 선수로는 9시즌 만"
           },
           {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51TmU4YzNLcGg3SDhRTlotelFJTW1jcEc1SGtGUVFoTnNaZjJtU2R6TkRWLTEwOW1qV3Z3aVFodWJuT042RWxxSjFubkpvWlIxTGxWQzExYjR1SUlQWTE0TtIBYEFVX3lxTE51TmU4YzNLcGg3SDhRTlotelFJTW1jcEc1SGtGUVFoTnNaZjJtU2R6TkRWLTEwOW1qV3Z3aVFodWJuT042RWxxSjFubkpvWlIxTGxWQzExYjR1SUlQWTE0Tg?oc=5",
-            "published_at": "2026-11-02T12:19:54Z",
-            "headline": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출…변준형 15점"
+            "name": "세계일보",
+            "group": "segye.com",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uMVpZVUlrUEtuSkxGaHdBRzBQRlFZM09JUWUyVFVEUDRROC1sMXN0V3NwYUpIVXdEWE5HQm9EM0dyVHFJcWJwTE4wYzFjdkF3UTZ5SjQyMjbSAVRBVV95cUxOeUZONFUzM2JFNkZRQnZUZ3V3R1c2OUpCVVpTVzZZUW9oaWxPNW1oUlVJY1ZGOWV1T0UwSGRIOTNQRmMzcENDZktfNlh0Y0NWTmhNazc?oc=5",
+            "published_at": "2026-11-03T06:39:24Z",
+            "headline": "삼성 9연승 이끈 케렘 칸터, 프로농구 1라운드 MVP…개인 첫 수상"
           },
           {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLUW9aSTNxdmlsOXFGS3FJT21hSHlXZzZscHUxTTBtMDVxX1JLQ1J4bjdYTFI3VHNpWkxDTTZiVUpkUUExOV9GaTFEX0pDaFUycDlCSElodzhiVjlsU040cGdmWndfOTVfcE9IaXU3RXgzbHdadndjMdIBeEFVX3lxTFBLUW9aSTNxdmlsOXFGS3FJT21hSHlXZzZscHUxTTBtMDVxX1JLQ1J4bjdYTFI3VHNpWkxDTTZiVUpkUUExOV9GaTFEX0pDaFUycDlCSElodzhiVjlsU040cGdmWndfOTVfcE9IaXU3RXgzbHdadndjMQ?oc=5",
-            "published_at": "2026-11-02T12:18:18Z",
-            "headline": "프로농구 정관장, 한국가스공사 77-71 격파…4경기 만에 승리"
+            "name": "동아일보",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FMXBBeWFvMHA2cDl0OHF0UWZvWk5ieFJ0RzRIOExwcFJjMnFKcE5meUJDMzNnQ04xSkxlZm1VakFzOEJab2RNTUpVZmNnanduTGxXT0ItUktITmlURTRkWDNXOGhvaUIyUDNWWVk1RDl1N1p40gFmQVVfeXFMTXhfaFQxdnhyWFJuTWhzNTI2NnRNbkJMZ3Q1MGhhajJVMTZBVGdMSXQtNm5YTE9XWndMQXg0eEV3bC1wamV2Vlp0RzBpTlEzUWtCZjBzcG5CUlh0OVdyRFpDcEI0Qll3?oc=5",
+            "published_at": "2026-11-03T05:16:08Z",
+            "headline": "‘개막 최다 9연승 견인’ 삼성 칸터, 프로농구 1라운드 MVP"
           },
           {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42Z1llbkdTR3g5dnBUZDVxZFNnZ0tMaW5DQU5ncEVuRDFLV2drdzk5a1hDN0VfdnlvR29ZZXRMME1lcWpONHcwbW02Qjg2aTc0NTFqVlQ0cDRBUQ?oc=5",
-            "published_at": "2026-11-02T12:15:27Z",
-            "headline": "프로농구 정관장, 가스공사 77-71 제압…3연패 탈출"
+            "name": "MBC 뉴스",
+            "group": "imbc.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPSk5WekphTkljN3RULXY2NTAyMXZ1eWJJX29qYk5iUXk5VFlEREtyYUFhY1VSN3E1X2hPQlUwVE5QcjBoSXpoclFNTHk3MnJ6SWd2cENFSFVYTkUxR3VReVZ3RHZqYUNRRFQ5SlhiX0lpSTk2NEHSAXZBVV95cUxOVllQcEhVaDNQcGdnT0NaODZheURZZjBDLUdvckp5aFhBejVHWXpMUThTVERiaWxYeE9CM0pOOThLM3haakZ3S1AtTTlyN29UMkVhN3V6Z0VlVHlNaHdIVW4xaHlvYnkxcmF1MnVzOFRZWldnSDFn?oc=5",
+            "published_at": "2026-11-03T04:44:13Z",
+            "headline": "프로농구 칸터, 삼성 선수로는 9시즌 만에 라운드 MVP"
+          },
+          {
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSFQtMlA3R0g4RVJjY0lTQVlPWmpMYTZLRTBGSHpWajFQdXBNNVhNODB0QTV5UG41ZlRkdFRKSE1iMjhuYW4xYUFiVEx3QkFIT053X0F1MlhOZDliaUVJT3ViQlMwZmZzektINmRZWUlLQzB1TENZT1k4RnZyYWxFaERFLVhfQQ?oc=5",
+            "published_at": "2026-11-03T03:07:02Z",
+            "headline": "칸터, 삼성 선수로는 9년 만에 프로농구 ‘라운드 MVP’"
           }
         ]
       },
@@ -579,6 +579,45 @@
       "last_collected_at": "2026-11-02T23:57:32.380968Z"
     },
     {
+      "id": "d6dbc87afb9d49d3a584",
+      "category": "세계뉴스",
+      "title": "글로벌 의약품 규제 수장들 서울 집결…식약처, ICMRA 정상회의 개최",
+      "summary": "글로벌 의약품 규제 수장들 서울 집결…식약처, ICMRA 정상회의 개최",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘글로벌 의약품 규제 수장들 서울 집결…식약처, ICMRA 정상회의 개최’라는 소식을 봤어요. 최근 글로벌 소식 중 관심이 갔던 변화가 있어요?",
+      "context": "국가·사람 전체를 단정하지 말고 사실과 해석을 구분해 이야기해 보세요.",
+      "source": "뉴스1",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpczRKRDdSZkRSSW5fMUJtbC1kVHhibUVsd0ZyUWtmM1F4SnRlbVZac1o0andjSG9laDdkU0dUXzliVWV3a1lFNU5VQlBTRmhFQUZLMDhmc2U3Ny1hNk9xVQ?oc=5",
+      "published_at": "2026-11-03T00:33:55Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 0.3,
+        "first_report_at": "2026-11-03T00:17:00Z",
+        "last_report_at": "2026-11-03T00:33:55Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVhuamRvYXVQeGY5OHJTVUtxTk9YdlBQN0ZJekYyVk1lNkRwNzRHYkhFbmtNOXNtdnJNRmlSVXlMcEl1OUhqdGJ2TGxMOHFKbWdkZUdHazl1ZjFkbmZWM09RS2ZwX01hcHotbHZwNV9pSHdMV3l5MUR5cFdXRkxrak1TVk8xMnFRNXpuRzM1V1Vyd18tbXM2cmRkT2xEa0xFV1pIS2FLSTR2YW_SAasBQVVfeXFMTjlYbmpkb2F1UHhmOThyU1VLcU5PWHZQUDdGSXpGMlZNZTZEcDc0R2JIRW5rTTlzbXZyTUZpUlV5THBJdTlIanRidkxsTDhxSm1nZGVHR2s5dWYxZG5mVjNPUUtmcF9NYXB6LWx2cDVfaUh3TFd5eTFEeXBXV0ZMa2pNU1ZPMTJxUTV6bkczNVdVcndfLW1zNnJkZE9sRGtMRVdaSEthS0k0dmFv?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpczRKRDdSZkRSSW5fMUJtbC1kVHhibUVsd0ZyUWtmM1F4SnRlbVZac1o0andjSG9laDdkU0dUXzliVWV3a1lFNU5VQlBTRmhFQUZLMDhmc2U3Ny1hNk9xVQ?oc=5",
+        "sources": [
+          {
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpczRKRDdSZkRSSW5fMUJtbC1kVHhibUVsd0ZyUWtmM1F4SnRlbVZac1o0andjSG9laDdkU0dUXzliVWV3a1lFNU5VQlBTRmhFQUZLMDhmc2U3Ny1hNk9xVQ?oc=5",
+            "published_at": "2026-11-03T00:33:55Z",
+            "headline": "글로벌 의약품 규제 수장들 서울 집결…식약처, ICMRA 정상회의 개최"
+          },
+          {
+            "name": "Chosunbiz",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVhuamRvYXVQeGY5OHJTVUtxTk9YdlBQN0ZJekYyVk1lNkRwNzRHYkhFbmtNOXNtdnJNRmlSVXlMcEl1OUhqdGJ2TGxMOHFKbWdkZUdHazl1ZjFkbmZWM09RS2ZwX01hcHotbHZwNV9pSHdMV3l5MUR5cFdXRkxrak1TVk8xMnFRNXpuRzM1V1Vyd18tbXM2cmRkT2xEa0xFV1pIS2FLSTR2YW_SAasBQVVfeXFMTjlYbmpkb2F1UHhmOThyU1VLcU5PWHZQUDdGSXpGMlZNZTZEcDc0R2JIRW5rTTlzbXZyTUZpUlV5THBJdTlIanRidkxsTDhxSm1nZGVHR2s5dWYxZG5mVjNPUUtmcF9NYXB6LWx2cDVfaUh3TFd5eTFEeXBXV0ZMa2pNU1ZPMTJxUTV6bkczNVdVcndfLW1zNnJkZE9sRGtMRVdaSEthS0k0dmFv?oc=5",
+            "published_at": "2026-11-03T00:17:00Z",
+            "headline": "세계 의약품 규제기관 수장 서울에 모인다…AI·차세대 규제 논의"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
       "id": "228623524cc810082561",
       "category": "세계뉴스",
       "title": "브라질 보수 우파, '친 트럼프' 보우소나루의 미국행에 거리 두기",
@@ -615,46 +654,8 @@
           }
         ]
       },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-02T06:07:16.222448Z"
-    },
-    {
-      "id": "43eacf7efc27074f5ec6",
-      "category": "세계뉴스",
-      "title": "한·미·일 외교장관회의, ‘완전한 비핵화’·‘대중국 견제’ 현안 둘러싼 온도차",
-      "summary": "한·미·일 외교장관회의, ‘완전한 비핵화’·‘대중국 견제’ 현안 둘러싼 온도차",
-      "why_now": "이전 수집(11.02 06:59 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘한·미·일 외교장관회의, ‘완전한 비핵화’·‘대중국 견제’ 현안 둘러싼 온도차’라는 소식을 봤어요. 최근 글로벌 소식 중 관심이 갔던 변화가 있어요?",
-      "context": "국가·사람 전체를 단정하지 말고 사실과 해석을 구분해 이야기해 보세요.",
-      "source": "경향신문",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VekxpeElraEZDRFZLUkdvcE1VclNzeGZGZHRMWUs5bWVxbnQ0cXVIeFZENTkzTU1xbEZRU2lEb2E1LTU3VWdHMDNiek03MnJ2VTRORmhqSkEyZ9IBX0FVX3lxTFBiNE5zWlc5dGtGSjNUY1JvN2g2eFE0elVaMk1xb2x5SHRuMkU3cmItZm5zVW1Ib2hnV2xqUmNlVDlLclM0eTBoN1puZnFHSmN6MTNXelU1VDR0cmRLanpN?oc=5",
-      "published_at": "2026-11-01T06:51:00Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 28.6,
-        "first_report_at": "2026-10-31T02:14:00Z",
-        "last_report_at": "2026-11-01T06:51:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ldXZqUVNhRklpX3JIT2owVmtCOGhvT2JuUnlsMzFPTXlQcUlSZmpFLTA5QUZLVTdKSWd1MUxFeTQ1QmZPcGRubjJKZ2dMTWRKTjFTR3lkRFhXWUJDcm5nam9CTktXczVSYXJHdGdn0gFzQVVfeXFMTzZtd2pHcm5rRnd6NV9IdkJCY011US1FUUR5RE11Um9GdldPUFF4MWZ6WjJKSkswUVk1N2R1aEZBNkpCT014ZXVfRDRJU0V5OXBYdW1ueFBSQzNyb2RNbmdIRExuUzA1bXBWV3RvLWNhY3pKTQ?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VekxpeElraEZDRFZLUkdvcE1VclNzeGZGZHRMWUs5bWVxbnQ0cXVIeFZENTkzTU1xbEZRU2lEb2E1LTU3VWdHMDNiek03MnJ2VTRORmhqSkEyZ9IBX0FVX3lxTFBiNE5zWlc5dGtGSjNUY1JvN2g2eFE0elVaMk1xb2x5SHRuMkU3cmItZm5zVW1Ib2hnV2xqUmNlVDlLclM0eTBoN1puZnFHSmN6MTNXelU1VDR0cmRLanpN?oc=5",
-        "sources": [
-          {
-            "name": "경향신문",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VekxpeElraEZDRFZLUkdvcE1VclNzeGZGZHRMWUs5bWVxbnQ0cXVIeFZENTkzTU1xbEZRU2lEb2E1LTU3VWdHMDNiek03MnJ2VTRORmhqSkEyZ9IBX0FVX3lxTFBiNE5zWlc5dGtGSjNUY1JvN2g2eFE0elVaMk1xb2x5SHRuMkU3cmItZm5zVW1Ib2hnV2xqUmNlVDlLclM0eTBoN1puZnFHSmN6MTNXelU1VDR0cmRLanpN?oc=5",
-            "published_at": "2026-11-01T06:51:00Z"
-          },
-          {
-            "name": "한국일보",
-            "group": "hankookilbo.com",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ldXZqUVNhRklpX3JIT2owVmtCOGhvT2JuUnlsMzFPTXlQcUlSZmpFLTA5QUZLVTdKSWd1MUxFeTQ1QmZPcGRubjJKZ2dMTWRKTjFTR3lkRFhXWUJDcm5nam9CTktXczVSYXJHdGdn0gFzQVVfeXFMTzZtd2pHcm5rRnd6NV9IdkJCY011US1FUUR5RE11Um9GdldPUFF4MWZ6WjJKSkswUVk1N2R1aEZBNkpCT014ZXVfRDRJU0V5OXBYdW1ueFBSQzNyb2RNbmdIRExuUzA1bXBWV3RvLWNhY3pKTQ?oc=5",
-            "published_at": "2026-10-31T02:14:00Z"
-          }
-        ]
-      },
       "selection_rank": 2,
-      "last_collected_at": "2026-11-01T21:59:20.810500Z"
+      "last_collected_at": "2026-11-02T06:07:16.222448Z"
     }
   ]
 }
