@@ -2,7 +2,7 @@
   "schema_version": 2,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-02T23:57:32.380968Z",
+  "updated_at": "2026-11-03T00:56:21.542692Z",
   "cards": [
     {
       "id": "ae077744d60d07b70c79",
@@ -91,14 +91,14 @@
     {
       "id": "1ad860520f7f958d820c",
       "category": "스포츠",
-      "title": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승",
-      "summary": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승",
+      "title": "손흥민 도움 15개로 정정…LAFC, 미네소타에 1-3 완패",
+      "summary": "손흥민 도움 15개로 정정…LAFC, 미네소타에 1-3 완패",
       "why_now": "수집 범위에서 관련 보도 12개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "opener": "‘손흥민 도움 15개로 정정…LAFC, 미네소타에 1-3 완패’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "뉴시스",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40R2FMbm9wamVYM0VfV0UzU1doOENXYWZjakE3WEljTl9ZdTE0bHJXN010VHZMRHFhSkVWUlpBdDNYNG5pYjZZcU1ycVdzb3FrQUkyR2lXdnJzLXEtUEpxdtIBeEFVX3lxTE1YZjMzTGsxOE1wZ1JnOHZDSHh5a3NSOGFRVDNPMVd4czhuVUNMckxnd001RTFLNmdkTFpOd0hxX1BYc0Zqbl91YWRKY2JIVV9BTWprTHEtLVlNVzJrbnkzTVN4cVZEWXRzZmhvaUN3Mm9zMVAySjU3Yw?oc=5",
-      "published_at": "2026-11-02T03:59:32Z",
+      "source": "동아일보",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GWTAwN25rRUxWRkFfa3NmTTV3T21qQmpMTy14M3lsSE1CeXJwMkNSSkV1Ym9UVHV3LVg1SXQ5YjdkNldqUmE2aDZuU1BtUTJMUkg2WDZkUVhPQWVEbUtvQjhYSzlUVzBBYk1wY182QWQycExF0gFmQVVfeXFMT29vZ25BX0lUeFlfMUdNd2d0RjdfRkZ2NWNnMXJNMHAwekRTcnZuVjhWalpsZTUxZnk4TVFubFlvdVBwNDlzWE1ILXRZTWxDS2E3bGlTc0F1UG9TY05WTWhIYXItZW1B?oc=5",
+      "published_at": "2026-11-02T05:09:01Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 8,
@@ -138,6 +138,13 @@
             "headline": "손흥민, 최다 기회 창출에도 소용없었다...팅 2회·패스 성공률 87%...LAFC, 하위권 미네소타에 1-3 완패 - 머니투데이"
           },
           {
+            "name": "중앙일보",
+            "group": "joongang.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5YXdHckR5djR3ZkVPV2VDZlY3NnZTV3ZmUllaYTJKcHFuUGNiUlVVakxwWXRHVlUxOC1oLUtlUmQteHhQM1hJU2d0b0J1emxfbWZySEZR?oc=5",
+            "published_at": "2026-11-02T04:08:51Z",
+            "headline": "손흥민 3경기째 침묵, LAFC도 웃지 못했다…PO 상위 시드 불발"
+          },
+          {
             "name": "news.sbs.co.kr",
             "group": "sbs.co.kr",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDVEVFYxTl9GMWdzUk5kRV9CRXM1ejV0VDEwUm01ZVk3M3dnNDA1eXoyTlUxeUNteG9PNy1fSE91b1dZZHRuWVk1a1dXaGNMUldVYnNDR1gyZkNDMFBLQTd1S3BxeDllOHFISjdFNGNhYkdRSG1Id2dWSmhpdFV4NDJSZi1hNUl6bkllSnVnaw?oc=5",
@@ -157,13 +164,6 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40R2FMbm9wamVYM0VfV0UzU1doOENXYWZjakE3WEljTl9ZdTE0bHJXN010VHZMRHFhSkVWUlpBdDNYNG5pYjZZcU1ycVdzb3FrQUkyR2lXdnJzLXEtUEpxdtIBeEFVX3lxTE1YZjMzTGsxOE1wZ1JnOHZDSHh5a3NSOGFRVDNPMVd4czhuVUNMckxnd001RTFLNmdkTFpOd0hxX1BYc0Zqbl91YWRKY2JIVV9BTWprTHEtLVlNVzJrbnkzTVN4cVZEWXRzZmhvaUN3Mm9zMVAySjU3Yw?oc=5",
             "published_at": "2026-11-02T03:59:32Z",
             "headline": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승"
-          },
-          {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xcGp4bFJwY2Y0cEd4U1pnRmhTd2lPcVpUejY4TGFfTE9wUTdDZVQtTWR5TjZvTnFfbnVrZVpCeEFaRG02dnJ0bWVZTVlncnJKTXJVNmVjeVR0b2Q1TnNUatIBYEFVX3lxTE9xcGp4bFJwY2Y0cEd4U1pnRmhTd2lPcVpUejY4TGFfTE9wUTdDZVQtTWR5TjZvTnFfbnVrZVpCeEFaRG02dnJ0bWVZTVlncnJKTXJVNmVjeVR0b2Q1TnNUag?oc=5",
-            "published_at": "2026-11-02T03:51:34Z",
-            "headline": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…PO 상위 시드 불발"
           }
         ]
       },

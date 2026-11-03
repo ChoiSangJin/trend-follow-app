@@ -2,7 +2,7 @@
   "schema_version": 4,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-02T23:57:32.380968Z",
+  "updated_at": "2026-11-03T00:56:21.542692Z",
   "cards": [
     {
       "id": "ae077744d60d07b70c79",
@@ -168,14 +168,14 @@
     {
       "id": "1ad860520f7f958d820c",
       "category": "스포츠",
-      "title": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승",
-      "summary": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승",
+      "title": "손흥민 도움 15개로 정정…LAFC, 미네소타에 1-3 완패",
+      "summary": "손흥민 도움 15개로 정정…LAFC, 미네소타에 1-3 완패",
       "why_now": "수집 범위에서 관련 보도 12개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "opener": "‘손흥민 도움 15개로 정정…LAFC, 미네소타에 1-3 완패’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "뉴시스",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40R2FMbm9wamVYM0VfV0UzU1doOENXYWZjakE3WEljTl9ZdTE0bHJXN010VHZMRHFhSkVWUlpBdDNYNG5pYjZZcU1ycVdzb3FrQUkyR2lXdnJzLXEtUEpxdtIBeEFVX3lxTE1YZjMzTGsxOE1wZ1JnOHZDSHh5a3NSOGFRVDNPMVd4czhuVUNMckxnd001RTFLNmdkTFpOd0hxX1BYc0Zqbl91YWRKY2JIVV9BTWprTHEtLVlNVzJrbnkzTVN4cVZEWXRzZmhvaUN3Mm9zMVAySjU3Yw?oc=5",
-      "published_at": "2026-11-02T03:59:32Z",
+      "source": "동아일보",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GWTAwN25rRUxWRkFfa3NmTTV3T21qQmpMTy14M3lsSE1CeXJwMkNSSkV1Ym9UVHV3LVg1SXQ5YjdkNldqUmE2aDZuU1BtUTJMUkg2WDZkUVhPQWVEbUtvQjhYSzlUVzBBYk1wY182QWQycExF0gFmQVVfeXFMT29vZ25BX0lUeFlfMUdNd2d0RjdfRkZ2NWNnMXJNMHAwekRTcnZuVjhWalpsZTUxZnk4TVFubFlvdVBwNDlzWE1ILXRZTWxDS2E3bGlTc0F1UG9TY05WTWhIYXItZW1B?oc=5",
+      "published_at": "2026-11-02T05:09:01Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 8,
@@ -215,6 +215,13 @@
             "headline": "손흥민, 최다 기회 창출에도 소용없었다...팅 2회·패스 성공률 87%...LAFC, 하위권 미네소타에 1-3 완패 - 머니투데이"
           },
           {
+            "name": "중앙일보",
+            "group": "joongang.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5YXdHckR5djR3ZkVPV2VDZlY3NnZTV3ZmUllaYTJKcHFuUGNiUlVVakxwWXRHVlUxOC1oLUtlUmQteHhQM1hJU2d0b0J1emxfbWZySEZR?oc=5",
+            "published_at": "2026-11-02T04:08:51Z",
+            "headline": "손흥민 3경기째 침묵, LAFC도 웃지 못했다…PO 상위 시드 불발"
+          },
+          {
             "name": "news.sbs.co.kr",
             "group": "sbs.co.kr",
             "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSDVEVFYxTl9GMWdzUk5kRV9CRXM1ejV0VDEwUm01ZVk3M3dnNDA1eXoyTlUxeUNteG9PNy1fSE91b1dZZHRuWVk1a1dXaGNMUldVYnNDR1gyZkNDMFBLQTd1S3BxeDllOHFISjdFNGNhYkdRSG1Id2dWSmhpdFV4NDJSZi1hNUl6bkllSnVnaw?oc=5",
@@ -234,13 +241,6 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40R2FMbm9wamVYM0VfV0UzU1doOENXYWZjakE3WEljTl9ZdTE0bHJXN010VHZMRHFhSkVWUlpBdDNYNG5pYjZZcU1ycVdzb3FrQUkyR2lXdnJzLXEtUEpxdtIBeEFVX3lxTE1YZjMzTGsxOE1wZ1JnOHZDSHh5a3NSOGFRVDNPMVd4czhuVUNMckxnd001RTFLNmdkTFpOd0hxX1BYc0Zqbl91YWRKY2JIVV9BTWprTHEtLVlNVzJrbnkzTVN4cVZEWXRzZmhvaUN3Mm9zMVAySjU3Yw?oc=5",
             "published_at": "2026-11-02T03:59:32Z",
             "headline": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…3경기째 무승"
-          },
-          {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xcGp4bFJwY2Y0cEd4U1pnRmhTd2lPcVpUejY4TGFfTE9wUTdDZVQtTWR5TjZvTnFfbnVrZVpCeEFaRG02dnJ0bWVZTVlncnJKTXJVNmVjeVR0b2Q1TnNUatIBYEFVX3lxTE9xcGp4bFJwY2Y0cEd4U1pnRmhTd2lPcVpUejY4TGFfTE9wUTdDZVQtTWR5TjZvTnFfbnVrZVpCeEFaRG02dnJ0bWVZTVlncnJKTXJVNmVjeVR0b2Q1TnNUag?oc=5",
-            "published_at": "2026-11-02T03:51:34Z",
-            "headline": "'손흥민 풀타임' LAFC, 미네소타에 1-3 완패…PO 상위 시드 불발"
           }
         ]
       },
@@ -251,26 +251,26 @@
       "category": "스포츠",
       "title": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출",
       "summary": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출",
-      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘프로농구 정관장, 한국가스공사 잡고 3연패 탈출’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "news.sbs.co.kr",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLVVQRlhhMTNQa3Jydkx1NGcyR0VVVG8xcnN4WUE4b1pyNlhha0lLSHlhY0dBOE0zdGlzYXR6ZGdsNVJfWTVIX2VmRGEzREtkN3RJVExFZVZrX3FmbEJJQ2NFVnFPWGp2Z2hxUnloS3J6YnVQMTJ6Qm1qdmJMbWNPajZBNGFQQQ?oc=5",
+      "source": "SBS 뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YVUJmNk55R0dwdlRqWXh3YklpTUdSRGQ1TmRWLW85NnR2YjRkSTNoWElRWDJCT2UzY2V1NEZ3RVpYMktpY1B0TjBodks2Z0dzTmZJUWNLV2VvZTlCWHNIWE1aN0tUdHlYdVE?oc=5",
       "published_at": "2026-11-02T12:44:46Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 4,
-        "report_count": 4,
+        "report_count": 5,
         "span_hours": 0.5,
         "first_report_at": "2026-11-02T12:15:27Z",
         "last_report_at": "2026-11-02T12:44:46Z",
         "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42Z1llbkdTR3g5dnBUZDVxZFNnZ0tMaW5DQU5ncEVuRDFLV2drdzk5a1hDN0VfdnlvR29ZZXRMME1lcWpONHcwbW02Qjg2aTc0NTFqVlQ0cDRBUQ?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLVVQRlhhMTNQa3Jydkx1NGcyR0VVVG8xcnN4WUE4b1pyNlhha0lLSHlhY0dBOE0zdGlzYXR6ZGdsNVJfWTVIX2VmRGEzREtkN3RJVExFZVZrX3FmbEJJQ2NFVnFPWGp2Z2hxUnloS3J6YnVQMTJ6Qm1qdmJMbWNPajZBNGFQQQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YVUJmNk55R0dwdlRqWXh3YklpTUdSRGQ1TmRWLW85NnR2YjRkSTNoWElRWDJCT2UzY2V1NEZ3RVpYMktpY1B0TjBodks2Z0dzTmZJUWNLV2VvZTlCWHNIWE1aN0tUdHlYdVE?oc=5",
         "sources": [
           {
-            "name": "news.sbs.co.kr",
+            "name": "SBS 뉴스",
             "group": "sbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLVVQRlhhMTNQa3Jydkx1NGcyR0VVVG8xcnN4WUE4b1pyNlhha0lLSHlhY0dBOE0zdGlzYXR6ZGdsNVJfWTVIX2VmRGEzREtkN3RJVExFZVZrX3FmbEJJQ2NFVnFPWGp2Z2hxUnloS3J6YnVQMTJ6Qm1qdmJMbWNPajZBNGFQQQ?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YVUJmNk55R0dwdlRqWXh3YklpTUdSRGQ1TmRWLW85NnR2YjRkSTNoWElRWDJCT2UzY2V1NEZ3RVpYMktpY1B0TjBodks2Z0dzTmZJUWNLV2VvZTlCWHNIWE1aN0tUdHlYdVE?oc=5",
             "published_at": "2026-11-02T12:44:46Z",
             "headline": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출"
           },
@@ -496,7 +496,7 @@
       "category": "경제·주식",
       "title": "뉴욕·상하이 증시, 애플·팰런티어·AMD 실적 주목",
       "summary": "뉴욕·상하이 증시, 애플·팰런티어·AMD 실적 주목",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 15시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.03 08:57 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘뉴욕·상하이 증시, 애플·팰런티어·AMD 실적 주목’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
       "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
       "source": "한국경제",
@@ -535,14 +535,15 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-02T23:57:32.380968Z"
     },
     {
       "id": "59f40e22dea8c07e51ff",
       "category": "경제·주식",
       "title": "[뉴스프레소] 뉴욕증시, 인텔 급락발 '삭풍'… 중간선거·고용지표 주시 - 머니투데이",
       "summary": "[뉴스프레소] 뉴욕증시, 인텔 급락발 '삭풍'… 중간선거·고용지표 주시 - 머니투데이",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.03 08:57 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘[뉴스프레소] 뉴욕증시, 인텔 급락발 '삭풍'… 중간선거·고용지표 주시 - 머니투데이’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
       "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
       "source": "머니투데이",
@@ -574,7 +575,8 @@
           }
         ]
       },
-      "selection_rank": 2
+      "selection_rank": 2,
+      "last_collected_at": "2026-11-02T23:57:32.380968Z"
     },
     {
       "id": "228623524cc810082561",

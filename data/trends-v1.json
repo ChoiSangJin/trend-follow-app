@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "region": "KR",
-  "updated_at": "2026-11-02T23:57:32.380968Z",
+  "updated_at": "2026-11-03T00:56:21.542692Z",
   "tracking_started_at": "2026-11-01T12:43:04.983950Z",
-  "snapshot_count": 9,
+  "snapshot_count": 10,
   "cards": [
     {
       "topic": {
@@ -92,7 +92,7 @@
         0,
         9
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -175,10 +175,10 @@
       "source_groups": 7,
       "daily_sources": [
         5,
-        4,
+        3,
         0
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -264,7 +264,7 @@
         0,
         7
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -336,7 +336,7 @@
         0,
         5
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -408,7 +408,7 @@
         5,
         0
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -473,7 +473,7 @@
         3,
         0
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -538,7 +538,7 @@
         4,
         0
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -603,7 +603,7 @@
         0,
         4
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -668,7 +668,7 @@
         0,
         4
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
@@ -676,20 +676,85 @@
     },
     {
       "topic": {
-        "id": "4b05d6b4b47a962b264d",
-        "category": "스포츠",
-        "title": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출",
-        "summary": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출",
-        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘프로농구 정관장, 한국가스공사 잡고 3연패 탈출’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "news.sbs.co.kr",
-        "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLVVQRlhhMTNQa3Jydkx1NGcyR0VVVG8xcnN4WUE4b1pyNlhha0lLSHlhY0dBOE0zdGlzYXR6ZGdsNVJfWTVIX2VmRGEzREtkN3RJVExFZVZrX3FmbEJJQ2NFVnFPWGp2Z2hxUnloS3J6YnVQMTJ6Qm1qdmJMbWNPajZBNGFQQQ?oc=5",
-        "published_at": "2026-11-02T12:44:46Z",
+        "id": "e8a6467cc35ecd223dc8",
+        "category": "문화·예술",
+        "title": "5·18 민주화운동 기록…힌츠페터 10주기 특별전",
+        "summary": "5·18 민주화운동 기록…힌츠페터 10주기 특별전",
+        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘5·18 민주화운동 기록…힌츠페터 10주기 특별전’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+        "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
+        "source": "SBS 뉴스",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yYzVSRGx3LWZ2azhlWGNMa3dwTlhHVnBzbnJjUXBEa2hLUkd0UWg4SEd6Y1RPNHlYbVF0ZkVuX1FoeV9jYkFOSU9BMFYxWXM4eGtKS2h3dkhfc0R6dVQwdDBzQkNxTXZ3TVE?oc=5",
+        "published_at": "2026-11-03T00:13:03Z",
         "evidence": "headline",
         "coverage": {
           "source_groups": 4,
           "report_count": 4,
+          "span_hours": 1.2,
+          "first_report_at": "2026-11-02T23:00:00Z",
+          "last_report_at": "2026-11-03T00:13:03Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5McGx4NWVadHdWZmNqRmNjSGFmbmQyU2hZTDJtNVNBNWF0Y0xERHdPcDdDODhzT203WU9NdnlDUkxxb3pHbGJRRXloZnE2Y3ZxTjhQaXNsd2Rkdw?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yYzVSRGx3LWZ2azhlWGNMa3dwTlhHVnBzbnJjUXBEa2hLUkd0UWg4SEd6Y1RPNHlYbVF0ZkVuX1FoeV9jYkFOSU9BMFYxWXM4eGtKS2h3dkhfc0R6dVQwdDBzQkNxTXZ3TVE?oc=5",
+          "sources": [
+            {
+              "name": "SBS 뉴스",
+              "group": "sbs.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yYzVSRGx3LWZ2azhlWGNMa3dwTlhHVnBzbnJjUXBEa2hLUkd0UWg4SEd6Y1RPNHlYbVF0ZkVuX1FoeV9jYkFOSU9BMFYxWXM4eGtKS2h3dkhfc0R6dVQwdDBzQkNxTXZ3TVE?oc=5",
+              "published_at": "2026-11-03T00:13:03Z",
+              "headline": "5·18 민주화운동 기록…힌츠페터 10주기 특별전"
+            },
+            {
+              "name": "뉴스1",
+              "group": "wire:뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OczBhekM0UHpIVFVuMlRNX2hZX2liU0J4bGlSWkhuMk5ubDl1WlFfMy1WZ2IzREdvdTNmWmtld1IwMnpob2lTYUpVNU9jQ1dXTXhKNmZBT245Rldxa3Z0eEk4VmtvSW9YUkVJWnFCRE9IQQ?oc=5",
+              "published_at": "2026-11-02T23:00:13Z",
+              "headline": "힌츠페터 10주기 특별전…광주 취재 사진·타자기 등 공개"
+            },
+            {
+              "name": "아시아경제",
+              "group": "asiae.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xSG5BM09HdWc4b3k2TkxaT2RISDB0a0lHM3lhY1VsdU5GUVlTMmpPSm9CVEhITlNTR1VKWXdOM3pPNi1ZUGlmYWxRMnFzLVMtWkxPODltNC0zNGVKeWhTbw?oc=5",
+              "published_at": "2026-11-02T23:00:00Z",
+              "headline": "5·18 세계에 알린 獨기자 힌츠페터 10주기…기록·유품 특별전"
+            },
+            {
+              "name": "파이낸셜뉴스",
+              "group": "fnnews.com",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5McGx4NWVadHdWZmNqRmNjSGFmbmQyU2hZTDJtNVNBNWF0Y0xERHdPcDdDODhzT203WU9NdnlDUkxxb3pHbGJRRXloZnE2Y3ZxTjhQaXNsd2Rkdw?oc=5",
+              "published_at": "2026-11-02T23:00:00Z",
+              "headline": "광주의 진실 알린 힌츠페터…옛 전남도청서 10주기 특별전"
+            }
+          ]
+        }
+      },
+      "source_groups": 4,
+      "daily_sources": [
+        0,
+        0,
+        4
+      ],
+      "tracking_hours": 0.9,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 10
+    },
+    {
+      "topic": {
+        "id": "4b05d6b4b47a962b264d",
+        "category": "스포츠",
+        "title": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출",
+        "summary": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출",
+        "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘프로농구 정관장, 한국가스공사 잡고 3연패 탈출’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "SBS 뉴스",
+        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YVUJmNk55R0dwdlRqWXh3YklpTUdSRGQ1TmRWLW85NnR2YjRkSTNoWElRWDJCT2UzY2V1NEZ3RVpYMktpY1B0TjBodks2Z0dzTmZJUWNLV2VvZTlCWHNIWE1aN0tUdHlYdVE?oc=5",
+        "published_at": "2026-11-02T12:44:46Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 4,
+          "report_count": 6,
           "span_hours": 0.5,
           "first_report_at": "2026-11-02T12:15:27Z",
           "last_report_at": "2026-11-02T12:44:46Z",
@@ -697,9 +762,9 @@
           "last_report_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLVVQRlhhMTNQa3Jydkx1NGcyR0VVVG8xcnN4WUE4b1pyNlhha0lLSHlhY0dBOE0zdGlzYXR6ZGdsNVJfWTVIX2VmRGEzREtkN3RJVExFZVZrX3FmbEJJQ2NFVnFPWGp2Z2hxUnloS3J6YnVQMTJ6Qm1qdmJMbWNPajZBNGFQQQ?oc=5",
           "sources": [
             {
-              "name": "news.sbs.co.kr",
+              "name": "SBS 뉴스",
               "group": "sbs.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLVVQRlhhMTNQa3Jydkx1NGcyR0VVVG8xcnN4WUE4b1pyNlhha0lLSHlhY0dBOE0zdGlzYXR6ZGdsNVJfWTVIX2VmRGEzREtkN3RJVExFZVZrX3FmbEJJQ2NFVnFPWGp2Z2hxUnloS3J6YnVQMTJ6Qm1qdmJMbWNPajZBNGFQQQ?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YVUJmNk55R0dwdlRqWXh3YklpTUdSRGQ1TmRWLW85NnR2YjRkSTNoWElRWDJCT2UzY2V1NEZ3RVpYMktpY1B0TjBodks2Z0dzTmZJUWNLV2VvZTlCWHNIWE1aN0tUdHlYdVE?oc=5",
               "published_at": "2026-11-02T12:44:46Z",
               "headline": "프로농구 정관장, 한국가스공사 잡고 3연패 탈출"
             },
@@ -733,11 +798,11 @@
         0,
         4
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 10
+      "rank": 11
     },
     {
       "topic": {
@@ -791,11 +856,11 @@
         1,
         1
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 11
+      "rank": 12
     },
     {
       "topic": {
@@ -849,11 +914,11 @@
         2,
         2
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 12
+      "rank": 13
     },
     {
       "topic": {
@@ -907,11 +972,11 @@
         2,
         1
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 13
+      "rank": 14
     },
     {
       "topic": {
@@ -965,11 +1030,11 @@
         2,
         1
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 14
+      "rank": 15
     },
     {
       "topic": {
@@ -1023,11 +1088,11 @@
         2,
         0
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 15
+      "rank": 16
     },
     {
       "topic": {
@@ -1078,14 +1143,14 @@
       "source_groups": 3,
       "daily_sources": [
         0,
-        2,
-        1
+        3,
+        0
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 16
+      "rank": 17
     },
     {
       "topic": {
@@ -1136,14 +1201,14 @@
       "source_groups": 3,
       "daily_sources": [
         0,
-        0,
-        3
+        1,
+        2
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 17
+      "rank": 18
     },
     {
       "topic": {
@@ -1197,11 +1262,11 @@
         0,
         3
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 18
+      "rank": 19
     },
     {
       "topic": {
@@ -1255,11 +1320,11 @@
         0,
         3
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 19
+      "rank": 20
     },
     {
       "topic": {
@@ -1313,11 +1378,11 @@
         0,
         3
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 20
+      "rank": 21
     },
     {
       "topic": {
@@ -1371,11 +1436,69 @@
         0,
         3
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 21
+      "rank": 22
+    },
+    {
+      "topic": {
+        "id": "b23da38e96b791447a2e",
+        "category": "스포츠",
+        "title": "여자농구 삼성생명, 하나은행 완파…시즌 첫 경기 승리",
+        "summary": "여자농구 삼성생명, 하나은행 완파…시즌 첫 경기 승리",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 2시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘여자농구 삼성생명, 하나은행 완파…시즌 첫 경기 승리’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "동아일보",
+        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6VTZUM3gzbElCa3RTUEJfeDFoQ2VaUHllSU1rVnVwbl9FaUhsSmRFOFVEdklhYUI0SGFXRWlkbm9jZW5oQmhIN2dEV3dQWUJ6UlRONmJoRTlTZVJ0ME1pdjRFbHZVVUFFamlKY2ZUc1FySVhu0gFmQVVfeXFMUGZDbTA1NjVfTk40cEgxTWtpcUV0OFZCSThRZklZTmFCS211MTlGTVVBSzV4LTRGTDg1RldJREFtcTVkYkJiSURZOWtmLUk0SjNOTEJya0tzZHZ2Rjdla3oydnZwaTVR?oc=5",
+        "published_at": "2026-11-02T15:03:22Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 3,
+          "span_hours": 2.9,
+          "first_report_at": "2026-11-02T12:10:42Z",
+          "last_report_at": "2026-11-02T15:03:22Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rTXI0NE1HYUd5SUdyczdHQmpaVEM1Z3FsTTJMMDZPa0hDVGdkQWlRS3pFQ2FBdHRJUFFrZzVmMnlDTkFkam8yaDJrLWpEQWNCMnpJMWppXzRtUVpNamJmd01RVzZIX1lldkxGRDNhY09nTXZETF9fa9IBeEFVX3lxTE5rTXI0NE1HYUd5SUdyczdHQmpaVEM1Z3FsTTJMMDZPa0hDVGdkQWlRS3pFQ2FBdHRJUFFrZzVmMnlDTkFkam8yaDJrLWpEQWNCMnpJMWppXzRtUVpNamJmd01RVzZIX1lldkxGRDNhY09nTXZETF9faw?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6VTZUM3gzbElCa3RTUEJfeDFoQ2VaUHllSU1rVnVwbl9FaUhsSmRFOFVEdklhYUI0SGFXRWlkbm9jZW5oQmhIN2dEV3dQWUJ6UlRONmJoRTlTZVJ0ME1pdjRFbHZVVUFFamlKY2ZUc1FySVhu0gFmQVVfeXFMUGZDbTA1NjVfTk40cEgxTWtpcUV0OFZCSThRZklZTmFCS211MTlGTVVBSzV4LTRGTDg1RldJREFtcTVkYkJiSURZOWtmLUk0SjNOTEJya0tzZHZ2Rjdla3oydnZwaTVR?oc=5",
+          "sources": [
+            {
+              "name": "동아일보",
+              "group": "donga.com",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6VTZUM3gzbElCa3RTUEJfeDFoQ2VaUHllSU1rVnVwbl9FaUhsSmRFOFVEdklhYUI0SGFXRWlkbm9jZW5oQmhIN2dEV3dQWUJ6UlRONmJoRTlTZVJ0ME1pdjRFbHZVVUFFamlKY2ZUc1FySVhu0gFmQVVfeXFMUGZDbTA1NjVfTk40cEgxTWtpcUV0OFZCSThRZklZTmFCS211MTlGTVVBSzV4LTRGTDg1RldJREFtcTVkYkJiSURZOWtmLUk0SjNOTEJya0tzZHZ2Rjdla3oydnZwaTVR?oc=5",
+              "published_at": "2026-11-02T15:03:22Z",
+              "headline": "여자농구 삼성생명, 하나은행 완파…시즌 첫 경기 승리"
+            },
+            {
+              "name": "SBS 뉴스",
+              "group": "sbs.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5b0huNFpnUjhyQXZ0amYtQlhQWG1UMnZvM2JBbnZpZDJTX0lGVzYyZVFYMWtJcE03MzRZaXZSVjlGUWFzWVdrbEEzM3cyVHBVYUxsa3JVRFY3UU1SVmZFUlQxOUltUzZKRHc?oc=5",
+              "published_at": "2026-11-02T12:46:34Z",
+              "headline": "여자농구 삼성생명, 시즌 첫판 하나은행에 대승"
+            },
+            {
+              "name": "뉴시스",
+              "group": "wire:뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rTXI0NE1HYUd5SUdyczdHQmpaVEM1Z3FsTTJMMDZPa0hDVGdkQWlRS3pFQ2FBdHRJUFFrZzVmMnlDTkFkam8yaDJrLWpEQWNCMnpJMWppXzRtUVpNamJmd01RVzZIX1lldkxGRDNhY09nTXZETF9fa9IBeEFVX3lxTE5rTXI0NE1HYUd5SUdyczdHQmpaVEM1Z3FsTTJMMDZPa0hDVGdkQWlRS3pFQ2FBdHRJUFFrZzVmMnlDTkFkam8yaDJrLWpEQWNCMnpJMWppXzRtUVpNamJmd01RVzZIX1lldkxGRDNhY09nTXZETF9faw?oc=5",
+              "published_at": "2026-11-02T12:10:42Z",
+              "headline": "여자농구 삼성생명, 하나은행 84-66 격파…이해란 더블더블"
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        0,
+        0,
+        3
+      ],
+      "tracking_hours": 0.9,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 23
     },
     {
       "topic": {
@@ -1429,11 +1552,11 @@
         3,
         0
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 22
+      "rank": 24
     },
     {
       "topic": {
@@ -1487,11 +1610,69 @@
         0,
         3
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 23
+      "rank": 25
+    },
+    {
+      "topic": {
+        "id": "70007634364157463ef7",
+        "category": "연예",
+        "title": "방탄소년단, 가오슝·자카르타 콘서트 전 세계 극장서 만난다",
+        "summary": "방탄소년단, 가오슝·자카르타 콘서트 전 세계 극장서 만난다",
+        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘방탄소년단, 가오슝·자카르타 콘서트 전 세계 극장서 만난다’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+        "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
+        "source": "조선일보",
+        "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY3QzSTQ4d1F6dTJ6UVJ1VXFhS1FmRnh2UU03RGE2Z3ZPc3l4TEJPcmNfQXVmT2l2c3RPY0NBenp4MUxSdFNpNENSWDVYTW53dWMxSTg4WjNiaDFzRFBHLW5lVjlMLXVKRXhiTS1yR0kyMjdnb3FxdC1zWlpTSDJ2dEdUdVZhbFZ2OEE?oc=5",
+        "published_at": "2026-11-02T22:31:00Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 4,
+          "span_hours": 1.9,
+          "first_report_at": "2026-11-02T22:05:59Z",
+          "last_report_at": "2026-11-03T00:00:54Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xUU1MUE9GN0VDZ0lUWDB1VlV5Q1RXcUl4dlpfVmF3TkRYbHluOFozeGV1U1l1WmZqdFRfYUxfX1lVN2lWZ1BqcjRMTF9KN1JvSmE4UHZ3TXpXamNVd1JyaDhBVVRIUHFJRG5MYm1hWXZlZ19l?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85MVFJV3pIbFFvNHhkdTdNTS1Jbko2X1FJem9QbFNvNm8wRXVPdnlqUE8wNkdyNFFZNWk4aGZBc0NiMlBWYWZqWkt0V3REQVhhVHdleXgyOGlFVUt5ZVJoVtIBeEFVX3lxTE1waGhwVkFGVHUxSXBqclJNLWZib1oyVGE0c0ZCMDdzdDU3dVBrM0lPeXMyTlN0VG1XZEs4ckppd1lYdE1EcHhLUnJVUnZhVzQycW4xZ3lGSE1pd09XTlBPcDhaWTZiM2NsRjBuZUZHcjNOb3NWNlNHeA?oc=5",
+          "sources": [
+            {
+              "name": "뉴시스",
+              "group": "wire:뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85MVFJV3pIbFFvNHhkdTdNTS1Jbko2X1FJem9QbFNvNm8wRXVPdnlqUE8wNkdyNFFZNWk4aGZBc0NiMlBWYWZqWkt0V3REQVhhVHdleXgyOGlFVUt5ZVJoVtIBeEFVX3lxTE1waGhwVkFGVHUxSXBqclJNLWZib1oyVGE0c0ZCMDdzdDU3dVBrM0lPeXMyTlN0VG1XZEs4ckppd1lYdE1EcHhLUnJVUnZhVzQycW4xZ3lGSE1pd09XTlBPcDhaWTZiM2NsRjBuZUZHcjNOb3NWNlNHeA?oc=5",
+              "published_at": "2026-11-03T00:00:54Z",
+              "headline": "방탄소년단 가오슝·자카르타 콘서트, 전 세계 극장서 '라이브 뷰잉'"
+            },
+            {
+              "name": "조선일보",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY3QzSTQ4d1F6dTJ6UVJ1VXFhS1FmRnh2UU03RGE2Z3ZPc3l4TEJPcmNfQXVmT2l2c3RPY0NBenp4MUxSdFNpNENSWDVYTW53dWMxSTg4WjNiaDFzRFBHLW5lVjlMLXVKRXhiTS1yR0kyMjdnb3FxdC1zWlpTSDJ2dEdUdVZhbFZ2OEE?oc=5",
+              "published_at": "2026-11-02T22:31:00Z",
+              "headline": "방탄소년단, 가오슝·자카르타 콘서트 전 세계 극장서 만난다"
+            },
+            {
+              "name": "스타뉴스",
+              "group": "starnewskorea.com",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xUU1MUE9GN0VDZ0lUWDB1VlV5Q1RXcUl4dlpfVmF3TkRYbHluOFozeGV1U1l1WmZqdFRfYUxfX1lVN2lWZ1BqcjRMTF9KN1JvSmE4UHZ3TXpXamNVd1JyaDhBVVRIUHFJRG5MYm1hWXZlZ19l?oc=5",
+              "published_at": "2026-11-02T22:05:59Z",
+              "headline": "방탄소년단, 가오슝·자카르타 콘서트 라이브 뷰잉 전세계 개봉 확정"
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        0,
+        0,
+        3
+      ],
+      "tracking_hours": 0.9,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 26
     },
     {
       "topic": {
@@ -1545,11 +1726,11 @@
         3,
         0
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 24
+      "rank": 27
     },
     {
       "topic": {
@@ -1600,14 +1781,14 @@
       "source_groups": 3,
       "daily_sources": [
         0,
-        0,
-        3
+        1,
+        2
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 25
+      "rank": 28
     },
     {
       "topic": {
@@ -1661,11 +1842,11 @@
         0,
         3
       ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 26
+      "rank": 29
     },
     {
       "topic": {
@@ -1719,181 +1900,7 @@
         0,
         3
       ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 27
-    },
-    {
-      "topic": {
-        "id": "7a0f5055919809f311d0",
-        "category": "스포츠",
-        "title": "도둑 맞은 '8호골' 되찾는다! 손흥민, 미네소타전 선발 출격...공격형 미드필더로 '구단 최다 AS 도전'",
-        "summary": "도둑 맞은 '8호골' 되찾는다! 손흥민, 미네소타전 선발 출격...공격형 미드필더로 '구단 최다 AS 도전'",
-        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘도둑 맞은 '8호골' 되찾는다! 손흥민, 미네소타전 선발 출격...공격형 미드필더로 '구단 최다 AS 도전'’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "마이데일리",
-        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92V0NZSmJGb0sxYkNSczdwM1BGVUpMQ2RrTTJISm1fNy05dDNDU1FWbFdaQ1hFbUtYMGJyejUzMVk5WUtLcGtqM0I5Njhub2dXZEk2cTdZdGpyUnE4eHZwaQ?oc=5",
-        "published_at": "2026-11-02T00:48:22Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 3,
-          "report_count": 4,
-          "span_hours": 0.5,
-          "first_report_at": "2026-11-02T00:44:04Z",
-          "last_report_at": "2026-11-02T01:16:10Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2bWpfTk5yVWhXbkxLNFRfX1k1ajUtbjlpZXQ0VVFNNDdJZUpZR0FjMkg3RXVVa0g1RmdaNHRVU0N3UmZKWkpnR2xTUjdETXhxbThhTmpVd0g4RHNYWTZwM20teGVWQUFSbGJpNnU3NUw?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ETXlRZDNEVXNtbHRacEZnWm5aZnJkaVZLTUprMjItNGhWdUhSY2k5Z29idlVUQktteWJWa3dyV0FDTDVicFlNaG52dnpFNnhoWjk4akV4cWU3cHRGOE1JOWxRUFhNdU1ad3dXdGlJendkdU44YnpRddIBeEFVX3lxTE9ETXlRZDNEVXNtbHRacEZnWm5aZnJkaVZLTUprMjItNGhWdUhSY2k5Z29idlVUQktteWJWa3dyV0FDTDVicFlNaG52dnpFNnhoWjk4akV4cWU3cHRGOE1JOWxRUFhNdU1ad3dXdGlJendkdU44YnpRdQ?oc=5",
-          "sources": [
-            {
-              "name": "뉴시스",
-              "group": "wire:뉴시스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1QUJBTlEwSXFoNEhaT052RFNVWXNCNXdJak1IaGdCVmk0VHhvV2xnWjE0b0FabzMycWs2Qm9DTnlsUjdnVWtGZzFLMzdIWDN6QzdPNXJGOVhWSVpqWFVjS9IBeEFVX3lxTE9ETXlRZDNEVXNtbHRacEZnWm5aZnJkaVZLTUprMjItNGhWdUhSY2k5Z29idlVUQktteWJWa3dyV0FDTDVicFlNaG52dnpFNnhoWjk4akV4cWU3cHRGOE1JOWxRUFhNdU1ad3dXdGlJendkdU44YnpRdQ?oc=5",
-              "published_at": "2026-11-02T01:16:10Z",
-              "headline": "LAFC 손흥민, 미네소타전 선발 출격…구단 최다 도움 도전"
-            },
-            {
-              "name": "마이데일리",
-              "group": "mydaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92V0NZSmJGb0sxYkNSczdwM1BGVUpMQ2RrTTJISm1fNy05dDNDU1FWbFdaQ1hFbUtYMGJyejUzMVk5WUtLcGtqM0I5Njhub2dXZEk2cTdZdGpyUnE4eHZwaQ?oc=5",
-              "published_at": "2026-11-02T00:48:22Z",
-              "headline": "도둑 맞은 '8호골' 되찾는다! 손흥민, 미네소타전 선발 출격...공격형 미드필더로 '구단 최다 AS 도전'"
-            },
-            {
-              "name": "SPOTV NEWS",
-              "group": "spotvnews.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2bWpfTk5yVWhXbkxLNFRfX1k1ajUtbjlpZXQ0VVFNNDdJZUpZR0FjMkg3RXVVa0g1RmdaNHRVU0N3UmZKWkpnR2xTUjdETXhxbThhTmpVd0g4RHNYWTZwM20teGVWQUFSbGJpNnU3NUw?oc=5",
-              "published_at": "2026-11-02T00:44:04Z",
-              "headline": "'1도움만 더하면 구단 역사 새로 쓴다!' 손흥민, 미네소타전서 대기록 도전…LAFC는 5위 도약 정조준"
-            }
-          ]
-        }
-      },
-      "source_groups": 3,
-      "daily_sources": [
-        0,
-        0,
-        3
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 28
-    },
-    {
-      "topic": {
-        "id": "0007676d1b046b6ffea3",
-        "category": "연예",
-        "title": "이무진, 새 둥지서 첫 신곡…1년 6개월만 `밤무대` 발매",
-        "summary": "이무진, 새 둥지서 첫 신곡…1년 6개월만 `밤무대` 발매",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘이무진, 새 둥지서 첫 신곡…1년 6개월만 `밤무대` 발매’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-        "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-        "source": "마이데일리",
-        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PMXpEWW10bXlJZGNxa29VX3Y2TXY0Y0xyMjIzSzA5bF9HMUlmNlpMb29kaVNYUjk5Mml3NXIwWVhZdGthOU9YMGR2YVNZUW1qemtFYVA0Nmdwa05jd013TlJrQXB6dw?oc=5",
-        "published_at": "2026-11-02T23:40:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 3,
-          "report_count": 3,
-          "span_hours": 0.3,
-          "first_report_at": "2026-11-02T23:21:00Z",
-          "last_report_at": "2026-11-02T23:40:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vaV80NVljZ3pVR3RUdW1Nb0R1ZGNxeGFDZF9WeHFsZEhFeVJoVW9zQnhkRTlvUVM2RVFtQVZ5RGhqUHdMdW9OWUNra25IalVpeHRFbQ?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PMXpEWW10bXlJZGNxa29VX3Y2TXY0Y0xyMjIzSzA5bF9HMUlmNlpMb29kaVNYUjk5Mml3NXIwWVhZdGthOU9YMGR2YVNZUW1qemtFYVA0Nmdwa05jd013TlJrQXB6dw?oc=5",
-          "sources": [
-            {
-              "name": "마이데일리",
-              "group": "mydaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PMXpEWW10bXlJZGNxa29VX3Y2TXY0Y0xyMjIzSzA5bF9HMUlmNlpMb29kaVNYUjk5Mml3NXIwWVhZdGthOU9YMGR2YVNZUW1qemtFYVA0Nmdwa05jd013TlJrQXB6dw?oc=5",
-              "published_at": "2026-11-02T23:40:00Z",
-              "headline": "이무진, 새 둥지서 첫 신곡…1년 6개월만 `밤무대` 발매"
-            },
-            {
-              "name": "이데일리",
-              "group": "edaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTkNCaERJN1pCckljMWV2NHBzRzhZVlFKbjlzMGxMYmtjbmY0b1JrN0UxbnhUeWE3OFVCWG1rNjlGdFo5V2V5UUNFbzU3cEh5NXRpU1A5dER5U0pkWGJiVERrZW1SMmhtTVJBdTRvRm13NzVVRWZ2UVc1RG5mcnR0Qw?oc=5",
-              "published_at": "2026-11-02T23:33:03Z",
-              "headline": "이무진, '밤무대'로 컴백…1년 6개월 만에 신곡"
-            },
-            {
-              "name": "OSEN",
-              "group": "osen.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vaV80NVljZ3pVR3RUdW1Nb0R1ZGNxeGFDZF9WeHFsZEhFeVJoVW9zQnhkRTlvUVM2RVFtQVZ5RGhqUHdMdW9OWUNra25IalVpeHRFbQ?oc=5",
-              "published_at": "2026-11-02T23:21:00Z",
-              "headline": "이무진, 1년 6개월만에 신곡 ‘밤무대’ 발매 확정…이번에도 자작곡"
-            }
-          ]
-        }
-      },
-      "source_groups": 3,
-      "daily_sources": [
-        0,
-        0,
-        3
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 29
-    },
-    {
-      "topic": {
-        "id": "e8a6467cc35ecd223dc8",
-        "category": "문화·예술",
-        "title": "광주의 진실 알린 힌츠페터…옛 전남도청서 10주기 특별전",
-        "summary": "광주의 진실 알린 힌츠페터…옛 전남도청서 10주기 특별전",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘광주의 진실 알린 힌츠페터…옛 전남도청서 10주기 특별전’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
-        "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-        "source": "파이낸셜뉴스",
-        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5McGx4NWVadHdWZmNqRmNjSGFmbmQyU2hZTDJtNVNBNWF0Y0xERHdPcDdDODhzT203WU9NdnlDUkxxb3pHbGJRRXloZnE2Y3ZxTjhQaXNsd2Rkdw?oc=5",
-        "published_at": "2026-11-02T23:00:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 3,
-          "report_count": 3,
-          "span_hours": 0.0,
-          "first_report_at": "2026-11-02T23:00:00Z",
-          "last_report_at": "2026-11-02T23:00:13Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5McGx4NWVadHdWZmNqRmNjSGFmbmQyU2hZTDJtNVNBNWF0Y0xERHdPcDdDODhzT203WU9NdnlDUkxxb3pHbGJRRXloZnE2Y3ZxTjhQaXNsd2Rkdw?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OczBhekM0UHpIVFVuMlRNX2hZX2liU0J4bGlSWkhuMk5ubDl1WlFfMy1WZ2IzREdvdTNmWmtld1IwMnpob2lTYUpVNU9jQ1dXTXhKNmZBT245Rldxa3Z0eEk4VmtvSW9YUkVJWnFCRE9IQQ?oc=5",
-          "sources": [
-            {
-              "name": "뉴스1",
-              "group": "wire:뉴스1",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OczBhekM0UHpIVFVuMlRNX2hZX2liU0J4bGlSWkhuMk5ubDl1WlFfMy1WZ2IzREdvdTNmWmtld1IwMnpob2lTYUpVNU9jQ1dXTXhKNmZBT245Rldxa3Z0eEk4VmtvSW9YUkVJWnFCRE9IQQ?oc=5",
-              "published_at": "2026-11-02T23:00:13Z",
-              "headline": "힌츠페터 10주기 특별전…광주 취재 사진·타자기 등 공개"
-            },
-            {
-              "name": "아시아경제",
-              "group": "asiae.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xSG5BM09HdWc4b3k2TkxaT2RISDB0a0lHM3lhY1VsdU5GUVlTMmpPSm9CVEhITlNTR1VKWXdOM3pPNi1ZUGlmYWxRMnFzLVMtWkxPODltNC0zNGVKeWhTbw?oc=5",
-              "published_at": "2026-11-02T23:00:00Z",
-              "headline": "5·18 세계에 알린 獨기자 힌츠페터 10주기…기록·유품 특별전"
-            },
-            {
-              "name": "파이낸셜뉴스",
-              "group": "fnnews.com",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5McGx4NWVadHdWZmNqRmNjSGFmbmQyU2hZTDJtNVNBNWF0Y0xERHdPcDdDODhzT203WU9NdnlDUkxxb3pHbGJRRXloZnE2Y3ZxTjhQaXNsd2Rkdw?oc=5",
-              "published_at": "2026-11-02T23:00:00Z",
-              "headline": "광주의 진실 알린 힌츠페터…옛 전남도청서 10주기 특별전"
-            }
-          ]
-        }
-      },
-      "source_groups": 3,
-      "daily_sources": [
-        0,
-        0,
-        3
-      ],
-      "tracking_hours": 0.0,
+      "tracking_hours": 0.9,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
