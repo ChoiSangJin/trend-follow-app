@@ -2,7 +2,7 @@
   "schema_version": 2,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-04T06:13:47.109391Z",
+  "updated_at": "2026-11-04T14:30:53.619023Z",
   "cards": [
     {
       "id": "d89a2b918d1e0b1c8b8f",
@@ -65,32 +65,78 @@
       "selection_rank": 1
     },
     {
-      "id": "d7c7dddb431c8121eacd",
+      "id": "bc9ef670c08ae67762a2",
+      "category": "문화",
+      "title": "드라마 업계 12개 단체 \"제작 기반 위기‥1조 원 투자·지원체계 필요\"",
+      "summary": "드라마 업계 12개 단체 \"제작 기반 위기‥1조 원 투자·지원체계 필요\"",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘드라마 업계 12개 단체 \"제작 기반 위기‥1조 원 투자·지원체계 필요\"’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
+      "source": "MBC 뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hZ285Y0cyczI1NDNMVlBzRHNfVWFycGZxSVZhUDNXZGw1c21kWmFUZXNXMTE2OEFXM1ZabEJvZFdxUjR0XzF4RlVlZFdKdEZoMzF4VzB6QkJ2MHJxTE1WNklyQ3dxVkFUcmV2ZW9nVm16M2R2Yjdz0gF3QVVfeXFMT3JURXdoMTlnWjhocHFJRmxGU1RaM2ZIM2EzdVZBMFZJUDM2ZzlYMXNEcWdsUHdhSUtNSnlXa09jOG9RZ1dLZ3JNMXJNVTd3YUkyU2M0MTdiV0JUajZlUVlTQk9NemVqRVNTTkNDZ3FKQ20zZ2xJS1U?oc=5",
+      "published_at": "2026-11-04T05:01:37Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 3,
+        "report_count": 3,
+        "span_hours": 0.7,
+        "first_report_at": "2026-11-04T05:01:37Z",
+        "last_report_at": "2026-11-04T05:42:47Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hZ285Y0cyczI1NDNMVlBzRHNfVWFycGZxSVZhUDNXZGw1c21kWmFUZXNXMTE2OEFXM1ZabEJvZFdxUjR0XzF4RlVlZFdKdEZoMzF4VzB6QkJ2MHJxTE1WNklyQ3dxVkFUcmV2ZW9nVm16M2R2Yjdz0gF3QVVfeXFMT3JURXdoMTlnWjhocHFJRmxGU1RaM2ZIM2EzdVZBMFZJUDM2ZzlYMXNEcWdsUHdhSUtNSnlXa09jOG9RZ1dLZ3JNMXJNVTd3YUkyU2M0MTdiV0JUajZlUVlTQk9NemVqRVNTTkNDZ3FKQ20zZ2xJS1U?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHc2ZGlKVTVFSks0Qzd4TjVud3BJd3QyN1JadEItYTZZOW5Vd2VodXJBWUZ5aF9URDJEYXNLWVFrWmR4T2tveXYyZUx1VHpCdXN4WndoZnowYWJHUTFGY3dqSlFnbmpXRFhvTGc5ZWduWm1Nb0JaakpLNGV1Q21ZcTc0VDFudjI1OExFaWtkenM2REY5?oc=5",
+        "sources": [
+          {
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNHc2ZGlKVTVFSks0Qzd4TjVud3BJd3QyN1JadEItYTZZOW5Vd2VodXJBWUZ5aF9URDJEYXNLWVFrWmR4T2tveXYyZUx1VHpCdXN4WndoZnowYWJHUTFGY3dqSlFnbmpXRFhvTGc5ZWduWm1Nb0JaakpLNGV1Q21ZcTc0VDFudjI1OExFaWtkenM2REY5?oc=5",
+            "published_at": "2026-11-04T05:42:47Z",
+            "headline": "드라마 업계 12개 단체 \"제작 감소로 K드라마 생태계 붕괴 위기, 국가가 지원해야\""
+          },
+          {
+            "name": "JTBC",
+            "group": "jtbc.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Fa2tocjdDXzhtbjF4cDBkcnRMaXJweWh2RXlDd1pKM1ZqUEhhLTNpUWE0TmV2UTFvWnJ5X0RZU1o2cUxzcXZRcnFGdXloNy1yOTh1RQ?oc=5",
+            "published_at": "2026-11-04T05:42:00Z",
+            "headline": "K-드라마 제작 30% 줄었다…업계, “1조 원 투자체계” 촉구"
+          },
+          {
+            "name": "MBC 뉴스",
+            "group": "imbc.com",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hZ285Y0cyczI1NDNMVlBzRHNfVWFycGZxSVZhUDNXZGw1c21kWmFUZXNXMTE2OEFXM1ZabEJvZFdxUjR0XzF4RlVlZFdKdEZoMzF4VzB6QkJ2MHJxTE1WNklyQ3dxVkFUcmV2ZW9nVm16M2R2Yjdz0gF3QVVfeXFMT3JURXdoMTlnWjhocHFJRmxGU1RaM2ZIM2EzdVZBMFZJUDM2ZzlYMXNEcWdsUHdhSUtNSnlXa09jOG9RZ1dLZ3JNMXJNVTd3YUkyU2M0MTdiV0JUajZlUVlTQk9NemVqRVNTTkNDZ3FKQ20zZ2xJS1U?oc=5",
+            "published_at": "2026-11-04T05:01:37Z",
+            "headline": "드라마 업계 12개 단체 \"제작 기반 위기‥1조 원 투자·지원체계 필요\""
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "e76b3bc2cf5caf74bbf2",
       "category": "스포츠",
-      "title": "'이강인·김민재 동반 교체 출전' 뮌헨, 아틀레티코 원정서 2-0 완승…UCL 무패 행진",
-      "summary": "'이강인·김민재 동반 교체 출전' 뮌헨, 아틀레티코 원정서 2-0 완승…UCL 무패 행진",
-      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘'이강인·김민재 동반 교체 출전' 뮌헨, 아틀레티코 원정서 2-0 완승…UCL 무패 행진’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "title": "'김민재 웃고 이강인 울었다' 뮌헨, 아틀레티코 원정서 2-0 완승... 후반 교체로 '코리안 더비' 성사",
+      "summary": "'김민재 웃고 이강인 울었다' 뮌헨, 아틀레티코 원정서 2-0 완승... 후반 교체로 '코리안 더비' 성사",
+      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 2시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘'김민재 웃고 이강인 울었다' 뮌헨, 아틀레티코 원정서 2-0 완승... 후반 교체로 '코리안 더비' 성사’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "일간스포츠",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HYmZKT29QRmJJMTEwZUNRTXQtZ1Zuc25oTU1jTmxBdklnOFBfVkNxbG5vMnBKaXREOTNTMHdXYzhJd0JpRXdfemtZUUNBXzUxSXBfWFY1RXlGbU0?oc=5",
-      "published_at": "2026-11-03T21:52:00Z",
+      "source": "스타뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDUlY2UV91c2NCRkU1UXNBVlFERVhKMDNfaU1zaHNHY19OVG9PYUdlSnlSS192djNzNDRjSjNCb3JkbkZERHlRcHBOZ3dKRXRqTnZtcW1nYjFGYlI0MmNOQ2dVeXdjLWdxRVQ1ejRIYk0yUmhYLVE?oc=5",
+      "published_at": "2026-11-03T21:58:25Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 5,
         "report_count": 5,
-        "span_hours": 0.5,
-        "first_report_at": "2026-11-03T21:52:00Z",
-        "last_report_at": "2026-11-03T22:19:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQV3RxcUpyOHRHa1F3OHREQ2JlY0VmT2VWVVZBdEpxSHdCUzJYRmdoQmRFQnRBYm80YzFlM01lY3J0dGdaTVU2MjY1N1lpeGszS2JjMWtrSGlwZnJoQ3fSAWNBVV95cUxPRWEtWlBaU0ZtYmxFNTBpMG91X1l2b1JGN3JRcXl2LUJGclR5Wk9EbUxLZDFmRmFldnZQUUUwS09ZZ1JQMEw0eDJvTDZwQjhOYlAzUlplNEk1MnZIczRhbDNSaXc?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hVmJFdndDVDNYVnVjRW1UbGJBeVdxOTdaMHBxLXBiaFFDZ1R1c21wWWNkZG5pa2FHcnFtaE1SNlNaS2JKVUc2M0J4NkxSQVkwaWtvQ3FR?oc=5",
+        "span_hours": 2.2,
+        "first_report_at": "2026-11-03T20:49:00Z",
+        "last_report_at": "2026-11-03T23:03:41Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjR0lUbmk2Nm9WbFYyN3FsVk40S0xjcDlmMWZpX2plRmswb3dDb2g5eV92R1Q5MUZmOFl0blhJVm1FVEZPZ3pkNUlCQmdIQ19UUHdKY1ptamMxNlBzMG5yQ2h1b2Y2YkVWd0lJMjIwc9IBb0FVX3lxTFBjR0lUbmk2Nm9WbFYyN3FsVk40S0xjcDlmMWZpX2plRmswb3dDb2g5eV92R1Q5MUZmOFl0blhJVm1FVEZPZ3pkNUlCQmdIQ19UUHdKY1ptamMxNlBzMG5yQ2h1b2Y2YkVWd0lJMjIwcw?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54QnNyYm52ZmlsS2pRdzNESTFiUGRCM0JlMU53b2w4bEZlQUJ2M3l5dUdBRTRxSnRELU1MUEgyb3g5d2pQc0N6MXV4OHJYSi1rRkxpODBXNlhuQk05NUFWVjgtcVFEaF81cnItYkhodDZWWkY0NnfSAXZBVV95cUxQTHh6SVczUkdlZE9pdWgwOEY3REZOY1NIbkYzUkJfY3pmWE9YczY5RUhiNGRpaVFmOXh4YXJSMlBKdEk0M3dsZk5uelp4V0hoQmFFT1ZHUk5kRjlsVFVHZUQtcTBMbWZiOTdGZlRRYnlPaW1RVHNR?oc=5",
         "sources": [
           {
-            "name": "중앙일보",
-            "group": "joongang.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hVmJFdndDVDNYVnVjRW1UbGJBeVdxOTdaMHBxLXBiaFFDZ1R1c21wWWNkZG5pa2FHcnFtaE1SNlNaS2JKVUc2M0J4NkxSQVkwaWtvQ3FR?oc=5",
-            "published_at": "2026-11-03T22:19:00Z",
-            "headline": "김민재-이강인 나란히 교체출전...뮌헨이 ATM에 2-0 완승"
+            "name": "MBC 뉴스",
+            "group": "imbc.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54QnNyYm52ZmlsS2pRdzNESTFiUGRCM0JlMU53b2w4bEZlQUJ2M3l5dUdBRTRxSnRELU1MUEgyb3g5d2pQc0N6MXV4OHJYSi1rRkxpODBXNlhuQk05NUFWVjgtcVFEaF81cnItYkhodDZWWkY0NnfSAXZBVV95cUxQTHh6SVczUkdlZE9pdWgwOEY3REZOY1NIbkYzUkJfY3pmWE9YczY5RUhiNGRpaVFmOXh4YXJSMlBKdEk0M3dsZk5uelp4V0hoQmFFT1ZHUk5kRjlsVFVHZUQtcTBMbWZiOTdGZlRRYnlPaW1RVHNR?oc=5",
+            "published_at": "2026-11-03T23:03:41Z",
+            "headline": "김민재의 뮌헨, 이강인의 아틀레티코에 2-0 승리"
           },
           {
             "name": "연합뉴스",
@@ -100,25 +146,25 @@
             "headline": "이강인의 아틀레티코, 김민재의 뮌헨과 UCL 대결 0-2 완패"
           },
           {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14eGhpMVZiYVJ2aXprcUtOZWFQN3dDNGtsVFl4MTh3RGFhRVc3bndyeVN1d0RxcDVDdEFmUDA3WVdUR2FaSWEwQlFseWpKTGNuZDBqTVZ5Qi1FOUdQRVRfRNIBeEFVX3lxTE9DRk1vai1LWjZMdEsxUno0NVZGT2FQR1JiVDZSckVPOFd5d29FQjdnSTg2YWlhanZSR2Robm9BV1M3LVZoN3dzRzVYaF92Nmh1U0w0YUtua25KMXpfTENBcGlVRHhKZ1ExdlY5b1pmaVhFTlFEeXJXRA?oc=5",
-            "published_at": "2026-11-03T22:01:48Z",
-            "headline": "뮌헨, AT마드리드에 2-0 완승…이강인·김민재는 교체 출전"
+            "name": "스타뉴스",
+            "group": "starnewskorea.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDUlY2UV91c2NCRkU1UXNBVlFERVhKMDNfaU1zaHNHY19OVG9PYUdlSnlSS192djNzNDRjSjNCb3JkbkZERHlRcHBOZ3dKRXRqTnZtcW1nYjFGYlI0MmNOQ2dVeXdjLWdxRVQ1ejRIYk0yUmhYLVE?oc=5",
+            "published_at": "2026-11-03T21:58:25Z",
+            "headline": "'김민재 웃고 이강인 울었다' 뮌헨, 아틀레티코 원정서 2-0 완승... 후반 교체로 '코리안 더비' 성사"
           },
           {
-            "name": "일간스포츠",
-            "group": "edaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HYmZKT29QRmJJMTEwZUNRTXQtZ1Zuc25oTU1jTmxBdklnOFBfVkNxbG5vMnBKaXREOTNTMHdXYzhJd0JpRXdfemtZUUNBXzUxSXBfWFY1RXlGbU0?oc=5",
-            "published_at": "2026-11-03T21:52:00Z",
-            "headline": "'이강인·김민재 동반 교체 출전' 뮌헨, 아틀레티코 원정서 2-0 완승…UCL 무패 행진"
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeUFtUUlzNkNXQ1VDRDBreTRMdUpDZkpqczdfSTNKYXdKUE95VUY1TmVRT1NlUTZvVDF4bFR2SkZiNEdFXzBFd0RUZE04N3hmWWFNS0tKYndUM0hqV0FtV2lvYTFXWlFJU3AwWExmbUtEenlqSUdkY3JFdjJIWTNPdEllUlN1RGZIbHpF?oc=5",
+            "published_at": "2026-11-03T21:55:00Z",
+            "headline": "'교체 투입 코리안더비' 이강인 울고 김민재 웃었다! 뮌헨, UCL 아틀레티코 원정서 2-0 완승...韓 국가대표 희비 엇갈렸다"
           },
           {
-            "name": "스포츠경향",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQV3RxcUpyOHRHa1F3OHREQ2JlY0VmT2VWVVZBdEpxSHdCUzJYRmdoQmRFQnRBYm80YzFlM01lY3J0dGdaTVU2MjY1N1lpeGszS2JjMWtrSGlwZnJoQ3fSAWNBVV95cUxPRWEtWlBaU0ZtYmxFNTBpMG91X1l2b1JGN3JRcXl2LUJGclR5Wk9EbUxLZDFmRmFldnZQUUUwS09ZZ1JQMEw0eDJvTDZwQjhOYlAzUlplNEk1MnZIczRhbDNSaXc?oc=5",
-            "published_at": "2026-11-03T21:52:00Z",
-            "headline": "[UCL·리뷰] ‘충격 실책’ 이강인·김민재 ‘교체 투입’ 격돌→AT·마드리드 수비벽, 실수 한 번으로 무너졌다..."
+            "name": "머니투데이",
+            "group": "mt.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjR0lUbmk2Nm9WbFYyN3FsVk40S0xjcDlmMWZpX2plRmswb3dDb2g5eV92R1Q5MUZmOFl0blhJVm1FVEZPZ3pkNUlCQmdIQ19UUHdKY1ptamMxNlBzMG5yQ2h1b2Y2YkVWd0lJMjIwc9IBb0FVX3lxTFBjR0lUbmk2Nm9WbFYyN3FsVk40S0xjcDlmMWZpX2plRmswb3dDb2g5eV92R1Q5MUZmOFl0blhJVm1FVEZPZ3pkNUlCQmdIQ19UUHdKY1ptamMxNlBzMG5yQ2h1b2Y2YkVWd0lJMjIwcw?oc=5",
+            "published_at": "2026-11-03T20:49:00Z",
+            "headline": "'韓 국가대표' 이강인·김민재 나란히 벤치 앉았다...아틀레티코-뮌헨, 0-0 전반 종료→후반전 '코리안 더비' 열릴까 - 머니투데이"
           }
         ]
       },
@@ -129,7 +175,7 @@
       "category": "기술",
       "title": "'AI와 공간정보가 바꿀 미래'…내일 박람회 개막",
       "summary": "'AI와 공간정보가 바꿀 미래'…내일 박람회 개막",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.04 15:13 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘'AI와 공간정보가 바꿀 미래'…내일 박람회 개막’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
       "source": "뉴시스",
@@ -168,75 +214,47 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-04T06:13:47.109391Z"
     },
     {
-      "id": "d2e634fc8f4f75684c6a",
+      "id": "d9af5423ab8b6306c56e",
       "category": "생활",
-      "title": "학교서 배운 심폐소생술로 아빠 살린 중학생",
-      "summary": "학교서 배운 심폐소생술로 아빠 살린 중학생",
-      "why_now": "이전 수집(11.04 08:19 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘학교서 배운 심폐소생술로 아빠 살린 중학생’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
+      "title": "\"안성 청소년 3명 중 1명 학교폭력 피해 경험\"",
+      "summary": "\"안성 청소년 3명 중 1명 학교폭력 피해 경험\"",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘\"안성 청소년 3명 중 1명 학교폭력 피해 경험\"’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
       "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
-      "source": "서울Pn",
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DQmpDeTh6dklwU0NkQVRIYnhSNDlnSVROTUxZeUVDZlVHc2ZOUnpPSXlOZUtYaTBVMC0yWnRXOHBNVlVqOEc1czZUM2s2cG02LTNpMXlSdW5iOUNVWjJIVWhvZUZ3S1NpTGZJUWJSb1M?oc=5",
-      "published_at": "2026-11-03T02:24:48Z",
+      "source": "뉴시스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TeWVfbEJ1ZlhxbmZ2cTE4elVvMmRUUFM0emE3S2ZDRVo5ZlF5eTYzaEcyaGtkdHc3SUVnUUctQVRJQmJreEI0TzdzZDV3eFYzeXZrV2RtdndnaG1ZV0lkOdIBeEFVX3lxTFA3STZTYUJWYksybFJMYnRtRFlzal9qaVE5UDl5d2w0d2xRT3QxcXUta1hpZHZ2Tlg0WUVQNU1landoQlFQNTdBNElubVN2cmRfSk1fWU85dmpoUUs1Z1RQNVZXWjJiUjZVblZwZ1BxOHdUTnZ6UTFrcA?oc=5",
+      "published_at": "2026-11-04T06:23:27Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 6,
-        "report_count": 8,
-        "span_hours": 8.9,
-        "first_report_at": "2026-11-03T02:24:48Z",
-        "last_report_at": "2026-11-03T11:21:12Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DQmpDeTh6dklwU0NkQVRIYnhSNDlnSVROTUxZeUVDZlVHc2ZOUnpPSXlOZUtYaTBVMC0yWnRXOHBNVlVqOEc1czZUM2s2cG02LTNpMXlSdW5iOUNVWjJIVWhvZUZ3S1NpTGZJUWJSb1M?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11QjZwNUhGbWRBbzR5bHRPMFdqWlVydEtKcDVDZ1YxUzNqWENfU1djWU13MXdhYjAyRmxuSTNaaWZHUEhkVXp4Tk1qRGZqbGxMR3FyOA?oc=5",
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 1.0,
+        "first_report_at": "2026-11-04T05:20:56Z",
+        "last_report_at": "2026-11-04T06:23:27Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhZDN5aU5fRFZMMExBYlFVN3cxbG5CdjE4Q1Z3bnpSSUc0SFh4TE9xTXRMV3NOdmQ0NksyTEl3emRpVm5pUjExeGRGc2ZicUtWZ1FZZTFLdkk2Zw?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TeWVfbEJ1ZlhxbmZ2cTE4elVvMmRUUFM0emE3S2ZDRVo5ZlF5eTYzaEcyaGtkdHc3SUVnUUctQVRJQmJreEI0TzdzZDV3eFYzeXZrV2RtdndnaG1ZV0lkOdIBeEFVX3lxTFA3STZTYUJWYksybFJMYnRtRFlzal9qaVE5UDl5d2w0d2xRT3QxcXUta1hpZHZ2Tlg0WUVQNU1landoQlFQNTdBNElubVN2cmRfSk1fWU85dmpoUUs1Z1RQNVZXWjJiUjZVblZwZ1BxOHdUTnZ6UTFrcA?oc=5",
         "sources": [
           {
-            "name": "매일경제",
-            "group": "mk.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11QjZwNUhGbWRBbzR5bHRPMFdqWlVydEtKcDVDZ1YxUzNqWENfU1djWU13MXdhYjAyRmxuSTNaaWZHUEhkVXp4Tk1qRGZqbGxMR3FyOA?oc=5",
-            "published_at": "2026-11-03T11:21:12Z",
-            "headline": "‘심정지’ 온 아버지, 중학생 아들이 살려...학교서 배운 심폐소생술 도움"
+            "name": "뉴시스",
+            "group": "wire:뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TeWVfbEJ1ZlhxbmZ2cTE4elVvMmRUUFM0emE3S2ZDRVo5ZlF5eTYzaEcyaGtkdHc3SUVnUUctQVRJQmJreEI0TzdzZDV3eFYzeXZrV2RtdndnaG1ZV0lkOdIBeEFVX3lxTFA3STZTYUJWYksybFJMYnRtRFlzal9qaVE5UDl5d2w0d2xRT3QxcXUta1hpZHZ2Tlg0WUVQNU1landoQlFQNTdBNElubVN2cmRfSk1fWU85dmpoUUs1Z1RQNVZXWjJiUjZVblZwZ1BxOHdUTnZ6UTFrcA?oc=5",
+            "published_at": "2026-11-04T06:23:27Z",
+            "headline": "\"안성 청소년 3명 중 1명 학교폭력 피해 경험\""
           },
           {
-            "name": "JTBC",
-            "group": "jtbc.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DWFBPYko3VHRoMHVXZnZLTHV1aU0wZGFWTFpPTXdxa2V0VVdVenVxYjVDWlRzTUJLUV9VdVBZWHZVSDR1YklrUUkweXhEcWwtaFR1ZQ?oc=5",
-            "published_at": "2026-11-03T11:08:00Z",
-            "headline": "\"제발 일어나\" 학교서 배운 대로 ‘꾹꾹’…아빠 살린 중학생"
-          },
-          {
-            "name": "한겨레",
-            "group": "hani.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HUEFMVUxjOW1RUkEyRHBBLXRIdmxkUm9BbWpoa2p2RXBEWDAwcEgxc016TGpkUDE5YjJiYmJRZE9NTGxLWVNHdHFfeGh0WEtZNGxsWjZ0cGR2LXYwVFdJWA?oc=5",
-            "published_at": "2026-11-03T07:40:00Z",
-            "headline": "학교서 배운 심폐소생술로 ‘7분 골든타임’ 번 아들…심정지 아빠 살렸다"
-          },
-          {
-            "name": "머니투데이",
-            "group": "mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aenBqcU1oQUJ2UFE5NDFRVkNDZlNFNlFaWXdab0dFTThPQlJQS0owdDZSeUIxZWFqT0FoRXNHbzVNSTN0UEZOSHJXX0w2ZHZkTlZSakQzaXFIYnV4UzZscVNjODRMWm43MHFv0gFwQVVfeXFMUDJ6aTFvVlB3WnRUVUF6Q0YtVldNQnBqNTE5VEFOczBiYzdPR1dzZl8zQnJRSHpYa3hPSTJDQUFsZm5WZ215V3MwNEV0SVVHMDNxOHdyUURnbnRCOXI5d29wWWh5T2dwMWhzSkJVNWJScA?oc=5",
-            "published_at": "2026-11-03T07:26:23Z",
-            "headline": "\"아빠, 제발 일어나\"…학교서 배운 심폐소생술로 아버지 살린 중학생[오따뉴] - 머니투데이"
-          },
-          {
-            "name": "YTN",
-            "group": "segye.com",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xdDMyTHJPZHcwQlRVcVV5ZUpGUzdwcjVSVjIzc3pWaTlMeEVkZGhSY2o4X3lpQ2RsS3NMWTVLZGRsM1hwVXFRNDIwT0JHVHF1Q3oteHRzZ1ZzbmJVcmc?oc=5",
-            "published_at": "2026-11-03T07:25:00Z",
-            "headline": "학교서 배운 심폐소생술로 아버지 살린 중학생 아들"
-          },
-          {
-            "name": "서울Pn",
-            "group": "seoul.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DQmpDeTh6dklwU0NkQVRIYnhSNDlnSVROTUxZeUVDZlVHc2ZOUnpPSXlOZUtYaTBVMC0yWnRXOHBNVlVqOEc1czZUM2s2cG02LTNpMXlSdW5iOUNVWjJIVWhvZUZ3S1NpTGZJUWJSb1M?oc=5",
-            "published_at": "2026-11-03T02:24:48Z",
-            "headline": "학교서 배운 심폐소생술로 아빠 살린 중학생"
+            "name": "한국경제",
+            "group": "hankyung.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhZDN5aU5fRFZMMExBYlFVN3cxbG5CdjE4Q1Z3bnpSSUc0SFh4TE9xTXRMV3NOdmQ0NksyTEl3emRpVm5pUjExeGRGc2ZicUtWZ1FZZTFLdkk2Zw?oc=5",
+            "published_at": "2026-11-04T05:20:56Z",
+            "headline": "안성시 첫 청소년 실태조사…학교폭력·복지 사각지대 확인"
           }
         ]
       },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-03T23:19:48.620765Z"
+      "selection_rank": 1
     }
   ]
 }
