@@ -2,29 +2,36 @@
   "schema_version": 3,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-03T23:19:48.620765Z",
+  "updated_at": "2026-11-04T06:13:47.109391Z",
   "cards": [
     {
       "id": "d89a2b918d1e0b1c8b8f",
       "category": "문화·예술",
-      "title": "현대불교문학상 수상자에 소설가 이상문·수완 스님",
-      "summary": "현대불교문학상 수상자에 소설가 이상문·수완 스님",
-      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 11시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘현대불교문학상 수상자에 소설가 이상문·수완 스님’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "title": "현대불교문학상에 소설가 이상문과 수완 스님",
+      "summary": "현대불교문학상에 소설가 이상문과 수완 스님",
+      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 21시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘현대불교문학상에 소설가 이상문과 수완 스님’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-      "source": "경향신문",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82MjBUZFJhRmpoZC13Z19mQnlpU2pmLUt4dFdOdW5VNXlvbVpZSXJmRDMyVjdvUFVRb2ZXSEFVY1BiTE5mUlMxNEZ1ZE1MejZJVDMxVzNrRnRTd9IBX0FVX3lxTE5ud1FIdUVXR3dXMUlCY0hOQWhNWGIyYzJCdUlHRDJIQWt5NVBTX1lfaHJ6Zjc0Sm5rR0dwSndXMU5ZcWFSRnVSTTZJbXJRM2ZhNUZfaF9uYjRFdlRpZTdJ?oc=5",
-      "published_at": "2026-11-03T11:33:00Z",
+      "source": "뉴스1",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82RVpPM0FvTWFxczBMVzRBejU1YzNyRjZQOExILUZaT0thbllQWXF1Q3pUVmFSRE5SVmpVa19HZkdmc2t1VEZBLTFmUS1lemF2a21nNzlJVXZpUEIxM0Y0?oc=5",
+      "published_at": "2026-11-03T21:36:15Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 4,
-        "report_count": 4,
-        "span_hours": 11.2,
+        "source_groups": 5,
+        "report_count": 5,
+        "span_hours": 21.2,
         "first_report_at": "2026-11-03T00:22:12Z",
-        "last_report_at": "2026-11-03T11:33:00Z",
+        "last_report_at": "2026-11-03T21:36:15Z",
         "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DRXRtcW9FU09yZ0R2ZmFrVHR2YVY0a1BacFRrWWlKOFo2ekFtWU5wMF9fMkd1RHhBdHRCWjBiVUdYdWdPM3lFQmZia1pUM3BSU19EcG10eFctckHSAWBBVV95cUxNbGJuWjhhaEs5SHRtZzdGWmpFY2pLSXQ2ZkxYWm5LZkhoYlJSZTZhbk9mS1daUjhKbVlQcDBqNzY1YVNNR3ZDMEFSN0RmcXgzNXhhU3NiZ1l4OHVxYWY2TTE?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82MjBUZFJhRmpoZC13Z19mQnlpU2pmLUt4dFdOdW5VNXlvbVpZSXJmRDMyVjdvUFVRb2ZXSEFVY1BiTE5mUlMxNEZ1ZE1MejZJVDMxVzNrRnRTd9IBX0FVX3lxTE5ud1FIdUVXR3dXMUlCY0hOQWhNWGIyYzJCdUlHRDJIQWt5NVBTX1lfaHJ6Zjc0Sm5rR0dwSndXMU5ZcWFSRnVSTTZJbXJRM2ZhNUZfaF9uYjRFdlRpZTdJ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82RVpPM0FvTWFxczBMVzRBejU1YzNyRjZQOExILUZaT0thbllQWXF1Q3pUVmFSRE5SVmpVa19HZkdmc2t1VEZBLTFmUS1lemF2a21nNzlJVXZpUEIxM0Y0?oc=5",
         "sources": [
+          {
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82RVpPM0FvTWFxczBMVzRBejU1YzNyRjZQOExILUZaT0thbllQWXF1Q3pUVmFSRE5SVmpVa19HZkdmc2t1VEZBLTFmUS1lemF2a21nNzlJVXZpUEIxM0Y0?oc=5",
+            "published_at": "2026-11-03T21:36:15Z",
+            "headline": "현대불교문학상에 소설가 이상문과 수완 스님"
+          },
           {
             "name": "경향신문",
             "group": "khan.co.kr",
@@ -58,211 +65,149 @@
       "selection_rank": 1
     },
     {
-      "id": "ae077744d60d07b70c79",
+      "id": "b502e75f79f16a329c45",
       "category": "문화·예술",
-      "title": "한화클래식, 첫 경남 공연…프랑스 고음악 '태양왕의 음악'",
-      "summary": "한화클래식, 첫 경남 공연…프랑스 고음악 '태양왕의 음악'",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 20시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘한화클래식, 첫 경남 공연…프랑스 고음악 '태양왕의 음악'’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "title": "서울식물원, 겨울밤 온실 야간개장…재즈·클래식 공연도",
+      "summary": "서울식물원, 겨울밤 온실 야간개장…재즈·클래식 공연도",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘서울식물원, 겨울밤 온실 야간개장…재즈·클래식 공연도’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-      "source": "뉴스1",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3RjdIMzV3OXFWd1FiX0d4a3ZnV19kR3JTaWpyM1N6ZVNydDRoRnNsR3pURm5LTktRc0Q1V2NzbjY0Yl9LQncyYlNJZDZtckZ5Q0dsTFZpYkd5NDNqZXJPZ2RPTmFMdmdrMVFjY1BTcElZZw?oc=5",
-      "published_at": "2026-11-03T01:35:14Z",
+      "source": "문화일보",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQbmxEQkZCRDRUazNpVFBlSHpLUEw4d0ZPOFAtMW1kWTVQdzdXTXZVMERhQ3p2Ukl4WmdYcGJtMVZBRDZmWlVZUFU5N1BsSndz?oc=5",
+      "published_at": "2026-11-03T22:11:47Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 2,
         "report_count": 2,
-        "span_hours": 20.2,
-        "first_report_at": "2026-11-02T05:24:28Z",
-        "last_report_at": "2026-11-03T01:35:14Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCddIBYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCdQ?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3RjdIMzV3OXFWd1FiX0d4a3ZnV19kR3JTaWpyM1N6ZVNydDRoRnNsR3pURm5LTktRc0Q1V2NzbjY0Yl9LQncyYlNJZDZtckZ5Q0dsTFZpYkd5NDNqZXJPZ2RPTmFMdmdrMVFjY1BTcElZZw?oc=5",
+        "span_hours": 1.2,
+        "first_report_at": "2026-11-03T21:00:00Z",
+        "last_report_at": "2026-11-03T22:11:47Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TeXVUc1RVN210YnlRSFJROXFQTktzNHJSRFlBOG9aY3JnNGcybDhBVDR1SE16MkluamV3blVoRlVETzM1VnRuQ2s1X3dtYVU?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQbmxEQkZCRDRUazNpVFBlSHpLUEw4d0ZPOFAtMW1kWTVQdzdXTXZVMERhQ3p2Ukl4WmdYcGJtMVZBRDZmWlVZUFU5N1BsSndz?oc=5",
         "sources": [
+          {
+            "name": "문화일보",
+            "group": "munhwa.com",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQbmxEQkZCRDRUazNpVFBlSHpLUEw4d0ZPOFAtMW1kWTVQdzdXTXZVMERhQ3p2Ukl4WmdYcGJtMVZBRDZmWlVZUFU5N1BsSndz?oc=5",
+            "published_at": "2026-11-03T22:11:47Z",
+            "headline": "서울식물원, 겨울밤 온실 야간개장…재즈·클래식 공연도"
+          },
           {
             "name": "뉴스1",
             "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3RjdIMzV3OXFWd1FiX0d4a3ZnV19kR3JTaWpyM1N6ZVNydDRoRnNsR3pURm5LTktRc0Q1V2NzbjY0Yl9LQncyYlNJZDZtckZ5Q0dsTFZpYkd5NDNqZXJPZ2RPTmFMdmdrMVFjY1BTcElZZw?oc=5",
-            "published_at": "2026-11-03T01:35:14Z",
-            "headline": "한화클래식, 첫 경남 공연…프랑스 고음악 '태양왕의 음악'"
-          },
-          {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCddIBYEFVX3lxTE1pUlRQSXhnRzlKZEN5UUx1ZDZXN0dNQklBNi1RMmFqN1pfaElXR2VWRFRDaTh5UVVqcnQweFl1T3V2RzQtQUs1V0hYUFp6YTVBaVo4elYtdGI4WklSeVFCdQ?oc=5",
-            "published_at": "2026-11-02T05:24:28Z",
-            "headline": "'한화클래식' 첫 경남 공연, 22일 창원·24일 거제…주민 초청"
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TeXVUc1RVN210YnlRSFJROXFQTktzNHJSRFlBOG9aY3JnNGcybDhBVDR1SE16MkluamV3blVoRlVETzM1VnRuQ2s1X3dtYVU?oc=5",
+            "published_at": "2026-11-03T21:00:00Z",
+            "headline": "서울식물원 온실, 13일부터 야간개장…재즈·클래식 공연도"
           }
         ]
       },
       "selection_rank": 2
     },
     {
-      "id": "796548d9a03c6fee9e20",
-      "category": "연예",
-      "title": "유재석 '예능 사관학교' 갇힌 한상진·허성태",
-      "summary": "유재석 '예능 사관학교' 갇힌 한상진·허성태",
-      "why_now": "이전 수집(11.02 02:55 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘유재석 '예능 사관학교' 갇힌 한상진·허성태’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "뉴시스",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yZW02Y3k3WmM2VUp3Z2p0T1JqTEdsdjYyYXBZV204aGZ2SUlqVk9iUW5NZ1JPTzVMZi1FQTVjMW9rSmY2Z0VZZUVsTzNzdmtfU0o4RE1EM0cta0ZtZ2N5OElOa0NmaUhOcldjbkUwM0x5WDRYQnBDUNIBeEFVX3lxTE8yZW02Y3k3WmM2VUp3Z2p0T1JqTEdsdjYyYXBZV204aGZ2SUlqVk9iUW5NZ1JPTzVMZi1FQTVjMW9rSmY2Z0VZZUVsTzNzdmtfU0o4RE1EM0cta0ZtZ2N5OElOa0NmaUhOcldjbkUwM0x5WDRYQnBDUA?oc=5",
-      "published_at": "2026-11-01T09:30:00Z",
+      "id": "d7c7dddb431c8121eacd",
+      "category": "스포츠",
+      "title": "'이강인·김민재 동반 교체 출전' 뮌헨, 아틀레티코 원정서 2-0 완승…UCL 무패 행진",
+      "summary": "'이강인·김민재 동반 교체 출전' 뮌헨, 아틀레티코 원정서 2-0 완승…UCL 무패 행진",
+      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘'이강인·김민재 동반 교체 출전' 뮌헨, 아틀레티코 원정서 2-0 완승…UCL 무패 행진’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "일간스포츠",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HYmZKT29QRmJJMTEwZUNRTXQtZ1Zuc25oTU1jTmxBdklnOFBfVkNxbG5vMnBKaXREOTNTMHdXYzhJd0JpRXdfemtZUUNBXzUxSXBfWFY1RXlGbU0?oc=5",
+      "published_at": "2026-11-03T21:52:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 7.4,
-        "first_report_at": "2026-11-01T02:08:33Z",
-        "last_report_at": "2026-11-01T09:30:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DcjhOSjFaaDR5Q2xoZnVfckJ0V2oydnNSeVNwdV84N0d6RmRBY2ltbjFIRHNDc3ZDaEtrMmVHalJvT3Y4LU1YSWtRT29hNVFvT3IzNzUyU21URGR1dmxhczRZaUxqTDJoYXQ1S05B?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yZW02Y3k3WmM2VUp3Z2p0T1JqTEdsdjYyYXBZV204aGZ2SUlqVk9iUW5NZ1JPTzVMZi1FQTVjMW9rSmY2Z0VZZUVsTzNzdmtfU0o4RE1EM0cta0ZtZ2N5OElOa0NmaUhOcldjbkUwM0x5WDRYQnBDUNIBeEFVX3lxTE8yZW02Y3k3WmM2VUp3Z2p0T1JqTEdsdjYyYXBZV204aGZ2SUlqVk9iUW5NZ1JPTzVMZi1FQTVjMW9rSmY2Z0VZZUVsTzNzdmtfU0o4RE1EM0cta0ZtZ2N5OElOa0NmaUhOcldjbkUwM0x5WDRYQnBDUA?oc=5",
+        "source_groups": 5,
+        "report_count": 5,
+        "span_hours": 0.5,
+        "first_report_at": "2026-11-03T21:52:00Z",
+        "last_report_at": "2026-11-03T22:19:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQV3RxcUpyOHRHa1F3OHREQ2JlY0VmT2VWVVZBdEpxSHdCUzJYRmdoQmRFQnRBYm80YzFlM01lY3J0dGdaTVU2MjY1N1lpeGszS2JjMWtrSGlwZnJoQ3fSAWNBVV95cUxPRWEtWlBaU0ZtYmxFNTBpMG91X1l2b1JGN3JRcXl2LUJGclR5Wk9EbUxLZDFmRmFldnZQUUUwS09ZZ1JQMEw0eDJvTDZwQjhOYlAzUlplNEk1MnZIczRhbDNSaXc?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hVmJFdndDVDNYVnVjRW1UbGJBeVdxOTdaMHBxLXBiaFFDZ1R1c21wWWNkZG5pa2FHcnFtaE1SNlNaS2JKVUc2M0J4NkxSQVkwaWtvQ3FR?oc=5",
         "sources": [
+          {
+            "name": "중앙일보",
+            "group": "joongang.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hVmJFdndDVDNYVnVjRW1UbGJBeVdxOTdaMHBxLXBiaFFDZ1R1c21wWWNkZG5pa2FHcnFtaE1SNlNaS2JKVUc2M0J4NkxSQVkwaWtvQ3FR?oc=5",
+            "published_at": "2026-11-03T22:19:00Z",
+            "headline": "김민재-이강인 나란히 교체출전...뮌헨이 ATM에 2-0 완승"
+          },
+          {
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uNGJZSlc3MHJVeXkwSTRIeUhOa29ibl9USTVYUkpweVZKN3V3c2tlcFk1dmpISk9VZHRfa2JwSFA0V1VIQV9tdkpMSnRCU2lHZlUtTTEwUjlLc3fSAWBBVV95cUxQV2c3Zk5uUWxkQkhEYWQzZXM1VVlWbUJ2LVZWclRKMkhIWWZfNEFwTEI2X2VjN0FaVzhobkg2UkJfVkY3aUtIVEF4SlBjYjJ1VG1NS0VsMVZDQmRBdkpodkU?oc=5",
+            "published_at": "2026-11-03T22:02:21Z",
+            "headline": "이강인의 아틀레티코, 김민재의 뮌헨과 UCL 대결 0-2 완패"
+          },
           {
             "name": "뉴시스",
             "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yZW02Y3k3WmM2VUp3Z2p0T1JqTEdsdjYyYXBZV204aGZ2SUlqVk9iUW5NZ1JPTzVMZi1FQTVjMW9rSmY2Z0VZZUVsTzNzdmtfU0o4RE1EM0cta0ZtZ2N5OElOa0NmaUhOcldjbkUwM0x5WDRYQnBDUNIBeEFVX3lxTE8yZW02Y3k3WmM2VUp3Z2p0T1JqTEdsdjYyYXBZV204aGZ2SUlqVk9iUW5NZ1JPTzVMZi1FQTVjMW9rSmY2Z0VZZUVsTzNzdmtfU0o4RE1EM0cta0ZtZ2N5OElOa0NmaUhOcldjbkUwM0x5WDRYQnBDUA?oc=5",
-            "published_at": "2026-11-01T09:30:00Z"
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14eGhpMVZiYVJ2aXprcUtOZWFQN3dDNGtsVFl4MTh3RGFhRVc3bndyeVN1d0RxcDVDdEFmUDA3WVdUR2FaSWEwQlFseWpKTGNuZDBqTVZ5Qi1FOUdQRVRfRNIBeEFVX3lxTE9DRk1vai1LWjZMdEsxUno0NVZGT2FQR1JiVDZSckVPOFd5d29FQjdnSTg2YWlhanZSR2Robm9BV1M3LVZoN3dzRzVYaF92Nmh1U0w0YUtua25KMXpfTENBcGlVRHhKZ1ExdlY5b1pmaVhFTlFEeXJXRA?oc=5",
+            "published_at": "2026-11-03T22:01:48Z",
+            "headline": "뮌헨, AT마드리드에 2-0 완승…이강인·김민재는 교체 출전"
           },
           {
-            "name": "스포츠동아",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DcjhOSjFaaDR5Q2xoZnVfckJ0V2oydnNSeVNwdV84N0d6RmRBY2ltbjFIRHNDc3ZDaEtrMmVHalJvT3Y4LU1YSWtRT29hNVFvT3IzNzUyU21URGR1dmxhczRZaUxqTDJoYXQ1S05B?oc=5",
-            "published_at": "2026-11-01T02:08:33Z"
-          }
-        ]
-      },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-01T17:55:28.570150Z"
-    },
-    {
-      "id": "ebf6a2fb483565709b03",
-      "category": "연예",
-      "title": "엔하이픈의 로맨틱 감성…'I Want You'로 컴백",
-      "summary": "엔하이픈의 로맨틱 감성…'I Want You'로 컴백",
-      "why_now": "이전 수집(11.01 21:50 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘엔하이픈의 로맨틱 감성…'I Want You'로 컴백’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "전자신문",
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZOThXYnZCT05fSDNCN1B4UksyUkF3Z1NrUjVvRmxXdnI1MFQ2RkdOc0pCOGpxMEtrUHNjNXoyenVjZ0JEa2JsU0FIamQ4dw?oc=5",
-      "published_at": "2026-11-01T02:55:55Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 2.8,
-        "first_report_at": "2026-11-01T00:07:00Z",
-        "last_report_at": "2026-11-01T02:55:55Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LNTBxLW0tM21SN0Z3bkotY01wWm9TTWROTWVFUzlYMldiS19UQXpsV1Z1bkdVeEdEWGtsZS02SDltbkpnS2VzeWpnTFdDZU9NXzNoaw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZOThXYnZCT05fSDNCN1B4UksyUkF3Z1NrUjVvRmxXdnI1MFQ2RkdOc0pCOGpxMEtrUHNjNXoyenVjZ0JEa2JsU0FIamQ4dw?oc=5",
-        "sources": [
-          {
-            "name": "전자신문",
-            "group": "etnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ZOThXYnZCT05fSDNCN1B4UksyUkF3Z1NrUjVvRmxXdnI1MFQ2RkdOc0pCOGpxMEtrUHNjNXoyenVjZ0JEa2JsU0FIamQ4dw?oc=5",
-            "published_at": "2026-11-01T02:55:55Z"
+            "name": "일간스포츠",
+            "group": "edaily.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HYmZKT29QRmJJMTEwZUNRTXQtZ1Zuc25oTU1jTmxBdklnOFBfVkNxbG5vMnBKaXREOTNTMHdXYzhJd0JpRXdfemtZUUNBXzUxSXBfWFY1RXlGbU0?oc=5",
+            "published_at": "2026-11-03T21:52:00Z",
+            "headline": "'이강인·김민재 동반 교체 출전' 뮌헨, 아틀레티코 원정서 2-0 완승…UCL 무패 행진"
           },
           {
-            "name": "JTBC",
-            "group": "jtbc.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LNTBxLW0tM21SN0Z3bkotY01wWm9TTWROTWVFUzlYMldiS19UQXpsV1Z1bkdVeEdEWGtsZS02SDltbkpnS2VzeWpnTFdDZU9NXzNoaw?oc=5",
-            "published_at": "2026-11-01T00:07:00Z"
-          }
-        ]
-      },
-      "selection_rank": 2,
-      "last_collected_at": "2026-11-01T12:50:43.940854Z"
-    },
-    {
-      "id": "6182ec3b32209721056f",
-      "category": "스포츠",
-      "title": "칸터, 삼성 선수로는 9년 만에 프로농구 ‘라운드 MVP’",
-      "summary": "칸터, 삼성 선수로는 9년 만에 프로농구 ‘라운드 MVP’",
-      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘칸터, 삼성 선수로는 9년 만에 프로농구 ‘라운드 MVP’’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "조선일보",
-      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSFQtMlA3R0g4RVJjY0lTQVlPWmpMYTZLRTBGSHpWajFQdXBNNVhNODB0QTV5UG41ZlRkdFRKSE1iMjhuYW4xYUFiVEx3QkFIT053X0F1MlhOZDliaUVJT3ViQlMwZmZzektINmRZWUlLQzB1TENZT1k4RnZyYWxFaERFLVhfQQ?oc=5",
-      "published_at": "2026-11-03T03:07:02Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 4,
-        "report_count": 5,
-        "span_hours": 4.4,
-        "first_report_at": "2026-11-03T02:20:10Z",
-        "last_report_at": "2026-11-03T06:46:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHLWdEd1hDUHZJZjVaWjhEYm5OR2ZWOXVYeFVpdzVnSzVsOUVCenJkUHV6Qnl0NGNPRzlIQjVrOTNlLUNCUkJxWEhPRHY5UmhKTXVheENuc0JvX2g5MFVrWtIBYEFVX3lxTFBHLWdEd1hDUHZJZjVaWjhEYm5OR2ZWOXVYeFVpdzVnSzVsOUVCenJkUHV6Qnl0NGNPRzlIQjVrOTNlLUNCUkJxWEhPRHY5UmhKTXVheENuc0JvX2g5MFVrWg?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nRFZicm9iM2hqTVM1X1VKSkVNekU0R3dBSUlYVTZ2TFR3cWZVOV9GZVNsMXVYRGRaWHo2M1pHbEFZUXBNWkhtTXdINHN2RzhmRFR3UmNyNzRGT0ZKQlVXUzByTm1rQ090ekE?oc=5",
-        "sources": [
-          {
-            "name": "한겨레",
-            "group": "hani.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nRFZicm9iM2hqTVM1X1VKSkVNekU0R3dBSUlYVTZ2TFR3cWZVOV9GZVNsMXVYRGRaWHo2M1pHbEFZUXBNWkhtTXdINHN2RzhmRFR3UmNyNzRGT0ZKQlVXUzByTm1rQ090ekE?oc=5",
-            "published_at": "2026-11-03T06:46:00Z",
-            "headline": "칸터, 프로농구 1라운드 MVP 선정…삼성 선수로는 9시즌 만"
-          },
-          {
-            "name": "동아일보",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FMXBBeWFvMHA2cDl0OHF0UWZvWk5ieFJ0RzRIOExwcFJjMnFKcE5meUJDMzNnQ04xSkxlZm1VakFzOEJab2RNTUpVZmNnanduTGxXT0ItUktITmlURTRkWDNXOGhvaUIyUDNWWVk1RDl1N1p40gFmQVVfeXFMTXhfaFQxdnhyWFJuTWhzNTI2NnRNbkJMZ3Q1MGhhajJVMTZBVGdMSXQtNm5YTE9XWndMQXg0eEV3bC1wamV2Vlp0RzBpTlEzUWtCZjBzcG5CUlh0OVdyRFpDcEI0Qll3?oc=5",
-            "published_at": "2026-11-03T05:16:08Z",
-            "headline": "‘개막 최다 9연승 견인’ 삼성 칸터, 프로농구 1라운드 MVP"
-          },
-          {
-            "name": "MBC 뉴스",
-            "group": "imbc.com",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPSk5WekphTkljN3RULXY2NTAyMXZ1eWJJX29qYk5iUXk5VFlEREtyYUFhY1VSN3E1X2hPQlUwVE5QcjBoSXpoclFNTHk3MnJ6SWd2cENFSFVYTkUxR3VReVZ3RHZqYUNRRFQ5SlhiX0lpSTk2NEHSAXZBVV95cUxOVllQcEhVaDNQcGdnT0NaODZheURZZjBDLUdvckp5aFhBejVHWXpMUThTVERiaWxYeE9CM0pOOThLM3haakZ3S1AtTTlyN29UMkVhN3V6Z0VlVHlNaHdIVW4xaHlvYnkxcmF1MnVzOFRZWldnSDFn?oc=5",
-            "published_at": "2026-11-03T04:44:13Z",
-            "headline": "프로농구 칸터, 삼성 선수로는 9시즌 만에 라운드 MVP"
-          },
-          {
-            "name": "조선일보",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSFQtMlA3R0g4RVJjY0lTQVlPWmpMYTZLRTBGSHpWajFQdXBNNVhNODB0QTV5UG41ZlRkdFRKSE1iMjhuYW4xYUFiVEx3QkFIT053X0F1MlhOZDliaUVJT3ViQlMwZmZzektINmRZWUlLQzB1TENZT1k4RnZyYWxFaERFLVhfQQ?oc=5",
-            "published_at": "2026-11-03T03:07:02Z",
-            "headline": "칸터, 삼성 선수로는 9년 만에 프로농구 ‘라운드 MVP’"
+            "name": "스포츠경향",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQV3RxcUpyOHRHa1F3OHREQ2JlY0VmT2VWVVZBdEpxSHdCUzJYRmdoQmRFQnRBYm80YzFlM01lY3J0dGdaTVU2MjY1N1lpeGszS2JjMWtrSGlwZnJoQ3fSAWNBVV95cUxPRWEtWlBaU0ZtYmxFNTBpMG91X1l2b1JGN3JRcXl2LUJGclR5Wk9EbUxLZDFmRmFldnZQUUUwS09ZZ1JQMEw0eDJvTDZwQjhOYlAzUlplNEk1MnZIczRhbDNSaXc?oc=5",
+            "published_at": "2026-11-03T21:52:00Z",
+            "headline": "[UCL·리뷰] ‘충격 실책’ 이강인·김민재 ‘교체 투입’ 격돌→AT·마드리드 수비벽, 실수 한 번으로 무너졌다..."
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "0a63e84254c9c0926d95",
-      "category": "스포츠",
-      "title": "'국대 불화설' 이후 첫 맞대결! '이강인 vs 김민재' 스페인도 관심 집중…모레노 감독도 현장 직관",
-      "summary": "'국대 불화설' 이후 첫 맞대결! '이강인 vs 김민재' 스페인도 관심 집중…모레노 감독도 현장 직관",
-      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘'국대 불화설' 이후 첫 맞대결! '이강인 vs 김민재' 스페인도 관심 집중…모레노 감독도 현장 직관’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "스포츠조선",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wQzIxYk5CWXEzUmdfd0VVQU93VnlMQmJuYXMxYUg3S01kREhIVzd6SmkwVWtNV1VRc2tjMGxoQ0N2STNkOUNQbl9rWkZocURfRW5hTXBvRVRiemhxM01sRUMwV1pGQkcxWDhfVUVSRmZ4dG1VbDcyU3kxT2F4QQ?oc=5",
-      "published_at": "2026-11-03T16:36:00Z",
+      "id": "3e6f3be52a9529eb6aae",
+      "category": "기술·과학",
+      "title": "'AI와 공간정보가 바꿀 미래'…내일 박람회 개막",
+      "summary": "'AI와 공간정보가 바꿀 미래'…내일 박람회 개막",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘'AI와 공간정보가 바꿀 미래'…내일 박람회 개막’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+      "source": "뉴시스",
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14aEl0ZW5vWkU4OVRvTkJXN3Z5MGhfTVdYSGtXS083blA4V0pFMjlyaHlDRk1qVVRSQnVZYnNoT2dYZXhqRXdQNXI1Y1ZpTE4xSExrN3JJY2VKZEc1cFA1QTBpQS1ydHhYem1rYU12V0RVV2RNUDRPRNIBeEFVX3lxTE14aEl0ZW5vWkU4OVRvTkJXN3Z5MGhfTVdYSGtXS083blA4V0pFMjlyaHlDRk1qVVRSQnVZYnNoT2dYZXhqRXdQNXI1Y1ZpTE4xSExrN3JJY2VKZEc1cFA1QTBpQS1ydHhYem1rYU12V0RVV2RNUDRPRA?oc=5",
+      "published_at": "2026-11-03T02:00:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 2,
-        "report_count": 4,
-        "span_hours": 10.7,
-        "first_report_at": "2026-11-03T05:55:00Z",
-        "last_report_at": "2026-11-03T16:36:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE14eGE0UnkwdFFlUHhsSkpmcFZKUk5xeHRoWm9XVy05TzY3Q1UxY1BldzdjQWJsRWNiYWxId0hGdmVPNEdqNXhqUlpsUHRTTlgzLW1NNkdaeWo2X295Q3hLTUtoUkxHVFFmUDlrTlVXNNIBb0FVX3lxTE14eGE0UnkwdFFlUHhsSkpmcFZKUk5xeHRoWm9XVy05TzY3Q1UxY1BldzdjQWJsRWNiYWxId0hGdmVPNEdqNXhqUlpsUHRTTlgzLW1NNkdaeWo2X295Q3hLTUtoUkxHVFFmUDlrTlVXNA?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wQzIxYk5CWXEzUmdfd0VVQU93VnlMQmJuYXMxYUg3S01kREhIVzd6SmkwVWtNV1VRc2tjMGxoQ0N2STNkOUNQbl9rWkZocURfRW5hTXBvRVRiemhxM01sRUMwV1pGQkcxWDhfVUVSRmZ4dG1VbDcyU3kxT2F4QQ?oc=5",
+        "source_groups": 3,
+        "report_count": 3,
+        "span_hours": 10.2,
+        "first_report_at": "2026-11-03T02:00:00Z",
+        "last_report_at": "2026-11-03T12:09:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14aEl0ZW5vWkU4OVRvTkJXN3Z5MGhfTVdYSGtXS083blA4V0pFMjlyaHlDRk1qVVRSQnVZYnNoT2dYZXhqRXdQNXI1Y1ZpTE4xSExrN3JJY2VKZEc1cFA1QTBpQS1ydHhYem1rYU12V0RVV2RNUDRPRNIBeEFVX3lxTE14aEl0ZW5vWkU4OVRvTkJXN3Z5MGhfTVdYSGtXS083blA4V0pFMjlyaHlDRk1qVVRSQnVZYnNoT2dYZXhqRXdQNXI1Y1ZpTE4xSExrN3JJY2VKZEc1cFA1QTBpQS1ydHhYem1rYU12V0RVV2RNUDRPRA?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMT1FnRkhwUVlmQmZZTFY0a3Zwd0RORkdURE5JbGJKUFpSLTdlcmMyTlZhZUFvTFBJcUJOSTllbDNZajNFckVnNUpnNV83azJFaXM0azlfX1ZXLTJFemc?oc=5",
         "sources": [
           {
-            "name": "스포츠조선",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wQzIxYk5CWXEzUmdfd0VVQU93VnlMQmJuYXMxYUg3S01kREhIVzd6SmkwVWtNV1VRc2tjMGxoQ0N2STNkOUNQbl9rWkZocURfRW5hTXBvRVRiemhxM01sRUMwV1pGQkcxWDhfVUVSRmZ4dG1VbDcyU3kxT2F4QQ?oc=5",
-            "published_at": "2026-11-03T16:36:00Z",
-            "headline": "'국대 불화설' 이후 첫 맞대결! '이강인 vs 김민재' 스페인도 관심 집중…모레노 감독도 현장 직관"
+            "name": "YTN",
+            "group": "ytn.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMT1FnRkhwUVlmQmZZTFY0a3Zwd0RORkdURE5JbGJKUFpSLTdlcmMyTlZhZUFvTFBJcUJOSTllbDNZajNFckVnNUpnNV83azJFaXM0azlfX1ZXLTJFemc?oc=5",
+            "published_at": "2026-11-03T12:09:00Z",
+            "headline": "[경기] 로봇과 AI가 바꿀 미래는?...화성 'MARS 2026' 개막"
           },
           {
-            "name": "머니투데이",
-            "group": "mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxVkw0My02Qnp1TXZrZTlZODhtbHFtVEJKY3JxVmZ6MHlRakZqVmphTzJaaFhMTzlpUDZDakVPYnNweWRyY3Y4TWNoUkh0b0p0RDYySGdJNUg2SDZReVFvQTh3bXVCTDRfRkRBSFRha9IBb0FVX3lxTFAxVkw0My02Qnp1TXZrZTlZODhtbHFtVEJKY3JxVmZ6MHlRakZqVmphTzJaaFhMTzlpUDZDakVPYnNweWRyY3Y4TWNoUkh0b0p0RDYySGdJNUg2SDZReVFvQTh3bXVCTDRfRkRBSFRhaw?oc=5",
-            "published_at": "2026-11-03T13:29:00Z",
-            "headline": "‘한국축구에 이런 날이 오다니!’ 김민재 대 이강인, 챔피언스리그서 코리안 더비 성사!…‘철벽 수비’와 ‘특급 왼발’ 정면충돌 - 머니투데이"
+            "name": "서울Pn",
+            "group": "seoul.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EcjhWbTFlMXZ6dHhlZC1xLW82ajBVSXByMTIwc2V1cWEyRmlnRjB1RU01NndTTDhpeDI5VDljUTU1VlJsdW9UU1ltRmQxZ1pMMXJ6VTY3a0FFRUVOSndyeWpB?oc=5",
+            "published_at": "2026-11-03T02:12:59Z",
+            "headline": "인공지능(AI)과 공간정보가 바꿀 미래 11월 4일 킨텍스에서 만나세요"
+          },
+          {
+            "name": "뉴시스",
+            "group": "wire:뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE14aEl0ZW5vWkU4OVRvTkJXN3Z5MGhfTVdYSGtXS083blA4V0pFMjlyaHlDRk1qVVRSQnVZYnNoT2dYZXhqRXdQNXI1Y1ZpTE4xSExrN3JJY2VKZEc1cFA1QTBpQS1ydHhYem1rYU12V0RVV2RNUDRPRNIBeEFVX3lxTE14aEl0ZW5vWkU4OVRvTkJXN3Z5MGhfTVdYSGtXS083blA4V0pFMjlyaHlDRk1qVVRSQnVZYnNoT2dYZXhqRXdQNXI1Y1ZpTE4xSExrN3JJY2VKZEc1cFA1QTBpQS1ydHhYem1rYU12V0RVV2RNUDRPRA?oc=5",
+            "published_at": "2026-11-03T02:00:00Z",
+            "headline": "'AI와 공간정보가 바꿀 미래'…내일 박람회 개막"
           }
         ]
       },
-      "selection_rank": 2
+      "selection_rank": 1
     },
     {
       "id": "55c18845411f2893a097",
@@ -301,46 +246,6 @@
           }
         ]
       },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-02T15:44:53.704488Z"
-    },
-    {
-      "id": "aa32ab82b2cb77384ff2",
-      "category": "기술·과학",
-      "title": "크래프톤, 사회적 지능 갖춘 로봇 AI '루디 0.2' 공개",
-      "summary": "크래프톤, 사회적 지능 갖춘 로봇 AI '루디 0.2' 공개",
-      "why_now": "이전 수집(11.03 00:44 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘크래프톤, 사회적 지능 갖춘 로봇 AI '루디 0.2' 공개’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
-      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-      "source": "아시아경제",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lazYxNlJYZlVIOEJ4UEFiOWlUUHpfWW1meWJ6amtPejZhSHlnTllhS25zSkFGMHdJcGFuX2pTTllLZldudjRzcllRRkJzay1jOHd3YWc4UUgyWGdadjJsRA?oc=5",
-      "published_at": "2026-11-02T09:11:22Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 0.2,
-        "first_report_at": "2026-11-02T09:00:03Z",
-        "last_report_at": "2026-11-02T09:11:22Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45LU0xam1oemdybW9Eb1YtSFJtUWJ1aDRMb0tiY3c1R0tVQU9EdG9XMm5kX0xjeW5zdzVtMC1sZWIxMHRPak5zTmh5cUtMVzBRTG9zSDBn?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lazYxNlJYZlVIOEJ4UEFiOWlUUHpfWW1meWJ6amtPejZhSHlnTllhS25zSkFGMHdJcGFuX2pTTllLZldudjRzcllRRkJzay1jOHd3YWc4UUgyWGdadjJsRA?oc=5",
-        "sources": [
-          {
-            "name": "아시아경제",
-            "group": "asiae.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lazYxNlJYZlVIOEJ4UEFiOWlUUHpfWW1meWJ6amtPejZhSHlnTllhS25zSkFGMHdJcGFuX2pTTllLZldudjRzcllRRkJzay1jOHd3YWc4UUgyWGdadjJsRA?oc=5",
-            "published_at": "2026-11-02T09:11:22Z",
-            "headline": "크래프톤, 사회적 지능 갖춘 로봇 AI '루디 0.2' 공개"
-          },
-          {
-            "name": "지디넷코리아",
-            "group": "zdnet.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45LU0xam1oemdybW9Eb1YtSFJtUWJ1aDRMb0tiY3c1R0tVQU9EdG9XMm5kX0xjeW5zdzVtMC1sZWIxMHRPak5zTmh5cUtMVzBRTG9zSDBn?oc=5",
-            "published_at": "2026-11-02T09:00:03Z",
-            "headline": "크래프톤 산하 루도 로보틱스, 로봇용 AI 시스템 '루디 0.2' 공개"
-          }
-        ]
-      },
       "selection_rank": 2,
       "last_collected_at": "2026-11-02T15:44:53.704488Z"
     },
@@ -349,7 +254,7 @@
       "category": "사회",
       "title": "학교서 배운 심폐소생술로 아빠 살린 중학생",
       "summary": "학교서 배운 심폐소생술로 아빠 살린 중학생",
-      "why_now": "수집 범위에서 관련 보도 8개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 8시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.04 08:19 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘학교서 배운 심폐소생술로 아빠 살린 중학생’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
       "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
       "source": "서울Pn",
@@ -409,7 +314,8 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-03T23:19:48.620765Z"
     },
     {
       "id": "9aad586804d3d493f85d",
