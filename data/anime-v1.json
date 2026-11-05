@@ -4,10 +4,37 @@
   "source_url": "https://anilist.co",
   "api_url": "https://graphql.anilist.co",
   "rank_basis": "trending",
-  "fetched_at": "2026-11-04T23:39:16.310908+00:00",
+  "fetched_at": "2026-11-05T06:41:21.216334+00:00",
   "season_year": 2026,
   "season": "fall",
   "trending": [
+    {
+      "id": 21,
+      "title": "ONE PIECE",
+      "original_title": "ONE PIECE",
+      "japanese_title": "ONE PIECE",
+      "url": "https://anilist.co/anime/21",
+      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
+      "score": 87,
+      "scored_by": null,
+      "members": 766300,
+      "activity": 176,
+      "position": 1,
+      "synopsis": "Gold Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece (which promises an unlimited amount of riches and fame), and quite possibly the most coveted of titles for the person who found it, the title of the Pirate King.\nEnter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate who ransacks villages for fun, Luffy’s reason for being a pirate is one of pure wonder; the thought of an exciting adventure and meeting new and intriguing people, along with finding One Piece, are his reasons of becoming a pirate. Following in the footsteps of ",
+      "format": "TV",
+      "episodes": null,
+      "status": "RELEASING",
+      "season": "fall",
+      "year": 1999,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "airing": true
+    },
     {
       "id": 159042,
       "title": "Reincarnated as a Sword Season 2",
@@ -18,8 +45,8 @@
       "score": 75,
       "scored_by": null,
       "members": 54426,
-      "activity": 333,
-      "position": 1,
+      "activity": 148,
+      "position": 2,
       "synopsis": "The second season of Tensei Shitara Ken Deshita.\nNote: Each episode was streamed one week in advance of the TV broadcast starting on October 1, 2026 on Abema. Regular broadcasting began on October 8, 2026.",
       "format": "ONA",
       "episodes": 12,
@@ -43,8 +70,8 @@
       "score": 70,
       "scored_by": null,
       "members": 19502,
-      "activity": 250,
-      "position": 2,
+      "activity": 143,
+      "position": 3,
       "synopsis": "After using her SSS-Rank skill, Internet, to crush her former family’s ambitions, Lorna is free to travel the world. Her next stop is the port town of Aquas, where she hopes to see the sights and chow down on some fresh seafood. But when she arrives, the place is on the brink of destruction thanks to a certain Weekly Quest… Good thing Lorna has the gods on her side!\n\n(Source: Crunchyroll)",
       "format": "TV",
       "episodes": null,
@@ -59,58 +86,6 @@
       "airing": true
     },
     {
-      "id": 21,
-      "title": "ONE PIECE",
-      "original_title": "ONE PIECE",
-      "japanese_title": "ONE PIECE",
-      "url": "https://anilist.co/anime/21",
-      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx21-ELSYx3yMPcKM.jpg",
-      "score": 87,
-      "scored_by": null,
-      "members": 766300,
-      "activity": 222,
-      "position": 3,
-      "synopsis": "Gold Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece (which promises an unlimited amount of riches and fame), and quite possibly the most coveted of titles for the person who found it, the title of the Pirate King.\nEnter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate who ransacks villages for fun, Luffy’s reason for being a pirate is one of pure wonder; the thought of an exciting adventure and meeting new and intriguing people, along with finding One Piece, are his reasons of becoming a pirate. Following in the footsteps of ",
-      "format": "TV",
-      "episodes": null,
-      "status": "RELEASING",
-      "season": "fall",
-      "year": 1999,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Drama",
-        "Fantasy"
-      ],
-      "airing": true
-    },
-    {
-      "id": 172192,
-      "title": "A Returner's Magic Should be Special Season 2",
-      "original_title": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
-      "japanese_title": "帰還者の魔法は特別です 第2期",
-      "url": "https://anilist.co/anime/172192",
-      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg",
-      "score": 69,
-      "scored_by": null,
-      "members": 33888,
-      "activity": 191,
-      "position": 4,
-      "synopsis": "In a land dominated by the formidable Shadow Worlds, most of humanity has been destroyed. To rescue their planet from impending doom, six brave heroes fight a perilous battle…and fail. But there’s a glimpse of hope when Desir, one of the last mages, is suddenly sent back in time 13 years! Now armed with knowledge of the grim future, can he alter the course of history and save the world?\n\n(Source: Crunchyroll)",
-      "format": "TV",
-      "episodes": null,
-      "status": "RELEASING",
-      "season": "fall",
-      "year": 2026,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ],
-      "airing": true
-    },
-    {
       "id": 207329,
       "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "original_title": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
@@ -120,8 +95,8 @@
       "score": 73,
       "scored_by": null,
       "members": 43465,
-      "activity": 189,
-      "position": 5,
+      "activity": 117,
+      "position": 4,
       "synopsis": "Rein, an enchanter, is suddenly expelled from his guild one day. But instead of despairing, he declares, “Now I can do anything!” and begins reclaiming the massive number of enhancement points he once poured into his guildmates’ gear, setting off on a brand-new path as an adventurer.\nGathering around him are people carrying wounds that don’t fade easily: a genius adventurer who shut her heart after her party was slaughtered, a warrior who lost her family, and an assassin raised from childhood to kill. Yet Rein never rejects their pasts or their scars—he accepts them all with bright, straightforward warmth.\nThe stage is a unique fantasy world where Uzis, slingshots, and even yakuza exist side by side. But in this world, the more people rely on convenient technology, the more their magic weakens, and adventurers grow fragile.\nIntelligent, vicious monsters roam freely, while in the underworld, outlaws bare their greed and ambition as schemes and betrayals intertwine. In a world where idea",
       "format": "TV",
       "episodes": null,
@@ -137,18 +112,18 @@
       "airing": true
     },
     {
-      "id": 195604,
-      "title": "Black Clover Season 2",
-      "original_title": "Black Clover 2nd Season",
-      "japanese_title": "ブラッククローバー 第2期",
-      "url": "https://anilist.co/anime/195604",
-      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-tSZcfKbVqSEG.jpg",
-      "score": 87,
+      "id": 172192,
+      "title": "A Returner's Magic Should be Special Season 2",
+      "original_title": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+      "japanese_title": "帰還者の魔法は特別です 第2期",
+      "url": "https://anilist.co/anime/172192",
+      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx172192-W7P5xEUaxF3y.jpg",
+      "score": 69,
       "scored_by": null,
-      "members": 104700,
-      "activity": 121,
-      "position": 6,
-      "synopsis": "As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. But their mission leads them into a brutal battle against forces beyond anything they’ve ever faced. Now, Asta must rise above impossible odds to protect his friends and honor the promise he made to Yuno.\n\n(Source: Crunchyroll)",
+      "members": 33888,
+      "activity": 116,
+      "position": 5,
+      "synopsis": "In a land dominated by the formidable Shadow Worlds, most of humanity has been destroyed. To rescue their planet from impending doom, six brave heroes fight a perilous battle…and fail. But there’s a glimpse of hope when Desir, one of the last mages, is suddenly sent back in time 13 years! Now armed with knowledge of the grim future, can he alter the course of history and save the world?\n\n(Source: Crunchyroll)",
       "format": "TV",
       "episodes": null,
       "status": "RELEASING",
@@ -157,57 +132,7 @@
       "genres": [
         "Action",
         "Adventure",
-        "Comedy",
         "Fantasy"
-      ],
-      "airing": true
-    },
-    {
-      "id": 206949,
-      "title": "Nia Liston: The Merciless Maiden",
-      "original_title": "Kyouran Reijou Nia Liston",
-      "japanese_title": "凶乱令嬢ニア・リストン",
-      "url": "https://anilist.co/anime/206949",
-      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206949-4HYI3YuP0eLI.png",
-      "score": 75,
-      "scored_by": null,
-      "members": 28748,
-      "activity": 114,
-      "position": 7,
-      "synopsis": "A great hero lies undefeated on her deathbed, regretting that she never found a foe who could take her down. She never intended to meet her fate anywhere other than on the battlefield, and her peaceful demise has her wishing desperately that things could have been different... But when she suddenly comes to in the body of the young, frail Nia Liston, she’s got an all-new fight ahead of her. Nia is a sickly child, meaning she has a long way to go before she’s in fighting form. Now that she’s been given a second shot at life, however, she’s determined to get what she wants. She’s going to live—and die—for battle this time! Make way for the Merciless Maiden!\n\n(Source: J-Novel Club)",
-      "format": "TV",
-      "episodes": 25,
-      "status": "RELEASING",
-      "season": "fall",
-      "year": 2026,
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "airing": true
-    },
-    {
-      "id": 176314,
-      "title": "Sasaki and Peeps Season 2",
-      "original_title": "Sasaki to Pii-chan Season 2",
-      "japanese_title": "佐々木とピーちゃん シーズン２",
-      "url": "https://anilist.co/anime/176314",
-      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg",
-      "score": 70,
-      "scored_by": null,
-      "members": 15617,
-      "activity": 108,
-      "position": 8,
-      "synopsis": "The second season of Sasaki to Pii-chan.",
-      "format": "TV",
-      "episodes": 12,
-      "status": "RELEASING",
-      "season": "fall",
-      "year": 2026,
-      "genres": [
-        "Comedy",
-        "Fantasy",
-        "Mahou Shoujo"
       ],
       "airing": true
     },
@@ -221,8 +146,8 @@
       "score": 76,
       "scored_by": null,
       "members": 57076,
-      "activity": 107,
-      "position": 9,
+      "activity": 85,
+      "position": 6,
       "synopsis": "Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….\n\n(Source: Tapas, edited)\n\nNote: Tempal: Item no Chikara is streaming a week in advance of the TV broadcast on Prime Video and Crunchyroll beginning September 27th, 2026. Regular broadcasting began on October 2nd, 2026.",
       "format": "ONA",
       "episodes": 12,
@@ -238,28 +163,101 @@
       "airing": true
     },
     {
-      "id": 178868,
-      "title": "Magic Knight Rayearth (2026)",
-      "original_title": "Magic Knight Rayearth (2026)",
-      "japanese_title": "魔法騎士レイアース (2026)",
-      "url": "https://anilist.co/anime/178868",
-      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178868-mfp0HIHNJNAm.jpg",
-      "score": 69,
+      "id": 176314,
+      "title": "Sasaki and Peeps Season 2",
+      "original_title": "Sasaki to Pii-chan Season 2",
+      "japanese_title": "佐々木とピーちゃん シーズン２",
+      "url": "https://anilist.co/anime/176314",
+      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx176314-lpvca6vjmkeO.jpg",
+      "score": 70,
       "scored_by": null,
-      "members": 12014,
-      "activity": 92,
-      "position": 10,
-      "synopsis": "Hikaru Shidou, Umi Ryuuzaki, and Fuu Hououji aren't from Cephiro. While on a school field trip to the Tokyo Tower, the three girls' minds are on anything but different worlds filled with magic and wonder. That is, until Princess Emeraude, the Pillar of Cephiro, cries out for the Magic Knights to save her world--and that just happens to be those three!\n\n\n(Source: Crunchyroll)",
+      "members": 15617,
+      "activity": 66,
+      "position": 7,
+      "synopsis": "The second season of Sasaki to Pii-chan.",
+      "format": "TV",
+      "episodes": 12,
+      "status": "RELEASING",
+      "season": "fall",
+      "year": 2026,
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Mahou Shoujo"
+      ],
+      "airing": true
+    },
+    {
+      "id": 195604,
+      "title": "Black Clover Season 2",
+      "original_title": "Black Clover 2nd Season",
+      "japanese_title": "ブラッククローバー 第2期",
+      "url": "https://anilist.co/anime/195604",
+      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-tSZcfKbVqSEG.jpg",
+      "score": 87,
+      "scored_by": null,
+      "members": 104700,
+      "activity": 62,
+      "position": 8,
+      "synopsis": "As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. But their mission leads them into a brutal battle against forces beyond anything they’ve ever faced. Now, Asta must rise above impossible odds to protect his friends and honor the promise he made to Yuno.\n\n(Source: Crunchyroll)",
       "format": "TV",
       "episodes": null,
       "status": "RELEASING",
       "season": "fall",
       "year": 2026,
       "genres": [
+        "Action",
         "Adventure",
-        "Fantasy",
-        "Mahou Shoujo",
-        "Mecha"
+        "Comedy",
+        "Fantasy"
+      ],
+      "airing": true
+    },
+    {
+      "id": 195516,
+      "title": "The Apothecary Diaries Season 3",
+      "original_title": "Kusuriya no Hitorigoto 3rd Season",
+      "japanese_title": "薬屋のひとりごと 第3期",
+      "url": "https://anilist.co/anime/195516",
+      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg",
+      "score": 85,
+      "scored_by": null,
+      "members": 109491,
+      "activity": 51,
+      "position": 9,
+      "synopsis": "In the aftermath of the Shi Clan’s rebellion, things have finally settled down, and Maomao has returned to her old life as a pharmacist in the pleasure district.\n\nOne day, triggered by a breakfast served at the Verdigris House, Maomao senses an anomaly and begins investigating its true nature.\n\nMeanwhile, Jinshi, who has revealed his true identity as the Imperial brother and begun to face his heavy responsibilities, is deeply troubled by the final message left by Loulan: a warning of an impending \"disaster that will strike the nation.\"\n\nTo make matters worse, rumors of a mysterious shrine maiden who deceives the people begin to spread, casting a dark shadow over the country of Li once again.\n\nFrom the depths of the inner court to the city streets, and across foreign borders—the world grows wider, and the stakes even higher for Maomao and Jinshi.\n\n(Source: Crunchyroll)",
+      "format": "TV",
+      "episodes": 12,
+      "status": "RELEASING",
+      "season": "fall",
+      "year": 2026,
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "airing": true
+    },
+    {
+      "id": 206949,
+      "title": "Nia Liston: The Merciless Maiden",
+      "original_title": "Kyouran Reijou Nia Liston",
+      "japanese_title": "凶乱令嬢ニア・リストン",
+      "url": "https://anilist.co/anime/206949",
+      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206949-4HYI3YuP0eLI.png",
+      "score": 75,
+      "scored_by": null,
+      "members": 28748,
+      "activity": 50,
+      "position": 10,
+      "synopsis": "A great hero lies undefeated on her deathbed, regretting that she never found a foe who could take her down. She never intended to meet her fate anywhere other than on the battlefield, and her peaceful demise has her wishing desperately that things could have been different... But when she suddenly comes to in the body of the young, frail Nia Liston, she’s got an all-new fight ahead of her. Nia is a sickly child, meaning she has a long way to go before she’s in fighting form. Now that she’s been given a second shot at life, however, she’s determined to get what she wants. She’s going to live—and die—for battle this time! Make way for the Merciless Maiden!\n\n(Source: J-Novel Club)",
+      "format": "TV",
+      "episodes": 25,
+      "status": "RELEASING",
+      "season": "fall",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Fantasy"
       ],
       "airing": true
     }
@@ -275,7 +273,7 @@
       "score": 83,
       "scored_by": null,
       "members": 117269,
-      "activity": 178,
+      "activity": 98,
       "position": null,
       "synopsis": "Cyberpunk: Edgerunners 2 pulls you back into Night City, where lives become entangled to the extreme. Weak, a washed-up cyberpunk legend, is now forced to live without chrome as he searches for a sense of purpose in a world that’s passed him by. Meanwhile, the deadly nomad D sets out on a path to revenge that brings him close to corpo secrets never meant to be found. Across this ten-episode standalone series, uncover a story of family, obsession, legacy — and how your lens reflects the stories of the people around you..\n\nWhen the world is blinded by spectacle, what extremes do you have to go to make your story matter?\n(Source: Cyberpunk: Edgerunners 2 Official Site, Official Twitter)",
       "format": "ONA",
@@ -300,7 +298,7 @@
       "score": 85,
       "scored_by": null,
       "members": 109491,
-      "activity": 88,
+      "activity": 51,
       "position": null,
       "synopsis": "In the aftermath of the Shi Clan’s rebellion, things have finally settled down, and Maomao has returned to her old life as a pharmacist in the pleasure district.\n\nOne day, triggered by a breakfast served at the Verdigris House, Maomao senses an anomaly and begins investigating its true nature.\n\nMeanwhile, Jinshi, who has revealed his true identity as the Imperial brother and begun to face his heavy responsibilities, is deeply troubled by the final message left by Loulan: a warning of an impending \"disaster that will strike the nation.\"\n\nTo make matters worse, rumors of a mysterious shrine maiden who deceives the people begin to spread, casting a dark shadow over the country of Li once again.\n\nFrom the depths of the inner court to the city streets, and across foreign borders—the world grows wider, and the stakes even higher for Maomao and Jinshi.\n\n(Source: Crunchyroll)",
       "format": "TV",
@@ -324,7 +322,7 @@
       "score": 87,
       "scored_by": null,
       "members": 104700,
-      "activity": 121,
+      "activity": 62,
       "position": null,
       "synopsis": "As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. But their mission leads them into a brutal battle against forces beyond anything they’ve ever faced. Now, Asta must rise above impossible odds to protect his friends and honor the promise he made to Yuno.\n\n(Source: Crunchyroll)",
       "format": "TV",
@@ -350,7 +348,7 @@
       "score": 76,
       "scored_by": null,
       "members": 57076,
-      "activity": 107,
+      "activity": 85,
       "position": null,
       "synopsis": "Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….\n\n(Source: Tapas, edited)\n\nNote: Tempal: Item no Chikara is streaming a week in advance of the TV broadcast on Prime Video and Crunchyroll beginning September 27th, 2026. Regular broadcasting began on October 2nd, 2026.",
       "format": "ONA",
@@ -376,7 +374,7 @@
       "score": 75,
       "scored_by": null,
       "members": 54426,
-      "activity": 333,
+      "activity": 148,
       "position": null,
       "synopsis": "The second season of Tensei Shitara Ken Deshita.\nNote: Each episode was streamed one week in advance of the TV broadcast starting on October 1, 2026 on Abema. Regular broadcasting began on October 8, 2026.",
       "format": "ONA",
@@ -401,7 +399,7 @@
       "score": 81,
       "scored_by": null,
       "members": 51823,
-      "activity": 14,
+      "activity": 17,
       "position": null,
       "synopsis": "The second season of Ao no Hako.\n\nAs Taiki and Chinatsu navigate their evolving feelings, a fractured friendship from the past and fierce competition cloud the road to nationals.\n\n(Source: Netflix, edited)",
       "format": "TV",
@@ -426,7 +424,7 @@
       "score": 75,
       "scored_by": null,
       "members": 50296,
-      "activity": 57,
+      "activity": 35,
       "position": null,
       "synopsis": "On the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.\n\n(Source: VIZ Media)",
       "format": "TV",
@@ -450,7 +448,7 @@
       "score": 86,
       "scored_by": null,
       "members": 49076,
-      "activity": 64,
+      "activity": 35,
       "position": null,
       "synopsis": "In the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the \"Devil's Palm.\" In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide..\n\n(Source: Warner Bros. Japan Anime, Netflix Anime, edited)",
       "format": "ONA",
@@ -477,7 +475,7 @@
       "score": 73,
       "scored_by": null,
       "members": 48255,
-      "activity": 50,
+      "activity": 42,
       "position": null,
       "synopsis": "This is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.\n\nHigh School 1st-Year Ume Mizunoe has excellent grades in Japanese language class and has received multiple literary awards.\nHowever, his terrible grades in the sciences are affecting his ability to move up a grade. To avoid repeating a year, he becomes a member of the student council to improve his academic standing.\n\nHowever, in the student council, he meets the charismatic yet sullen student council president Kotobuki Hisako, and the scary yet kind and refined treasurer, Arisu Terui. Other members include a cheeky and cute boy, Tan Otori, and Komaro Michinoku, the admin who's like a small abandoned cat. This is the start of a slapstick, heartful, rom-com about a busy student council full of cute, mismatched, and quirky students!\n\n(Source: Even the Student Council Has Its Holes! Official Site)",
       "format": "TV",
@@ -502,7 +500,7 @@
       "score": 80,
       "scored_by": null,
       "members": 45554,
-      "activity": 6,
+      "activity": 2,
       "position": null,
       "synopsis": "Sequel to Made in Abyss: Retsujitsu no Ougonkyou.",
       "format": "MOVIE",
@@ -555,22 +553,6 @@
       "url": "https://www.youtube.com/watch?v=snJZD9vxfHY"
     },
     {
-      "anime_id": 172192,
-      "anime_title": "A Returner's Magic Should be Special Season 2",
-      "kind": "airing",
-      "title": "6화 방영 예정",
-      "airing_at": "2026-11-11T15:45:00+00:00",
-      "url": "https://anilist.co/anime/172192"
-    },
-    {
-      "anime_id": 172192,
-      "anime_title": "A Returner's Magic Should be Special Season 2",
-      "kind": "trailer",
-      "title": "작품 예고편",
-      "airing_at": null,
-      "url": "https://www.youtube.com/watch?v=YBWOrQCB9r0"
-    },
-    {
       "anime_id": 207329,
       "anime_title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "kind": "airing",
@@ -587,52 +569,20 @@
       "url": "https://www.youtube.com/watch?v=BJXBr_aFF8s"
     },
     {
-      "anime_id": 195604,
-      "anime_title": "Black Clover Season 2",
+      "anime_id": 172192,
+      "anime_title": "A Returner's Magic Should be Special Season 2",
       "kind": "airing",
       "title": "6화 방영 예정",
-      "airing_at": "2026-11-07T14:00:00+00:00",
-      "url": "https://anilist.co/anime/195604"
+      "airing_at": "2026-11-11T15:45:00+00:00",
+      "url": "https://anilist.co/anime/172192"
     },
     {
-      "anime_id": 195604,
-      "anime_title": "Black Clover Season 2",
+      "anime_id": 172192,
+      "anime_title": "A Returner's Magic Should be Special Season 2",
       "kind": "trailer",
       "title": "작품 예고편",
       "airing_at": null,
-      "url": "https://www.youtube.com/watch?v=4MYo8FfiXMA"
-    },
-    {
-      "anime_id": 206949,
-      "anime_title": "Nia Liston: The Merciless Maiden",
-      "kind": "airing",
-      "title": "6화 방영 예정",
-      "airing_at": "2026-11-10T12:26:00+00:00",
-      "url": "https://anilist.co/anime/206949"
-    },
-    {
-      "anime_id": 206949,
-      "anime_title": "Nia Liston: The Merciless Maiden",
-      "kind": "trailer",
-      "title": "작품 예고편",
-      "airing_at": null,
-      "url": "https://www.youtube.com/watch?v=gxG4vntLtbk"
-    },
-    {
-      "anime_id": 176314,
-      "anime_title": "Sasaki and Peeps Season 2",
-      "kind": "airing",
-      "title": "6화 방영 예정",
-      "airing_at": "2026-11-11T13:00:00+00:00",
-      "url": "https://anilist.co/anime/176314"
-    },
-    {
-      "anime_id": 176314,
-      "anime_title": "Sasaki and Peeps Season 2",
-      "kind": "trailer",
-      "title": "작품 예고편",
-      "airing_at": null,
-      "url": "https://www.youtube.com/watch?v=gY0hpk9E7p8"
+      "url": "https://www.youtube.com/watch?v=YBWOrQCB9r0"
     },
     {
       "anime_id": 212888,
@@ -651,28 +601,36 @@
       "url": "https://www.youtube.com/watch?v=e1Km0FqUZl0"
     },
     {
-      "anime_id": 178868,
-      "anime_title": "Magic Knight Rayearth (2026)",
+      "anime_id": 176314,
+      "anime_title": "Sasaki and Peeps Season 2",
       "kind": "airing",
       "title": "6화 방영 예정",
-      "airing_at": "2026-11-11T14:46:00+00:00",
-      "url": "https://anilist.co/anime/178868"
+      "airing_at": "2026-11-11T13:00:00+00:00",
+      "url": "https://anilist.co/anime/176314"
     },
     {
-      "anime_id": 178868,
-      "anime_title": "Magic Knight Rayearth (2026)",
+      "anime_id": 176314,
+      "anime_title": "Sasaki and Peeps Season 2",
       "kind": "trailer",
       "title": "작품 예고편",
       "airing_at": null,
-      "url": "https://www.youtube.com/watch?v=67GqhfLw3ys"
+      "url": "https://www.youtube.com/watch?v=gY0hpk9E7p8"
     },
     {
-      "anime_id": 195539,
-      "anime_title": "Cyberpunk: Edgerunners 2",
+      "anime_id": 195604,
+      "anime_title": "Black Clover Season 2",
+      "kind": "airing",
+      "title": "6화 방영 예정",
+      "airing_at": "2026-11-07T14:00:00+00:00",
+      "url": "https://anilist.co/anime/195604"
+    },
+    {
+      "anime_id": 195604,
+      "anime_title": "Black Clover Season 2",
       "kind": "trailer",
       "title": "작품 예고편",
       "airing_at": null,
-      "url": "https://www.youtube.com/watch?v=AtJMSUpG9GQ"
+      "url": "https://www.youtube.com/watch?v=4MYo8FfiXMA"
     },
     {
       "anime_id": 195516,
@@ -689,6 +647,30 @@
       "title": "작품 예고편",
       "airing_at": null,
       "url": "https://www.youtube.com/watch?v=YvNvvUeCztE"
+    },
+    {
+      "anime_id": 206949,
+      "anime_title": "Nia Liston: The Merciless Maiden",
+      "kind": "airing",
+      "title": "6화 방영 예정",
+      "airing_at": "2026-11-10T12:26:00+00:00",
+      "url": "https://anilist.co/anime/206949"
+    },
+    {
+      "anime_id": 206949,
+      "anime_title": "Nia Liston: The Merciless Maiden",
+      "kind": "trailer",
+      "title": "작품 예고편",
+      "airing_at": null,
+      "url": "https://www.youtube.com/watch?v=gxG4vntLtbk"
+    },
+    {
+      "anime_id": 195539,
+      "anime_title": "Cyberpunk: Edgerunners 2",
+      "kind": "trailer",
+      "title": "작품 예고편",
+      "airing_at": null,
+      "url": "https://www.youtube.com/watch?v=AtJMSUpG9GQ"
     },
     {
       "anime_id": 189123,
@@ -765,6 +747,48 @@
   ],
   "news": [
     {
+      "title": "The Seven Knights of the Marronnier Kingdom Anime Casts Ryōta Takeuchi",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/the-seven-knights-of-the-marronnier-kingdom-anime-casts-ryota-takeuchi/.243538",
+      "published_at": "2026-11-05T04:25:45+00:00",
+      "excerpt": "Takeuchi plays character Saturno in episode 6 on Saturday",
+      "source": "Anime News Network"
+    },
+    {
+      "title": "Live-Action Wandance Film's Trailer Previews Theme Song, Dance Scenes",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/live-action-wandance-film-trailer-previews-theme-song-dance-scenes/.243536",
+      "published_at": "2026-11-05T04:21:18+00:00",
+      "excerpt": "Film opens in Japan on November 27",
+      "source": "Anime News Network"
+    },
+    {
+      "title": "Look Back Anime Film Wins Kineko Int'l Film Fest's Teens Feature Award",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/look-back-anime-film-wins-kineko-intl-film-fest-teens-feature-award/.243503",
+      "published_at": "2026-11-05T01:30:45+00:00",
+      "excerpt": "Film opened in Japan in June 2024",
+      "source": "Anime News Network"
+    },
+    {
+      "title": "Godzilla Minus Zero Earns Highest-Ever Opening Day for Live-Action Film in Japan",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/godzilla-minus-zero-earns-highest-ever-opening-day-for-live-action-film-in-japan/.243535",
+      "published_at": "2026-11-05T01:28:12+00:00",
+      "excerpt": "Film sold 590,000 tickets for 910 million yen on Tuesday opening",
+      "source": "Anime News Network"
+    },
+    {
+      "title": "Seven Seas Licenses Led by Stars Manga, Melting Point Manhwa, 3 Audiobooks",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/seven-seas-licenses-led-by-stars-manga-melting-point-manhwa-3-audiobooks/.243530",
+      "published_at": "2026-11-05T00:26:43+00:00",
+      "excerpt": "Beacon of Light in the Dark Sea, Dangers in My Heart, 7th Time Loop audiobooks",
+      "source": "Anime News Network"
+    },
+    {
+      "title": "Live-Action Mashle: Magic and Muscles Film Reveals Cast, Director",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-04/live-action-mashle-magic-and-muscles-film-reveals-cast-director/.243531",
+      "published_at": "2026-11-04T23:26:04+00:00",
+      "excerpt": "Mackenyu Maeda stars as Mash Burnedead with Gintama's Yūichi Fukuda directing",
+      "source": "Anime News Network"
+    },
+    {
       "title": "Make the Exorcist Fall in Love Manga Starts Final Arc",
       "url": "https://www.animenewsnetwork.com/news/2026-11-04/make-the-exorcist-fall-in-love-manga-starts-final-arc/.243514",
       "published_at": "2026-11-04T21:00:00+00:00",
@@ -825,48 +849,6 @@
       "url": "https://www.animenewsnetwork.com/news/2026-11-03/butt-detective-tv-anime-gets-new-episodes-starting-next-april/.243508",
       "published_at": "2026-11-04T03:57:16+00:00",
       "excerpt": "Previous batch of new episodes debuted on October 3",
-      "source": "Anime News Network"
-    },
-    {
-      "title": "Promise Me the Spotlight Anime Unveils Teaser, Main Cast, Staff",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-03/promise-me-the-spotlight-anime-unveils-teaser-main-cast-staff/.243469",
-      "published_at": "2026-11-04T03:00:00+00:00",
-      "excerpt": "Haruna Mikawa, Taihi Kimura, Mai Kanno, Yukari Anzai star in studio TEAM TillDawn's anime",
-      "source": "Anime News Network"
-    },
-    {
-      "title": "Pero Pero★Sparkles Anime Reveals Cast, Staff, January Debut",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-03/pero-pero-sparkles-anime-reveals-cast-staff-january-debut/.243506",
-      "published_at": "2026-11-04T02:54:42+00:00",
-      "excerpt": "Yuki Sakakihara, Mai Kanno, Ai Fairouz, Yōhei Azakami star",
-      "source": "Anime News Network"
-    },
-    {
-      "title": "Kemono Jihen Manga's Climax Is 'Imminent'",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-03/kemono-jihen-manga-climax-is-imminent/.243495",
-      "published_at": "2026-11-04T02:42:35+00:00",
-      "excerpt": "Series to end in 26th volume",
-      "source": "Anime News Network"
-    },
-    {
-      "title": "Witch on the Holy Night Film Gets Manga Adaptation",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-03/witch-on-the-holy-night-film-gets-manga-adaptation/.243494",
-      "published_at": "2026-11-04T00:56:45+00:00",
-      "excerpt": "Shikimori's Not Just a Cutie's Keigo Maki debuts manga on November 11",
-      "source": "Anime News Network"
-    },
-    {
-      "title": "Kaeruno Erefante Launches Manga Diary of a Male Porn Star Sequel",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-03/kaeruno-erefante-launches-manga-diary-of-a-male-porn-star-sequel/.243477",
-      "published_at": "2026-11-04T00:00:00+00:00",
-      "excerpt": "AV Danyū Hajimemashita Reiwa-hen sequel manga launched on October 30",
-      "source": "Anime News Network"
-    },
-    {
-      "title": "Otaku Vampire's Love Bite Manga Gets TV Anime",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-03/otaku-vampire-love-bite-manga-gets-tv-anime/.243498",
-      "published_at": "2026-11-03T23:41:39+00:00",
-      "excerpt": "\"Bloody romantic comedy\" from Kamisama Kiss creator Julietta Suzuki",
       "source": "Anime News Network"
     }
   ],
