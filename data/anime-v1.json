@@ -4,7 +4,7 @@
   "source_url": "https://anilist.co",
   "api_url": "https://graphql.anilist.co",
   "rank_basis": "trending",
-  "fetched_at": "2026-11-06T19:22:19.187728+00:00",
+  "fetched_at": "2026-11-07T05:55:00.973572+00:00",
   "season_year": 2026,
   "season": "fall",
   "trending": [
@@ -18,7 +18,7 @@
       "score": 85,
       "scored_by": null,
       "members": 110090,
-      "activity": 767,
+      "activity": 377,
       "position": 1,
       "synopsis": "In the aftermath of the Shi Clan’s rebellion, things have finally settled down, and Maomao has returned to her old life as a pharmacist in the pleasure district.\n\nOne day, triggered by a breakfast served at the Verdigris House, Maomao senses an anomaly and begins investigating its true nature.\n\nMeanwhile, Jinshi, who has revealed his true identity as the Imperial brother and begun to face his heavy responsibilities, is deeply troubled by the final message left by Loulan: a warning of an impending \"disaster that will strike the nation.\"\n\nTo make matters worse, rumors of a mysterious shrine maiden who deceives the people begin to spread, casting a dark shadow over the country of Li once again.\n\nFrom the depths of the inner court to the city streets, and across foreign borders—the world grows wider, and the stakes even higher for Maomao and Jinshi.\n\n(Source: Crunchyroll)",
       "format": "TV",
@@ -42,7 +42,7 @@
       "score": 86,
       "scored_by": null,
       "members": 49463,
-      "activity": 492,
+      "activity": 251,
       "position": 2,
       "synopsis": "In the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the \"Devil's Palm.\" In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide..\n\n(Source: Warner Bros. Japan Anime, Netflix Anime, edited)",
       "format": "ONA",
@@ -69,7 +69,7 @@
       "score": 75,
       "scored_by": null,
       "members": 50971,
-      "activity": 375,
+      "activity": 222,
       "position": 3,
       "synopsis": "On the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.\n\n(Source: VIZ Media)",
       "format": "TV",
@@ -84,32 +84,6 @@
       "airing": true
     },
     {
-      "id": 178083,
-      "title": "Tokyo Revengers: War of the Three Titans Arc",
-      "original_title": "Tokyo Revengers: Santen Sensou-hen",
-      "japanese_title": "東京リベンジャーズ 三天戦争編",
-      "url": "https://anilist.co/anime/178083",
-      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-bg7pg6TCHwtG.jpg",
-      "score": 77,
-      "scored_by": null,
-      "members": 38671,
-      "activity": 320,
-      "position": 4,
-      "synopsis": "Sequel to Tokyo Revengers: Tenjiku-hen.",
-      "format": "TV",
-      "episodes": 13,
-      "status": "RELEASING",
-      "season": "fall",
-      "year": 2026,
-      "genres": [
-        "Action",
-        "Drama",
-        "Romance",
-        "Supernatural"
-      ],
-      "airing": true
-    },
-    {
       "id": 21,
       "title": "ONE PIECE",
       "original_title": "ONE PIECE",
@@ -119,8 +93,8 @@
       "score": 87,
       "scored_by": null,
       "members": 766942,
-      "activity": 228,
-      "position": 5,
+      "activity": 164,
+      "position": 4,
       "synopsis": "Gold Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece (which promises an unlimited amount of riches and fame), and quite possibly the most coveted of titles for the person who found it, the title of the Pirate King.\nEnter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate who ransacks villages for fun, Luffy’s reason for being a pirate is one of pure wonder; the thought of an exciting adventure and meeting new and intriguing people, along with finding One Piece, are his reasons of becoming a pirate. Following in the footsteps of ",
       "format": "TV",
       "episodes": null,
@@ -137,6 +111,32 @@
       "airing": true
     },
     {
+      "id": 178083,
+      "title": "Tokyo Revengers: War of the Three Titans Arc",
+      "original_title": "Tokyo Revengers: Santen Sensou-hen",
+      "japanese_title": "東京リベンジャーズ 三天戦争編",
+      "url": "https://anilist.co/anime/178083",
+      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178083-bg7pg6TCHwtG.jpg",
+      "score": 77,
+      "scored_by": null,
+      "members": 38671,
+      "activity": 141,
+      "position": 5,
+      "synopsis": "Sequel to Tokyo Revengers: Tenjiku-hen.",
+      "format": "TV",
+      "episodes": 13,
+      "status": "RELEASING",
+      "season": "fall",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance",
+        "Supernatural"
+      ],
+      "airing": true
+    },
+    {
       "id": 180136,
       "title": "The Exiled Heavy Knight Knows How to Game the System",
       "original_title": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
@@ -146,7 +146,7 @@
       "score": 67,
       "scored_by": null,
       "members": 75247,
-      "activity": 206,
+      "activity": 127,
       "position": 6,
       "synopsis": "Born into a prestigious family of master swordsmen, Elymas Edvaughn’s future shatters when he awakens the so-called “defective” Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the “weakest” class.\n\n(Source: Crunchyroll)",
       "format": "TV",
@@ -161,28 +161,27 @@
       "airing": true
     },
     {
-      "id": 213805,
-      "title": "The Ramparts of Ice Season 2",
-      "original_title": "Koori no Jouheki 2nd Season",
-      "japanese_title": "氷の城壁 第2期",
-      "url": "https://anilist.co/anime/213805",
-      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213805-Nokui3uWlIlw.png",
-      "score": 81,
+      "id": 204650,
+      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+      "original_title": "Tougen Anki: Nikko・Kegon no Taki-hen",
+      "japanese_title": "桃源暗鬼 日光・華厳の滝編",
+      "url": "https://anilist.co/anime/204650",
+      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-cAQOzQ84Lwk8.png",
+      "score": 73,
       "scored_by": null,
-      "members": 39183,
-      "activity": 189,
+      "members": 21260,
+      "activity": 88,
       "position": 7,
-      "synopsis": "Koyuki, the isolated girl; Miki, the former school idol; Minato, the guy with no concept of personal space; and Youta, the gentle basketball player. Clumsy, frustrating, yet deeply endearing — this coming-of-age ensemble drama of crisscrossing hearts marches on.\n\nAs they grow closer, Koyuki and Minato begin to develop feelings for each other that go beyond mere friendship. Meanwhile, Youta finally confesses to Miki the feelings he's harbored for years. Some speak their hearts while others keep their emotions hidden, causing their paths — and their feelings for one another — to continuously cross and pass by… \n\n(Source: Netflix)",
+      "synopsis": "After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their \"the total eradication of the Momotaro.\"\n\nWhen Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…\n\n(Source: REMOW)",
       "format": "TV",
-      "episodes": null,
+      "episodes": 12,
       "status": "RELEASING",
       "season": "fall",
       "year": 2026,
       "genres": [
-        "Comedy",
-        "Drama",
-        "Romance",
-        "Slice of Life"
+        "Action",
+        "Mystery",
+        "Supernatural"
       ],
       "airing": true
     },
@@ -196,7 +195,7 @@
       "score": 34,
       "scored_by": null,
       "members": 6265,
-      "activity": 149,
+      "activity": 80,
       "position": 8,
       "synopsis": "Sixth-grader Yuuma Ashihara and his twin sister, Sawa, are playing Actual Magic, a brand-new virtual reality MMORPG, when it suddenly begins fusing with the real world. Amid all the chaos and confusion, it becomes clear that death is lurking around every corner, including when Yuuma runs into his classmate Sumika. Before, she was one of the cutest girls in his class, but she’s since undergone a terrible metamorphosis—into one of the game’s horrifying monsters! From the author of Sword Art Online and Accel World comes a story beyond VR and AR, where gaming and reality are one and the same…and staying alive is just the beginning!\n\n(Source: Yen Press)",
       "format": "TV",
@@ -212,51 +211,54 @@
       "airing": true
     },
     {
-      "id": 204650,
-      "title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
-      "original_title": "Tougen Anki: Nikko・Kegon no Taki-hen",
-      "japanese_title": "桃源暗鬼 日光・華厳の滝編",
-      "url": "https://anilist.co/anime/204650",
-      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx204650-cAQOzQ84Lwk8.png",
+      "id": 207329,
+      "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+      "original_title": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+      "japanese_title": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
+      "url": "https://anilist.co/anime/207329",
+      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
       "score": 73,
       "scored_by": null,
-      "members": 21260,
-      "activity": 132,
+      "members": 44732,
+      "activity": 80,
       "position": 9,
-      "synopsis": "After battling in Kyoto and Nerima, the Rasetsu Academy students have grown stronger. But Yaoroshi leaves the academy to join the Oni Brigade for their \"the total eradication of the Momotaro.\"\n\nWhen Shiki realizes that they also target noncombatants, he sets out after Yaoroshi to bring him back. Meanwhile in Nikko, there's a research facility for horrific experiments atop the old Kegon Falls…\n\n(Source: REMOW)",
-      "format": "TV",
-      "episodes": 12,
-      "status": "RELEASING",
-      "season": "fall",
-      "year": 2026,
-      "genres": [
-        "Action",
-        "Mystery",
-        "Supernatural"
-      ],
-      "airing": true
-    },
-    {
-      "id": 186742,
-      "title": "A Certain Dark Item",
-      "original_title": "Toaru Anbu no ITEM",
-      "japanese_title": "とある暗部の少女共棲",
-      "url": "https://anilist.co/anime/186742",
-      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186742-v7yfbefc8fuO.png",
-      "score": 67,
-      "scored_by": null,
-      "members": 16260,
-      "activity": 125,
-      "position": 10,
-      "synopsis": "This is a story of four girls living in the \"Dark Side\" of Academy City.\n\nIn Academy City where \"ESP\" has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.\n\n\"ITEM\" is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.\n\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!\n\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!\n\n(Source: Kadokawa, translated)",
+      "synopsis": "Rein, an enchanter, is suddenly expelled from his guild one day. But instead of despairing, he declares, “Now I can do anything!” and begins reclaiming the massive number of enhancement points he once poured into his guildmates’ gear, setting off on a brand-new path as an adventurer.\nGathering around him are people carrying wounds that don’t fade easily: a genius adventurer who shut her heart after her party was slaughtered, a warrior who lost her family, and an assassin raised from childhood to kill. Yet Rein never rejects their pasts or their scars—he accepts them all with bright, straightforward warmth.\nThe stage is a unique fantasy world where Uzis, slingshots, and even yakuza exist side by side. But in this world, the more people rely on convenient technology, the more their magic weakens, and adventurers grow fragile.\nIntelligent, vicious monsters roam freely, while in the underworld, outlaws bare their greed and ambition as schemes and betrayals intertwine. In a world where idea",
       "format": "TV",
       "episodes": null,
       "status": "RELEASING",
       "season": "fall",
       "year": 2026,
       "genres": [
-        "Action",
-        "Sci-Fi"
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Slice of Life"
+      ],
+      "airing": true
+    },
+    {
+      "id": 213805,
+      "title": "The Ramparts of Ice Season 2",
+      "original_title": "Koori no Jouheki 2nd Season",
+      "japanese_title": "氷の城壁 第2期",
+      "url": "https://anilist.co/anime/213805",
+      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx213805-Nokui3uWlIlw.png",
+      "score": 81,
+      "scored_by": null,
+      "members": 39183,
+      "activity": 80,
+      "position": 10,
+      "synopsis": "Koyuki, the isolated girl; Miki, the former school idol; Minato, the guy with no concept of personal space; and Youta, the gentle basketball player. Clumsy, frustrating, yet deeply endearing — this coming-of-age ensemble drama of crisscrossing hearts marches on.\n\nAs they grow closer, Koyuki and Minato begin to develop feelings for each other that go beyond mere friendship. Meanwhile, Youta finally confesses to Miki the feelings he's harbored for years. Some speak their hearts while others keep their emotions hidden, causing their paths — and their feelings for one another — to continuously cross and pass by… \n\n(Source: Netflix)",
+      "format": "TV",
+      "episodes": null,
+      "status": "RELEASING",
+      "season": "fall",
+      "year": 2026,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
       ],
       "airing": true
     }
@@ -272,7 +274,7 @@
       "score": 83,
       "scored_by": null,
       "members": 118786,
-      "activity": 128,
+      "activity": 89,
       "position": null,
       "synopsis": "Cyberpunk: Edgerunners 2 pulls you back into Night City, where lives become entangled to the extreme. Weak, a washed-up cyberpunk legend, is now forced to live without chrome as he searches for a sense of purpose in a world that’s passed him by. Meanwhile, the deadly nomad D sets out on a path to revenge that brings him close to corpo secrets never meant to be found. Across this ten-episode standalone series, uncover a story of family, obsession, legacy — and how your lens reflects the stories of the people around you..\n\nWhen the world is blinded by spectacle, what extremes do you have to go to make your story matter?\n(Source: Cyberpunk: Edgerunners 2 Official Site, Official Twitter)",
       "format": "ONA",
@@ -297,7 +299,7 @@
       "score": 85,
       "scored_by": null,
       "members": 110090,
-      "activity": 767,
+      "activity": 377,
       "position": null,
       "synopsis": "In the aftermath of the Shi Clan’s rebellion, things have finally settled down, and Maomao has returned to her old life as a pharmacist in the pleasure district.\n\nOne day, triggered by a breakfast served at the Verdigris House, Maomao senses an anomaly and begins investigating its true nature.\n\nMeanwhile, Jinshi, who has revealed his true identity as the Imperial brother and begun to face his heavy responsibilities, is deeply troubled by the final message left by Loulan: a warning of an impending \"disaster that will strike the nation.\"\n\nTo make matters worse, rumors of a mysterious shrine maiden who deceives the people begin to spread, casting a dark shadow over the country of Li once again.\n\nFrom the depths of the inner court to the city streets, and across foreign borders—the world grows wider, and the stakes even higher for Maomao and Jinshi.\n\n(Source: Crunchyroll)",
       "format": "TV",
@@ -321,7 +323,7 @@
       "score": 87,
       "scored_by": null,
       "members": 105576,
-      "activity": 83,
+      "activity": 61,
       "position": null,
       "synopsis": "As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. But their mission leads them into a brutal battle against forces beyond anything they’ve ever faced. Now, Asta must rise above impossible odds to protect his friends and honor the promise he made to Yuno.\n\n(Source: Crunchyroll)",
       "format": "TV",
@@ -347,7 +349,7 @@
       "score": 76,
       "scored_by": null,
       "members": 58243,
-      "activity": 86,
+      "activity": 54,
       "position": null,
       "synopsis": "Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….\n\n(Source: Tapas, edited)\n\nNote: Tempal: Item no Chikara is streaming a week in advance of the TV broadcast on Prime Video and Crunchyroll beginning September 27th, 2026. Regular broadcasting began on October 2nd, 2026.",
       "format": "ONA",
@@ -373,7 +375,7 @@
       "score": 75,
       "scored_by": null,
       "members": 54995,
-      "activity": 73,
+      "activity": 50,
       "position": null,
       "synopsis": "The second season of Tensei Shitara Ken Deshita.\nNote: Each episode was streamed one week in advance of the TV broadcast starting on October 1, 2026 on Abema. Regular broadcasting began on October 8, 2026.",
       "format": "ONA",
@@ -398,7 +400,7 @@
       "score": 81,
       "scored_by": null,
       "members": 52054,
-      "activity": 15,
+      "activity": 19,
       "position": null,
       "synopsis": "The second season of Ao no Hako.\n\nAs Taiki and Chinatsu navigate their evolving feelings, a fractured friendship from the past and fierce competition cloud the road to nationals.\n\n(Source: Netflix, edited)",
       "format": "TV",
@@ -423,7 +425,7 @@
       "score": 75,
       "scored_by": null,
       "members": 50971,
-      "activity": 375,
+      "activity": 222,
       "position": null,
       "synopsis": "On the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.\n\n(Source: VIZ Media)",
       "format": "TV",
@@ -447,7 +449,7 @@
       "score": 86,
       "scored_by": null,
       "members": 49463,
-      "activity": 492,
+      "activity": 251,
       "position": null,
       "synopsis": "In the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the \"Devil's Palm.\" In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide..\n\n(Source: Warner Bros. Japan Anime, Netflix Anime, edited)",
       "format": "ONA",
@@ -474,7 +476,7 @@
       "score": 73,
       "scored_by": null,
       "members": 48781,
-      "activity": 45,
+      "activity": 35,
       "position": null,
       "synopsis": "This is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.\n\nHigh School 1st-Year Ume Mizunoe has excellent grades in Japanese language class and has received multiple literary awards.\nHowever, his terrible grades in the sciences are affecting his ability to move up a grade. To avoid repeating a year, he becomes a member of the student council to improve his academic standing.\n\nHowever, in the student council, he meets the charismatic yet sullen student council president Kotobuki Hisako, and the scary yet kind and refined treasurer, Arisu Terui. Other members include a cheeky and cute boy, Tan Otori, and Komaro Michinoku, the admin who's like a small abandoned cat. This is the start of a slapstick, heartful, rom-com about a busy student council full of cute, mismatched, and quirky students!\n\n(Source: Even the Student Council Has Its Holes! Official Site)",
       "format": "TV",
@@ -499,7 +501,7 @@
       "score": 80,
       "scored_by": null,
       "members": 45653,
-      "activity": 2,
+      "activity": 1,
       "position": null,
       "synopsis": "Sequel to Made in Abyss: Retsujitsu no Ougonkyou.",
       "format": "MOVIE",
@@ -600,20 +602,20 @@
       "url": "https://www.youtube.com/watch?v=uC13b3_8riU"
     },
     {
-      "anime_id": 213805,
-      "anime_title": "The Ramparts of Ice Season 2",
+      "anime_id": 204650,
+      "anime_title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
       "kind": "airing",
       "title": "7화 방영 예정",
-      "airing_at": "2026-11-12T14:56:00+00:00",
-      "url": "https://anilist.co/anime/213805"
+      "airing_at": "2026-11-13T14:30:00+00:00",
+      "url": "https://anilist.co/anime/204650"
     },
     {
-      "anime_id": 213805,
-      "anime_title": "The Ramparts of Ice Season 2",
+      "anime_id": 204650,
+      "anime_title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
       "kind": "trailer",
       "title": "작품 예고편",
       "airing_at": null,
-      "url": "https://www.youtube.com/watch?v=VvzeL7UMCE8"
+      "url": "https://www.youtube.com/watch?v=upBWYExYoYc"
     },
     {
       "anime_id": 203275,
@@ -632,36 +634,36 @@
       "url": "https://www.youtube.com/watch?v=z_aHrTag3Ig"
     },
     {
-      "anime_id": 204650,
-      "anime_title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
-      "kind": "airing",
-      "title": "7화 방영 예정",
-      "airing_at": "2026-11-13T14:30:00+00:00",
-      "url": "https://anilist.co/anime/204650"
-    },
-    {
-      "anime_id": 204650,
-      "anime_title": "TOUGEN ANKI: Nikko Kegon Falls Arc",
-      "kind": "trailer",
-      "title": "작품 예고편",
-      "airing_at": null,
-      "url": "https://www.youtube.com/watch?v=upBWYExYoYc"
-    },
-    {
-      "anime_id": 186742,
-      "anime_title": "A Certain Dark Item",
+      "anime_id": 207329,
+      "anime_title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "kind": "airing",
       "title": "6화 방영 예정",
-      "airing_at": "2026-11-13T13:30:00+00:00",
-      "url": "https://anilist.co/anime/186742"
+      "airing_at": "2026-11-10T15:00:00+00:00",
+      "url": "https://anilist.co/anime/207329"
     },
     {
-      "anime_id": 186742,
-      "anime_title": "A Certain Dark Item",
+      "anime_id": 207329,
+      "anime_title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "kind": "trailer",
       "title": "작품 예고편",
       "airing_at": null,
-      "url": "https://www.youtube.com/watch?v=NNHxQJgZdbQ"
+      "url": "https://www.youtube.com/watch?v=BJXBr_aFF8s"
+    },
+    {
+      "anime_id": 213805,
+      "anime_title": "The Ramparts of Ice Season 2",
+      "kind": "airing",
+      "title": "7화 방영 예정",
+      "airing_at": "2026-11-12T14:56:00+00:00",
+      "url": "https://anilist.co/anime/213805"
+    },
+    {
+      "anime_id": 213805,
+      "anime_title": "The Ramparts of Ice Season 2",
+      "kind": "trailer",
+      "title": "작품 예고편",
+      "airing_at": null,
+      "url": "https://www.youtube.com/watch?v=VvzeL7UMCE8"
     },
     {
       "anime_id": 195539,
@@ -762,6 +764,27 @@
   ],
   "news": [
     {
+      "title": "Hana-Kimi Manga Gets New Live-Action Series, 1st Stage Play",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-06/hana-kimi-manga-gets-new-live-action-series-1st-stage-play/.243601",
+      "published_at": "2026-11-06T23:51:13+00:00",
+      "excerpt": "Hana Kawamura, The Rampage's Makoto Hasegawa & Itsuki Fujiwara star in both",
+      "source": "Anime News Network"
+    },
+    {
+      "title": "North American Anime, Manga Releases, November 1-7",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-06/north-american-anime-manga-releases-november-1-7/.243459",
+      "published_at": "2026-11-06T22:00:00+00:00",
+      "excerpt": "KPop Demon Hunters animated film; Black Jack, Full Metal Panic! Family manga ship",
+      "source": "Anime News Network"
+    },
+    {
+      "title": "Odd Taxi Manga Author Launches New Rematch With You Manga in Late November",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-06/odd-taxi-manga-author-launches-new-rematch-with-you-manga-in-late-november/.243576",
+      "published_at": "2026-11-06T21:00:00+00:00",
+      "excerpt": "Abaraya previously published dōjin version of manga at Comitia in November 2025",
+      "source": "Anime News Network"
+    },
+    {
       "title": "Paradox Live The Animation's Film Announces Title, 2027 Opening",
       "url": "https://www.animenewsnetwork.com/daily-briefs/2026-11-06/paradox-live-the-animation-film-announces-title-2027-opening/.243590",
       "published_at": "2026-11-06T12:32:30+00:00",
@@ -843,27 +866,6 @@
       "url": "https://www.animenewsnetwork.com/news/2026-11-05/eternal-palace-sakura-game-launches-for-switch-pc/.243562",
       "published_at": "2026-11-05T19:00:00+00:00",
       "excerpt": "Denneko Yuugi's 3D action roguelite game streams trailer",
-      "source": "Anime News Network"
-    },
-    {
-      "title": "Crunchyroll to Stream Dragon Ball Super: Beerus Anime's English Dub on November 12",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-05/crunchyroll-to-stream-dragon-ball-super-beerus-anime-english-dub-on-november-12/.243565",
-      "published_at": "2026-11-05T17:33:37+00:00",
-      "excerpt": "English trailer previews returning dub cast",
-      "source": "Anime News Network"
-    },
-    {
-      "title": "Titan Manga Licenses Kuruno Loves the Occult!, Dominating at the Academy of Returned Heroes, More Manga",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-05/titan-manga-licenses-kuruno-loves-the-occult-dominating-at-the-academy-of-returned-heroes-more-manga/.243564",
-      "published_at": "2026-11-05T17:01:15+00:00",
-      "excerpt": "Also: The Limits of High-Spec Marriages, Revenge of the Rock 'n' Roll Sisters, Mountain God's Personal Manga Artist",
-      "source": "Anime News Network"
-    },
-    {
-      "title": "Good Smile Company Partially Reopens on November 6 Following Data Breach of Online Store",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-05/good-smile-company-partially-reopens-on-november-6-following-data-breach-of-online-store/.243561",
-      "published_at": "2026-11-05T16:16:04+00:00",
-      "excerpt": "Store reopens for viewing product information only after company discovered breach on October 23",
       "source": "Anime News Network"
     }
   ],
