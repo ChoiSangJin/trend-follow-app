@@ -2,56 +2,56 @@
   "schema_version": 2,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-07T12:56:50.968527Z",
+  "updated_at": "2026-11-07T21:47:53.933825Z",
   "cards": [
     {
-      "id": "77c062974c1b8c3134c5",
+      "id": "16d1974b1cb990e7121b",
       "category": "문화",
-      "title": "[베스트셀러] 하루키 신작 '가호' 2주 연속 1위",
-      "summary": "[베스트셀러] 하루키 신작 '가호' 2주 연속 1위",
-      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘[베스트셀러] 하루키 신작 '가호' 2주 연속 1위’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "title": "더보이즈 에릭, 데뷔 첫 개인 사진전…팬 향한 마음 담았다",
+      "summary": "더보이즈 에릭, 데뷔 첫 개인 사진전…팬 향한 마음 담았다",
+      "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘더보이즈 에릭, 데뷔 첫 개인 사진전…팬 향한 마음 담았다’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-      "source": "연합뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DbFdSWVZoWUZlYk5PNC1rcEprc2RRUjRmcWdJdnNvU0h4YmcwSk1HNXZNaS11UmNOdWY0d2ZiQTlDZE9nMGIyX0dWcVRyUjF6OXJDd1FxYWpWX2lUS012UNIBYEFVX3lxTE5DbFdSWVZoWUZlYk5PNC1rcEprc2RRUjRmcWdJdnNvU0h4YmcwSk1HNXZNaS11UmNOdWY0d2ZiQTlDZE9nMGIyX0dWcVRyUjF6OXJDd1FxYWpWX2lUS012UA?oc=5",
-      "published_at": "2026-11-05T23:00:03Z",
+      "source": "동아일보",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tZ3p6S0ViQ3NsUmtYNXNyQUVRSEE4WjJhRmdMbE5fTVNPZ0M3UzlvUGxKSXFRcGI5ZDEzRlFvbHJaX3NXQjQ5TXJOMnFxWWdyUGt0dkY5VjNudmZQWjVETzBKZnJQQ1hVN1BoYVc5UlJIcERiYmdrS0UxblFmUdIBZkFVX3lxTE5PMVo0N2VaMkVISHF1QWsxbFMzMWx6SEp4WnkweWFmanpQZU9wdW5hYktoVG9FSG1heFlPTFlZQWVUeUVrVVhkN2E1UGFlQndSZTZ0cGJZM0dZNFdMUjlDeVF5VlZhdw?oc=5",
+      "published_at": "2026-11-07T06:55:21Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 4,
-        "report_count": 4,
-        "span_hours": 1.3,
-        "first_report_at": "2026-11-05T23:00:00Z",
-        "last_report_at": "2026-11-06T00:17:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ubXVodmJKWUdWX3kzYVlVcVlZblBiYkwxdmxtdm9UQnpYUFdQRGo3aFJDZ0dMZUdsYi1NWlEycjFWaDNGTDFjWFBfc0VPR0FhTGtCX0FZdzhoT2dqRUtkNHNPa0lwY21fcUpmMVVTa2ZNd3N4Yml1X9IBeEFVX3lxTE5ubXVodmJKWUdWX3kzYVlVcVlZblBiYkwxdmxtdm9UQnpYUFdQRGo3aFJDZ0dMZUdsYi1NWlEycjFWaDNGTDFjWFBfc0VPR0FhTGtCX0FZdzhoT2dqRUtkNHNPa0lwY21fcUpmMVVTa2ZNd3N4Yml1Xw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUp0LWxkMF80Y3BXbUxKN0RzdUxQb3NKQ05fYjZaRnduLXk1aDFKY0ZSLTlCU0Z5TDVLSlJ4dkdLeDlUMHI3UU1zaTBuMkdBUnZuX19ZTUs2eUZ0aTktV0UydDUxUW1Bd0FjM2ZDd19YY0xWUFVxR2ROWjI3ekRESmN5ZjN5OUVXaUdJT2NlZFBfTkl2ckRUaFhNOFRpZGdUcjJoU3lYdDI3UdIBX0FVX3lxTFBVeG9HQ1R2dDZvRWdsSV8xZEYtWTlRS3E1LU00cER2M0J2MnpwSDZ6ZDVsZG1RZDh6akkyY1pfU3pNZVR4cllyOFFQQzRtY0ZuOXhEVE50Zm5WVk9kZkxr?oc=5",
+        "report_count": 6,
+        "span_hours": 10.7,
+        "first_report_at": "2026-11-06T23:14:00Z",
+        "last_report_at": "2026-11-07T09:56:41Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd3NZZGpsYXA3OFVMdnVyVWR4azBpSThmZ0dwN1YtMVItRTQ4ZHpoNWFjNGVxMkxfa1B4aGdieHNjdlVfdmdFRXJqeHJENUxzUmhRZ3pIUjF0dFB6eWdaNkIzcHNiWFZGem5VYzlmWElJdFJqVzFrcVJNTV9JU2N3bnNWQ0x2dVNaVDdSZm1xWGVBa3PSAacBQVVfeXFMTkFPM1pCc2dybi1FemY4Yjh5WmJYLW90bEZETXdhdkJPSjJyTi0yelBfbHpiNTN3OVJQQnBiTXNIZEpVS1FldUppZXdyNVgzY2ZSZW95Z19EV2xtbXZmQk9CeUI0c3lDUWFBcVNHc0hrNkxpa1lfYUE3TElobjhGM1BraHZIaGluMzBSUDh4VGl3VGNsZHhuTnB1RzBwYXR6UnhhYjBpcG8?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vbFJpa0JVT3l3eVdEUURRNlA5NjlESmRmeHVSNEIweWtXUDhzR2RSUFhzVW9RamRvaW5xY1o0eFpmR2NOREhzVVhqQnoxcVV2YWJBOTJSRQ?oc=5",
         "sources": [
           {
-            "name": "경향신문",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUp0LWxkMF80Y3BXbUxKN0RzdUxQb3NKQ05fYjZaRnduLXk1aDFKY0ZSLTlCU0Z5TDVLSlJ4dkdLeDlUMHI3UU1zaTBuMkdBUnZuX19ZTUs2eUZ0aTktV0UydDUxUW1Bd0FjM2ZDd19YY0xWUFVxR2ROWjI3ekRESmN5ZjN5OUVXaUdJT2NlZFBfTkl2ckRUaFhNOFRpZGdUcjJoU3lYdDI3UdIBX0FVX3lxTFBVeG9HQ1R2dDZvRWdsSV8xZEYtWTlRS3E1LU00cER2M0J2MnpwSDZ6ZDVsZG1RZDh6akkyY1pfU3pNZVR4cllyOFFQQzRtY0ZuOXhEVE50Zm5WVk9kZkxr?oc=5",
-            "published_at": "2026-11-06T00:17:00Z",
-            "headline": "하루키 신작 ‘가호’ 2주 연속 베스트셀러 1위"
+            "name": "매일경제",
+            "group": "mk.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vbFJpa0JVT3l3eVdEUURRNlA5NjlESmRmeHVSNEIweWtXUDhzR2RSUFhzVW9RamRvaW5xY1o0eFpmR2NOREhzVVhqQnoxcVV2YWJBOTJSRQ?oc=5",
+            "published_at": "2026-11-07T09:56:41Z",
+            "headline": "더보이즈 에릭, 데뷔 첫 개인 사진전 개최…‘Baby Pink Letter’로 채운 한남동"
           },
           {
-            "name": "서울신문",
-            "group": "seoul.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOFZaeDFRWmVIZUc3R1g1dGpLODF1M3hNX2VVMl9seFgzQ1U3cEt2WWxVREp3bnlKbVFVWEtXSTZUaFg5LThrVENNaTd4aTFQSTV5LVBtVzNYeHFwTFhhSU45ODJ6MUFpc3VzbFBRVG11bWJyOHFsbF9TLVhRM2xoOFVUV3pDSGt4VHc?oc=5",
-            "published_at": "2026-11-05T23:41:03Z",
-            "headline": "[베스트셀러]하루키 소설 ‘가호’ 2주 연속 1위"
+            "name": "동아일보",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tZ3p6S0ViQ3NsUmtYNXNyQUVRSEE4WjJhRmdMbE5fTVNPZ0M3UzlvUGxKSXFRcGI5ZDEzRlFvbHJaX3NXQjQ5TXJOMnFxWWdyUGt0dkY5VjNudmZQWjVETzBKZnJQQ1hVN1BoYVc5UlJIcERiYmdrS0UxblFmUdIBZkFVX3lxTE5PMVo0N2VaMkVISHF1QWsxbFMzMWx6SEp4WnkweWFmanpQZU9wdW5hYktoVG9FSG1heFlPTFlZQWVUeUVrVVhkN2E1UGFlQndSZTZ0cGJZM0dZNFdMUjlDeVF5VlZhdw?oc=5",
+            "published_at": "2026-11-07T06:55:21Z",
+            "headline": "더보이즈 에릭, 데뷔 첫 개인 사진전…팬 향한 마음 담았다"
           },
           {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DbFdSWVZoWUZlYk5PNC1rcEprc2RRUjRmcWdJdnNvU0h4YmcwSk1HNXZNaS11UmNOdWY0d2ZiQTlDZE9nMGIyX0dWcVRyUjF6OXJDd1FxYWpWX2lUS012UNIBYEFVX3lxTE5DbFdSWVZoWUZlYk5PNC1rcEprc2RRUjRmcWdJdnNvU0h4YmcwSk1HNXZNaS11UmNOdWY0d2ZiQTlDZE9nMGIyX0dWcVRyUjF6OXJDd1FxYWpWX2lUS012UA?oc=5",
-            "published_at": "2026-11-05T23:00:03Z",
-            "headline": "[베스트셀러] 하루키 신작 '가호' 2주 연속 1위"
+            "name": "전자신문",
+            "group": "etnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ib0diMDdIY1lKVkppNDhvOC1FV08yMkc5dGhFOEdPVmRWV01ORkowZU0tb2pUcHpkaWlsQVFHYjNYYUJiWHViVzVYcmZBQQ?oc=5",
+            "published_at": "2026-11-07T02:48:16Z",
+            "headline": "더보이즈 에릭의 특별 감각…'첫 사진전' 개최"
           },
           {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ubXVodmJKWUdWX3kzYVlVcVlZblBiYkwxdmxtdm9UQnpYUFdQRGo3aFJDZ0dMZUdsYi1NWlEycjFWaDNGTDFjWFBfc0VPR0FhTGtCX0FZdzhoT2dqRUtkNHNPa0lwY21fcUpmMVVTa2ZNd3N4Yml1X9IBeEFVX3lxTE5ubXVodmJKWUdWX3kzYVlVcVlZblBiYkwxdmxtdm9UQnpYUFdQRGo3aFJDZ0dMZUdsYi1NWlEycjFWaDNGTDFjWFBfc0VPR0FhTGtCX0FZdzhoT2dqRUtkNHNPa0lwY21fcUpmMVVTa2ZNd3N4Yml1Xw?oc=5",
-            "published_at": "2026-11-05T23:00:00Z",
-            "headline": "[베스트셀러] 하루키 열풍 지속…'가호' 2주 연속 1위"
+            "name": "Chosunbiz",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd3NZZGpsYXA3OFVMdnVyVWR4azBpSThmZ0dwN1YtMVItRTQ4ZHpoNWFjNGVxMkxfa1B4aGdieHNjdlVfdmdFRXJqeHJENUxzUmhRZ3pIUjF0dFB6eWdaNkIzcHNiWFZGem5VYzlmWElJdFJqVzFrcVJNTV9JU2N3bnNWQ0x2dVNaVDdSZm1xWGVBa3PSAacBQVVfeXFMTkFPM1pCc2dybi1FemY4Yjh5WmJYLW90bEZETXdhdkJPSjJyTi0yelBfbHpiNTN3OVJQQnBiTXNIZEpVS1FldUppZXdyNVgzY2ZSZW95Z19EV2xtbXZmQk9CeUI0c3lDUWFBcVNHc0hrNkxpa1lfYUE3TElobjhGM1BraHZIaGluMzBSUDh4VGl3VGNsZHhuTnB1RzBwYXR6UnhhYjBpcG8?oc=5",
+            "published_at": "2026-11-06T23:14:00Z",
+            "headline": "\"♥더비 향한 애정\" 더보이즈 에릭, 오늘(7일) 첫 개인 사진전 오픈"
           }
         ]
       },
@@ -123,7 +123,7 @@
       "category": "스포츠",
       "title": "브라질 청소년 축구 경기서 난투극…역대 최다 '51명' 무더기 퇴장",
       "summary": "브라질 청소년 축구 경기서 난투극…역대 최다 '51명' 무더기 퇴장",
-      "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 12시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 12시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘브라질 청소년 축구 경기서 난투극…역대 최다 '51명' 무더기 퇴장’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
       "source": "뉴스1",
@@ -131,8 +131,8 @@
       "published_at": "2026-11-05T02:59:26Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 7,
-        "report_count": 7,
+        "source_groups": 6,
+        "report_count": 6,
         "span_hours": 12.6,
         "first_report_at": "2026-11-04T22:34:01Z",
         "last_report_at": "2026-11-05T11:11:05Z",
@@ -145,13 +145,6 @@
             "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lR1NGNkJicXJ3OFZjTkQ0TmtaZUE4RlkxaW05VkRtN20wUldKLXgzeTJhS2M4UGFFTk00OWZkeTV2WG1Cc2l3R2VkTkExM2pv0gFUQVVfeXFMTm8tOVhXWVk2RHBQclVNNS1ydzBycUxOM1BpU3Q4MjQ1ZWdRTjN5eVQxVW5iR1dCaWpBQ3JjZHk1VW5ZR25lRnhDZ2huVldTVFZlZ3Zi?oc=5",
             "published_at": "2026-11-05T11:11:05Z",
             "headline": "사상 초유의 ‘한 경기 51장 ’… 브라질 축구 집단 난투극"
-          },
-          {
-            "name": "한국일보",
-            "group": "hankookilbo.com",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLWnRMU0JGSmxOM2dTUmQ2ZzVhN1F4Q1NzQUk4NFBCWDc0M3dzdFBSWEJDX3BWbF92UDB1U0VFUmxPUktueElXODk2Sk5fQ3YwSGZkSU5VWTFKcEN3bTBOVDVzRURRQXBxYzY2YUlOSS0xZjTSAXNBVV95cUxQS1p0TFNCRkpsTjNnU1JkNmc1YTdReENTc0FJODRQQlg3NDN3c3RQUlhCQ19wVmxfdlAwdVNFRVJsT1JLbnhJVzg5NkpOX0N2MEhmZElOVVkxSnBDd20wTlQ1c0VEUUFwcWM2NmFJTkktMWY0?oc=5",
-            "published_at": "2026-11-05T04:33:00Z",
-            "headline": "브라질 청소년 축구서 51명 퇴장…집단 난투극에 경찰까지 출동"
           },
           {
             "name": "뉴스1",
@@ -247,39 +240,39 @@
       "last_collected_at": "2026-11-06T19:22:19.681690Z"
     },
     {
-      "id": "7f67559f5b0bc09c7fd3",
+      "id": "5f0bf341f03c84787382",
       "category": "생활",
-      "title": "공소청, '금품수수 의혹' 강호동 농협회장 구속영장 신청 기각",
-      "summary": "공소청, '금품수수 의혹' 강호동 농협회장 구속영장 신청 기각",
-      "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘공소청, '금품수수 의혹' 강호동 농협회장 구속영장 신청 기각’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
+      "title": "토요일 서울 마라톤·집회…여의도·광화문 곳곳 교통통제",
+      "summary": "토요일 서울 마라톤·집회…여의도·광화문 곳곳 교통통제",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘토요일 서울 마라톤·집회…여의도·광화문 곳곳 교통통제’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
       "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
-      "source": "아시아경제",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04ajM0MUdCYmhKYVgzQTJRTVBnQWhpOUpPb3U1eWRLcXNBRjVvR2VKX1hzck5xRklnRkFvMlhvVVZGc18xTFAwNVlfbWR3eGswMm51cmNKdm5ESF93T2NvXw?oc=5",
-      "published_at": "2026-11-06T10:11:38Z",
+      "source": "뉴스1",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40VVVPUG5LTmhSc0tJeEVSTXZudmJ3WVQ2NHBNOFhCM3o0aV9Td0hTZ1JuRUV6d2VMa0c2RTg4QTRTYXVlaG9oRzYxbDZLdjl2SWpBN1lFX0RieGxrYVJtSFRXYU8?oc=5",
+      "published_at": "2026-11-06T20:30:00Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 2,
-        "report_count": 7,
-        "span_hours": 0.7,
-        "first_report_at": "2026-11-06T09:28:26Z",
-        "last_report_at": "2026-11-06T10:11:38Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLazhEbzNxN3AwVkJRTzY2dC1qOW84Y0Vrb1BHSEVvYk5pV3ppLVY3UWFZVlRNS2lFUHo0Z1pVcHkzdnZFU21PdjN6UG1tY0dreWxmbmxDd3ZSbVXSAWBBVV95cUxOd2FMd3paY1Rnc2ROVlltWnEzZ3RFbFJkTlpiNnBKYVlvRWhwMHVBTFdnWjFoZjZmcE0tdl9RNWVTYWRvOEZfOGtpUWh1Mnhtd2lsbEE2YThlUTBCaUZtVXo?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04ajM0MUdCYmhKYVgzQTJRTVBnQWhpOUpPb3U1eWRLcXNBRjVvR2VKX1hzck5xRklnRkFvMlhvVVZGc18xTFAwNVlfbWR3eGswMm51cmNKdm5ESF93T2NvXw?oc=5",
+        "report_count": 2,
+        "span_hours": 0.5,
+        "first_report_at": "2026-11-06T20:00:02Z",
+        "last_report_at": "2026-11-06T20:30:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnZJaENxOHpqclhnSmpyazRFNTYtR3hxTHdQYk1UN19DRHlrQmNjNl9ibnRCUXBqNHZoNFA3Q0xIS2N0ejRMYzVYLTJ2a184amdVNkdtcHVGUURhcDd0OEhVYXpXMlhKSGlaQkxUOWxCdW9RUE1XUlUyNm9MS0hueg?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40VVVPUG5LTmhSc0tJeEVSTXZudmJ3WVQ2NHBNOFhCM3o0aV9Td0hTZ1JuRUV6d2VMa0c2RTg4QTRTYXVlaG9oRzYxbDZLdjl2SWpBN1lFX0RieGxrYVJtSFRXYU8?oc=5",
         "sources": [
           {
-            "name": "아시아경제",
-            "group": "asiae.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04ajM0MUdCYmhKYVgzQTJRTVBnQWhpOUpPb3U1eWRLcXNBRjVvR2VKX1hzck5xRklnRkFvMlhvVVZGc18xTFAwNVlfbWR3eGswMm51cmNKdm5ESF93T2NvXw?oc=5",
-            "published_at": "2026-11-06T10:11:38Z",
-            "headline": "공소청, '금품수수 의혹' 강호동 농협회장 구속영장 신청 기각"
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40VVVPUG5LTmhSc0tJeEVSTXZudmJ3WVQ2NHBNOFhCM3o0aV9Td0hTZ1JuRUV6d2VMa0c2RTg4QTRTYXVlaG9oRzYxbDZLdjl2SWpBN1lFX0RieGxrYVJtSFRXYU8?oc=5",
+            "published_at": "2026-11-06T20:30:00Z",
+            "headline": "토요일 서울 마라톤·집회…여의도·광화문 곳곳 교통통제"
           },
           {
-            "name": "SBS Biz",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1MlZvNWtEWW9oVGJpcjRXOUV2M2ZSS3VmMEF0azhEbFZYTGpscnFoamJsT2dTY29EbnVzMlZicWVtZHpoTW5DUDZPa3FBb0xaa216TmF4eTlKQW1qTktqRUJvMGNRVVZfS2NRetIBWEFVX3lxTE9BTm56c2p3SEZLVFhOcGNaSzRGd3h6SEs2V25HRmRYQTFCOTlFUzhGY29NWGRQSVY5aUQ3cVhXWlBMdmNZdVZmMWFjQ1NBeFdWczZuQ19iWUs?oc=5",
-            "published_at": "2026-11-06T09:58:04Z",
-            "headline": "[속보] 공소청, 경찰이 신청한 강호동 농협중앙회장 구속영장 기각"
+            "name": "이데일리",
+            "group": "edaily.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnZJaENxOHpqclhnSmpyazRFNTYtR3hxTHdQYk1UN19DRHlrQmNjNl9ibnRCUXBqNHZoNFA3Q0xIS2N0ejRMYzVYLTJ2a184amdVNkdtcHVGUURhcDd0OEhVYXpXMlhKSGlaQkxUOWxCdW9RUE1XUlUyNm9MS0hueg?oc=5",
+            "published_at": "2026-11-06T20:00:02Z",
+            "headline": "주말 서울 곳곳 집회·마라톤…\"교통정보 확인하세요\"[사회in]"
           }
         ]
       },
