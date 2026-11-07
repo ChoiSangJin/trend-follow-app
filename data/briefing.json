@@ -2,7 +2,7 @@
   "schema_version": 2,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-07T05:55:01.514506Z",
+  "updated_at": "2026-11-07T12:56:50.968527Z",
   "cards": [
     {
       "id": "77c062974c1b8c3134c5",
@@ -245,6 +245,45 @@
       },
       "selection_rank": 1,
       "last_collected_at": "2026-11-06T19:22:19.681690Z"
+    },
+    {
+      "id": "7f67559f5b0bc09c7fd3",
+      "category": "생활",
+      "title": "공소청, '금품수수 의혹' 강호동 농협회장 구속영장 신청 기각",
+      "summary": "공소청, '금품수수 의혹' 강호동 농협회장 구속영장 신청 기각",
+      "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘공소청, '금품수수 의혹' 강호동 농협회장 구속영장 신청 기각’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
+      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
+      "source": "아시아경제",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04ajM0MUdCYmhKYVgzQTJRTVBnQWhpOUpPb3U1eWRLcXNBRjVvR2VKX1hzck5xRklnRkFvMlhvVVZGc18xTFAwNVlfbWR3eGswMm51cmNKdm5ESF93T2NvXw?oc=5",
+      "published_at": "2026-11-06T10:11:38Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 2,
+        "report_count": 7,
+        "span_hours": 0.7,
+        "first_report_at": "2026-11-06T09:28:26Z",
+        "last_report_at": "2026-11-06T10:11:38Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLazhEbzNxN3AwVkJRTzY2dC1qOW84Y0Vrb1BHSEVvYk5pV3ppLVY3UWFZVlRNS2lFUHo0Z1pVcHkzdnZFU21PdjN6UG1tY0dreWxmbmxDd3ZSbVXSAWBBVV95cUxOd2FMd3paY1Rnc2ROVlltWnEzZ3RFbFJkTlpiNnBKYVlvRWhwMHVBTFdnWjFoZjZmcE0tdl9RNWVTYWRvOEZfOGtpUWh1Mnhtd2lsbEE2YThlUTBCaUZtVXo?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04ajM0MUdCYmhKYVgzQTJRTVBnQWhpOUpPb3U1eWRLcXNBRjVvR2VKX1hzck5xRklnRkFvMlhvVVZGc18xTFAwNVlfbWR3eGswMm51cmNKdm5ESF93T2NvXw?oc=5",
+        "sources": [
+          {
+            "name": "아시아경제",
+            "group": "asiae.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04ajM0MUdCYmhKYVgzQTJRTVBnQWhpOUpPb3U1eWRLcXNBRjVvR2VKX1hzck5xRklnRkFvMlhvVVZGc18xTFAwNVlfbWR3eGswMm51cmNKdm5ESF93T2NvXw?oc=5",
+            "published_at": "2026-11-06T10:11:38Z",
+            "headline": "공소청, '금품수수 의혹' 강호동 농협회장 구속영장 신청 기각"
+          },
+          {
+            "name": "SBS Biz",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1MlZvNWtEWW9oVGJpcjRXOUV2M2ZSS3VmMEF0azhEbFZYTGpscnFoamJsT2dTY29EbnVzMlZicWVtZHpoTW5DUDZPa3FBb0xaa216TmF4eTlKQW1qTktqRUJvMGNRVVZfS2NRetIBWEFVX3lxTE9BTm56c2p3SEZLVFhOcGNaSzRGd3h6SEs2V25HRmRYQTFCOTlFUzhGY29NWGRQSVY5aUQ3cVhXWlBMdmNZdVZmMWFjQ1NBeFdWczZuQ19iWUs?oc=5",
+            "published_at": "2026-11-06T09:58:04Z",
+            "headline": "[속보] 공소청, 경찰이 신청한 강호동 농협중앙회장 구속영장 기각"
+          }
+        ]
+      },
+      "selection_rank": 1
     }
   ]
 }
