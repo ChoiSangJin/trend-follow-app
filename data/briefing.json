@@ -2,7 +2,7 @@
   "schema_version": 2,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-08T13:19:47.210153Z",
+  "updated_at": "2026-11-08T22:00:22.348957Z",
   "cards": [
     {
       "id": "88d0d805087a56c52e9a",
@@ -58,183 +58,209 @@
       "selection_rank": 1
     },
     {
-      "id": "9283a1263cb17be68457",
+      "id": "7dcc7490ec6448d6f06e",
       "category": "문화",
-      "title": "82메이저, 오늘 대만 단독 콘서트…서울 열기 잇는다",
-      "summary": "82메이저, 오늘 대만 단독 콘서트…서울 열기 잇는다",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘82메이저, 오늘 대만 단독 콘서트…서울 열기 잇는다’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "title": "영화 '테러리스트' 연출한 김영빈 감독, 오늘(8일) 별세",
+      "summary": "영화 '테러리스트' 연출한 김영빈 감독, 오늘(8일) 별세",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘영화 '테러리스트' 연출한 김영빈 감독, 오늘(8일) 별세’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
       "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "스포츠경향",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05dkV1WFdsYm1jeG4zazN2enJhdDh3eGRMcldfMUJvZFkza3JTWjZBa2lCWDdTSk9mZUlvY19VaDQxU0ppbWlLTXY0OHkyQzRIakR4M0xzV1h4b3V3SWfSAWNBVV95cUxNSVpxLWlGN0hvNDNfQWhMN0pnX0k3RjhUQzY5Y3RIMXlVZGRwbXR6UU9uc19xaEpVX29EaGlkUWlWaWRHVTlvNHUxNXJFOENIRXNuRklxcmtlUGZYWVpENEljMXc?oc=5",
-      "published_at": "2026-11-08T04:04:00Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 4.5,
-        "first_report_at": "2026-11-07T23:36:39Z",
-        "last_report_at": "2026-11-08T04:04:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03NHVFdUt5SnVQcEhDOXFjNEVvVC0xeGVjY2Yzd1BnY1JTX2lYVzZLU21YdG11ZENTenlkSl93d2lOS1dqTzRBX0xBc0N5dw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05dkV1WFdsYm1jeG4zazN2enJhdDh3eGRMcldfMUJvZFkza3JTWjZBa2lCWDdTSk9mZUlvY19VaDQxU0ppbWlLTXY0OHkyQzRIakR4M0xzV1h4b3V3SWfSAWNBVV95cUxNSVpxLWlGN0hvNDNfQWhMN0pnX0k3RjhUQzY5Y3RIMXlVZGRwbXR6UU9uc19xaEpVX29EaGlkUWlWaWRHVTlvNHUxNXJFOENIRXNuRklxcmtlUGZYWVpENEljMXc?oc=5",
-        "sources": [
-          {
-            "name": "스포츠경향",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05dkV1WFdsYm1jeG4zazN2enJhdDh3eGRMcldfMUJvZFkza3JTWjZBa2lCWDdTSk9mZUlvY19VaDQxU0ppbWlLTXY0OHkyQzRIakR4M0xzV1h4b3V3SWfSAWNBVV95cUxNSVpxLWlGN0hvNDNfQWhMN0pnX0k3RjhUQzY5Y3RIMXlVZGRwbXR6UU9uc19xaEpVX29EaGlkUWlWaWRHVTlvNHUxNXJFOENIRXNuRklxcmtlUGZYWVpENEljMXc?oc=5",
-            "published_at": "2026-11-08T04:04:00Z",
-            "headline": "82메이저, 오늘 대만 단독 콘서트…서울 열기 잇는다"
-          },
-          {
-            "name": "전자신문",
-            "group": "etnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03NHVFdUt5SnVQcEhDOXFjNEVvVC0xeGVjY2Yzd1BnY1JTX2lYVzZLU21YdG11ZENTenlkSl93d2lOS1dqTzRBX0xBc0N5dw?oc=5",
-            "published_at": "2026-11-07T23:36:39Z",
-            "headline": "대만 팬 두근두근! 82메이저, 단독 콘서트 D-DAY"
-          }
-        ]
-      },
-      "selection_rank": 1
-    },
-    {
-      "id": "72e08bf895e383836386",
-      "category": "스포츠",
-      "title": "‘손흥민 침묵’ LA FC, 정규리그 최종전 1대2 패… 서부 6위로 PO행",
-      "summary": "‘손흥민 침묵’ LA FC, 정규리그 최종전 1대2 패… 서부 6위로 PO행",
-      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 2시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘‘손흥민 침묵’ LA FC, 정규리그 최종전 1대2 패… 서부 6위로 PO행’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "조선일보",
-      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16NkJHNTVWSXJxYWp4S1lRVTBpTmxNbzZ4NDlkWUVlcGcwR1pNNHE0d0owY2pOM2NoVXhZOTcyYmY1Q0VROU1SR1o4V2QzbEZqUVAxS1dBLVRpOTFYLVNheW5XZjgtTXduUF9wREFzZDNUQU1YLTV3?oc=5",
-      "published_at": "2026-11-08T02:38:00Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 4,
-        "report_count": 5,
-        "span_hours": 2.1,
-        "first_report_at": "2026-11-08T02:22:43Z",
-        "last_report_at": "2026-11-08T04:29:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmYzR3RGRLWXRsM0VPQW04bWVpVDdJbDRzalhBQTF5d25LejA1aUc2VkJRQWJqNG1SdXJ4aVNzRFdpRUJNOEN0dDlBSlh3YzZSVjB4MGJn?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11Rk5CVUdNRjlxcldWZ0hWRW5Pc2FVQ19KV3ZuZU5JNkVONV9EZ19sOG8yYkZ4MGZXT1NBNnhaU2c5VmdVbUtPSHpLTFlfY1ZwOXBiT0pvUjdleHc?oc=5",
-        "sources": [
-          {
-            "name": "KBS 뉴스",
-            "group": "kbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11Rk5CVUdNRjlxcldWZ0hWRW5Pc2FVQ19KV3ZuZU5JNkVONV9EZ19sOG8yYkZ4MGZXT1NBNnhaU2c5VmdVbUtPSHpLTFlfY1ZwOXBiT0pvUjdleHc?oc=5",
-            "published_at": "2026-11-08T04:29:00Z",
-            "headline": "손흥민·김기희, 풀타임 ‘코리안 더비’…LAFC, 시애틀에 1-2 패"
-          },
-          {
-            "name": "조선일보",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16NkJHNTVWSXJxYWp4S1lRVTBpTmxNbzZ4NDlkWUVlcGcwR1pNNHE0d0owY2pOM2NoVXhZOTcyYmY1Q0VROU1SR1o4V2QzbEZqUVAxS1dBLVRpOTFYLVNheW5XZjgtTXduUF9wREFzZDNUQU1YLTV3?oc=5",
-            "published_at": "2026-11-08T02:38:00Z",
-            "headline": "‘손흥민 침묵’ LA FC, 정규리그 최종전 1대2 패… 서부 6위로 PO행"
-          },
-          {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6SGQtXy14ZG5BRmUyN1BOaTdEdTE2WUdEMk1udVRMRjVkY3I4OEQzMHVpSWU3cGREWGJrTTloMVJEU1dnZ1FqYU9ETHE5ZUNHNkpBbS1OaHdNd1ppQnB4Ug?oc=5",
-            "published_at": "2026-11-08T02:24:44Z",
-            "headline": "'손흥민 4연속 침묵' LA FC, 정규리그 최종전서 시애틀에 1-2 패배"
-          },
-          {
-            "name": "중앙일보",
-            "group": "joongang.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmYzR3RGRLWXRsM0VPQW04bWVpVDdJbDRzalhBQTF5d25LejA1aUc2VkJRQWJqNG1SdXJ4aVNzRFdpRUJNOEN0dDlBSlh3YzZSVjB4MGJn?oc=5",
-            "published_at": "2026-11-08T02:22:43Z",
-            "headline": "‘손흥민 골침묵’ LAFC, 정규리그 최종전서 패배...서부 6위로 PO행"
-          }
-        ]
-      },
-      "selection_rank": 1
-    },
-    {
-      "id": "8d13d6a6884895ab3d4a",
-      "category": "기술",
-      "title": "카카오, AI 판단 돕는 의사결정 모델 오픈소스 공개",
-      "summary": "카카오, AI 판단 돕는 의사결정 모델 오픈소스 공개",
-      "why_now": "이전 수집(11.08 14:57 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘카카오, AI 판단 돕는 의사결정 모델 오픈소스 공개’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
-      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-      "source": "서울신문",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZRDNadXg2Ulh2d0VCRjBFRzJVOTJ1WjF4QjFYaUU4UEg2aXc3cGtjQmZ1WTlZY3NnZjdGNm9UaVJ6N1JveDJLR0dlVHE5Vk9kOFpJZFoxd3cxVjZ6RzhiOGYyc0dTeWxoOHIwVVBXdm01VG8?oc=5",
-      "published_at": "2026-11-06T01:27:33Z",
+      "source": "SPOTV NEWS",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCZXhFQXlWcGN6Sk40R2k3LVhKN0lsdjZ5YmxjQkxBUXItb2NleUU0QUxLZ1otVm92VWswb3ByYWRxVElRVHYtT2ZNNzEzdXpqZmZmTzFtQm9NS3lXSVlVODRqV1Fkbjh5QWU4aEpQOXU?oc=5",
+      "published_at": "2026-11-08T11:35:28Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 3,
         "report_count": 3,
-        "span_hours": 4.6,
-        "first_report_at": "2026-11-06T01:27:33Z",
-        "last_report_at": "2026-11-06T06:00:38Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZRDNadXg2Ulh2d0VCRjBFRzJVOTJ1WjF4QjFYaUU4UEg2aXc3cGtjQmZ1WTlZY3NnZjdGNm9UaVJ6N1JveDJLR0dlVHE5Vk9kOFpJZFoxd3cxVjZ6RzhiOGYyc0dTeWxoOHIwVVBXdm01VG8?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcUxUNE81TlNTSzNPcFZsN0ZKdHBtVVhsMERLZ1kwenVNQnRsdmk0MzJxT3I5dkg4SmxqUjRGdXJRdXJPVVg1TWtJczQxNVdlRUVlVm1Ncm10dw?oc=5",
+        "span_hours": 1.7,
+        "first_report_at": "2026-11-08T09:52:05Z",
+        "last_report_at": "2026-11-08T11:35:28Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FUWdpR0lmTkVCSFllcHB4c3FReEZmbG9BTll6VFpveGVxcVZsM2FuQmpHeFBuYnRIbUxxYU9NX0xMNWxybFlSQ3Z3eS1FbjF4MEhjcHVhY0g2UQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCZXhFQXlWcGN6Sk40R2k3LVhKN0lsdjZ5YmxjQkxBUXItb2NleUU0QUxLZ1otVm92VWswb3ByYWRxVElRVHYtT2ZNNzEzdXpqZmZmTzFtQm9NS3lXSVlVODRqV1Fkbjh5QWU4aEpQOXU?oc=5",
         "sources": [
           {
-            "name": "파이낸셜뉴스",
-            "group": "fnnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcUxUNE81TlNTSzNPcFZsN0ZKdHBtVVhsMERLZ1kwenVNQnRsdmk0MzJxT3I5dkg4SmxqUjRGdXJRdXJPVVg1TWtJczQxNVdlRUVlVm1Ncm10dw?oc=5",
-            "published_at": "2026-11-06T06:00:38Z",
-            "headline": "0.04초 만에 응답…카카오, AI 판단 돕는 기술 공개"
+            "name": "SPOTV NEWS",
+            "group": "spotvnews.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCZXhFQXlWcGN6Sk40R2k3LVhKN0lsdjZ5YmxjQkxBUXItb2NleUU0QUxLZ1otVm92VWswb3ByYWRxVElRVHYtT2ZNNzEzdXpqZmZmTzFtQm9NS3lXSVlVODRqV1Fkbjh5QWU4aEpQOXU?oc=5",
+            "published_at": "2026-11-08T11:35:28Z",
+            "headline": "영화 '테러리스트' 연출한 김영빈 감독, 오늘(8일) 별세"
           },
           {
-            "name": "지디넷코리아",
-            "group": "zdnet.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96WTZ5ZlhwQy0tTUkwSGVOdHhNUk9VdS1nWFRhRTJ3ZzVqMV9uTENlY3ZKbmZCbFRoeUpfWXpJYkZ6bzhna2RTMUpuZ09QNTVyNmMtZW1B?oc=5",
-            "published_at": "2026-11-06T05:48:44Z",
-            "headline": "AI 판단 돕는다…카카오, '카나나 디사이드' 오픈소스 공개"
+            "name": "머니투데이",
+            "group": "mt.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11X09WUFU0ZWtjMEN1aURiSEhiWEljeF85RndkNDhPM1EteEtqSnV5VHEweU9LOE5XWmE2T2c1SUMwMGVmOVNkalVxbHF4WFl5RVR3QzFJR1J3cGlKSFZyU2dhZVpsWXN3N25taWZIdkdpN2vSAXhBVV95cUxOcmZPRXJpRUZrRlVNTF9NZlBBSENMcjBSWFhQX2JBeEo5NERHQTM0U1NRbXRLUGlOSG5KMGFXYTcwSzVOdDVzWjRkeWZ3RGhHVV9ER0lNd21CZE4wbTF3SGplOEc4bGhma3h4b01CTWVJOFByYXdDaTY?oc=5",
+            "published_at": "2026-11-08T11:05:14Z",
+            "headline": "'테러리스트' 연출한 김영빈 영화감독 별세…향년 71세 - 머니투데이"
           },
           {
-            "name": "서울신문",
-            "group": "seoul.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZRDNadXg2Ulh2d0VCRjBFRzJVOTJ1WjF4QjFYaUU4UEg2aXc3cGtjQmZ1WTlZY3NnZjdGNm9UaVJ6N1JveDJLR0dlVHE5Vk9kOFpJZFoxd3cxVjZ6RzhiOGYyc0dTeWxoOHIwVVBXdm01VG8?oc=5",
-            "published_at": "2026-11-06T01:27:33Z",
-            "headline": "카카오, AI 판단 돕는 의사결정 모델 오픈소스 공개"
+            "name": "한국경제",
+            "group": "hankyung.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FUWdpR0lmTkVCSFllcHB4c3FReEZmbG9BTll6VFpveGVxcVZsM2FuQmpHeFBuYnRIbUxxYU9NX0xMNWxybFlSQ3Z3eS1FbjF4MEhjcHVhY0g2UQ?oc=5",
+            "published_at": "2026-11-08T09:52:05Z",
+            "headline": "영화 '테러리스트' 김영빈 감독 별세"
           }
         ]
       },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-08T05:57:27.878566Z"
+      "selection_rank": 1
     },
     {
-      "id": "5f0bf341f03c84787382",
-      "category": "생활",
-      "title": "토요일 서울 마라톤·집회…여의도·광화문 곳곳 교통통제",
-      "summary": "토요일 서울 마라톤·집회…여의도·광화문 곳곳 교통통제",
-      "why_now": "이전 수집(11.08 06:47 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘토요일 서울 마라톤·집회…여의도·광화문 곳곳 교통통제’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
-      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
-      "source": "뉴스1",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40VVVPUG5LTmhSc0tJeEVSTXZudmJ3WVQ2NHBNOFhCM3o0aV9Td0hTZ1JuRUV6d2VMa0c2RTg4QTRTYXVlaG9oRzYxbDZLdjl2SWpBN1lFX0RieGxrYVJtSFRXYU8?oc=5",
-      "published_at": "2026-11-06T20:30:00Z",
+      "id": "9fa4ee2182cdc18c8fb7",
+      "category": "스포츠",
+      "title": "수원 삼성, 4년 만에 K리그1 복귀",
+      "summary": "수원 삼성, 4년 만에 K리그1 복귀",
+      "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 8시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘수원 삼성, 4년 만에 K리그1 복귀’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "조선일보",
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX2NxaDE0QnBnUDc0aWZVcExnUDl6aExNOVVseHNnRVg0LTlva2Y2amV1b2h3aUp3YTNjN0t3dzBMZkttSVoxTjFCNlFaWTVETWhxZTJKWkFXdkNYQkJETTVUcllrNUtBck9oRGc5aFBSbFN3bFNuVFlKREdfS0ZmTkhFZw?oc=5",
+      "published_at": "2026-11-08T15:40:00Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 6,
+        "report_count": 6,
+        "span_hours": 8.7,
+        "first_report_at": "2026-11-08T06:55:39Z",
+        "last_report_at": "2026-11-08T15:40:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xdEd3Y3NNcUFkdXFtQ1JIMGJYTER6TnNaZTVJU0tOVlc3RVp3X0drd215UVpWc0pBZTFTY2NjT0dTTFlWa0w1X3gyU25RaDE5aWxEblNR?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX2NxaDE0QnBnUDc0aWZVcExnUDl6aExNOVVseHNnRVg0LTlva2Y2amV1b2h3aUp3YTNjN0t3dzBMZkttSVoxTjFCNlFaWTVETWhxZTJKWkFXdkNYQkJETTVUcllrNUtBck9oRGc5aFBSbFN3bFNuVFlKREdfS0ZmTkhFZw?oc=5",
+        "sources": [
+          {
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX2NxaDE0QnBnUDc0aWZVcExnUDl6aExNOVVseHNnRVg0LTlva2Y2amV1b2h3aUp3YTNjN0t3dzBMZkttSVoxTjFCNlFaWTVETWhxZTJKWkFXdkNYQkJETTVUcllrNUtBck9oRGc5aFBSbFN3bFNuVFlKREdfS0ZmTkhFZw?oc=5",
+            "published_at": "2026-11-08T15:40:00Z",
+            "headline": "수원 삼성, 4년 만에 K리그1 복귀"
+          },
+          {
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DWUxVUXI0eWRNbWhKZU5RMEdKLXV5UG1TNU03NmxCTklUZFFTOVNVQjFrbjh2NllHOVdXQzk3U1lOaGg4MEpYSE1Fbm5Ha3g3NmNjTQ?oc=5",
+            "published_at": "2026-11-08T09:42:06Z",
+            "headline": "'K리그 명가' 수원 삼성, 승격 확정…3년 만에 K리그1 복귀(종합)"
+          },
+          {
+            "name": "한국일보",
+            "group": "hankookilbo.com",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YOGJadDU3UnhRQ2ZzWXQ0akZieW9zMXVCX2RCUHhERVBpNnJlSGwzUnVZSkh6OHRtLTNQaTQ4TkpaY19MN0M2ckZXcEg1WUxGcHdNdFZlREVfOHlHekV0SXRXc3dVeEd6TXg5OGVR0gFzQVVfeXFMUGNINU0wMUdubjB6SlhyNlkxV01nQTRLbl9lQWVtZEVscEYwWHB4QVBkUlpvX1MzVjQzNTBkN2VmMkN0aFJhWU9qRjd2eGxVaG5fd3F4QkV1QnY3bFFBNFVyMXlnOEc3Z2pybGJzblh6d1VCVQ?oc=5",
+            "published_at": "2026-11-08T08:32:00Z",
+            "headline": "프로축구 수원 삼성, 3년 만에 K리그1 복귀… '명가 재건' 정조준"
+          },
+          {
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12Yk1CamJvay15cVVyUmVvOUNlNnFCcHpnenpyWGZ4Rlp3WWFHY1hDRXBTNlA2YkhzX3g4bGxjZGl5dmNuLVMtX0pBUTBOYllZdjRyOXRmVUk3RTZYZFl2RdIBYEFVX3lxTE12Yk1CamJvay15cVVyUmVvOUNlNnFCcHpnenpyWGZ4Rlp3WWFHY1hDRXBTNlA2YkhzX3g4bGxjZGl5dmNuLVMtX0pBUTBOYllZdjRyOXRmVUk3RTZYZFl2RQ?oc=5",
+            "published_at": "2026-11-08T07:04:33Z",
+            "headline": "수원 삼성 블루윙즈, K리그1 승격 확정"
+          },
+          {
+            "name": "스포츠경향",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByd3hrUFBMYmdXY1NCd1VVY3pLSDRkVVNKVnRILW1MRUpCZ1ZXM0hKRFF0M280SXl1SFJ3ZmZHRDZUblRuQVRyclNzaW13dkVMUlJJdWVvSWlncV9oWkHSAWNBVV95cUxNV3NmNEN3cW1OM3cwbFJqejRTMGhYbm9SbWJULTE0ampEcUNKQ2FyUFVKenRpeTBiNlZHX25WQjMxRGJpYUZRVnVMWDhvNmM1VWFBV3pPM0FFNzZvbFlOZlU2NUU?oc=5",
+            "published_at": "2026-11-08T07:04:00Z",
+            "headline": "이정효의 수원 삼성, 3년 만에 K리그1 승격…K리그2 우승도 눈앞 ‘매직넘버 1’"
+          },
+          {
+            "name": "중앙일보",
+            "group": "joongang.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xdEd3Y3NNcUFkdXFtQ1JIMGJYTER6TnNaZTVJU0tOVlc3RVp3X0drd215UVpWc0pBZTFTY2NjT0dTTFlWa0w1X3gyU25RaDE5aWxEblNR?oc=5",
+            "published_at": "2026-11-08T06:55:39Z",
+            "headline": "‘정효볼’ 수원 삼성, 3년만에 K리그1 승격...수퍼매치 부활"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "b5197b0f8b8306cc889a",
+      "category": "기술",
+      "title": "[Why] 엔비디아 AI 반도체 60만개가 홍콩에 묶인 이유는",
+      "summary": "[Why] 엔비디아 AI 반도체 60만개가 홍콩에 묶인 이유는",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 37시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘[Why] 엔비디아 AI 반도체 60만개가 홍콩에 묶인 이유는’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+      "source": "Chosunbiz",
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZpM2ZXbDVXRTJLbnRSdnl3VVpvMmszUVNOeWM4aDhJazZjRDZ0WW5xQlVnOGpYM1ZQY0F2alB1OWVMNkxHWWRxZkxzUXVoWVZmdWliNkxTcXROenlFcGVGeEFHYXpzZGxiWnFMVEpfM01iMl8zejNwR1hITWw3RWw1U3FsX2Mxb2E1X2F3TWstemxTYmw5ZTNHYlR0QdIBsgFBVV95cUxPdDBDdl9NNTdUejFSMlJwM1g3cjlPRFl2YXUxcHJseUR6WnJLWXNyU1g0Z0NsZnNmQXNFUFZScUFaQU9GLWwzQXZZV0sybjByQ2lTVWJnMEpxLUFDcWNmNm1wNnZxSUdmNWxuNFVHa3E0T1V2amhMQjdpZ0otTXp1aHo5NUhfaUUxWDdRWDE5YURqV0dUZE1IaVFnRzFwOFFhRFY1YUZ3QTBVX1pkYmdabFZB?oc=5",
+      "published_at": "2026-11-07T21:00:00Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 2,
         "report_count": 2,
-        "span_hours": 0.5,
-        "first_report_at": "2026-11-06T20:00:02Z",
-        "last_report_at": "2026-11-06T20:30:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnZJaENxOHpqclhnSmpyazRFNTYtR3hxTHdQYk1UN19DRHlrQmNjNl9ibnRCUXBqNHZoNFA3Q0xIS2N0ejRMYzVYLTJ2a184amdVNkdtcHVGUURhcDd0OEhVYXpXMlhKSGlaQkxUOWxCdW9RUE1XUlUyNm9MS0hueg?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40VVVPUG5LTmhSc0tJeEVSTXZudmJ3WVQ2NHBNOFhCM3o0aV9Td0hTZ1JuRUV6d2VMa0c2RTg4QTRTYXVlaG9oRzYxbDZLdjl2SWpBN1lFX0RieGxrYVJtSFRXYU8?oc=5",
+        "span_hours": 37.1,
+        "first_report_at": "2026-11-06T07:55:00Z",
+        "last_report_at": "2026-11-07T21:00:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IRnRvajVSSUc0UEU5cFBkRUNwMXluVGpJQ2twUU85bUpwU0lSX2wxVXBrN0RpU0U2YXJsa1NjNk83MXp3UjVzU3RFQTZjQmJWWlBLYVlvLThVZ9IBX0FVX3lxTE1iaGpkWmw5aGRoMWgtTGZuM3p2WmJSS1NERFBZc1ZCSHdvS1ZNOTBHM3hNVy14UjBMNVBJT0hEaWxEMldPWVdrWHZpc1U1Mzl3bFpWTi1GRkU3dzJkeldN?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZpM2ZXbDVXRTJLbnRSdnl3VVpvMmszUVNOeWM4aDhJazZjRDZ0WW5xQlVnOGpYM1ZQY0F2alB1OWVMNkxHWWRxZkxzUXVoWVZmdWliNkxTcXROenlFcGVGeEFHYXpzZGxiWnFMVEpfM01iMl8zejNwR1hITWw3RWw1U3FsX2Mxb2E1X2F3TWstemxTYmw5ZTNHYlR0QdIBsgFBVV95cUxPdDBDdl9NNTdUejFSMlJwM1g3cjlPRFl2YXUxcHJseUR6WnJLWXNyU1g0Z0NsZnNmQXNFUFZScUFaQU9GLWwzQXZZV0sybjByQ2lTVWJnMEpxLUFDcWNmNm1wNnZxSUdmNWxuNFVHa3E0T1V2amhMQjdpZ0otTXp1aHo5NUhfaUUxWDdRWDE5YURqV0dUZE1IaVFnRzFwOFFhRFY1YUZ3QTBVX1pkYmdabFZB?oc=5",
         "sources": [
           {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40VVVPUG5LTmhSc0tJeEVSTXZudmJ3WVQ2NHBNOFhCM3o0aV9Td0hTZ1JuRUV6d2VMa0c2RTg4QTRTYXVlaG9oRzYxbDZLdjl2SWpBN1lFX0RieGxrYVJtSFRXYU8?oc=5",
-            "published_at": "2026-11-06T20:30:00Z",
-            "headline": "토요일 서울 마라톤·집회…여의도·광화문 곳곳 교통통제"
+            "name": "Chosunbiz",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZpM2ZXbDVXRTJLbnRSdnl3VVpvMmszUVNOeWM4aDhJazZjRDZ0WW5xQlVnOGpYM1ZQY0F2alB1OWVMNkxHWWRxZkxzUXVoWVZmdWliNkxTcXROenlFcGVGeEFHYXpzZGxiWnFMVEpfM01iMl8zejNwR1hITWw3RWw1U3FsX2Mxb2E1X2F3TWstemxTYmw5ZTNHYlR0QdIBsgFBVV95cUxPdDBDdl9NNTdUejFSMlJwM1g3cjlPRFl2YXUxcHJseUR6WnJLWXNyU1g0Z0NsZnNmQXNFUFZScUFaQU9GLWwzQXZZV0sybjByQ2lTVWJnMEpxLUFDcWNmNm1wNnZxSUdmNWxuNFVHa3E0T1V2amhMQjdpZ0otTXp1aHo5NUhfaUUxWDdRWDE5YURqV0dUZE1IaVFnRzFwOFFhRFY1YUZ3QTBVX1pkYmdabFZB?oc=5",
+            "published_at": "2026-11-07T21:00:00Z",
+            "headline": "[Why] 엔비디아 AI 반도체 60만개가 홍콩에 묶인 이유는"
           },
           {
-            "name": "이데일리",
-            "group": "edaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnZJaENxOHpqclhnSmpyazRFNTYtR3hxTHdQYk1UN19DRHlrQmNjNl9ibnRCUXBqNHZoNFA3Q0xIS2N0ejRMYzVYLTJ2a184amdVNkdtcHVGUURhcDd0OEhVYXpXMlhKSGlaQkxUOWxCdW9RUE1XUlUyNm9MS0hueg?oc=5",
-            "published_at": "2026-11-06T20:00:02Z",
-            "headline": "주말 서울 곳곳 집회·마라톤…\"교통정보 확인하세요\"[사회in]"
+            "name": "경향신문",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IRnRvajVSSUc0UEU5cFBkRUNwMXluVGpJQ2twUU85bUpwU0lSX2wxVXBrN0RpU0U2YXJsa1NjNk83MXp3UjVzU3RFQTZjQmJWWlBLYVlvLThVZ9IBX0FVX3lxTE1iaGpkWmw5aGRoMWgtTGZuM3p2WmJSS1NERFBZc1ZCSHdvS1ZNOTBHM3hNVy14UjBMNVBJT0hEaWxEMldPWVdrWHZpc1U1Mzl3bFpWTi1GRkU3dzJkeldN?oc=5",
+            "published_at": "2026-11-06T07:55:00Z",
+            "headline": "엔비디아 AI 반도체 운송 중 도난···154억원어치 화물 ‘증발’"
           }
         ]
       },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-07T21:47:53.933825Z"
+      "selection_rank": 1
+    },
+    {
+      "id": "1cde2675224b8d5d7453",
+      "category": "생활",
+      "title": "금천구 박미삼거리서 승용차량이 버스정류장 펜스 들이받아…다친 사람 없어",
+      "summary": "금천구 박미삼거리서 승용차량이 버스정류장 펜스 들이받아…다친 사람 없어",
+      "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 8시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘금천구 박미삼거리서 승용차량이 버스정류장 펜스 들이받아…다친 사람 없어’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
+      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
+      "source": "news.sbs.co.kr",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6RUxETXBUVmhhcDlhaWwyeHBrOE50YnZLUlIyU2NmSWJKTlRYNG5DMmlLVG1MWURLRnRJc2FJbmtkeVdXRklyYnlWekVzOTE0ZVNmaFFMMndUUkNMd3MtTXNMVEd5dw?oc=5",
+      "published_at": "2026-11-08T04:54:00Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 4,
+        "report_count": 6,
+        "span_hours": 8.5,
+        "first_report_at": "2026-11-08T04:17:05Z",
+        "last_report_at": "2026-11-08T12:44:36Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WTlVyUUVpOF9MUGRxQXJ1aEtzUnYtME1XWjBCZ3ExNWVfYUgtcGRmdlUzb1JBcWxTZkw3b2lpTXhlcjg2ZlRNRVYwU3NndmY4cGh2eGUyLU5aQ0HSAWBBVV95cUxOUWs3ZldITnhsdi1DZXZiakQza0E0YnRzXzBTOUFJVU55Tng2YUc0YWdEYWo0dmRwVGhoZ0hwQnVqM2ZhV3JJSFlMQlM2T1gwQ2RwXzl5VmVZcTB1NzlKMG4?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hUE1HZWF6ajFicnZ0UEhyOWFYRnNyVDBSbFVIWEJzVjZUbjRiemRKSmFEX3NBZlJObmJ3V09LOVNjeDlZRHBhbUVPd0xOWTc4cEw4RGRueDBGY0c3cmNjLU9kcUpjQzRfSEVsYnZwRTNza2w4Z3Z30gF3QVVfeXFMUFhDVGUyYXFMYk9WRjFPWHJBTGllOFk1TGtXb0MwblNvNXFlYkV2bjhHeWtMZ21lYjdFak05aTcxcHV3c2JMMUU5NUQ4dUVkUEs0UWRhSHR5cGg5WllpVmN3RHA2d3VsQnU2SndqTFpxUTNRcnR1Sjg?oc=5",
+        "sources": [
+          {
+            "name": "MBC 뉴스",
+            "group": "imbc.com",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hUE1HZWF6ajFicnZ0UEhyOWFYRnNyVDBSbFVIWEJzVjZUbjRiemRKSmFEX3NBZlJObmJ3V09LOVNjeDlZRHBhbUVPd0xOWTc4cEw4RGRueDBGY0c3cmNjLU9kcUpjQzRfSEVsYnZwRTNza2w4Z3Z30gF3QVVfeXFMUFhDVGUyYXFMYk9WRjFPWHJBTGllOFk1TGtXb0MwblNvNXFlYkV2bjhHeWtMZ21lYjdFak05aTcxcHV3c2JMMUU5NUQ4dUVkUEs0UWRhSHR5cGg5WllpVmN3RHA2d3VsQnU2SndqTFpxUTNRcnR1Sjg?oc=5",
+            "published_at": "2026-11-08T12:44:36Z",
+            "headline": "대전 서구서 통근 버스가 가로수 들이받아‥다친 사람 없어"
+          },
+          {
+            "name": "한겨레",
+            "group": "hani.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uUXZyNTN5LU53TXo3eFRRSWxyT1ZSZFNuYlp5Mi1WaEpSVnZzSFpwNGtSNmh0bDByaURoTmJBM0VFNFFVclk4SFpWeDJpSkNUbmFJS0k3MHVkXzhzX2pENWJOYlRDTnhTMjEzR0g3OTNaQQ?oc=5",
+            "published_at": "2026-11-08T06:32:00Z",
+            "headline": "금천구서 SUV 차량 버스정류장 난간 들이받아…인명 피해 없어"
+          },
+          {
+            "name": "news.sbs.co.kr",
+            "group": "sbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6RUxETXBUVmhhcDlhaWwyeHBrOE50YnZLUlIyU2NmSWJKTlRYNG5DMmlLVG1MWURLRnRJc2FJbmtkeVdXRklyYnlWekVzOTE0ZVNmaFFMMndUUkNMd3MtTXNMVEd5dw?oc=5",
+            "published_at": "2026-11-08T04:54:00Z",
+            "headline": "금천구 박미삼거리서 승용차량이 버스정류장 펜스 들이받아…다친 사람 없어"
+          },
+          {
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WTlVyUUVpOF9MUGRxQXJ1aEtzUnYtME1XWjBCZ3ExNWVfYUgtcGRmdlUzb1JBcWxTZkw3b2lpTXhlcjg2ZlRNRVYwU3NndmY4cGh2eGUyLU5aQ0HSAWBBVV95cUxOUWs3ZldITnhsdi1DZXZiakQza0E0YnRzXzBTOUFJVU55Tng2YUc0YWdEYWo0dmRwVGhoZ0hwQnVqM2ZhV3JJSFlMQlM2T1gwQ2RwXzl5VmVZcTB1NzlKMG4?oc=5",
+            "published_at": "2026-11-08T04:17:05Z",
+            "headline": "금천구 박미삼거리서 SUV 차량, 버스정류장 돌진…다친 사람 없어"
+          }
+        ]
+      },
+      "selection_rank": 1
     }
   ]
 }
