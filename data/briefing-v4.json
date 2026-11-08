@@ -2,61 +2,8 @@
   "schema_version": 4,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-07T21:47:53.933825Z",
+  "updated_at": "2026-11-08T05:57:27.878566Z",
   "cards": [
-    {
-      "id": "16d1974b1cb990e7121b",
-      "category": "문화·예술",
-      "title": "더보이즈 에릭, 데뷔 첫 개인 사진전…팬 향한 마음 담았다",
-      "summary": "더보이즈 에릭, 데뷔 첫 개인 사진전…팬 향한 마음 담았다",
-      "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘더보이즈 에릭, 데뷔 첫 개인 사진전…팬 향한 마음 담았다’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
-      "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-      "source": "동아일보",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tZ3p6S0ViQ3NsUmtYNXNyQUVRSEE4WjJhRmdMbE5fTVNPZ0M3UzlvUGxKSXFRcGI5ZDEzRlFvbHJaX3NXQjQ5TXJOMnFxWWdyUGt0dkY5VjNudmZQWjVETzBKZnJQQ1hVN1BoYVc5UlJIcERiYmdrS0UxblFmUdIBZkFVX3lxTE5PMVo0N2VaMkVISHF1QWsxbFMzMWx6SEp4WnkweWFmanpQZU9wdW5hYktoVG9FSG1heFlPTFlZQWVUeUVrVVhkN2E1UGFlQndSZTZ0cGJZM0dZNFdMUjlDeVF5VlZhdw?oc=5",
-      "published_at": "2026-11-07T06:55:21Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 4,
-        "report_count": 6,
-        "span_hours": 10.7,
-        "first_report_at": "2026-11-06T23:14:00Z",
-        "last_report_at": "2026-11-07T09:56:41Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd3NZZGpsYXA3OFVMdnVyVWR4azBpSThmZ0dwN1YtMVItRTQ4ZHpoNWFjNGVxMkxfa1B4aGdieHNjdlVfdmdFRXJqeHJENUxzUmhRZ3pIUjF0dFB6eWdaNkIzcHNiWFZGem5VYzlmWElJdFJqVzFrcVJNTV9JU2N3bnNWQ0x2dVNaVDdSZm1xWGVBa3PSAacBQVVfeXFMTkFPM1pCc2dybi1FemY4Yjh5WmJYLW90bEZETXdhdkJPSjJyTi0yelBfbHpiNTN3OVJQQnBiTXNIZEpVS1FldUppZXdyNVgzY2ZSZW95Z19EV2xtbXZmQk9CeUI0c3lDUWFBcVNHc0hrNkxpa1lfYUE3TElobjhGM1BraHZIaGluMzBSUDh4VGl3VGNsZHhuTnB1RzBwYXR6UnhhYjBpcG8?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vbFJpa0JVT3l3eVdEUURRNlA5NjlESmRmeHVSNEIweWtXUDhzR2RSUFhzVW9RamRvaW5xY1o0eFpmR2NOREhzVVhqQnoxcVV2YWJBOTJSRQ?oc=5",
-        "sources": [
-          {
-            "name": "매일경제",
-            "group": "mk.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vbFJpa0JVT3l3eVdEUURRNlA5NjlESmRmeHVSNEIweWtXUDhzR2RSUFhzVW9RamRvaW5xY1o0eFpmR2NOREhzVVhqQnoxcVV2YWJBOTJSRQ?oc=5",
-            "published_at": "2026-11-07T09:56:41Z",
-            "headline": "더보이즈 에릭, 데뷔 첫 개인 사진전 개최…‘Baby Pink Letter’로 채운 한남동"
-          },
-          {
-            "name": "동아일보",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tZ3p6S0ViQ3NsUmtYNXNyQUVRSEE4WjJhRmdMbE5fTVNPZ0M3UzlvUGxKSXFRcGI5ZDEzRlFvbHJaX3NXQjQ5TXJOMnFxWWdyUGt0dkY5VjNudmZQWjVETzBKZnJQQ1hVN1BoYVc5UlJIcERiYmdrS0UxblFmUdIBZkFVX3lxTE5PMVo0N2VaMkVISHF1QWsxbFMzMWx6SEp4WnkweWFmanpQZU9wdW5hYktoVG9FSG1heFlPTFlZQWVUeUVrVVhkN2E1UGFlQndSZTZ0cGJZM0dZNFdMUjlDeVF5VlZhdw?oc=5",
-            "published_at": "2026-11-07T06:55:21Z",
-            "headline": "더보이즈 에릭, 데뷔 첫 개인 사진전…팬 향한 마음 담았다"
-          },
-          {
-            "name": "전자신문",
-            "group": "etnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ib0diMDdIY1lKVkppNDhvOC1FV08yMkc5dGhFOEdPVmRWV01ORkowZU0tb2pUcHpkaWlsQVFHYjNYYUJiWHViVzVYcmZBQQ?oc=5",
-            "published_at": "2026-11-07T02:48:16Z",
-            "headline": "더보이즈 에릭의 특별 감각…'첫 사진전' 개최"
-          },
-          {
-            "name": "Chosunbiz",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd3NZZGpsYXA3OFVMdnVyVWR4azBpSThmZ0dwN1YtMVItRTQ4ZHpoNWFjNGVxMkxfa1B4aGdieHNjdlVfdmdFRXJqeHJENUxzUmhRZ3pIUjF0dFB6eWdaNkIzcHNiWFZGem5VYzlmWElJdFJqVzFrcVJNTV9JU2N3bnNWQ0x2dVNaVDdSZm1xWGVBa3PSAacBQVVfeXFMTkFPM1pCc2dybi1FemY4Yjh5WmJYLW90bEZETXdhdkJPSjJyTi0yelBfbHpiNTN3OVJQQnBiTXNIZEpVS1FldUppZXdyNVgzY2ZSZW95Z19EV2xtbXZmQk9CeUI0c3lDUWFBcVNHc0hrNkxpa1lfYUE3TElobjhGM1BraHZIaGluMzBSUDh4VGl3VGNsZHhuTnB1RzBwYXR6UnhhYjBpcG8?oc=5",
-            "published_at": "2026-11-06T23:14:00Z",
-            "headline": "\"♥더비 향한 애정\" 더보이즈 에릭, 오늘(7일) 첫 개인 사진전 오픈"
-          }
-        ]
-      },
-      "selection_rank": 1
-    },
     {
       "id": "77c062974c1b8c3134c5",
       "category": "문화·예술",
@@ -66,7 +13,7 @@
       "opener": "‘[베스트셀러] 하루키 신작 '가호' 2주 연속 1위’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
       "source": "연합뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DbFdSWVZoWUZlYk5PNC1rcEprc2RRUjRmcWdJdnNvU0h4YmcwSk1HNXZNaS11UmNOdWY0d2ZiQTlDZE9nMGIyX0dWcVRyUjF6OXJDd1FxYWpWX2lUS012UNIBYEFVX3lxTE5DbFdSWVZoWUZlYk5PNC1rcEprc2RRUjRmcWdJdnNvU0h4YmcwSk1HNXZNaS11UmNOdWY0d2ZiQTlDZE9nMGIyX0dWcVRyUjF6OXJDd1FxYWpWX2lUS012UA?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CaVhaQTctdE5HSUtSdjJ4eHJwRE14ZDRDQmRaWWZSdV9pU0xWTkRWTE9vUWplUU0zb3pFeFhQQk1PRmp6eGZXTkNRTkhLbjB6dzZlRWJFUWdPR2fSAWBBVV95cUxOQ2xXUllWaFlGZWJOTzQta3BKa3NkUVI0ZnFnSXZzb1NIeGJnMEpNRzV2TWktdVJjTnVmNHdmYkE5Q2RPZzBiMl9HVnFUclIxejlyQ3dRcWFqVl9pVEtNdlA?oc=5",
       "published_at": "2026-11-05T23:00:03Z",
       "evidence": "headline",
       "coverage": {
@@ -95,7 +42,7 @@
           {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DbFdSWVZoWUZlYk5PNC1rcEprc2RRUjRmcWdJdnNvU0h4YmcwSk1HNXZNaS11UmNOdWY0d2ZiQTlDZE9nMGIyX0dWcVRyUjF6OXJDd1FxYWpWX2lUS012UNIBYEFVX3lxTE5DbFdSWVZoWUZlYk5PNC1rcEprc2RRUjRmcWdJdnNvU0h4YmcwSk1HNXZNaS11UmNOdWY0d2ZiQTlDZE9nMGIyX0dWcVRyUjF6OXJDd1FxYWpWX2lUS012UA?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CaVhaQTctdE5HSUtSdjJ4eHJwRE14ZDRDQmRaWWZSdV9pU0xWTkRWTE9vUWplUU0zb3pFeFhQQk1PRmp6eGZXTkNRTkhLbjB6dzZlRWJFUWdPR2fSAWBBVV95cUxOQ2xXUllWaFlGZWJOTzQta3BKa3NkUVI0ZnFnSXZzb1NIeGJnMEpNRzV2TWktdVJjTnVmNHdmYkE5Q2RPZzBiMl9HVnFUclIxejlyQ3dRcWFqVl9pVEtNdlA?oc=5",
             "published_at": "2026-11-05T23:00:03Z",
             "headline": "[베스트셀러] 하루키 신작 '가호' 2주 연속 1위"
           },
@@ -105,6 +52,52 @@
             "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ubXVodmJKWUdWX3kzYVlVcVlZblBiYkwxdmxtdm9UQnpYUFdQRGo3aFJDZ0dMZUdsYi1NWlEycjFWaDNGTDFjWFBfc0VPR0FhTGtCX0FZdzhoT2dqRUtkNHNPa0lwY21fcUpmMVVTa2ZNd3N4Yml1X9IBeEFVX3lxTE5ubXVodmJKWUdWX3kzYVlVcVlZblBiYkwxdmxtdm9UQnpYUFdQRGo3aFJDZ0dMZUdsYi1NWlEycjFWaDNGTDFjWFBfc0VPR0FhTGtCX0FZdzhoT2dqRUtkNHNPa0lwY21fcUpmMVVTa2ZNd3N4Yml1Xw?oc=5",
             "published_at": "2026-11-05T23:00:00Z",
             "headline": "[베스트셀러] 하루키 열풍 지속…'가호' 2주 연속 1위"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "16d1974b1cb990e7121b",
+      "category": "문화·예술",
+      "title": "더보이즈 에릭, 데뷔 첫 개인 사진전…팬 향한 마음 담았다",
+      "summary": "더보이즈 에릭, 데뷔 첫 개인 사진전…팬 향한 마음 담았다",
+      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘더보이즈 에릭, 데뷔 첫 개인 사진전…팬 향한 마음 담았다’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
+      "source": "동아일보",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tZ3p6S0ViQ3NsUmtYNXNyQUVRSEE4WjJhRmdMbE5fTVNPZ0M3UzlvUGxKSXFRcGI5ZDEzRlFvbHJaX3NXQjQ5TXJOMnFxWWdyUGt0dkY5VjNudmZQWjVETzBKZnJQQ1hVN1BoYVc5UlJIcERiYmdrS0UxblFmUdIBZkFVX3lxTE5PMVo0N2VaMkVISHF1QWsxbFMzMWx6SEp4WnkweWFmanpQZU9wdW5hYktoVG9FSG1heFlPTFlZQWVUeUVrVVhkN2E1UGFlQndSZTZ0cGJZM0dZNFdMUjlDeVF5VlZhdw?oc=5",
+      "published_at": "2026-11-07T06:55:21Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 3,
+        "report_count": 4,
+        "span_hours": 10.7,
+        "first_report_at": "2026-11-06T23:14:00Z",
+        "last_report_at": "2026-11-07T09:56:41Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd3NZZGpsYXA3OFVMdnVyVWR4azBpSThmZ0dwN1YtMVItRTQ4ZHpoNWFjNGVxMkxfa1B4aGdieHNjdlVfdmdFRXJqeHJENUxzUmhRZ3pIUjF0dFB6eWdaNkIzcHNiWFZGem5VYzlmWElJdFJqVzFrcVJNTV9JU2N3bnNWQ0x2dVNaVDdSZm1xWGVBa3PSAacBQVVfeXFMTkFPM1pCc2dybi1FemY4Yjh5WmJYLW90bEZETXdhdkJPSjJyTi0yelBfbHpiNTN3OVJQQnBiTXNIZEpVS1FldUppZXdyNVgzY2ZSZW95Z19EV2xtbXZmQk9CeUI0c3lDUWFBcVNHc0hrNkxpa1lfYUE3TElobjhGM1BraHZIaGluMzBSUDh4VGl3VGNsZHhuTnB1RzBwYXR6UnhhYjBpcG8?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vbFJpa0JVT3l3eVdEUURRNlA5NjlESmRmeHVSNEIweWtXUDhzR2RSUFhzVW9RamRvaW5xY1o0eFpmR2NOREhzVVhqQnoxcVV2YWJBOTJSRQ?oc=5",
+        "sources": [
+          {
+            "name": "매일경제",
+            "group": "mk.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vbFJpa0JVT3l3eVdEUURRNlA5NjlESmRmeHVSNEIweWtXUDhzR2RSUFhzVW9RamRvaW5xY1o0eFpmR2NOREhzVVhqQnoxcVV2YWJBOTJSRQ?oc=5",
+            "published_at": "2026-11-07T09:56:41Z",
+            "headline": "더보이즈 에릭, 데뷔 첫 개인 사진전 개최…‘Baby Pink Letter’로 채운 한남동"
+          },
+          {
+            "name": "동아일보",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tZ3p6S0ViQ3NsUmtYNXNyQUVRSEE4WjJhRmdMbE5fTVNPZ0M3UzlvUGxKSXFRcGI5ZDEzRlFvbHJaX3NXQjQ5TXJOMnFxWWdyUGt0dkY5VjNudmZQWjVETzBKZnJQQ1hVN1BoYVc5UlJIcERiYmdrS0UxblFmUdIBZkFVX3lxTE5PMVo0N2VaMkVISHF1QWsxbFMzMWx6SEp4WnkweWFmanpQZU9wdW5hYktoVG9FSG1heFlPTFlZQWVUeUVrVVhkN2E1UGFlQndSZTZ0cGJZM0dZNFdMUjlDeVF5VlZhdw?oc=5",
+            "published_at": "2026-11-07T06:55:21Z",
+            "headline": "더보이즈 에릭, 데뷔 첫 개인 사진전…팬 향한 마음 담았다"
+          },
+          {
+            "name": "Chosunbiz",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd3NZZGpsYXA3OFVMdnVyVWR4azBpSThmZ0dwN1YtMVItRTQ4ZHpoNWFjNGVxMkxfa1B4aGdieHNjdlVfdmdFRXJqeHJENUxzUmhRZ3pIUjF0dFB6eWdaNkIzcHNiWFZGem5VYzlmWElJdFJqVzFrcVJNTV9JU2N3bnNWQ0x2dVNaVDdSZm1xWGVBa3PSAacBQVVfeXFMTkFPM1pCc2dybi1FemY4Yjh5WmJYLW90bEZETXdhdkJPSjJyTi0yelBfbHpiNTN3OVJQQnBiTXNIZEpVS1FldUppZXdyNVgzY2ZSZW95Z19EV2xtbXZmQk9CeUI0c3lDUWFBcVNHc0hrNkxpa1lfYUE3TElobjhGM1BraHZIaGluMzBSUDh4VGl3VGNsZHhuTnB1RzBwYXR6UnhhYjBpcG8?oc=5",
+            "published_at": "2026-11-06T23:14:00Z",
+            "headline": "\"♥더비 향한 애정\" 더보이즈 에릭, 오늘(7일) 첫 개인 사진전 오픈"
           }
         ]
       },
@@ -226,124 +219,128 @@
       "last_collected_at": "2026-11-06T19:22:19.681690Z"
     },
     {
-      "id": "618e2bd3ede75837f6bf",
+      "id": "71bea3830a6429629a82",
       "category": "스포츠",
-      "title": "브라질 청소년 축구 경기서 난투극…역대 최다 '51명' 무더기 퇴장",
-      "summary": "브라질 청소년 축구 경기서 난투극…역대 최다 '51명' 무더기 퇴장",
-      "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 12시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘브라질 청소년 축구 경기서 난투극…역대 최다 '51명' 무더기 퇴장’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "title": "농협, 제2회 농협중앙회장배 농업인 파크골프대회 개최",
+      "summary": "농협, 제2회 농협중앙회장배 농업인 파크골프대회 개최",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 27시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘농협, 제2회 농협중앙회장배 농업인 파크골프대회 개최’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "뉴스1",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IS1QwZnhPaWF4dXUtRVhISWx2Q0ttazhfNlFkSFN1TV9kbXlUU3prRFJJbTQwOERmM0dEV0VMb3Y2Um5ERnNnd0cybDVZWTVld0RuWkZnd0VBX2NFTzdhUw?oc=5",
-      "published_at": "2026-11-05T02:59:26Z",
+      "source": "노컷뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSM1I3QkhLMzMtMFlNMzU3OV8zdExmbGQ3bWNKdVNsaGFfbHZ1cUNtZk9FNmNBRVMwWW5hOW1mTEE1NDZNdVBqVmNHN2JKeV9tS0E?oc=5",
+      "published_at": "2026-11-07T13:30:31Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 6,
-        "report_count": 6,
-        "span_hours": 12.6,
-        "first_report_at": "2026-11-04T22:34:01Z",
-        "last_report_at": "2026-11-05T11:11:05Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IdUJ6Vm5maWtpYVIySVVZWUpjUjlzSmhDTkE4OEZ6TjJndXI5SlhJNklyWlpLclJGeXJ6aDFHSDhCRVgwamRBelhqSm9fR3Jkdng5N0U5OXJlNUcxcGlkVmgyUWhqdEJIVk51WHdmU3dudjViM1phbEdB0gF6QVVfeXFMTUNvR2JGaFlCRDIxZXRyWWQwUDJ3aHBUcTB1WGFEc2RadWF3SWZKenJIcDluM3dkSVVWRmxibncwV1oxWWxybm44STlld3Fva2UtYXRMMTJ6MTZVUTA0WmlTYVpGSUFRUGYzUnNSSk9DMEhHXzIzSk1WbEE?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lR1NGNkJicXJ3OFZjTkQ0TmtaZUE4RlkxaW05VkRtN20wUldKLXgzeTJhS2M4UGFFTk00OWZkeTV2WG1Cc2l3R2VkTkExM2pv0gFUQVVfeXFMTm8tOVhXWVk2RHBQclVNNS1ydzBycUxOM1BpU3Q4MjQ1ZWdRTjN5eVQxVW5iR1dCaWpBQ3JjZHk1VW5ZR25lRnhDZ2huVldTVFZlZ3Zi?oc=5",
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 27.7,
+        "first_report_at": "2026-11-06T09:50:36Z",
+        "last_report_at": "2026-11-07T13:30:31Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc3BzZ3NoQ1lBWHU4aGhJSXZjSS1zdF9vUVFfNnIteEd5UEtNTGwwT1dXNTl1UEFuWGVPR3diSWdTRnBuMG56ZzZLRUYzenlKRGc?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSM1I3QkhLMzMtMFlNMzU3OV8zdExmbGQ3bWNKdVNsaGFfbHZ1cUNtZk9FNmNBRVMwWW5hOW1mTEE1NDZNdVBqVmNHN2JKeV9tS0E?oc=5",
         "sources": [
           {
-            "name": "세계일보",
-            "group": "segye.com",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lR1NGNkJicXJ3OFZjTkQ0TmtaZUE4RlkxaW05VkRtN20wUldKLXgzeTJhS2M4UGFFTk00OWZkeTV2WG1Cc2l3R2VkTkExM2pv0gFUQVVfeXFMTm8tOVhXWVk2RHBQclVNNS1ydzBycUxOM1BpU3Q4MjQ1ZWdRTjN5eVQxVW5iR1dCaWpBQ3JjZHk1VW5ZR25lRnhDZ2huVldTVFZlZ3Zi?oc=5",
-            "published_at": "2026-11-05T11:11:05Z",
-            "headline": "사상 초유의 ‘한 경기 51장 ’… 브라질 축구 집단 난투극"
+            "name": "노컷뉴스",
+            "group": "nocutnews.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSM1I3QkhLMzMtMFlNMzU3OV8zdExmbGQ3bWNKdVNsaGFfbHZ1cUNtZk9FNmNBRVMwWW5hOW1mTEE1NDZNdVBqVmNHN2JKeV9tS0E?oc=5",
+            "published_at": "2026-11-07T13:30:31Z",
+            "headline": "농협, 제2회 농협중앙회장배 농업인 파크골프대회 개최"
           },
           {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IS1QwZnhPaWF4dXUtRVhISWx2Q0ttazhfNlFkSFN1TV9kbXlUU3prRFJJbTQwOERmM0dEV0VMb3Y2Um5ERnNnd0cybDVZWTVld0RuWkZnd0VBX2NFTzdhUw?oc=5",
-            "published_at": "2026-11-05T02:59:26Z",
-            "headline": "브라질 청소년 축구 경기서 난투극…역대 최다 '51명' 무더기 퇴장"
-          },
-          {
-            "name": "한겨레",
-            "group": "hani.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fM3E2NUkwUW83a3A0Qy10LTJVX2pLYnhtVHRzajFBbFJzNW5xWXVfUm9nY0JWaFFXTUs0d3hqZDZpM19ia2hjNXJiRHRwdlFpaS1SNHU0X3pDcDhJSF82LTVlckE?oc=5",
-            "published_at": "2026-11-05T02:33:00Z",
-            "headline": "브라질 청소년 축구 난투극에 ‘레드카드’ 51명…단일 경기 최다 퇴장"
-          },
-          {
-            "name": "스포츠경향",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iTTQzLWxpWTB1dzdMcTdubjFwdXNMVVZrOFltNWdJeDdQeFRnZHlRRjdfYkJGWGY1aVVEWlRNTEtnc1NZUExZY3lQTmQ3LVNKY3A5djh6RnMycXJfQ0HSAWNBVV95cUxNQi1uVF9LNVNjUjFwWkdic3BXS0x3bkxWYVNRUUEzM2F1NHFIVkc1YU8yRFgzWnl4UzBocG96MmMwREhraExkMU1FTUlIOHBZNF9GZnk0alJNRkxPY0NYdExsb2s?oc=5",
-            "published_at": "2026-11-05T00:46:00Z",
-            "headline": "‘대충격’ 브라질 U-20 축구서 한 경기 ‘51명 퇴장’ 사상 초유의 집단 난투극···기네스 기록도 훌쩍 넘었..."
-          },
-          {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81dnZ1a0h6cGNEcE1QbmQwOHZVdVZraVdqZVdqTEhZV0R5VXI1Wk1oaVE3X3FDTzVVOTlHcWQ2aHFtNGJzUldLT2JzbW5wMm8wSFNIUzZKOG1TX1XSAWBBVV95cUxOMkgtdmFKT3JQVnRhckE0SnpSX080b0dqSHlvNF90bEJ5V25WeVhCYUdsR0ZmbzhvYy00dWNHMFR3dU9CWkViQzJMZXVkMUd2blZTSlg1TjBEeFhDZGg4eTA?oc=5",
-            "published_at": "2026-11-05T00:43:53Z",
-            "headline": "브라질 청소년 축구 경기서 난투극으로 '레드카드 51장' 신기록"
-          },
-          {
-            "name": "MBC 뉴스",
-            "group": "imbc.com",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IdUJ6Vm5maWtpYVIySVVZWUpjUjlzSmhDTkE4OEZ6TjJndXI5SlhJNklyWlpLclJGeXJ6aDFHSDhCRVgwamRBelhqSm9fR3Jkdng5N0U5OXJlNUcxcGlkVmgyUWhqdEJIVk51WHdmU3dudjViM1phbEdB0gF6QVVfeXFMTUNvR2JGaFlCRDIxZXRyWWQwUDJ3aHBUcTB1WGFEc2RadWF3SWZKenJIcDluM3dkSVVWRmxibncwV1oxWWxybm44STlld3Fva2UtYXRMMTJ6MTZVUTA0WmlTYVpGSUFRUGYzUnNSSk9DMEhHXzIzSk1WbEE?oc=5",
-            "published_at": "2026-11-04T22:34:01Z",
-            "headline": "[이 시각 세계] 브라질 축구 경기서 난투극"
+            "name": "매일경제 마켓",
+            "group": "mk.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc3BzZ3NoQ1lBWHU4aGhJSXZjSS1zdF9vUVFfNnIteEd5UEtNTGwwT1dXNTl1UEFuWGVPR3diSWdTRnBuMG56ZzZLRUYzenlKRGc?oc=5",
+            "published_at": "2026-11-06T09:50:36Z",
+            "headline": "농협중앙회장배 농업인 파크골프대회 결승전 개최"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "960fd232fcdb042d8043",
+      "id": "907bea641aefd9d13395",
       "category": "스포츠",
-      "title": "이강인, 바르셀로나전 선발 출전 전망 \"알바레스와 투톱 예상\"",
-      "summary": "이강인, 바르셀로나전 선발 출전 전망 \"알바레스와 투톱 예상\"",
-      "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 15시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘이강인, 바르셀로나전 선발 출전 전망 \"알바레스와 투톱 예상\"’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "title": "K리그1 광주, 제주와 1-1 무승부…오늘은 최하위 확정 피했다",
+      "summary": "K리그1 광주, 제주와 1-1 무승부…오늘은 최하위 확정 피했다",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 3시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘K리그1 광주, 제주와 1-1 무승부…오늘은 최하위 확정 피했다’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "뉴시스",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nV09RTnBRN3VjbGJCajcwVDlqLUhja2x6Z0JxTXNoMG03QXluTU5sMkdxMGloQUVReTFFdWowVllrMGtKczlvVHNfMmJKSmthbTBWT240c3NxY1IzT2MwanRzTFBzUk45LUVyV2drc2xMLTQtWm5zdNIBeEFVX3lxTE5nV09RTnBRN3VjbGJCajcwVDlqLUhja2x6Z0JxTXNoMG03QXluTU5sMkdxMGloQUVReTFFdWowVllrMGtKczlvVHNfMmJKSmthbTBWT240c3NxY1IzT2MwanRzTFBzUk45LUVyV2drc2xMLTQtWm5zdA?oc=5",
-      "published_at": "2026-11-07T01:42:14Z",
+      "source": "동아일보",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hYlFtVV9VX1h2dDZPYWNuS1lqN1RJRFlSQzcyamlDNUh4cjNTSmVHSEtNMW5MUkJWcE9aMDh1VnBzSVRrRndrdHpVT3l3SzIwZ1pFZ0JKcHZDZkpOYTJfZ0g2U0dlUnROWkUwUkVKSHJtTnNU0gFmQVVfeXFMTkl0cGg0dFkwRW5WU19HQWRZY2haemhrUE1NV0FuRG53ZHFST3lMSkk5aXBoa1dsSDhDaGdjeFJrTXZNRzNKcm5Pd010WGdTNnNhQzVFU015QnlOM0dGM3JYYVNHNlVR?oc=5",
+      "published_at": "2026-11-07T10:26:22Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 4,
-        "report_count": 6,
-        "span_hours": 15.0,
-        "first_report_at": "2026-11-06T21:51:00Z",
-        "last_report_at": "2026-11-07T12:50:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6cV96OEt0S0p3YlB2TkRjUjBhSUMwUUVrelRMTnJoM2d0RnFhMEFpZHdJOHI4Qnl2U0dBVk1uNlpZaEhNTGxjMjNqN3Z2NzNERFNERklqeG8yWDduR01BcFR4cXVMeElmeGNpSDNzY9IBb0FVX3lxTFB6cV96OEt0S0p3YlB2TkRjUjBhSUMwUUVrelRMTnJoM2d0RnFhMEFpZHdJOHI4Qnl2U0dBVk1uNlpZaEhNTGxjMjNqN3Z2NzNERFNERklqeG8yWDduR01BcFR4cXVMeElmeGNpSDNzYw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50VWhZM1J5WFpFbEZyQXZJektxMnVwYWdrVGN6a3pVcWhjb2MwUWhHZV8yaWhrM0JaWUxtekgtZkx4STIxc0pxempvWkgtRWtWWmxpdFp2R0R5bl9uLWfSAWNBVV95cUxPcTlBcUJqZjdPbGFTcUo3Tzg0eXR1U2tjeUd3REp6NlNrbVVBWnlIeDNFR2tYNXB2UTA3NmE3OThxcWQ2emE3dE5PVHBYZFA4SmZKWkptbzdHMTlQSUt4S0NfVGc?oc=5",
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 3.3,
+        "first_report_at": "2026-11-07T07:06:44Z",
+        "last_report_at": "2026-11-07T10:26:22Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rVW9IeXpZbi1VOEFoemtPNS15eXRPNG1MT2s0VmVLbHlJVnJpNV9ldEhRMC1CSnUtT2h3RE9IREVXQXJVYVBMNmV4Mm91V1VYeGY0UVZCZlFTVUk0dnRzWNIBYEFVX3lxTE9rVW9IeXpZbi1VOEFoemtPNS15eXRPNG1MT2s0VmVLbHlJVnJpNV9ldEhRMC1CSnUtT2h3RE9IREVXQXJVYVBMNmV4Mm91V1VYeGY0UVZCZlFTVUk0dnRzWA?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hYlFtVV9VX1h2dDZPYWNuS1lqN1RJRFlSQzcyamlDNUh4cjNTSmVHSEtNMW5MUkJWcE9aMDh1VnBzSVRrRndrdHpVT3l3SzIwZ1pFZ0JKcHZDZkpOYTJfZ0g2U0dlUnROWkUwUkVKSHJtTnNU0gFmQVVfeXFMTkl0cGg0dFkwRW5WU19HQWRZY2haemhrUE1NV0FuRG53ZHFST3lMSkk5aXBoa1dsSDhDaGdjeFJrTXZNRzNKcm5Pd010WGdTNnNhQzVFU015QnlOM0dGM3JYYVNHNlVR?oc=5",
         "sources": [
           {
-            "name": "스포츠경향",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50VWhZM1J5WFpFbEZyQXZJektxMnVwYWdrVGN6a3pVcWhjb2MwUWhHZV8yaWhrM0JaWUxtekgtZkx4STIxc0pxempvWkgtRWtWWmxpdFp2R0R5bl9uLWfSAWNBVV95cUxPcTlBcUJqZjdPbGFTcUo3Tzg0eXR1U2tjeUd3REp6NlNrbVVBWnlIeDNFR2tYNXB2UTA3NmE3OThxcWQ2emE3dE5PVHBYZFA4SmZKWkptbzdHMTlQSUt4S0NfVGc?oc=5",
-            "published_at": "2026-11-07T12:50:00Z",
-            "headline": "‘7경기·0공포’ 이강인 또 투톱? FC 바르셀로나와 ‘리그 1위 결정전’ 西 매체 ‘선발 출전+전방 공격수’ ..."
+            "name": "동아일보",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hYlFtVV9VX1h2dDZPYWNuS1lqN1RJRFlSQzcyamlDNUh4cjNTSmVHSEtNMW5MUkJWcE9aMDh1VnBzSVRrRndrdHpVT3l3SzIwZ1pFZ0JKcHZDZkpOYTJfZ0g2U0dlUnROWkUwUkVKSHJtTnNU0gFmQVVfeXFMTkl0cGg0dFkwRW5WU19HQWRZY2haemhrUE1NV0FuRG53ZHFST3lMSkk5aXBoa1dsSDhDaGdjeFJrTXZNRzNKcm5Pd010WGdTNnNhQzVFU015QnlOM0dGM3JYYVNHNlVR?oc=5",
+            "published_at": "2026-11-07T10:26:22Z",
+            "headline": "K리그1 광주, 제주와 1-1 무승부…오늘은 최하위 확정 피했다"
           },
           {
-            "name": "SPOTV NEWS",
-            "group": "spotvnews.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjQjl3YTBwQjNMNlRfZDUyeGE3Zi11X0JpaUxRT0JyTGNkSzlCRUhUM0ItTVI4WDU5YjkzdmZkVFBpMkJkckVQQ0E1Y09HNjhrV3pQUVUxLVFoVnpEa08yNFR5cWFGeUk5Q01XYkZ1djI?oc=5",
-            "published_at": "2026-11-07T04:00:00Z",
-            "headline": "'챔피언스리그 깜짝 벤치' 이강인, 바르셀로나전에서는 선발 출전 전망...\"시메오네의 베스트11 훈련 소화\""
-          },
-          {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nV09RTnBRN3VjbGJCajcwVDlqLUhja2x6Z0JxTXNoMG03QXluTU5sMkdxMGloQUVReTFFdWowVllrMGtKczlvVHNfMmJKSmthbTBWT240c3NxY1IzT2MwanRzTFBzUk45LUVyV2drc2xMLTQtWm5zdNIBeEFVX3lxTE5nV09RTnBRN3VjbGJCajcwVDlqLUhja2x6Z0JxTXNoMG03QXluTU5sMkdxMGloQUVReTFFdWowVllrMGtKczlvVHNfMmJKSmthbTBWT240c3NxY1IzT2MwanRzTFBzUk45LUVyV2drc2xMLTQtWm5zdA?oc=5",
-            "published_at": "2026-11-07T01:42:14Z",
-            "headline": "이강인, 바르셀로나전 선발 출전 전망 \"알바레스와 투톱 예상\""
-          },
-          {
-            "name": "스타뉴스",
-            "group": "mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmbjRNcTV3RWJ5cnRWWmQwd0t2T2dKa1Y5dDRTUldIeC1Gd3cwZWVCVF9CaS1BRkF3MUFNRUhRaWUtWDBZdVA3V2YyRDB4ZG11b3dla1g5WWlSWkM5aUdSVUR2THJ4WGRGTi15YWt5bVdsMTVpaGc?oc=5",
-            "published_at": "2026-11-06T23:20:41Z",
-            "headline": "\"뮌헨전 벤치→바르셀로나전 선발 유력\" 이강인, 시메오네가 직접 시험했다... 알바레스 뒤에서 공격 지원"
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rVW9IeXpZbi1VOEFoemtPNS15eXRPNG1MT2s0VmVLbHlJVnJpNV9ldEhRMC1CSnUtT2h3RE9IREVXQXJVYVBMNmV4Mm91V1VYeGY0UVZCZlFTVUk0dnRzWNIBYEFVX3lxTE9rVW9IeXpZbi1VOEFoemtPNS15eXRPNG1MT2s0VmVLbHlJVnJpNV9ldEhRMC1CSnUtT2h3RE9IREVXQXJVYVBMNmV4Mm91V1VYeGY0UVZCZlFTVUk0dnRzWA?oc=5",
+            "published_at": "2026-11-07T07:06:44Z",
+            "headline": "K리그1 광주, 제주와 1-1 무승부…일단 미뤄진 꼴찌 확정"
           }
         ]
       },
       "selection_rank": 2
+    },
+    {
+      "id": "8d13d6a6884895ab3d4a",
+      "category": "기술·과학",
+      "title": "카카오, AI 판단 돕는 의사결정 모델 오픈소스 공개",
+      "summary": "카카오, AI 판단 돕는 의사결정 모델 오픈소스 공개",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘카카오, AI 판단 돕는 의사결정 모델 오픈소스 공개’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+      "source": "서울신문",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZRDNadXg2Ulh2d0VCRjBFRzJVOTJ1WjF4QjFYaUU4UEg2aXc3cGtjQmZ1WTlZY3NnZjdGNm9UaVJ6N1JveDJLR0dlVHE5Vk9kOFpJZFoxd3cxVjZ6RzhiOGYyc0dTeWxoOHIwVVBXdm01VG8?oc=5",
+      "published_at": "2026-11-06T01:27:33Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 3,
+        "report_count": 3,
+        "span_hours": 4.6,
+        "first_report_at": "2026-11-06T01:27:33Z",
+        "last_report_at": "2026-11-06T06:00:38Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZRDNadXg2Ulh2d0VCRjBFRzJVOTJ1WjF4QjFYaUU4UEg2aXc3cGtjQmZ1WTlZY3NnZjdGNm9UaVJ6N1JveDJLR0dlVHE5Vk9kOFpJZFoxd3cxVjZ6RzhiOGYyc0dTeWxoOHIwVVBXdm01VG8?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcUxUNE81TlNTSzNPcFZsN0ZKdHBtVVhsMERLZ1kwenVNQnRsdmk0MzJxT3I5dkg4SmxqUjRGdXJRdXJPVVg1TWtJczQxNVdlRUVlVm1Ncm10dw?oc=5",
+        "sources": [
+          {
+            "name": "파이낸셜뉴스",
+            "group": "fnnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CcUxUNE81TlNTSzNPcFZsN0ZKdHBtVVhsMERLZ1kwenVNQnRsdmk0MzJxT3I5dkg4SmxqUjRGdXJRdXJPVVg1TWtJczQxNVdlRUVlVm1Ncm10dw?oc=5",
+            "published_at": "2026-11-06T06:00:38Z",
+            "headline": "0.04초 만에 응답…카카오, AI 판단 돕는 기술 공개"
+          },
+          {
+            "name": "지디넷코리아",
+            "group": "zdnet.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96WTZ5ZlhwQy0tTUkwSGVOdHhNUk9VdS1nWFRhRTJ3ZzVqMV9uTENlY3ZKbmZCbFRoeUpfWXpJYkZ6bzhna2RTMUpuZ09QNTVyNmMtZW1B?oc=5",
+            "published_at": "2026-11-06T05:48:44Z",
+            "headline": "AI 판단 돕는다…카카오, '카나나 디사이드' 오픈소스 공개"
+          },
+          {
+            "name": "서울신문",
+            "group": "seoul.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZRDNadXg2Ulh2d0VCRjBFRzJVOTJ1WjF4QjFYaUU4UEg2aXc3cGtjQmZ1WTlZY3NnZjdGNm9UaVJ6N1JveDJLR0dlVHE5Vk9kOFpJZFoxd3cxVjZ6RzhiOGYyc0dTeWxoOHIwVVBXdm01VG8?oc=5",
+            "published_at": "2026-11-06T01:27:33Z",
+            "headline": "카카오, AI 판단 돕는 의사결정 모델 오픈소스 공개"
+          }
+        ]
+      },
+      "selection_rank": 1
     },
     {
       "id": "0af277644d3f4dbc86f9",
@@ -396,60 +393,6 @@
           }
         ]
       },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-06T19:22:19.681690Z"
-    },
-    {
-      "id": "12e3a0bcd65a782e7728",
-      "category": "기술·과학",
-      "title": "美민주당 AI 규제 공포에 '패닉'…나스닥 5.5% 폭락 [월스트리트in]",
-      "summary": "美민주당 AI 규제 공포에 '패닉'…나스닥 5.5% 폭락 [월스트리트in]",
-      "why_now": "이전 수집(11.07 04:22 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘美민주당 AI 규제 공포에 '패닉'…나스닥 5.5% 폭락 [월스트리트in]’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
-      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-      "source": "이데일리",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdVRqMnFXelJXZ0RVSVY5MkhCSk80enNuM0M1UVZBa3QyaE52eFVQR1FUREtiVDNGcUY2cjhVRmhVNmZOcXRFSF96LUdQZkl6Wmp4aUhHTmJPMDNNbzlRc3dNWGVyNFhlVTZBY2FFLXNpTFViMTdrVGR3RHJXMDhHbQ?oc=5",
-      "published_at": "2026-11-05T21:50:42Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 4,
-        "report_count": 4,
-        "span_hours": 3.7,
-        "first_report_at": "2026-11-05T18:35:00Z",
-        "last_report_at": "2026-11-05T22:15:38Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxRGp2T3B4SElKdVNDaDFvN0tEZjV1eklPQkJ4dFNsVjZEUzFmOTltQ1Zpa3RGa00tbWpNMW4wXy1RWHlnQVZBbkRDM2NWVkRZdkVVa21ZRU5RZ00?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQzNaeVJjNmJqQUdlTVZCMmdoNElXYWFFYWJBQ0dKaC1XMWoxSEVDTk1wbGtMbC0zTF8wdkFsMWJRX0dWMjJ5UTZNcHk2VXZNNncwU0FrVXRZV0xaV1VJREZ4YkJEU1dhMDVkR05TakoxSWluTWFzMmtkN3Iyd3BlendnZERzdw?oc=5",
-        "sources": [
-          {
-            "name": "서울신문",
-            "group": "seoul.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQzNaeVJjNmJqQUdlTVZCMmdoNElXYWFFYWJBQ0dKaC1XMWoxSEVDTk1wbGtMbC0zTF8wdkFsMWJRX0dWMjJ5UTZNcHk2VXZNNncwU0FrVXRZV0xaV1VJREZ4YkJEU1dhMDVkR05TakoxSWluTWFzMmtkN3Iyd3BlendnZERzdw?oc=5",
-            "published_at": "2026-11-05T22:15:38Z",
-            "headline": "AI 규제 공포에 나스닥 5.5% 폭락…하루 만에 시총 3400조원 증발"
-          },
-          {
-            "name": "이데일리",
-            "group": "edaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdVRqMnFXelJXZ0RVSVY5MkhCSk80enNuM0M1UVZBa3QyaE52eFVQR1FUREtiVDNGcUY2cjhVRmhVNmZOcXRFSF96LUdQZkl6Wmp4aUhHTmJPMDNNbzlRc3dNWGVyNFhlVTZBY2FFLXNpTFViMTdrVGR3RHJXMDhHbQ?oc=5",
-            "published_at": "2026-11-05T21:50:42Z",
-            "headline": "美민주당 AI 규제 공포에 '패닉'…나스닥 5.5% 폭락 [월스트리트in]"
-          },
-          {
-            "name": "아시아경제",
-            "group": "asiae.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiOHpQTFBpZFlTcDlIWE9xb2ZaMUJoanUyUi1oWFg2akl3UEtUSWFMY3NaT2lZYUNRNnhPVExFN0VCVTMtbS1Vc2txOUgtcVkyTmRUTnR1TzhucXpfSkNCLQ?oc=5",
-            "published_at": "2026-11-05T21:08:08Z",
-            "headline": "[속보]민주 압승에 AI 규제 우려로 나스닥 5.5% 폭락 마감"
-          },
-          {
-            "name": "KBS 뉴스",
-            "group": "kbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxRGp2T3B4SElKdVNDaDFvN0tEZjV1eklPQkJ4dFNsVjZEUzFmOTltQ1Zpa3RGa00tbWpNMW4wXy1RWHlnQVZBbkRDM2NWVkRZdkVVa21ZRU5RZ00?oc=5",
-            "published_at": "2026-11-05T18:35:00Z",
-            "headline": "AI 규제 공포, 나스닥 5.5%↓…머스크 관련주도 폭락"
-          }
-        ]
-      },
       "selection_rank": 2,
       "last_collected_at": "2026-11-06T19:22:19.681690Z"
     },
@@ -458,7 +401,7 @@
       "category": "사회",
       "title": "토요일 서울 마라톤·집회…여의도·광화문 곳곳 교통통제",
       "summary": "토요일 서울 마라톤·집회…여의도·광화문 곳곳 교통통제",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.08 06:47 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘토요일 서울 마라톤·집회…여의도·광화문 곳곳 교통통제’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
       "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
       "source": "뉴스1",
@@ -490,7 +433,8 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-07T21:47:53.933825Z"
     },
     {
       "id": "7f67559f5b0bc09c7fd3",
@@ -533,106 +477,85 @@
       "last_collected_at": "2026-11-07T12:56:50.968527Z"
     },
     {
-      "id": "335cdafa6841c9dc62de",
+      "id": "fda64010632c9d7ff205",
       "category": "경제·주식",
-      "title": "\"‘블루웨이브 쇼크’에 세계증시 시총 하루 만에 4800조원 증발\"",
-      "summary": "\"‘블루웨이브 쇼크’에 세계증시 시총 하루 만에 4800조원 증발\"",
-      "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 3시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘\"‘블루웨이브 쇼크’에 세계증시 시총 하루 만에 4800조원 증발\"’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+      "title": "[주간증시전망] ‘블루 웨이브’ 여파 지속… 美 물가·코어위브 실적 ‘주목’",
+      "summary": "[주간증시전망] ‘블루 웨이브’ 여파 지속… 美 물가·코어위브 실적 ‘주목’",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 2시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘[주간증시전망] ‘블루 웨이브’ 여파 지속… 美 물가·코어위브 실적 ‘주목’’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
       "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-      "source": "JTBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yQWFVOWN6TmY2dGpNRjN3bXFlWkVTT1VtZGFBb29HOHpwXy1FSndfZmtPbVBPTWVsYUlXZ0dEdDJxMkVDUW92MVdKbHVsNmVWOTB3Sw?oc=5",
-      "published_at": "2026-11-07T05:07:00Z",
+      "source": "Chosunbiz",
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHpDcnZTMk5WcUVsc2VlTzRKOElqRjA0azVpQ1BiQzh2WWR4UVQxMzNRVFd3a1FsM29fQzdjT3JNUW9SOGYya09WcmZXd2tRT2lNOGtkeHR0NVExVUR1R3YwSDY1QThWMFpfU2N0WWZXeFVUbEtsQXJYWEZLajM0LVgtdUg0bUMw0gGcAUFVX3lxTE82b2NJaE45Ny1UaXZUQV90bjZwaVVObzBnYVU1bnJaMXBzelVDd0VlTE9EMkx6UjhLbVpVOF85QU5ub3cwNi01R3FUaTJzTjNsTjYzQzk5b1JrQ1pYeEt5YlpQVVJibnlrRzlfT21vcE9mTVdna0JxSHlycHFIQk9ERlhsUW1hbjZkNVdaY0dueGVPd0cxVHkta2JHWg?oc=5",
+      "published_at": "2026-11-07T21:01:20Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 5,
-        "report_count": 6,
-        "span_hours": 3.9,
-        "first_report_at": "2026-11-07T02:29:48Z",
-        "last_report_at": "2026-11-07T06:25:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OVS1oekxNUVl4THZGOGVZTWdQOXlSdW5DT19aTlQ4OF9wQUdORWc3VTNRTFFtWnVoVXJwTXB2YXlNd2hFX09ITzNYd1dfNlJzT2ZlUF82MUd1aXfSAWBBVV95cUxQb1Q3NkhISmpIOVB1cm1GZmtZY0FfbVdLeVdMZ0JycEwwdzdtM29xMWZWdTkyZl9ROGJsYmstNzM0ZS0xOUJCOFdRZDRtOWpQYWxYbTk4TFpYSnNvWXU2Sko?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KWTJmWU0xVHh3cllaWENLM2xvTjQyaWktS20xWFNiNmppTm9pSXFrajliMjB6em4wWmFlUG5mUlVieEh0cUtETUM2blhBWFZDX1FHMmRfREM1dDUzSmc?oc=5",
+        "source_groups": 3,
+        "report_count": 3,
+        "span_hours": 2.0,
+        "first_report_at": "2026-11-07T21:01:20Z",
+        "last_report_at": "2026-11-07T23:00:05Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHpDcnZTMk5WcUVsc2VlTzRKOElqRjA0azVpQ1BiQzh2WWR4UVQxMzNRVFd3a1FsM29fQzdjT3JNUW9SOGYya09WcmZXd2tRT2lNOGtkeHR0NVExVUR1R3YwSDY1QThWMFpfU2N0WWZXeFVUbEtsQXJYWEZLajM0LVgtdUg0bUMw0gGcAUFVX3lxTE82b2NJaE45Ny1UaXZUQV90bjZwaVVObzBnYVU1bnJaMXBzelVDd0VlTE9EMkx6UjhLbVpVOF85QU5ub3cwNi01R3FUaTJzTjNsTjYzQzk5b1JrQ1pYeEt5YlpQVVJibnlrRzlfT21vcE9mTVdna0JxSHlycHFIQk9ERlhsUW1hbjZkNVdaY0dueGVPd0cxVHkta2JHWg?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c29HUVZ3dWd3SkcteTk3cUMtWXBTc1QwWnJWa0xsT1EzUlRrZ1FRdlExTUpUMUJacHNxZkFkc1p4N28yVVpiR0VWNVd5a0JlVjJ6THFLNmFtdw?oc=5",
         "sources": [
           {
-            "name": "주간경향",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KWTJmWU0xVHh3cllaWENLM2xvTjQyaWktS20xWFNiNmppTm9pSXFrajliMjB6em4wWmFlUG5mUlVieEh0cUtETUM2blhBWFZDX1FHMmRfREM1dDUzSmc?oc=5",
-            "published_at": "2026-11-07T06:25:00Z",
-            "headline": "‘블루웨이브 쇼크’에 하루만에 세계증시 시총 4800조원 증발"
+            "name": "한국경제",
+            "group": "hankyung.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94c29HUVZ3dWd3SkcteTk3cUMtWXBTc1QwWnJWa0xsT1EzUlRrZ1FRdlExTUpUMUJacHNxZkFkc1p4N28yVVpiR0VWNVd5a0JlVjJ6THFLNmFtdw?oc=5",
+            "published_at": "2026-11-07T23:00:05Z",
+            "headline": "'블루 웨이브 쇼크'에 휘청인 코스피…반등 열쇠는 [주간전망]"
           },
           {
-            "name": "한겨레",
-            "group": "hani.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QNFVQWTN0elJ4OEROeTd0ZEdwWFlVbWc4ZHRQNEl4M3BuQXlFQlpvLWR5M2N0VFBsc0lFaHN2cFJlaEQ4ZEZESVdYQm5MLXlLamN2QnV5QWVidHJfZTh4b3BpYV94bEk?oc=5",
-            "published_at": "2026-11-07T06:16:00Z",
-            "headline": "블루웨이브 쇼크에…세계증시 시총, 하루 만에 4773조원 증발"
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mSGEzcThsUnFDZzJEOEl1dF8zZGRrU1hPVkVOUXBKQnBkbmFOWnJPLWVOREU3OFJ2cWh6NnJ5Z2RVZ2ZaRE9mM0RFbVZId2ZDSWhpSW5ieHFmTlXSAWBBVV95cUxOOWNvX3J2aXk2b2FYanM1bGpOUGJnM0I3djd1X002UlVERG1WLWRnakR2eG5Ya0YwUnc1ZEVWdkIxS3VISkd0R3A0WlQybG5fQ2kxZlhzdGhheDBQVjJoazU?oc=5",
+            "published_at": "2026-11-07T22:00:02Z",
+            "headline": "[뉴욕증시-주간전망] 美 인플레 향방은…'AI 풍향계' 코어위브 실적 주목"
           },
           {
-            "name": "문화일보",
-            "group": "munhwa.com",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDVnl3Z0tCTTFCU0hsb1IzQ19uTUJmSFZKazNkR1VYYkdNVzNsMk90cENqTW1XNy0zX2NTMUl3NEgwdmdKLUxvWk9jYzJqUDh0?oc=5",
-            "published_at": "2026-11-07T05:33:53Z",
-            "headline": "“‘블루웨이브 쇼크’에 세계증시 시총 하루만에 4800조원 증발…급반등 재료 기대↓”"
-          },
-          {
-            "name": "JTBC",
-            "group": "jtbc.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4yQWFVOWN6TmY2dGpNRjN3bXFlWkVTT1VtZGFBb29HOHpwXy1FSndfZmtPbVBPTWVsYUlXZ0dEdDJxMkVDUW92MVdKbHVsNmVWOTB3Sw?oc=5",
-            "published_at": "2026-11-07T05:07:00Z",
-            "headline": "\"‘블루웨이브 쇼크’에 세계증시 시총 하루 만에 4800조원 증발\""
-          },
-          {
-            "name": "아시아경제",
-            "group": "asiae.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uZ2RWc2NndG5pYkk4MEp1aFl1RnY5eHN0SnhHakRKS2JqeUlkalRVUWQwNThNNzNSei1mbjN2QWhqeElxNnJFNG13YVlfRWEtcDlxb1U2TGJ6anBoeDNoWA?oc=5",
-            "published_at": "2026-11-07T03:18:47Z",
-            "headline": "블루웨이브 쇼크…닛케이 \"세계증시 하루만에 4800조 증발\""
+            "name": "Chosunbiz",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHpDcnZTMk5WcUVsc2VlTzRKOElqRjA0azVpQ1BiQzh2WWR4UVQxMzNRVFd3a1FsM29fQzdjT3JNUW9SOGYya09WcmZXd2tRT2lNOGtkeHR0NVExVUR1R3YwSDY1QThWMFpfU2N0WWZXeFVUbEtsQXJYWEZLajM0LVgtdUg0bUMw0gGcAUFVX3lxTE82b2NJaE45Ny1UaXZUQV90bjZwaVVObzBnYVU1bnJaMXBzelVDd0VlTE9EMkx6UjhLbVpVOF85QU5ub3cwNi01R3FUaTJzTjNsTjYzQzk5b1JrQ1pYeEt5YlpQVVJibnlrRzlfT21vcE9mTVdna0JxSHlycHFIQk9ERlhsUW1hbjZkNVdaY0dueGVPd0cxVHkta2JHWg?oc=5",
+            "published_at": "2026-11-07T21:01:20Z",
+            "headline": "[주간증시전망] ‘블루 웨이브’ 여파 지속… 美 물가·코어위브 실적 ‘주목’"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "441c07030e57b96f6d33",
+      "id": "ab78538b99daa9891191",
       "category": "경제·주식",
-      "title": "'블루웨이브'에 파랗게 질린 코스피…변곡점은 '엔비디아 실적'",
-      "summary": "'블루웨이브'에 파랗게 질린 코스피…변곡점은 '엔비디아 실적'",
-      "why_now": "수집 범위에서 관련 보도 8개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 34시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘'블루웨이브'에 파랗게 질린 코스피…변곡점은 '엔비디아 실적'’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+      "title": "노무라, 코스피 과매도 '1만 목표' 유지...韓 증시 4가지 동력 갖춰",
+      "summary": "노무라, 코스피 과매도 '1만 목표' 유지...韓 증시 4가지 동력 갖춰",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘노무라, 코스피 과매도 '1만 목표' 유지...韓 증시 4가지 동력 갖춰’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
       "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-      "source": "뉴스1",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yQzhWVjRYTVFQWVNnY1kwU0NZSFhZV1NuSHYzbjg4X01GcnZJOVkwRmpQZlZlMzNTVjBPSmJVMDVlTzI3bzAxSE5qTVVrazFJb3lBWnA3ZmZFVlE?oc=5",
-      "published_at": "2026-11-05T08:53:18Z",
+      "source": "이데일리",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYThaUzVfbURobXEwVE5fVXVvYWJvc3lKanFWVzhobjB0M2x2WEI1QUE0VG5WX1daZExCVGYzbUVPWktFaVJOdElVVmhTRzBLYTVObWRFdlJGRXBOelJ2RHZmY1lldlhrMndDLTc0S2Q1ZlJCRzRCRmFjRXZQcmVCNg?oc=5",
+      "published_at": "2026-11-06T04:30:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 3,
-        "report_count": 8,
-        "span_hours": 34.4,
-        "first_report_at": "2026-11-05T05:45:05Z",
-        "last_report_at": "2026-11-06T16:09:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxOW5QLWEyY1RmTXdfQUQzNWhyWVNjeHVSWUhqM3E3VmZESTZ0S09GaGRGUXI0Q2NUUU5IbEIzUDU3TWFqMWJuSWVESVNQanFYYVVaNm9LNzZ5VEHSAWBBVV95cUxNZFVXMzVsdnRPSVNCTnc2eF9HLVFvNlNSSVVpbVJCUTZrT0tGc3RYekxnNkYwOFVwSnZXNGFEMUNhcEJZNkQ0eWE4T1Q2S0lINFRHMjBneGZETGt2VE41Qmc?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10ZEJTN1F4Qjdfakk0blVCZUtZTnNham9CX1owTDlGM2NFazRjMC1WVHVhazAtQ1RxNDBBemNXS01tSnpZY28tdk1SQWFYLWwyUEVkdkZMdTdrTkNJbDkzZWVWZEh2Mzg?oc=5",
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 1.9,
+        "first_report_at": "2026-11-06T02:33:50Z",
+        "last_report_at": "2026-11-06T04:30:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qd25YOTVpMXJBVmdnS05HeHBhcllLRERfWTBsQWZSbHJrajdfVlVuNEQ2OXJOa1B4c3R2U0NaSHVFa04zTW5GRVM4czVWalZuaXotNllLTDhCS1XSAWBBVV95cUxOUGhwcG00a0doellrb2t3SlVoSDVocEkzNWV1a3dGVGlOWDlGSHBKTmZsYkl2TjlnWlpsbWxkWkRnd1ZfSW8zYmswbXVGemxaSVJIN2NZVTNjV1BBdXhwdV8?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYThaUzVfbURobXEwVE5fVXVvYWJvc3lKanFWVzhobjB0M2x2WEI1QUE0VG5WX1daZExCVGYzbUVPWktFaVJOdElVVmhTRzBLYTVObWRFdlJGRXBOelJ2RHZmY1lldlhrMndDLTc0S2Q1ZlJCRzRCRmFjRXZQcmVCNg?oc=5",
         "sources": [
           {
-            "name": "한겨레",
-            "group": "hani.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10ZEJTN1F4Qjdfakk0blVCZUtZTnNham9CX1owTDlGM2NFazRjMC1WVHVhazAtQ1RxNDBBemNXS01tSnpZY28tdk1SQWFYLWwyUEVkdkZMdTdrTkNJbDkzZWVWZEh2Mzg?oc=5",
-            "published_at": "2026-11-06T16:09:00Z",
-            "headline": "5천선 간신히 지킨 코스피…‘서킷·사이드카 몸살’ 연기금이 방어"
+            "name": "이데일리",
+            "group": "edaily.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYThaUzVfbURobXEwVE5fVXVvYWJvc3lKanFWVzhobjB0M2x2WEI1QUE0VG5WX1daZExCVGYzbUVPWktFaVJOdElVVmhTRzBLYTVObWRFdlJGRXBOelJ2RHZmY1lldlhrMndDLTc0S2Q1ZlJCRzRCRmFjRXZQcmVCNg?oc=5",
+            "published_at": "2026-11-06T04:30:00Z",
+            "headline": "노무라, 코스피 과매도 '1만 목표' 유지...韓 증시 4가지 동력 갖춰"
           },
           {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iZjI4elUxOUNwSmhudGJGX0ZxbGdnTjgyY2dMaW9NT0Z1MFJ4NHZEcmc0UFNjQjZIMDg4dm9aOHhpajVucjZnVjdmdHpyU1BVVk5nYUNnX2JIV0tNSVZQb9IBYEFVX3lxTE9iZjI4elUxOUNwSmhudGJGX0ZxbGdnTjgyY2dMaW9NT0Z1MFJ4NHZEcmc0UFNjQjZIMDg4dm9aOHhpajVucjZnVjdmdHpyU1BVVk5nYUNnX2JIV0tNSVZQbw?oc=5",
-            "published_at": "2026-11-06T10:12:09Z",
-            "headline": "코스피 '검은 금요일'…블루웨이브 쇼크에 6% 폭락"
-          },
-          {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yQzhWVjRYTVFQWVNnY1kwU0NZSFhZV1NuSHYzbjg4X01GcnZJOVkwRmpQZlZlMzNTVjBPSmJVMDVlTzI3bzAxSE5qTVVrazFJb3lBWnA3ZmZFVlE?oc=5",
-            "published_at": "2026-11-05T08:53:18Z",
-            "headline": "'블루웨이브'에 파랗게 질린 코스피…변곡점은 '엔비디아 실적'"
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qd25YOTVpMXJBVmdnS05HeHBhcllLRERfWTBsQWZSbHJrajdfVlVuNEQ2OXJOa1B4c3R2U0NaSHVFa04zTW5GRVM4czVWalZuaXotNllLTDhCS1XSAWBBVV95cUxOUGhwcG00a0doellrb2t3SlVoSDVocEkzNWV1a3dGVGlOWDlGSHBKTmZsYkl2TjlnWlpsbWxkWkRnd1ZfSW8zYmswbXVGemxaSVJIN2NZVTNjV1BBdXhwdV8?oc=5",
+            "published_at": "2026-11-06T02:33:50Z",
+            "headline": "노무라 \"코스피 3개월 목표치 7,500∼8,000…단기 변동성 반영\""
           }
         ]
       },
