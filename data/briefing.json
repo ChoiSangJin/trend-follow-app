@@ -2,10 +2,10 @@
   "schema_version": 2,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-08T05:57:27.878566Z",
+  "updated_at": "2026-11-08T13:19:47.210153Z",
   "cards": [
     {
-      "id": "77c062974c1b8c3134c5",
+      "id": "88d0d805087a56c52e9a",
       "category": "문화",
       "title": "[베스트셀러] 하루키 신작 '가호' 2주 연속 1위",
       "summary": "[베스트셀러] 하루키 신작 '가호' 2주 연속 1위",
@@ -22,15 +22,15 @@
         "span_hours": 1.3,
         "first_report_at": "2026-11-05T23:00:00Z",
         "last_report_at": "2026-11-06T00:17:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ubXVodmJKWUdWX3kzYVlVcVlZblBiYkwxdmxtdm9UQnpYUFdQRGo3aFJDZ0dMZUdsYi1NWlEycjFWaDNGTDFjWFBfc0VPR0FhTGtCX0FZdzhoT2dqRUtkNHNPa0lwY21fcUpmMVVTa2ZNd3N4Yml1X9IBeEFVX3lxTE5ubXVodmJKWUdWX3kzYVlVcVlZblBiYkwxdmxtdm9UQnpYUFdQRGo3aFJDZ0dMZUdsYi1NWlEycjFWaDNGTDFjWFBfc0VPR0FhTGtCX0FZdzhoT2dqRUtkNHNPa0lwY21fcUpmMVVTa2ZNd3N4Yml1Xw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUp0LWxkMF80Y3BXbUxKN0RzdUxQb3NKQ05fYjZaRnduLXk1aDFKY0ZSLTlCU0Z5TDVLSlJ4dkdLeDlUMHI3UU1zaTBuMkdBUnZuX19ZTUs2eUZ0aTktV0UydDUxUW1Bd0FjM2ZDd19YY0xWUFVxR2ROWjI3ekRESmN5ZjN5OUVXaUdJT2NlZFBfTkl2ckRUaFhNOFRpZGdUcjJoU3lYdDI3UdIBX0FVX3lxTFBVeG9HQ1R2dDZvRWdsSV8xZEYtWTlRS3E1LU00cER2M0J2MnpwSDZ6ZDVsZG1RZDh6akkyY1pfU3pNZVR4cllyOFFQQzRtY0ZuOXhEVE50Zm5WVk9kZkxr?oc=5",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PU0ZoRHFLSkhRYUhiQmpGMkRwVnVFSVJ4VmFPZUNBNGFqcWxqT2RKSE5jZFAwQWkyYTVnVFVzZmw1Q3hTWXg3Z1FLQVBsc0FvSGdhNDdrX1RtbkNuYWRTWtIBeEFVX3lxTE5ubXVodmJKWUdWX3kzYVlVcVlZblBiYkwxdmxtdm9UQnpYUFdQRGo3aFJDZ0dMZUdsYi1NWlEycjFWaDNGTDFjWFBfc0VPR0FhTGtCX0FZdzhoT2dqRUtkNHNPa0lwY21fcUpmMVVTa2ZNd3N4Yml1Xw?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VbjJXbjJ4Ykc1aFFYNFZ5ampXSS1JdGdrVEJ6RVJISk5OdWFJcG9aOEtTUnVXME93VjFoSDI5SE16STFlVi1GTWlXcWRDbkFNZDY5RXNoZkJPQdIBX0FVX3lxTFBVeG9HQ1R2dDZvRWdsSV8xZEYtWTlRS3E1LU00cER2M0J2MnpwSDZ6ZDVsZG1RZDh6akkyY1pfU3pNZVR4cllyOFFQQzRtY0ZuOXhEVE50Zm5WVk9kZkxr?oc=5",
         "sources": [
           {
             "name": "경향신문",
             "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUp0LWxkMF80Y3BXbUxKN0RzdUxQb3NKQ05fYjZaRnduLXk1aDFKY0ZSLTlCU0Z5TDVLSlJ4dkdLeDlUMHI3UU1zaTBuMkdBUnZuX19ZTUs2eUZ0aTktV0UydDUxUW1Bd0FjM2ZDd19YY0xWUFVxR2ROWjI3ekRESmN5ZjN5OUVXaUdJT2NlZFBfTkl2ckRUaFhNOFRpZGdUcjJoU3lYdDI3UdIBX0FVX3lxTFBVeG9HQ1R2dDZvRWdsSV8xZEYtWTlRS3E1LU00cER2M0J2MnpwSDZ6ZDVsZG1RZDh6akkyY1pfU3pNZVR4cllyOFFQQzRtY0ZuOXhEVE50Zm5WVk9kZkxr?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VbjJXbjJ4Ykc1aFFYNFZ5ampXSS1JdGdrVEJ6RVJISk5OdWFJcG9aOEtTUnVXME93VjFoSDI5SE16STFlVi1GTWlXcWRDbkFNZDY5RXNoZkJPQdIBX0FVX3lxTFBVeG9HQ1R2dDZvRWdsSV8xZEYtWTlRS3E1LU00cER2M0J2MnpwSDZ6ZDVsZG1RZDh6akkyY1pfU3pNZVR4cllyOFFQQzRtY0ZuOXhEVE50Zm5WVk9kZkxr?oc=5",
             "published_at": "2026-11-06T00:17:00Z",
-            "headline": "하루키 신작 ‘가호’ 2주 연속 베스트셀러 1위"
+            "headline": "“가장 쉽고 스릴 넘친다”···하루키 신작 ‘가호’, 2주 연속 베스트셀러 1위"
           },
           {
             "name": "서울신문",
@@ -49,7 +49,7 @@
           {
             "name": "뉴시스",
             "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ubXVodmJKWUdWX3kzYVlVcVlZblBiYkwxdmxtdm9UQnpYUFdQRGo3aFJDZ0dMZUdsYi1NWlEycjFWaDNGTDFjWFBfc0VPR0FhTGtCX0FZdzhoT2dqRUtkNHNPa0lwY21fcUpmMVVTa2ZNd3N4Yml1X9IBeEFVX3lxTE5ubXVodmJKWUdWX3kzYVlVcVlZblBiYkwxdmxtdm9UQnpYUFdQRGo3aFJDZ0dMZUdsYi1NWlEycjFWaDNGTDFjWFBfc0VPR0FhTGtCX0FZdzhoT2dqRUtkNHNPa0lwY21fcUpmMVVTa2ZNd3N4Yml1Xw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PU0ZoRHFLSkhRYUhiQmpGMkRwVnVFSVJ4VmFPZUNBNGFqcWxqT2RKSE5jZFAwQWkyYTVnVFVzZmw1Q3hTWXg3Z1FLQVBsc0FvSGdhNDdrX1RtbkNuYWRTWtIBeEFVX3lxTE5ubXVodmJKWUdWX3kzYVlVcVlZblBiYkwxdmxtdm9UQnpYUFdQRGo3aFJDZ0dMZUdsYi1NWlEycjFWaDNGTDFjWFBfc0VPR0FhTGtCX0FZdzhoT2dqRUtkNHNPa0lwY21fcUpmMVVTa2ZNd3N4Yml1Xw?oc=5",
             "published_at": "2026-11-05T23:00:00Z",
             "headline": "[베스트셀러] 하루키 열풍 지속…'가호' 2주 연속 1위"
           }
@@ -58,100 +58,92 @@
       "selection_rank": 1
     },
     {
-      "id": "f3eea49d4ad84daac554",
+      "id": "9283a1263cb17be68457",
       "category": "문화",
-      "title": "\"떠올리고 싶지 않다\"…‘코로나19’ 다룬 중국 영화, 개봉 무산",
-      "summary": "\"떠올리고 싶지 않다\"…‘코로나19’ 다룬 중국 영화, 개봉 무산",
-      "why_now": "이전 수집(11.07 04:22 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘\"떠올리고 싶지 않다\"…‘코로나19’ 다룬 중국 영화, 개봉 무산’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "title": "82메이저, 오늘 대만 단독 콘서트…서울 열기 잇는다",
+      "summary": "82메이저, 오늘 대만 단독 콘서트…서울 열기 잇는다",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘82메이저, 오늘 대만 단독 콘서트…서울 열기 잇는다’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
       "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "JTBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFRHJ3NXA2UG00NV9yb213RF9OV05qeFJQWEE3RDNhX1RUay03WWNYMkdJNXVUQXhZOFBQekZOcWhLLUZXYlFqcVZrTnFCSkotZGtiaw?oc=5",
-      "published_at": "2026-11-06T07:04:00Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 5,
-        "report_count": 5,
-        "span_hours": 4.4,
-        "first_report_at": "2026-11-06T02:41:03Z",
-        "last_report_at": "2026-11-06T07:04:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02bnN1N0xULV96bGhSOHBKOEhIS1p6LUZHTnB3SGE0R1VIUmdSRXdJNk5URHlfWk1OVGhQZ2EybTRReGV2MFlmck80YVBmVHlLak5WcjlmZUN6TjdKNTdFTGNMZFFzWEE5bzdnMWJGM19VNzQ?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFRHJ3NXA2UG00NV9yb213RF9OV05qeFJQWEE3RDNhX1RUay03WWNYMkdJNXVUQXhZOFBQekZOcWhLLUZXYlFqcVZrTnFCSkotZGtiaw?oc=5",
-        "sources": [
-          {
-            "name": "JTBC",
-            "group": "jtbc.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFRHJ3NXA2UG00NV9yb213RF9OV05qeFJQWEE3RDNhX1RUay03WWNYMkdJNXVUQXhZOFBQekZOcWhLLUZXYlFqcVZrTnFCSkotZGtiaw?oc=5",
-            "published_at": "2026-11-06T07:04:00Z",
-            "headline": "\"떠올리고 싶지 않다\"…‘코로나19’ 다룬 중국 영화, 개봉 무산"
-          },
-          {
-            "name": "아시아경제",
-            "group": "asiae.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNMTZwZVVSeG05cHVSczJKNFlSRkdMaXplSW5ILXF5ZFVWMHB2MWtSdEdJanFoSm1wZzNhTUhaendfWkRwd0hvdlE4b0p2NllnRUVjekpJNkJqelhCZ2R2Uw?oc=5",
-            "published_at": "2026-11-06T06:01:07Z",
-            "headline": "\"누가 돈을 내고 극장에 가겠나\"…中 코로나19 다룬 영화 개봉 무산"
-          },
-          {
-            "name": "YTN",
-            "group": "ytn.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrTGVXMThIZlN5VHdzVU85bzg4ODJCNi1yNXRqNjlhQ1FxazcyRXQyVlk0ZklGbXdZRmRJTlNNb0hKRFdzZFU4alhwS09xeV95aEpfT3pqQ1lUY3dPbHc?oc=5",
-            "published_at": "2026-11-06T04:40:00Z",
-            "headline": "중국, 코로나19 다룬 영화 개봉 무산...네티즌 \"상처 왜 들추나\" 반발"
-          },
-          {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jQlBrYjFXT1cyREp4Z3QzQXJSbFlza2lDelRWS29lZEZWTVRILWVDeXRiV1pjZV80U3JkcFpOcUMxUnpKM29JUi0tc0wzVmZBcWFCOU1kZWk3UHBaUmhtZtIBYEFVX3lxTE9jQlBrYjFXT1cyREp4Z3QzQXJSbFlza2lDelRWS29lZEZWTVRILWVDeXRiV1pjZV80U3JkcFpOcUMxUnpKM29JUi0tc0wzVmZBcWFCOU1kZWk3UHBaUmhtZg?oc=5",
-            "published_at": "2026-11-06T03:12:40Z",
-            "headline": "中 코로나19 다룬 영화 개봉 무산…\"상처 왜 들추나\" 비판여론"
-          },
-          {
-            "name": "마켓인",
-            "group": "edaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02bnN1N0xULV96bGhSOHBKOEhIS1p6LUZHTnB3SGE0R1VIUmdSRXdJNk5URHlfWk1OVGhQZ2EybTRReGV2MFlmck80YVBmVHlLak5WcjlmZUN6TjdKNTdFTGNMZFFzWEE5bzdnMWJGM19VNzQ?oc=5",
-            "published_at": "2026-11-06T02:41:03Z",
-            "headline": "“트라우마 남았나” 코로나19 다룬 중국 영화, 또 개봉 무산?"
-          }
-        ]
-      },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-06T19:22:19.681690Z"
-    },
-    {
-      "id": "71bea3830a6429629a82",
-      "category": "스포츠",
-      "title": "농협, 제2회 농협중앙회장배 농업인 파크골프대회 개최",
-      "summary": "농협, 제2회 농협중앙회장배 농업인 파크골프대회 개최",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 27시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘농협, 제2회 농협중앙회장배 농업인 파크골프대회 개최’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "노컷뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSM1I3QkhLMzMtMFlNMzU3OV8zdExmbGQ3bWNKdVNsaGFfbHZ1cUNtZk9FNmNBRVMwWW5hOW1mTEE1NDZNdVBqVmNHN2JKeV9tS0E?oc=5",
-      "published_at": "2026-11-07T13:30:31Z",
+      "source": "스포츠경향",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05dkV1WFdsYm1jeG4zazN2enJhdDh3eGRMcldfMUJvZFkza3JTWjZBa2lCWDdTSk9mZUlvY19VaDQxU0ppbWlLTXY0OHkyQzRIakR4M0xzV1h4b3V3SWfSAWNBVV95cUxNSVpxLWlGN0hvNDNfQWhMN0pnX0k3RjhUQzY5Y3RIMXlVZGRwbXR6UU9uc19xaEpVX29EaGlkUWlWaWRHVTlvNHUxNXJFOENIRXNuRklxcmtlUGZYWVpENEljMXc?oc=5",
+      "published_at": "2026-11-08T04:04:00Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 2,
         "report_count": 2,
-        "span_hours": 27.7,
-        "first_report_at": "2026-11-06T09:50:36Z",
-        "last_report_at": "2026-11-07T13:30:31Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc3BzZ3NoQ1lBWHU4aGhJSXZjSS1zdF9vUVFfNnIteEd5UEtNTGwwT1dXNTl1UEFuWGVPR3diSWdTRnBuMG56ZzZLRUYzenlKRGc?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSM1I3QkhLMzMtMFlNMzU3OV8zdExmbGQ3bWNKdVNsaGFfbHZ1cUNtZk9FNmNBRVMwWW5hOW1mTEE1NDZNdVBqVmNHN2JKeV9tS0E?oc=5",
+        "span_hours": 4.5,
+        "first_report_at": "2026-11-07T23:36:39Z",
+        "last_report_at": "2026-11-08T04:04:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03NHVFdUt5SnVQcEhDOXFjNEVvVC0xeGVjY2Yzd1BnY1JTX2lYVzZLU21YdG11ZENTenlkSl93d2lOS1dqTzRBX0xBc0N5dw?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05dkV1WFdsYm1jeG4zazN2enJhdDh3eGRMcldfMUJvZFkza3JTWjZBa2lCWDdTSk9mZUlvY19VaDQxU0ppbWlLTXY0OHkyQzRIakR4M0xzV1h4b3V3SWfSAWNBVV95cUxNSVpxLWlGN0hvNDNfQWhMN0pnX0k3RjhUQzY5Y3RIMXlVZGRwbXR6UU9uc19xaEpVX29EaGlkUWlWaWRHVTlvNHUxNXJFOENIRXNuRklxcmtlUGZYWVpENEljMXc?oc=5",
         "sources": [
           {
-            "name": "노컷뉴스",
-            "group": "nocutnews.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSM1I3QkhLMzMtMFlNMzU3OV8zdExmbGQ3bWNKdVNsaGFfbHZ1cUNtZk9FNmNBRVMwWW5hOW1mTEE1NDZNdVBqVmNHN2JKeV9tS0E?oc=5",
-            "published_at": "2026-11-07T13:30:31Z",
-            "headline": "농협, 제2회 농협중앙회장배 농업인 파크골프대회 개최"
+            "name": "스포츠경향",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05dkV1WFdsYm1jeG4zazN2enJhdDh3eGRMcldfMUJvZFkza3JTWjZBa2lCWDdTSk9mZUlvY19VaDQxU0ppbWlLTXY0OHkyQzRIakR4M0xzV1h4b3V3SWfSAWNBVV95cUxNSVpxLWlGN0hvNDNfQWhMN0pnX0k3RjhUQzY5Y3RIMXlVZGRwbXR6UU9uc19xaEpVX29EaGlkUWlWaWRHVTlvNHUxNXJFOENIRXNuRklxcmtlUGZYWVpENEljMXc?oc=5",
+            "published_at": "2026-11-08T04:04:00Z",
+            "headline": "82메이저, 오늘 대만 단독 콘서트…서울 열기 잇는다"
           },
           {
-            "name": "매일경제 마켓",
-            "group": "mk.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc3BzZ3NoQ1lBWHU4aGhJSXZjSS1zdF9vUVFfNnIteEd5UEtNTGwwT1dXNTl1UEFuWGVPR3diSWdTRnBuMG56ZzZLRUYzenlKRGc?oc=5",
-            "published_at": "2026-11-06T09:50:36Z",
-            "headline": "농협중앙회장배 농업인 파크골프대회 결승전 개최"
+            "name": "전자신문",
+            "group": "etnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03NHVFdUt5SnVQcEhDOXFjNEVvVC0xeGVjY2Yzd1BnY1JTX2lYVzZLU21YdG11ZENTenlkSl93d2lOS1dqTzRBX0xBc0N5dw?oc=5",
+            "published_at": "2026-11-07T23:36:39Z",
+            "headline": "대만 팬 두근두근! 82메이저, 단독 콘서트 D-DAY"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "72e08bf895e383836386",
+      "category": "스포츠",
+      "title": "‘손흥민 침묵’ LA FC, 정규리그 최종전 1대2 패… 서부 6위로 PO행",
+      "summary": "‘손흥민 침묵’ LA FC, 정규리그 최종전 1대2 패… 서부 6위로 PO행",
+      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 2시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘‘손흥민 침묵’ LA FC, 정규리그 최종전 1대2 패… 서부 6위로 PO행’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "조선일보",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16NkJHNTVWSXJxYWp4S1lRVTBpTmxNbzZ4NDlkWUVlcGcwR1pNNHE0d0owY2pOM2NoVXhZOTcyYmY1Q0VROU1SR1o4V2QzbEZqUVAxS1dBLVRpOTFYLVNheW5XZjgtTXduUF9wREFzZDNUQU1YLTV3?oc=5",
+      "published_at": "2026-11-08T02:38:00Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 4,
+        "report_count": 5,
+        "span_hours": 2.1,
+        "first_report_at": "2026-11-08T02:22:43Z",
+        "last_report_at": "2026-11-08T04:29:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmYzR3RGRLWXRsM0VPQW04bWVpVDdJbDRzalhBQTF5d25LejA1aUc2VkJRQWJqNG1SdXJ4aVNzRFdpRUJNOEN0dDlBSlh3YzZSVjB4MGJn?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11Rk5CVUdNRjlxcldWZ0hWRW5Pc2FVQ19KV3ZuZU5JNkVONV9EZ19sOG8yYkZ4MGZXT1NBNnhaU2c5VmdVbUtPSHpLTFlfY1ZwOXBiT0pvUjdleHc?oc=5",
+        "sources": [
+          {
+            "name": "KBS 뉴스",
+            "group": "kbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11Rk5CVUdNRjlxcldWZ0hWRW5Pc2FVQ19KV3ZuZU5JNkVONV9EZ19sOG8yYkZ4MGZXT1NBNnhaU2c5VmdVbUtPSHpLTFlfY1ZwOXBiT0pvUjdleHc?oc=5",
+            "published_at": "2026-11-08T04:29:00Z",
+            "headline": "손흥민·김기희, 풀타임 ‘코리안 더비’…LAFC, 시애틀에 1-2 패"
+          },
+          {
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16NkJHNTVWSXJxYWp4S1lRVTBpTmxNbzZ4NDlkWUVlcGcwR1pNNHE0d0owY2pOM2NoVXhZOTcyYmY1Q0VROU1SR1o4V2QzbEZqUVAxS1dBLVRpOTFYLVNheW5XZjgtTXduUF9wREFzZDNUQU1YLTV3?oc=5",
+            "published_at": "2026-11-08T02:38:00Z",
+            "headline": "‘손흥민 침묵’ LA FC, 정규리그 최종전 1대2 패… 서부 6위로 PO행"
+          },
+          {
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6SGQtXy14ZG5BRmUyN1BOaTdEdTE2WUdEMk1udVRMRjVkY3I4OEQzMHVpSWU3cGREWGJrTTloMVJEU1dnZ1FqYU9ETHE5ZUNHNkpBbS1OaHdNd1ppQnB4Ug?oc=5",
+            "published_at": "2026-11-08T02:24:44Z",
+            "headline": "'손흥민 4연속 침묵' LA FC, 정규리그 최종전서 시애틀에 1-2 패배"
+          },
+          {
+            "name": "중앙일보",
+            "group": "joongang.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmYzR3RGRLWXRsM0VPQW04bWVpVDdJbDRzalhBQTF5d25LejA1aUc2VkJRQWJqNG1SdXJ4aVNzRFdpRUJNOEN0dDlBSlh3YzZSVjB4MGJn?oc=5",
+            "published_at": "2026-11-08T02:22:43Z",
+            "headline": "‘손흥민 골침묵’ LAFC, 정규리그 최종전서 패배...서부 6위로 PO행"
           }
         ]
       },
@@ -162,7 +154,7 @@
       "category": "기술",
       "title": "카카오, AI 판단 돕는 의사결정 모델 오픈소스 공개",
       "summary": "카카오, AI 판단 돕는 의사결정 모델 오픈소스 공개",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.08 14:57 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘카카오, AI 판단 돕는 의사결정 모델 오픈소스 공개’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
       "source": "서울신문",
@@ -201,7 +193,8 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-08T05:57:27.878566Z"
     },
     {
       "id": "5f0bf341f03c84787382",
