@@ -2,14 +2,14 @@
   "schema_version": 2,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-09T06:20:13.928764Z",
+  "updated_at": "2026-11-09T22:19:04.328064Z",
   "cards": [
     {
       "id": "c046e831df01f0bbfc95",
       "category": "문화",
       "title": "한컴그룹, 문학상 대상에 '말의 장례식'…상금 1억까지 확대",
       "summary": "한컴그룹, 문학상 대상에 '말의 장례식'…상금 1억까지 확대",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 24시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘한컴그룹, 문학상 대상에 '말의 장례식'…상금 1억까지 확대’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
       "source": "지디넷코리아",
@@ -17,14 +17,21 @@
       "published_at": "2026-11-08T02:44:13Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 0.8,
+        "source_groups": 3,
+        "report_count": 3,
+        "span_hours": 24.2,
         "first_report_at": "2026-11-08T01:55:00Z",
-        "last_report_at": "2026-11-08T02:44:13Z",
+        "last_report_at": "2026-11-09T02:04:52Z",
         "first_report_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNam43RzlFTm42WlJJRWtEX0hfdGZ6QW9pZzJqWTBoMzhsSUwwMkFuQ3RaTHhIUnFEZ3FzdUdUVDlVbmFSSG80dHdzak0ydlJFV1JoOGR1QUloQzJENzFwSmtDSnhrdXB2eGpwMWpxVFlSU3piMzVIWm55Sm96clRMQUxR0gGWAUFVX3lxTE9LbmV0dEFwbllVd3V5N2V5TjdPeEJmbHZ6NUFpaURSNG9wczFGeVdFNFlOVjdvWXBDWDZBRFBROEZ5T1hySFhSUEJTY0ZKQVR4NEFkVGY4bzh4RVdzblNQUmh2Q2pZVXktZDYzTHBOZTBGTlhNVy1OcGllN0ZhQTlUajZNVUJySXBnU2JjandyUVpFQmd2Zw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qWTQzZUhwZGtIVE1FUmU2LVc3STNqZWpuUk1xNjN3LW5HYk1LdE1lUmc5Y093SG5WaWtfcnVqcm1rLW5URVRCU3RrMHU2cEtUdWZOTkRB?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ubkxHMF9udF84WDMxQlRwelM2RmZuUFBFTDJlNmtTSzZkSld3MlRnVnRJS21Sc2JuMkhvWEFYQnA5U3N2U1Q5cFpVSVFEZzNDQ0ZSenJsX1k4U2UwOUtTMDZ4dHBZbFQ5X2dfZ1h0ZlY3WEZnQWx6WNIBeEFVX3lxTE9ubkxHMF9udF84WDMxQlRwelM2RmZuUFBFTDJlNmtTSzZkSld3MlRnVnRJS21Sc2JuMkhvWEFYQnA5U3N2U1Q5cFpVSVFEZzNDQ0ZSenJsX1k4U2UwOUtTMDZ4dHBZbFQ5X2dfZ1h0ZlY3WEZnQWx6WA?oc=5",
         "sources": [
+          {
+            "name": "뉴시스",
+            "group": "wire:뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ubkxHMF9udF84WDMxQlRwelM2RmZuUFBFTDJlNmtTSzZkSld3MlRnVnRJS21Sc2JuMkhvWEFYQnA5U3N2U1Q5cFpVSVFEZzNDQ0ZSenJsX1k4U2UwOUtTMDZ4dHBZbFQ5X2dfZ1h0ZlY3WEZnQWx6WNIBeEFVX3lxTE9ubkxHMF9udF84WDMxQlRwelM2RmZuUFBFTDJlNmtTSzZkSld3MlRnVnRJS21Sc2JuMkhvWEFYQnA5U3N2U1Q5cFpVSVFEZzNDQ0ZSenJsX1k4U2UwOUtTMDZ4dHBZbFQ5X2dfZ1h0ZlY3WEZnQWx6WA?oc=5",
+            "published_at": "2026-11-09T02:04:52Z",
+            "headline": "한컴문학상 대상 상금 1억까지 올린다…제2회 시상식 개최"
+          },
           {
             "name": "지디넷코리아",
             "group": "zdnet.co.kr",
@@ -44,93 +51,120 @@
       "selection_rank": 1
     },
     {
-      "id": "7dcc7490ec6448d6f06e",
+      "id": "e0466a3d66365d064949",
       "category": "문화",
-      "title": "영화 '테러리스트' 연출한 김영빈 감독, 오늘(8일) 별세",
-      "summary": "영화 '테러리스트' 연출한 김영빈 감독, 오늘(8일) 별세",
-      "why_now": "이전 수집(11.09 07:00 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘영화 '테러리스트' 연출한 김영빈 감독, 오늘(8일) 별세’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "title": "[인터뷰②] ‘가능한 사랑’ 설경구 “전도연이 진정한 주인공, 최고의 배우” 극찬",
+      "summary": "[인터뷰②] ‘가능한 사랑’ 설경구 “전도연이 진정한 주인공, 최고의 배우” 극찬",
+      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘[인터뷰②] ‘가능한 사랑’ 설경구 “전도연이 진정한 주인공, 최고의 배우” 극찬’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
       "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "SPOTV NEWS",
-      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCZXhFQXlWcGN6Sk40R2k3LVhKN0lsdjZ5YmxjQkxBUXItb2NleUU0QUxLZ1otVm92VWswb3ByYWRxVElRVHYtT2ZNNzEzdXpqZmZmTzFtQm9NS3lXSVlVODRqV1Fkbjh5QWU4aEpQOXU?oc=5",
-      "published_at": "2026-11-08T11:35:28Z",
+      "source": "스포츠경향",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LUXBLeEdaejhtUjQ2VjBPS185S3IyMjkyQWdmQmFSTThVMWlnczZnZng0TGhEWEwteUxjZEJZRW9FNlFkbXJwZXZCTVQ5SzRDWVY4S3FlR2dYR1YyS1HSAWNBVV95cUxOeUtCUGRPbTNNNHA3bVJEMmJFQ0Z1dzh6eU5fSGF2NXM1ZGZ2bS13NVFPVE1uSWpkVmNwSzlpZzdackRJUm14Yl9lU2YzNGI3cHNubVRGN2F1TVMydS0zRVVMdHM?oc=5",
+      "published_at": "2026-11-09T06:21:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 3,
-        "report_count": 3,
-        "span_hours": 1.7,
-        "first_report_at": "2026-11-08T09:52:05Z",
-        "last_report_at": "2026-11-08T11:35:28Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FUWdpR0lmTkVCSFllcHB4c3FReEZmbG9BTll6VFpveGVxcVZsM2FuQmpHeFBuYnRIbUxxYU9NX0xMNWxybFlSQ3Z3eS1FbjF4MEhjcHVhY0g2UQ?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCZXhFQXlWcGN6Sk40R2k3LVhKN0lsdjZ5YmxjQkxBUXItb2NleUU0QUxLZ1otVm92VWswb3ByYWRxVElRVHYtT2ZNNzEzdXpqZmZmTzFtQm9NS3lXSVlVODRqV1Fkbjh5QWU4aEpQOXU?oc=5",
+        "source_groups": 5,
+        "report_count": 5,
+        "span_hours": 4.3,
+        "first_report_at": "2026-11-09T06:21:00Z",
+        "last_report_at": "2026-11-09T10:42:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LUXBLeEdaejhtUjQ2VjBPS185S3IyMjkyQWdmQmFSTThVMWlnczZnZng0TGhEWEwteUxjZEJZRW9FNlFkbXJwZXZCTVQ5SzRDWVY4S3FlR2dYR1YyS1HSAWNBVV95cUxOeUtCUGRPbTNNNHA3bVJEMmJFQ0Z1dzh6eU5fSGF2NXM1ZGZ2bS13NVFPVE1uSWpkVmNwSzlpZzdackRJUm14Yl9lU2YzNGI3cHNubVRGN2F1TVMydS0zRVVMdHM?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rcnN4WUh0eXFLV1czdVhESE1zZ3ZodVpnS2F1TWdWU21mUlBTVGoxQ3ptX240VjNVMERvV0tUOXdBem9maGE5T3lpYWFJazNJcXYyVE9XLVNIWks5Qk1CaQ?oc=5",
         "sources": [
           {
-            "name": "SPOTV NEWS",
-            "group": "spotvnews.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCZXhFQXlWcGN6Sk40R2k3LVhKN0lsdjZ5YmxjQkxBUXItb2NleUU0QUxLZ1otVm92VWswb3ByYWRxVElRVHYtT2ZNNzEzdXpqZmZmTzFtQm9NS3lXSVlVODRqV1Fkbjh5QWU4aEpQOXU?oc=5",
-            "published_at": "2026-11-08T11:35:28Z",
-            "headline": "영화 '테러리스트' 연출한 김영빈 감독, 오늘(8일) 별세"
+            "name": "iMBC 연예",
+            "group": "imbc.com",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rcnN4WUh0eXFLV1czdVhESE1zZ3ZodVpnS2F1TWdWU21mUlBTVGoxQ3ptX240VjNVMERvV0tUOXdBem9maGE5T3lpYWFJazNJcXYyVE9XLVNIWks5Qk1CaQ?oc=5",
+            "published_at": "2026-11-09T10:42:00Z",
+            "headline": "'가능한 사랑' 호평에 전도연 \"감독님, 제가 진짜 그렇게 연기 잘했어요?\" [영화人]"
           },
           {
-            "name": "머니투데이",
-            "group": "mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11X09WUFU0ZWtjMEN1aURiSEhiWEljeF85RndkNDhPM1EteEtqSnV5VHEweU9LOE5XWmE2T2c1SUMwMGVmOVNkalVxbHF4WFl5RVR3QzFJR1J3cGlKSFZyU2dhZVpsWXN3N25taWZIdkdpN2vSAXhBVV95cUxOcmZPRXJpRUZrRlVNTF9NZlBBSENMcjBSWFhQX2JBeEo5NERHQTM0U1NRbXRLUGlOSG5KMGFXYTcwSzVOdDVzWjRkeWZ3RGhHVV9ER0lNd21CZE4wbTF3SGplOEc4bGhma3h4b01CTWVJOFByYXdDaTY?oc=5",
-            "published_at": "2026-11-08T11:05:14Z",
-            "headline": "'테러리스트' 연출한 김영빈 영화감독 별세…향년 71세 - 머니투데이"
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0ZMWFBTUWdpSWZzS2pnVWZIVFZ5WlVqRnBZNEdwaEJEdDl4UUk3X0loT3lrYjBjRlVMOVJNQ1lQUlZZTzg0ZjVvcUdheENic2lON1RLekRWS2JnMDBlcGVhakkweWNnX0ExckdJVzRaV1IzNzhjdjY3VmpnVjMwbkw0OFRHTlZfNmc?oc=5",
+            "published_at": "2026-11-09T09:18:00Z",
+            "headline": "[인터뷰②] '가능한 사랑' 설경구 \"전도연, 여러 말이 필요한가…최고의 배우이자 연기 파트너\""
           },
           {
-            "name": "한국경제",
-            "group": "hankyung.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FUWdpR0lmTkVCSFllcHB4c3FReEZmbG9BTll6VFpveGVxcVZsM2FuQmpHeFBuYnRIbUxxYU9NX0xMNWxybFlSQ3Z3eS1FbjF4MEhjcHVhY0g2UQ?oc=5",
-            "published_at": "2026-11-08T09:52:05Z",
-            "headline": "영화 '테러리스트' 김영빈 감독 별세"
+            "name": "YTN star",
+            "group": "ytn.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1b18wSmNlRHlYZnhTZXAwS0puWEtzaXZ3cGktSVFvQmloc09MbDc2bW5EWXVuaS1yY2hzcTBQR215bktrVmU3OUNtd0ZEMGdGVFQ4THI2blNEdzcyaXV3?oc=5",
+            "published_at": "2026-11-09T08:49:00Z",
+            "headline": "[인터뷰] '가능한 사랑' 설경구 \"전도연만 한 파트너 없어, 무궁무진한 배우\""
+          },
+          {
+            "name": "일간스포츠",
+            "group": "edaily.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRzZwUS11UVBTN0x3MV82SDFnWmM4NW9yTzdvTEtPSGlldDN2V015N3FfM3R4TzREVWc2X0YyZ0RBQTJ3M2N0RVFlWllRNHBxX25mV1IydTFnVFU?oc=5",
+            "published_at": "2026-11-09T08:03:00Z",
+            "headline": "‘가능한 사랑’ 설경구 “베니스영화제 눈물, 놀림받을 생각에 걱정부터” [인터뷰②]"
+          },
+          {
+            "name": "스포츠경향",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LUXBLeEdaejhtUjQ2VjBPS185S3IyMjkyQWdmQmFSTThVMWlnczZnZng0TGhEWEwteUxjZEJZRW9FNlFkbXJwZXZCTVQ5SzRDWVY4S3FlR2dYR1YyS1HSAWNBVV95cUxOeUtCUGRPbTNNNHA3bVJEMmJFQ0Z1dzh6eU5fSGF2NXM1ZGZ2bS13NVFPVE1uSWpkVmNwSzlpZzdackRJUm14Yl9lU2YzNGI3cHNubVRGN2F1TVMydS0zRVVMdHM?oc=5",
+            "published_at": "2026-11-09T06:21:00Z",
+            "headline": "[인터뷰②] ‘가능한 사랑’ 설경구 “전도연이 진정한 주인공, 최고의 배우” 극찬"
           }
         ]
       },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-08T22:00:22.348957Z"
+      "selection_rank": 1
     },
     {
-      "id": "b634b88aac589081f6f8",
+      "id": "e5295448710d2cd2298d",
       "category": "스포츠",
       "title": "'이강인 선제골 기점 패스' 아틀레티코, 바르사에 1-2 역전패",
       "summary": "'이강인 선제골 기점 패스' 아틀레티코, 바르사에 1-2 역전패",
-      "why_now": "수집 범위에서 관련 보도 10개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 2시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 17시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘'이강인 선제골 기점 패스' 아틀레티코, 바르사에 1-2 역전패’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
       "source": "연합뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lRnFNSkZYVlRUZm1JN0hILVMzWFFXQ0RrR1VJbWtPaEh4cVdxU0JJYlFtaVY3MmJ0ZXFMeWNSaG5EOFZlbG1pTlVNVG11eVdlM2s5eEZOZVVQZ1HSAWBBVV95cUxPWlV1MHBhNUZ2dHNoWDE1QjhtcHprZllGeUFJU3FNVHN3Q01VclFOWllWVFdSU1VFOEtPRWFzc3YyckN6X3Q0a3JhbTJFS0l6SDdBS3o4NTZMa3R2R3Q5cmU?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aVXUwcGE1RnZ0c2hYMTVCOG1wemtmWUZ5QUlTcU1Uc3dDTVVyUU5aWVZUV1JTVUU4S09FYXNzdjJyQ3pfdDRrcmFtMkVLSXpIN0FLejg1NkxrdHZHdDlyZdIBYEFVX3lxTE9aVXUwcGE1RnZ0c2hYMTVCOG1wemtmWUZ5QUlTcU1Uc3dDTVVyUU5aWVZUV1JTVUU4S09FYXNzdjJyQ3pfdDRrcmFtMkVLSXpIN0FLejg1NkxrdHZHdDlyZQ?oc=5",
       "published_at": "2026-11-08T22:15:02Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 8,
-        "report_count": 10,
-        "span_hours": 2.9,
-        "first_report_at": "2026-11-08T20:58:07Z",
-        "last_report_at": "2026-11-08T23:53:42Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84RDhBT3lKU1ROUF9SZ1pFZFVnUW9lMVVpemdqU0tDV0JWdkFqeHJvVHhrTWFycU9xaENKdS11SWlMdTdPLUh4U0lBU0lEa043NnVxbEVwTmpFZ0Nwa0FpSW9razBMSlVQYnd2TmVYcjU3RnBKUFE?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ySElwZVliM3J3OFpjLUpycTQtQkRVaUpKLUZucnVZNzd5em83YU1lMHBTMWFlN1A4N1JEZXBYRUoydHRVaUdOaFZadDcyVFNjaXdKbzhVTm9PTzBSOG1BQTRYMFVPRlNPRlRqdjRPWWI?oc=5",
+        "source_groups": 7,
+        "report_count": 7,
+        "span_hours": 17.8,
+        "first_report_at": "2026-11-08T22:15:02Z",
+        "last_report_at": "2026-11-09T16:02:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aVXUwcGE1RnZ0c2hYMTVCOG1wemtmWUZ5QUlTcU1Uc3dDTVVyUU5aWVZUV1JTVUU4S09FYXNzdjJyQ3pfdDRrcmFtMkVLSXpIN0FLejg1NkxrdHZHdDlyZdIBYEFVX3lxTE9aVXUwcGE1RnZ0c2hYMTVCOG1wemtmWUZ5QUlTcU1Uc3dDTVVyUU5aWVZUV1JTVUU4S09FYXNzdjJyQ3pfdDRrcmFtMkVLSXpIN0FLejg1NkxrdHZHdDlyZQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02NjFJdkk1ZkNpaWlxbjNURXJ5cGp4Q2ZJeVVnY0h2SlZWZmtDRFBBdlBEMUVJLUhOLU41RlJNbFY5UEFNVHBoYTVkTGFna3FOLWNoN3VHaGRRX1F3SV8yNw?oc=5",
         "sources": [
           {
-            "name": "SPOTV NEWS",
-            "group": "spotvnews.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ySElwZVliM3J3OFpjLUpycTQtQkRVaUpKLUZucnVZNzd5em83YU1lMHBTMWFlN1A4N1JEZXBYRUoydHRVaUdOaFZadDcyVFNjaXdKbzhVTm9PTzBSOG1BQTRYMFVPRlNPRlRqdjRPWWI?oc=5",
-            "published_at": "2026-11-08T23:53:42Z",
-            "headline": "“이강인을 왜 빼나” ATM 역전패에 팬들 분통…선제골 기점→60분 교체, 시메오네 용병술 도마"
+            "name": "마이데일리",
+            "group": "mydaily.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02NjFJdkk1ZkNpaWlxbjNURXJ5cGp4Q2ZJeVVnY0h2SlZWZmtDRFBBdlBEMUVJLUhOLU41RlJNbFY5UEFNVHBoYTVkTGFna3FOLWNoN3VHaGRRX1F3SV8yNw?oc=5",
+            "published_at": "2026-11-09T16:02:00Z",
+            "headline": "'이강인, 시간 지날수록 영향력 사라졌다'…아틀레티코 첫 교체 카드, 후반 15분 쇠를로트와 교체"
           },
           {
-            "name": "OSEN",
-            "group": "osen.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96b2JySTNMQzI1dnVvanpDUHBOUzZ4STZhd2hUSTF3YlVlbXBlaVJtWHhZLUxkMXBHenZvb1lfQXRIZ2w1VmJaUVQ3WmViTGRxbmo3eg?oc=5",
-            "published_at": "2026-11-08T23:45:00Z",
-            "headline": "'이강인 교체→6분 뒤 역전 허용' ATM의 뼈아픈 선택...환상적인 아웃프런트 패스 빛났지만 바르셀로나에 패배"
+            "name": "스포츠동아",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84RmkxNWtpcVQwS0VKaHpDcDVFT0JyS3UtRHB4VnB5VlVkclFOQk04Z0d3S2RYMFdBQlNheURCTC1WeWxHVWtVSnhuT0xJdGgtY3pRRVQzSDF2WUl0ZlNxOWlFeDBJbENKbmJMeWRfUWwtdw?oc=5",
+            "published_at": "2026-11-09T07:24:02Z",
+            "headline": "바르셀로나전 선제골 기점 패스에도 웃지 못한 AT 마드리드 이강인…중앙-측면 오가며 분투했지만 팀은 1-2 역전패"
           },
           {
-            "name": "파이낸셜뉴스",
-            "group": "fnnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vWEotLXgzUlBfYURXLXpQVE9xZF92TjBnOGpmSXhvRnYxUzZqd2xHVlNJLVZiYl9uVmhqYjB6d1hPQXI0VjZoeXdKLXFOc1J3d21HU1ZXWXZiUQ?oc=5",
-            "published_at": "2026-11-08T23:36:14Z",
-            "headline": "\"바르샤 수비가 통째로 속았다\" 이강인, 환상 아웃프런트로 선제골 밥상… 팀은 역전패 '눈물'"
+            "name": "KBS 뉴스",
+            "group": "kbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tN180dk9hSVVHR3lramNfUHJTS0hlR0hrRFBQd2cwN3ptRHdHUjdjU0dpUzZWcC1aenY1VUdITlh0T2JMQ2Nnc0FGTFZfUERleFd6YmJJdF9ROHREa1JpU1NnMFRHQQ?oc=5",
+            "published_at": "2026-11-09T06:10:00Z",
+            "headline": "‘이강인 선제골 기점 패스’ 아틀레티코, 바르셀로나에 역전패"
+          },
+          {
+            "name": "한겨레",
+            "group": "hani.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxRDRJa0F0WlBlb0c0bGozamVwUllYaTlVazNDUlpLUGRpcDluMHQtenVuTWMxd3k5eEtzNlNHT2RwRlVzRUF2WE00YTI1WWVtRTNXZEVFcWZoT1IwNG9hMFpVVUs?oc=5",
+            "published_at": "2026-11-08T23:59:00Z",
+            "headline": "이강인 패스 기점 아틀레티코 선제골에도 바르셀로나에 1-2 역전패"
+          },
+          {
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXV0aWhNdU05MXRHb01aLXNaX29rS3VzMkpGZGRlSlNWci1Na0xsejBDR0pYc2YxNlJVbm9POFctTWNmV1ZYV2VlVTd5NkdJRkxWd0FmMFRtQkpuUUlkRDRLR083dXp5MTlqV3laMjJTdU9BVEwtb0xIcVlkRmprSmxSZXRtQ0ppQUZj?oc=5",
+            "published_at": "2026-11-08T23:32:17Z",
+            "headline": "이강인, 절묘한 선제골 기점 패스에도...AT, 바르사에 역전패"
           },
           {
             "name": "문화일보",
@@ -140,30 +174,9 @@
             "headline": "이강인의 아웃프런트 패스 빛났지만… 아틀레티코 마드리드, 바르셀로나에 1-2 역전패"
           },
           {
-            "name": "조선일보",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXV0aWhNdU05MXRHb01aLXNaX29rS3VzMkpGZGRlSlNWci1Na0xsejBDR0pYc2YxNlJVbm9POFctTWNmV1ZYV2VlVTd5NkdJRkxWd0FmMFRtQkpuUUlkRDRLR083dXp5MTlqV3laMjJTdU9BVEwtb0xIcVlkRmprSmxSZXRtQ0ppQUZj?oc=5",
-            "published_at": "2026-11-08T23:17:00Z",
-            "headline": "이강인, 절묘한 선제골 기점 패스에도...AT, 바르사에 역전패"
-          },
-          {
-            "name": "스포츠경향",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41djh2T2JXRE5hdWtVLUpTYkJIU0gwSkc4TUlHRW1oUnh1QVZzck9CRTduMUJGaHRjb0lsRmRBbzR0enEtZllEbHE1WHVVV1ljTUkzRnVBYXdreElTZUHSAWNBVV95cUxPeEJxai1tSG9tREVtbG0tOU1KUmlya3RCbnJDdE45UW54RnhhVl92NWthdXNVMTlRX1FsRHNBQm5ZZDlTN2RwbHQzcnFEaDhZSjVRdHdQY0dTVkNjLVkwNHhEcVk?oc=5",
-            "published_at": "2026-11-08T23:07:00Z",
-            "headline": "‘평점 6.6점’ 이강인, 바르셀로나전 선제골 기점 패스에도 웃지 못했다···60분 뛰고 교체, 공격P 또 불발"
-          },
-          {
-            "name": "SBS 뉴스",
-            "group": "sbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2Wm5EeDVRX29IbDRZSnBtRklCak1NOGVrTGlRc05aQmpFeUNpRnQxWEp6a2dIa09fS2JVdnJuc1hPTl9qTHRxUUI5YzJwRFBIM19hSUtOUjI3QnhZNlo3b3VCSWVGTnlJNFE?oc=5",
-            "published_at": "2026-11-08T22:24:56Z",
-            "headline": "이강인, 선제골 기점 됐지만…아틀레티코, 바르사에 역전패"
-          },
-          {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lRnFNSkZYVlRUZm1JN0hILVMzWFFXQ0RrR1VJbWtPaEh4cVdxU0JJYlFtaVY3MmJ0ZXFMeWNSaG5EOFZlbG1pTlVNVG11eVdlM2s5eEZOZVVQZ1HSAWBBVV95cUxPWlV1MHBhNUZ2dHNoWDE1QjhtcHprZllGeUFJU3FNVHN3Q01VclFOWllWVFdSU1VFOEtPRWFzc3YyckN6X3Q0a3JhbTJFS0l6SDdBS3o4NTZMa3R2R3Q5cmU?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aVXUwcGE1RnZ0c2hYMTVCOG1wemtmWUZ5QUlTcU1Uc3dDTVVyUU5aWVZUV1JTVUU4S09FYXNzdjJyQ3pfdDRrcmFtMkVLSXpIN0FLejg1NkxrdHZHdDlyZdIBYEFVX3lxTE9aVXUwcGE1RnZ0c2hYMTVCOG1wemtmWUZ5QUlTcU1Uc3dDTVVyUU5aWVZUV1JTVUU4S09FYXNzdjJyQ3pfdDRrcmFtMkVLSXpIN0FLejg1NkxrdHZHdDlyZQ?oc=5",
             "published_at": "2026-11-08T22:15:02Z",
             "headline": "'이강인 선제골 기점 패스' 아틀레티코, 바르사에 1-2 역전패"
           }
@@ -172,44 +185,50 @@
       "selection_rank": 1
     },
     {
-      "id": "b5197b0f8b8306cc889a",
+      "id": "50723f8fbe7ea1719b6b",
       "category": "기술",
-      "title": "[Why] 엔비디아 AI 반도체 60만개가 홍콩에 묶인 이유는",
-      "summary": "[Why] 엔비디아 AI 반도체 60만개가 홍콩에 묶인 이유는",
-      "why_now": "이전 수집(11.09 07:00 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘[Why] 엔비디아 AI 반도체 60만개가 홍콩에 묶인 이유는’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "title": "영·호남 “우주항공복합도시 특별법 촉구” 한목소리",
+      "summary": "영·호남 “우주항공복합도시 특별법 촉구” 한목소리",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘영·호남 “우주항공복합도시 특별법 촉구” 한목소리’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-      "source": "Chosunbiz",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZpM2ZXbDVXRTJLbnRSdnl3VVpvMmszUVNOeWM4aDhJazZjRDZ0WW5xQlVnOGpYM1ZQY0F2alB1OWVMNkxHWWRxZkxzUXVoWVZmdWliNkxTcXROenlFcGVGeEFHYXpzZGxiWnFMVEpfM01iMl8zejNwR1hITWw3RWw1U3FsX2Mxb2E1X2F3TWstemxTYmw5ZTNHYlR0QdIBsgFBVV95cUxPdDBDdl9NNTdUejFSMlJwM1g3cjlPRFl2YXUxcHJseUR6WnJLWXNyU1g0Z0NsZnNmQXNFUFZScUFaQU9GLWwzQXZZV0sybjByQ2lTVWJnMEpxLUFDcWNmNm1wNnZxSUdmNWxuNFVHa3E0T1V2amhMQjdpZ0otTXp1aHo5NUhfaUUxWDdRWDE5YURqV0dUZE1IaVFnRzFwOFFhRFY1YUZ3QTBVX1pkYmdabFZB?oc=5",
-      "published_at": "2026-11-07T21:00:00Z",
+      "source": "KBS 뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41cHRXYjg4dFBJODdFQ0pjbXZVa2ZBQnBrbURRRVpybUJ6XzZlbkowZXRHWUMtZ1ZLVktVOC1rWUFha2t5RExWY3Rxd3dJa19UdUJZdXRQc2ktZFRnZ2l4U2ZwUjFhZw?oc=5",
+      "published_at": "2026-11-09T10:24:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 37.1,
-        "first_report_at": "2026-11-06T07:55:00Z",
-        "last_report_at": "2026-11-07T21:00:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IRnRvajVSSUc0UEU5cFBkRUNwMXluVGpJQ2twUU85bUpwU0lSX2wxVXBrN0RpU0U2YXJsa1NjNk83MXp3UjVzU3RFQTZjQmJWWlBLYVlvLThVZ9IBX0FVX3lxTE1iaGpkWmw5aGRoMWgtTGZuM3p2WmJSS1NERFBZc1ZCSHdvS1ZNOTBHM3hNVy14UjBMNVBJT0hEaWxEMldPWVdrWHZpc1U1Mzl3bFpWTi1GRkU3dzJkeldN?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZpM2ZXbDVXRTJLbnRSdnl3VVpvMmszUVNOeWM4aDhJazZjRDZ0WW5xQlVnOGpYM1ZQY0F2alB1OWVMNkxHWWRxZkxzUXVoWVZmdWliNkxTcXROenlFcGVGeEFHYXpzZGxiWnFMVEpfM01iMl8zejNwR1hITWw3RWw1U3FsX2Mxb2E1X2F3TWstemxTYmw5ZTNHYlR0QdIBsgFBVV95cUxPdDBDdl9NNTdUejFSMlJwM1g3cjlPRFl2YXUxcHJseUR6WnJLWXNyU1g0Z0NsZnNmQXNFUFZScUFaQU9GLWwzQXZZV0sybjByQ2lTVWJnMEpxLUFDcWNmNm1wNnZxSUdmNWxuNFVHa3E0T1V2amhMQjdpZ0otTXp1aHo5NUhfaUUxWDdRWDE5YURqV0dUZE1IaVFnRzFwOFFhRFY1YUZ3QTBVX1pkYmdabFZB?oc=5",
+        "source_groups": 3,
+        "report_count": 3,
+        "span_hours": 10.3,
+        "first_report_at": "2026-11-09T04:30:01Z",
+        "last_report_at": "2026-11-09T14:50:04Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xUFRQZFc5UFJmYUJMWjl5T1k2SnlPMWtEeDdQWUZLbm5PODItdkNmdGtNVnlJb0IwTUh2VGFlQzZiNTVIVUJ2UWdRLUtFYzQ2UHhQZ3Bvd2YybHFMOU10RtIBYEFVX3lxTE8xUFRQZFc5UFJmYUJMWjl5T1k2SnlPMWtEeDdQWUZLbm5PODItdkNmdGtNVnlJb0IwTUh2VGFlQzZiNTVIVUJ2UWdRLUtFYzQ2UHhQZ3Bvd2YybHFMOU10Rg?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VN2R1UHNjYWh1TW0wYVB4Ykp6Sl9JaXYtSlQ5ZkQ0eFhXU2o4cXdQTEVGZy14QUd4M2R2Z0p1NGlBN3RLX2R6TnI4THdFMHgwVzVEQXZUbGFUZHBLWVVkMQ?oc=5",
         "sources": [
           {
-            "name": "Chosunbiz",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZpM2ZXbDVXRTJLbnRSdnl3VVpvMmszUVNOeWM4aDhJazZjRDZ0WW5xQlVnOGpYM1ZQY0F2alB1OWVMNkxHWWRxZkxzUXVoWVZmdWliNkxTcXROenlFcGVGeEFHYXpzZGxiWnFMVEpfM01iMl8zejNwR1hITWw3RWw1U3FsX2Mxb2E1X2F3TWstemxTYmw5ZTNHYlR0QdIBsgFBVV95cUxPdDBDdl9NNTdUejFSMlJwM1g3cjlPRFl2YXUxcHJseUR6WnJLWXNyU1g0Z0NsZnNmQXNFUFZScUFaQU9GLWwzQXZZV0sybjByQ2lTVWJnMEpxLUFDcWNmNm1wNnZxSUdmNWxuNFVHa3E0T1V2amhMQjdpZ0otTXp1aHo5NUhfaUUxWDdRWDE5YURqV0dUZE1IaVFnRzFwOFFhRFY1YUZ3QTBVX1pkYmdabFZB?oc=5",
-            "published_at": "2026-11-07T21:00:00Z",
-            "headline": "[Why] 엔비디아 AI 반도체 60만개가 홍콩에 묶인 이유는"
+            "name": "아시아경제",
+            "group": "asiae.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VN2R1UHNjYWh1TW0wYVB4Ykp6Sl9JaXYtSlQ5ZkQ0eFhXU2o4cXdQTEVGZy14QUd4M2R2Z0p1NGlBN3RLX2R6TnI4THdFMHgwVzVEQXZUbGFUZHBLWVVkMQ?oc=5",
+            "published_at": "2026-11-09T14:50:04Z",
+            "headline": "경남·전남광주 뭉쳤다 … \"우주항공 5대 강국 되려면 우주항공복합도시 특별법 제정\""
           },
           {
-            "name": "경향신문",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IRnRvajVSSUc0UEU5cFBkRUNwMXluVGpJQ2twUU85bUpwU0lSX2wxVXBrN0RpU0U2YXJsa1NjNk83MXp3UjVzU3RFQTZjQmJWWlBLYVlvLThVZ9IBX0FVX3lxTE1iaGpkWmw5aGRoMWgtTGZuM3p2WmJSS1NERFBZc1ZCSHdvS1ZNOTBHM3hNVy14UjBMNVBJT0hEaWxEMldPWVdrWHZpc1U1Mzl3bFpWTi1GRkU3dzJkeldN?oc=5",
-            "published_at": "2026-11-06T07:55:00Z",
-            "headline": "엔비디아 AI 반도체 운송 중 도난···154억원어치 화물 ‘증발’"
+            "name": "KBS 뉴스",
+            "group": "kbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41cHRXYjg4dFBJODdFQ0pjbXZVa2ZBQnBrbURRRVpybUJ6XzZlbkowZXRHWUMtZ1ZLVktVOC1rWUFha2t5RExWY3Rxd3dJa19UdUJZdXRQc2ktZFRnZ2l4U2ZwUjFhZw?oc=5",
+            "published_at": "2026-11-09T10:24:00Z",
+            "headline": "영·호남 “우주항공복합도시 특별법 촉구” 한목소리"
+          },
+          {
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xUFRQZFc5UFJmYUJMWjl5T1k2SnlPMWtEeDdQWUZLbm5PODItdkNmdGtNVnlJb0IwTUh2VGFlQzZiNTVIVUJ2UWdRLUtFYzQ2UHhQZ3Bvd2YybHFMOU10RtIBYEFVX3lxTE8xUFRQZFc5UFJmYUJMWjl5T1k2SnlPMWtEeDdQWUZLbm5PODItdkNmdGtNVnlJb0IwTUh2VGFlQzZiNTVIVUJ2UWdRLUtFYzQ2UHhQZ3Bvd2YybHFMOU10Rg?oc=5",
+            "published_at": "2026-11-09T04:30:01Z",
+            "headline": "사천·고흥을 우주항공복합도시로…경남·전남광주, 특별법 촉구"
           }
         ]
       },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-08T22:00:22.348957Z"
+      "selection_rank": 1
     },
     {
       "id": "1cde2675224b8d5d7453",

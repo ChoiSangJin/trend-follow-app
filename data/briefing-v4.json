@@ -2,14 +2,14 @@
   "schema_version": 4,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-09T06:20:13.928764Z",
+  "updated_at": "2026-11-09T22:19:04.328064Z",
   "cards": [
     {
       "id": "c046e831df01f0bbfc95",
       "category": "문화·예술",
       "title": "한컴그룹, 문학상 대상에 '말의 장례식'…상금 1억까지 확대",
       "summary": "한컴그룹, 문학상 대상에 '말의 장례식'…상금 1억까지 확대",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 24시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘한컴그룹, 문학상 대상에 '말의 장례식'…상금 1억까지 확대’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
       "source": "지디넷코리아",
@@ -17,14 +17,21 @@
       "published_at": "2026-11-08T02:44:13Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 0.8,
+        "source_groups": 3,
+        "report_count": 3,
+        "span_hours": 24.2,
         "first_report_at": "2026-11-08T01:55:00Z",
-        "last_report_at": "2026-11-08T02:44:13Z",
+        "last_report_at": "2026-11-09T02:04:52Z",
         "first_report_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNam43RzlFTm42WlJJRWtEX0hfdGZ6QW9pZzJqWTBoMzhsSUwwMkFuQ3RaTHhIUnFEZ3FzdUdUVDlVbmFSSG80dHdzak0ydlJFV1JoOGR1QUloQzJENzFwSmtDSnhrdXB2eGpwMWpxVFlSU3piMzVIWm55Sm96clRMQUxR0gGWAUFVX3lxTE9LbmV0dEFwbllVd3V5N2V5TjdPeEJmbHZ6NUFpaURSNG9wczFGeVdFNFlOVjdvWXBDWDZBRFBROEZ5T1hySFhSUEJTY0ZKQVR4NEFkVGY4bzh4RVdzblNQUmh2Q2pZVXktZDYzTHBOZTBGTlhNVy1OcGllN0ZhQTlUajZNVUJySXBnU2JjandyUVpFQmd2Zw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qWTQzZUhwZGtIVE1FUmU2LVc3STNqZWpuUk1xNjN3LW5HYk1LdE1lUmc5Y093SG5WaWtfcnVqcm1rLW5URVRCU3RrMHU2cEtUdWZOTkRB?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ubkxHMF9udF84WDMxQlRwelM2RmZuUFBFTDJlNmtTSzZkSld3MlRnVnRJS21Sc2JuMkhvWEFYQnA5U3N2U1Q5cFpVSVFEZzNDQ0ZSenJsX1k4U2UwOUtTMDZ4dHBZbFQ5X2dfZ1h0ZlY3WEZnQWx6WNIBeEFVX3lxTE9ubkxHMF9udF84WDMxQlRwelM2RmZuUFBFTDJlNmtTSzZkSld3MlRnVnRJS21Sc2JuMkhvWEFYQnA5U3N2U1Q5cFpVSVFEZzNDQ0ZSenJsX1k4U2UwOUtTMDZ4dHBZbFQ5X2dfZ1h0ZlY3WEZnQWx6WA?oc=5",
         "sources": [
+          {
+            "name": "뉴시스",
+            "group": "wire:뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ubkxHMF9udF84WDMxQlRwelM2RmZuUFBFTDJlNmtTSzZkSld3MlRnVnRJS21Sc2JuMkhvWEFYQnA5U3N2U1Q5cFpVSVFEZzNDQ0ZSenJsX1k4U2UwOUtTMDZ4dHBZbFQ5X2dfZ1h0ZlY3WEZnQWx6WNIBeEFVX3lxTE9ubkxHMF9udF84WDMxQlRwelM2RmZuUFBFTDJlNmtTSzZkSld3MlRnVnRJS21Sc2JuMkhvWEFYQnA5U3N2U1Q5cFpVSVFEZzNDQ0ZSenJsX1k4U2UwOUtTMDZ4dHBZbFQ5X2dfZ1h0ZlY3WEZnQWx6WA?oc=5",
+            "published_at": "2026-11-09T02:04:52Z",
+            "headline": "한컴문학상 대상 상금 1억까지 올린다…제2회 시상식 개최"
+          },
           {
             "name": "지디넷코리아",
             "group": "zdnet.co.kr",
@@ -38,6 +45,105 @@
             "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNam43RzlFTm42WlJJRWtEX0hfdGZ6QW9pZzJqWTBoMzhsSUwwMkFuQ3RaTHhIUnFEZ3FzdUdUVDlVbmFSSG80dHdzak0ydlJFV1JoOGR1QUloQzJENzFwSmtDSnhrdXB2eGpwMWpxVFlSU3piMzVIWm55Sm96clRMQUxR0gGWAUFVX3lxTE9LbmV0dEFwbllVd3V5N2V5TjdPeEJmbHZ6NUFpaURSNG9wczFGeVdFNFlOVjdvWXBDWDZBRFBROEZ5T1hySFhSUEJTY0ZKQVR4NEFkVGY4bzh4RVdzblNQUmh2Q2pZVXktZDYzTHBOZTBGTlhNVy1OcGllN0ZhQTlUajZNVUJySXBnU2JjandyUVpFQmd2Zw?oc=5",
             "published_at": "2026-11-08T01:55:00Z",
             "headline": "제2회 한컴문학상 대상에 성백광 시인 ‘말의 장례식’…7700여편 경쟁"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "2b66ab18c838cb0efec3",
+      "category": "문화·예술",
+      "title": "정태영 현대카드 부회장, 뉴욕현대미술관 MoMA 명예 이사 선임",
+      "summary": "정태영 현대카드 부회장, 뉴욕현대미술관 MoMA 명예 이사 선임",
+      "why_now": "수집 범위에서 관련 보도 8개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘정태영 현대카드 부회장, 뉴욕현대미술관 MoMA 명예 이사 선임’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
+      "source": "문화일보",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DME8zQkZ2bklNa1F4YldKM0tZN09PUC1XU1Z5V3NfYkhkMWx4QkF0eVl2Sk9CR3Q5ZmlKMnNodWN6d3JmMWtjLTM3SzlLU1Bu?oc=5",
+      "published_at": "2026-11-09T06:44:40Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 2,
+        "report_count": 8,
+        "span_hours": 6.4,
+        "first_report_at": "2026-11-09T00:18:13Z",
+        "last_report_at": "2026-11-09T06:44:40Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBeTJSTDNYVVV5V01fSnpUWUFWalpaR0hGZGUxODdVekhXbm9oWnctNlhiRVduT25BWXFzenZHaVdycElFdFUtcUlJUlJZdURLa3dKUVJUUGNhYU9ZMGFOQw?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DME8zQkZ2bklNa1F4YldKM0tZN09PUC1XU1Z5V3NfYkhkMWx4QkF0eVl2Sk9CR3Q5ZmlKMnNodWN6d3JmMWtjLTM3SzlLU1Bu?oc=5",
+        "sources": [
+          {
+            "name": "문화일보",
+            "group": "asiae.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DME8zQkZ2bklNa1F4YldKM0tZN09PUC1XU1Z5V3NfYkhkMWx4QkF0eVl2Sk9CR3Q5ZmlKMnNodWN6d3JmMWtjLTM3SzlLU1Bu?oc=5",
+            "published_at": "2026-11-09T06:44:40Z",
+            "headline": "정태영 현대카드 부회장, 뉴욕현대미술관 MoMA 명예 이사 선임"
+          },
+          {
+            "name": "머니투데이",
+            "group": "mt.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aanFQZGxqTVo0WjNIWkJoUUdUVlQzNjIweGJOcTZCSl9pOXVMTXNCM2haSU5zOWc2T3Ewc3hIRmducW5aeGtUak9TLU5kbHFwNHp3RVctVXNSQ212LWItY0NBbjd0QlNwbVdpUUJMblLSAXBBVV95cUxOWmpxUGRsak1aNFozSFpCaFFHVFZUMzYyMHhiTnE2QkpfaTl1TE1zQjNoWklOczlnNk9xMHN4SEZnbnFuWnhrVGpPUy1OZGxxcDR6d0VXLVVzUkNtdi1iLWNDQW43dEJTcG1XaVFCTG5S?oc=5",
+            "published_at": "2026-11-09T06:12:13Z",
+            "headline": "정태영 부회장, 뉴욕미술관 명예이사 '깜짝 선임'…\"최고 영예\" - 머니투데이"
+          }
+        ]
+      },
+      "selection_rank": 2
+    },
+    {
+      "id": "e0466a3d66365d064949",
+      "category": "연예",
+      "title": "[인터뷰②] ‘가능한 사랑’ 설경구 “전도연이 진정한 주인공, 최고의 배우” 극찬",
+      "summary": "[인터뷰②] ‘가능한 사랑’ 설경구 “전도연이 진정한 주인공, 최고의 배우” 극찬",
+      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘[인터뷰②] ‘가능한 사랑’ 설경구 “전도연이 진정한 주인공, 최고의 배우” 극찬’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
+      "source": "스포츠경향",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LUXBLeEdaejhtUjQ2VjBPS185S3IyMjkyQWdmQmFSTThVMWlnczZnZng0TGhEWEwteUxjZEJZRW9FNlFkbXJwZXZCTVQ5SzRDWVY4S3FlR2dYR1YyS1HSAWNBVV95cUxOeUtCUGRPbTNNNHA3bVJEMmJFQ0Z1dzh6eU5fSGF2NXM1ZGZ2bS13NVFPVE1uSWpkVmNwSzlpZzdackRJUm14Yl9lU2YzNGI3cHNubVRGN2F1TVMydS0zRVVMdHM?oc=5",
+      "published_at": "2026-11-09T06:21:00Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 5,
+        "report_count": 5,
+        "span_hours": 4.3,
+        "first_report_at": "2026-11-09T06:21:00Z",
+        "last_report_at": "2026-11-09T10:42:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LUXBLeEdaejhtUjQ2VjBPS185S3IyMjkyQWdmQmFSTThVMWlnczZnZng0TGhEWEwteUxjZEJZRW9FNlFkbXJwZXZCTVQ5SzRDWVY4S3FlR2dYR1YyS1HSAWNBVV95cUxOeUtCUGRPbTNNNHA3bVJEMmJFQ0Z1dzh6eU5fSGF2NXM1ZGZ2bS13NVFPVE1uSWpkVmNwSzlpZzdackRJUm14Yl9lU2YzNGI3cHNubVRGN2F1TVMydS0zRVVMdHM?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rcnN4WUh0eXFLV1czdVhESE1zZ3ZodVpnS2F1TWdWU21mUlBTVGoxQ3ptX240VjNVMERvV0tUOXdBem9maGE5T3lpYWFJazNJcXYyVE9XLVNIWks5Qk1CaQ?oc=5",
+        "sources": [
+          {
+            "name": "iMBC 연예",
+            "group": "imbc.com",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rcnN4WUh0eXFLV1czdVhESE1zZ3ZodVpnS2F1TWdWU21mUlBTVGoxQ3ptX240VjNVMERvV0tUOXdBem9maGE5T3lpYWFJazNJcXYyVE9XLVNIWks5Qk1CaQ?oc=5",
+            "published_at": "2026-11-09T10:42:00Z",
+            "headline": "'가능한 사랑' 호평에 전도연 \"감독님, 제가 진짜 그렇게 연기 잘했어요?\" [영화人]"
+          },
+          {
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN0ZMWFBTUWdpSWZzS2pnVWZIVFZ5WlVqRnBZNEdwaEJEdDl4UUk3X0loT3lrYjBjRlVMOVJNQ1lQUlZZTzg0ZjVvcUdheENic2lON1RLekRWS2JnMDBlcGVhakkweWNnX0ExckdJVzRaV1IzNzhjdjY3VmpnVjMwbkw0OFRHTlZfNmc?oc=5",
+            "published_at": "2026-11-09T09:18:00Z",
+            "headline": "[인터뷰②] '가능한 사랑' 설경구 \"전도연, 여러 말이 필요한가…최고의 배우이자 연기 파트너\""
+          },
+          {
+            "name": "YTN star",
+            "group": "ytn.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1b18wSmNlRHlYZnhTZXAwS0puWEtzaXZ3cGktSVFvQmloc09MbDc2bW5EWXVuaS1yY2hzcTBQR215bktrVmU3OUNtd0ZEMGdGVFQ4THI2blNEdzcyaXV3?oc=5",
+            "published_at": "2026-11-09T08:49:00Z",
+            "headline": "[인터뷰] '가능한 사랑' 설경구 \"전도연만 한 파트너 없어, 무궁무진한 배우\""
+          },
+          {
+            "name": "일간스포츠",
+            "group": "edaily.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRzZwUS11UVBTN0x3MV82SDFnWmM4NW9yTzdvTEtPSGlldDN2V015N3FfM3R4TzREVWc2X0YyZ0RBQTJ3M2N0RVFlWllRNHBxX25mV1IydTFnVFU?oc=5",
+            "published_at": "2026-11-09T08:03:00Z",
+            "headline": "‘가능한 사랑’ 설경구 “베니스영화제 눈물, 놀림받을 생각에 걱정부터” [인터뷰②]"
+          },
+          {
+            "name": "스포츠경향",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LUXBLeEdaejhtUjQ2VjBPS185S3IyMjkyQWdmQmFSTThVMWlnczZnZng0TGhEWEwteUxjZEJZRW9FNlFkbXJwZXZCTVQ5SzRDWVY4S3FlR2dYR1YyS1HSAWNBVV95cUxOeUtCUGRPbTNNNHA3bVJEMmJFQ0Z1dzh6eU5fSGF2NXM1ZGZ2bS13NVFPVE1uSWpkVmNwSzlpZzdackRJUm14Yl9lU2YzNGI3cHNubVRGN2F1TVMydS0zRVVMdHM?oc=5",
+            "published_at": "2026-11-09T06:21:00Z",
+            "headline": "[인터뷰②] ‘가능한 사랑’ 설경구 “전도연이 진정한 주인공, 최고의 배우” 극찬"
           }
         ]
       },
@@ -87,90 +193,64 @@
           }
         ]
       },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-08T22:00:22.348957Z"
-    },
-    {
-      "id": "c6baf6842d4e12f1214e",
-      "category": "연예",
-      "title": "귀신 나오는 집에 4년째 사는 日 아이돌 화제…월세 30% 저렴",
-      "summary": "귀신 나오는 집에 4년째 사는 日 아이돌 화제…월세 30% 저렴",
-      "why_now": "이전 수집(11.09 07:00 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘귀신 나오는 집에 4년째 사는 日 아이돌 화제…월세 30% 저렴’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "아시아경제",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIS1Z1R3Z4SGlDRF9RcnREMFN3cWVsd0xDdjI2WmJpTjRjY2tGUVlpYldkUEMtTlAxOUs4Rk1KV3ZzY1F2TkFCc0dxbkhsVEVkTy1ycGlZYmdvTUFrU0Rhbg?oc=5",
-      "published_at": "2026-11-08T11:19:19Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 3.0,
-        "first_report_at": "2026-11-08T08:18:34Z",
-        "last_report_at": "2026-11-08T11:19:19Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oTVlSUU91c25KR25rLU1IcHZrM2R2X3FiYWlpNUljV25Tc3dfSDNZcnV1c2RlcFIxc1dMU01BM2gtUS1odEtWOEdFV1dpejdUc0did3JjejltWkx4aURPUGpKaUFKYUptQ2ZEUGJfZFMyTE0tVmZ3?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIS1Z1R3Z4SGlDRF9RcnREMFN3cWVsd0xDdjI2WmJpTjRjY2tGUVlpYldkUEMtTlAxOUs4Rk1KV3ZzY1F2TkFCc0dxbkhsVEVkTy1ycGlZYmdvTUFrU0Rhbg?oc=5",
-        "sources": [
-          {
-            "name": "아시아경제",
-            "group": "asiae.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIS1Z1R3Z4SGlDRF9RcnREMFN3cWVsd0xDdjI2WmJpTjRjY2tGUVlpYldkUEMtTlAxOUs4Rk1KV3ZzY1F2TkFCc0dxbkhsVEVkTy1ycGlZYmdvTUFrU0Rhbg?oc=5",
-            "published_at": "2026-11-08T11:19:19Z",
-            "headline": "귀신 나오는 집에 4년째 사는 日 아이돌 화제…월세 30% 저렴"
-          },
-          {
-            "name": "서울신문",
-            "group": "seoul.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oTVlSUU91c25KR25rLU1IcHZrM2R2X3FiYWlpNUljV25Tc3dfSDNZcnV1c2RlcFIxc1dMU01BM2gtUS1odEtWOEdFV1dpejdUc0did3JjejltWkx4aURPUGpKaUFKYUptQ2ZEUGJfZFMyTE0tVmZ3?oc=5",
-            "published_at": "2026-11-08T08:18:34Z",
-            "headline": "‘귀신 집’에서 4년째 사는 日 아이돌…월세 30% 깎은 비결은? [월드픽]"
-          }
-        ]
-      },
       "selection_rank": 2,
       "last_collected_at": "2026-11-08T22:00:22.348957Z"
     },
     {
-      "id": "b634b88aac589081f6f8",
+      "id": "e5295448710d2cd2298d",
       "category": "스포츠",
       "title": "'이강인 선제골 기점 패스' 아틀레티코, 바르사에 1-2 역전패",
       "summary": "'이강인 선제골 기점 패스' 아틀레티코, 바르사에 1-2 역전패",
-      "why_now": "수집 범위에서 관련 보도 10개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 2시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 17시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘'이강인 선제골 기점 패스' 아틀레티코, 바르사에 1-2 역전패’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
       "source": "연합뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lRnFNSkZYVlRUZm1JN0hILVMzWFFXQ0RrR1VJbWtPaEh4cVdxU0JJYlFtaVY3MmJ0ZXFMeWNSaG5EOFZlbG1pTlVNVG11eVdlM2s5eEZOZVVQZ1HSAWBBVV95cUxPWlV1MHBhNUZ2dHNoWDE1QjhtcHprZllGeUFJU3FNVHN3Q01VclFOWllWVFdSU1VFOEtPRWFzc3YyckN6X3Q0a3JhbTJFS0l6SDdBS3o4NTZMa3R2R3Q5cmU?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aVXUwcGE1RnZ0c2hYMTVCOG1wemtmWUZ5QUlTcU1Uc3dDTVVyUU5aWVZUV1JTVUU4S09FYXNzdjJyQ3pfdDRrcmFtMkVLSXpIN0FLejg1NkxrdHZHdDlyZdIBYEFVX3lxTE9aVXUwcGE1RnZ0c2hYMTVCOG1wemtmWUZ5QUlTcU1Uc3dDTVVyUU5aWVZUV1JTVUU4S09FYXNzdjJyQ3pfdDRrcmFtMkVLSXpIN0FLejg1NkxrdHZHdDlyZQ?oc=5",
       "published_at": "2026-11-08T22:15:02Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 8,
-        "report_count": 10,
-        "span_hours": 2.9,
-        "first_report_at": "2026-11-08T20:58:07Z",
-        "last_report_at": "2026-11-08T23:53:42Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84RDhBT3lKU1ROUF9SZ1pFZFVnUW9lMVVpemdqU0tDV0JWdkFqeHJvVHhrTWFycU9xaENKdS11SWlMdTdPLUh4U0lBU0lEa043NnVxbEVwTmpFZ0Nwa0FpSW9razBMSlVQYnd2TmVYcjU3RnBKUFE?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ySElwZVliM3J3OFpjLUpycTQtQkRVaUpKLUZucnVZNzd5em83YU1lMHBTMWFlN1A4N1JEZXBYRUoydHRVaUdOaFZadDcyVFNjaXdKbzhVTm9PTzBSOG1BQTRYMFVPRlNPRlRqdjRPWWI?oc=5",
+        "source_groups": 7,
+        "report_count": 7,
+        "span_hours": 17.8,
+        "first_report_at": "2026-11-08T22:15:02Z",
+        "last_report_at": "2026-11-09T16:02:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aVXUwcGE1RnZ0c2hYMTVCOG1wemtmWUZ5QUlTcU1Uc3dDTVVyUU5aWVZUV1JTVUU4S09FYXNzdjJyQ3pfdDRrcmFtMkVLSXpIN0FLejg1NkxrdHZHdDlyZdIBYEFVX3lxTE9aVXUwcGE1RnZ0c2hYMTVCOG1wemtmWUZ5QUlTcU1Uc3dDTVVyUU5aWVZUV1JTVUU4S09FYXNzdjJyQ3pfdDRrcmFtMkVLSXpIN0FLejg1NkxrdHZHdDlyZQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02NjFJdkk1ZkNpaWlxbjNURXJ5cGp4Q2ZJeVVnY0h2SlZWZmtDRFBBdlBEMUVJLUhOLU41RlJNbFY5UEFNVHBoYTVkTGFna3FOLWNoN3VHaGRRX1F3SV8yNw?oc=5",
         "sources": [
           {
-            "name": "SPOTV NEWS",
-            "group": "spotvnews.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ySElwZVliM3J3OFpjLUpycTQtQkRVaUpKLUZucnVZNzd5em83YU1lMHBTMWFlN1A4N1JEZXBYRUoydHRVaUdOaFZadDcyVFNjaXdKbzhVTm9PTzBSOG1BQTRYMFVPRlNPRlRqdjRPWWI?oc=5",
-            "published_at": "2026-11-08T23:53:42Z",
-            "headline": "“이강인을 왜 빼나” ATM 역전패에 팬들 분통…선제골 기점→60분 교체, 시메오네 용병술 도마"
+            "name": "마이데일리",
+            "group": "mydaily.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02NjFJdkk1ZkNpaWlxbjNURXJ5cGp4Q2ZJeVVnY0h2SlZWZmtDRFBBdlBEMUVJLUhOLU41RlJNbFY5UEFNVHBoYTVkTGFna3FOLWNoN3VHaGRRX1F3SV8yNw?oc=5",
+            "published_at": "2026-11-09T16:02:00Z",
+            "headline": "'이강인, 시간 지날수록 영향력 사라졌다'…아틀레티코 첫 교체 카드, 후반 15분 쇠를로트와 교체"
           },
           {
-            "name": "OSEN",
-            "group": "osen.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96b2JySTNMQzI1dnVvanpDUHBOUzZ4STZhd2hUSTF3YlVlbXBlaVJtWHhZLUxkMXBHenZvb1lfQXRIZ2w1VmJaUVQ3WmViTGRxbmo3eg?oc=5",
-            "published_at": "2026-11-08T23:45:00Z",
-            "headline": "'이강인 교체→6분 뒤 역전 허용' ATM의 뼈아픈 선택...환상적인 아웃프런트 패스 빛났지만 바르셀로나에 패배"
+            "name": "스포츠동아",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84RmkxNWtpcVQwS0VKaHpDcDVFT0JyS3UtRHB4VnB5VlVkclFOQk04Z0d3S2RYMFdBQlNheURCTC1WeWxHVWtVSnhuT0xJdGgtY3pRRVQzSDF2WUl0ZlNxOWlFeDBJbENKbmJMeWRfUWwtdw?oc=5",
+            "published_at": "2026-11-09T07:24:02Z",
+            "headline": "바르셀로나전 선제골 기점 패스에도 웃지 못한 AT 마드리드 이강인…중앙-측면 오가며 분투했지만 팀은 1-2 역전패"
           },
           {
-            "name": "파이낸셜뉴스",
-            "group": "fnnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vWEotLXgzUlBfYURXLXpQVE9xZF92TjBnOGpmSXhvRnYxUzZqd2xHVlNJLVZiYl9uVmhqYjB6d1hPQXI0VjZoeXdKLXFOc1J3d21HU1ZXWXZiUQ?oc=5",
-            "published_at": "2026-11-08T23:36:14Z",
-            "headline": "\"바르샤 수비가 통째로 속았다\" 이강인, 환상 아웃프런트로 선제골 밥상… 팀은 역전패 '눈물'"
+            "name": "KBS 뉴스",
+            "group": "kbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tN180dk9hSVVHR3lramNfUHJTS0hlR0hrRFBQd2cwN3ptRHdHUjdjU0dpUzZWcC1aenY1VUdITlh0T2JMQ2Nnc0FGTFZfUERleFd6YmJJdF9ROHREa1JpU1NnMFRHQQ?oc=5",
+            "published_at": "2026-11-09T06:10:00Z",
+            "headline": "‘이강인 선제골 기점 패스’ 아틀레티코, 바르셀로나에 역전패"
+          },
+          {
+            "name": "한겨레",
+            "group": "hani.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxRDRJa0F0WlBlb0c0bGozamVwUllYaTlVazNDUlpLUGRpcDluMHQtenVuTWMxd3k5eEtzNlNHT2RwRlVzRUF2WE00YTI1WWVtRTNXZEVFcWZoT1IwNG9hMFpVVUs?oc=5",
+            "published_at": "2026-11-08T23:59:00Z",
+            "headline": "이강인 패스 기점 아틀레티코 선제골에도 바르셀로나에 1-2 역전패"
+          },
+          {
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXV0aWhNdU05MXRHb01aLXNaX29rS3VzMkpGZGRlSlNWci1Na0xsejBDR0pYc2YxNlJVbm9POFctTWNmV1ZYV2VlVTd5NkdJRkxWd0FmMFRtQkpuUUlkRDRLR083dXp5MTlqV3laMjJTdU9BVEwtb0xIcVlkRmprSmxSZXRtQ0ppQUZj?oc=5",
+            "published_at": "2026-11-08T23:32:17Z",
+            "headline": "이강인, 절묘한 선제골 기점 패스에도...AT, 바르사에 역전패"
           },
           {
             "name": "문화일보",
@@ -180,30 +260,9 @@
             "headline": "이강인의 아웃프런트 패스 빛났지만… 아틀레티코 마드리드, 바르셀로나에 1-2 역전패"
           },
           {
-            "name": "조선일보",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXV0aWhNdU05MXRHb01aLXNaX29rS3VzMkpGZGRlSlNWci1Na0xsejBDR0pYc2YxNlJVbm9POFctTWNmV1ZYV2VlVTd5NkdJRkxWd0FmMFRtQkpuUUlkRDRLR083dXp5MTlqV3laMjJTdU9BVEwtb0xIcVlkRmprSmxSZXRtQ0ppQUZj?oc=5",
-            "published_at": "2026-11-08T23:17:00Z",
-            "headline": "이강인, 절묘한 선제골 기점 패스에도...AT, 바르사에 역전패"
-          },
-          {
-            "name": "스포츠경향",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41djh2T2JXRE5hdWtVLUpTYkJIU0gwSkc4TUlHRW1oUnh1QVZzck9CRTduMUJGaHRjb0lsRmRBbzR0enEtZllEbHE1WHVVV1ljTUkzRnVBYXdreElTZUHSAWNBVV95cUxPeEJxai1tSG9tREVtbG0tOU1KUmlya3RCbnJDdE45UW54RnhhVl92NWthdXNVMTlRX1FsRHNBQm5ZZDlTN2RwbHQzcnFEaDhZSjVRdHdQY0dTVkNjLVkwNHhEcVk?oc=5",
-            "published_at": "2026-11-08T23:07:00Z",
-            "headline": "‘평점 6.6점’ 이강인, 바르셀로나전 선제골 기점 패스에도 웃지 못했다···60분 뛰고 교체, 공격P 또 불발"
-          },
-          {
-            "name": "SBS 뉴스",
-            "group": "sbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2Wm5EeDVRX29IbDRZSnBtRklCak1NOGVrTGlRc05aQmpFeUNpRnQxWEp6a2dIa09fS2JVdnJuc1hPTl9qTHRxUUI5YzJwRFBIM19hSUtOUjI3QnhZNlo3b3VCSWVGTnlJNFE?oc=5",
-            "published_at": "2026-11-08T22:24:56Z",
-            "headline": "이강인, 선제골 기점 됐지만…아틀레티코, 바르사에 역전패"
-          },
-          {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lRnFNSkZYVlRUZm1JN0hILVMzWFFXQ0RrR1VJbWtPaEh4cVdxU0JJYlFtaVY3MmJ0ZXFMeWNSaG5EOFZlbG1pTlVNVG11eVdlM2s5eEZOZVVQZ1HSAWBBVV95cUxPWlV1MHBhNUZ2dHNoWDE1QjhtcHprZllGeUFJU3FNVHN3Q01VclFOWllWVFdSU1VFOEtPRWFzc3YyckN6X3Q0a3JhbTJFS0l6SDdBS3o4NTZMa3R2R3Q5cmU?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aVXUwcGE1RnZ0c2hYMTVCOG1wemtmWUZ5QUlTcU1Uc3dDTVVyUU5aWVZUV1JTVUU4S09FYXNzdjJyQ3pfdDRrcmFtMkVLSXpIN0FLejg1NkxrdHZHdDlyZdIBYEFVX3lxTE9aVXUwcGE1RnZ0c2hYMTVCOG1wemtmWUZ5QUlTcU1Uc3dDTVVyUU5aWVZUV1JTVUU4S09FYXNzdjJyQ3pfdDRrcmFtMkVLSXpIN0FLejg1NkxrdHZHdDlyZQ?oc=5",
             "published_at": "2026-11-08T22:15:02Z",
             "headline": "'이강인 선제골 기점 패스' 아틀레티코, 바르사에 1-2 역전패"
           }
@@ -212,83 +271,117 @@
       "selection_rank": 1
     },
     {
-      "id": "ab64c374598db5247eca",
+      "id": "12ea163e3949bbfbfc94",
       "category": "스포츠",
-      "title": "수원 삼성, 4년 만에 K리그1 복귀",
-      "summary": "수원 삼성, 4년 만에 K리그1 복귀",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 7시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘수원 삼성, 4년 만에 K리그1 복귀’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "title": "‘첫 태극마크’ FC서울 손정범, 10월 K리그 이달의 영플레이어상 수상",
+      "summary": "‘첫 태극마크’ FC서울 손정범, 10월 K리그 이달의 영플레이어상 수상",
+      "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘‘첫 태극마크’ FC서울 손정범, 10월 K리그 이달의 영플레이어상 수상’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "조선일보",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX2NxaDE0QnBnUDc0aWZVcExnUDl6aExNOVVseHNnRVg0LTlva2Y2amV1b2h3aUp3YTNjN0t3dzBMZkttSVoxTjFCNlFaWTVETWhxZTJKWkFXdkNYQkJETTVUcllrNUtBck9oRGc5aFBSbFN3bFNuVFlKREdfS0ZmTkhFZw?oc=5",
-      "published_at": "2026-11-08T15:40:00Z",
+      "source": "스포츠경향",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VT0thSXJyUnVORWl3U3ZVNXpPLWp4RkI5SGV5RzBpUVFENjBCemhhTHdSc3FJaFEwc3hNV3V2M3RDaEg1RzJHbTcyeUpleE1ITlFiTWR5OFV0Qmc4cVHSAWNBVV95cUxPLVJxLXQxN0JyYkdxVEM3Z29TWEV1Z3oxVEtTLWpKbWFCbTBuNnBDZDlEVzNyVFBsakpkTXkxY1NPZ0ZjUEVJcFpfNU1QekJIblFLT0J4NVJSZjhDNVRsOWhjMWc?oc=5",
+      "published_at": "2026-11-09T07:25:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 7.5,
-        "first_report_at": "2026-11-08T08:12:00Z",
-        "last_report_at": "2026-11-08T15:40:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xcEw5UVRXbTRPWXI2Vk93YVdhR3RSeERnQVRQUld4bG41UjBwbi1nbU9ZWUl1bEtCT05zZEJIc3RtbDVZbjRKMTdkMDVCY25lRkJXRHJVOUxKQdIBX0FVX3lxTFBtYW82WDdQSmU3UTZGRkljNHF4UnQ5Sk80UXgxT0FaZV9YZjVVQzMxU1docnE5VzY2eEJpNHJ2QU9nU2E2Z2V4VzF3RU51LS1vN3V5SzZyY29tTHh5VVB3?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX2NxaDE0QnBnUDc0aWZVcExnUDl6aExNOVVseHNnRVg0LTlva2Y2amV1b2h3aUp3YTNjN0t3dzBMZkttSVoxTjFCNlFaWTVETWhxZTJKWkFXdkNYQkJETTVUcllrNUtBck9oRGc5aFBSbFN3bFNuVFlKREdfS0ZmTkhFZw?oc=5",
+        "source_groups": 6,
+        "report_count": 6,
+        "span_hours": 6.5,
+        "first_report_at": "2026-11-09T02:32:59Z",
+        "last_report_at": "2026-11-09T09:00:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RSGVQeWtWNWx4RFdWUFV1WHpOTFhmb19HWGJLbG42N0NaXzNTYTlkbUloN1k2REdlSEF4T2RhQml1cVBnQU5lcV9Hc0RiRFZNRFJCMmhjTHR0a2NJYURITdIBYEFVX3lxTE5RSGVQeWtWNWx4RFdWUFV1WHpOTFhmb19HWGJLbG42N0NaXzNTYTlkbUloN1k2REdlSEF4T2RhQml1cVBnQU5lcV9Hc0RiRFZNRFJCMmhjTHR0a2NJYURITQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pdU9RXzNjbVNPYVBkQ1k3YXZmYk5DbkVJbkJnbmFZRWNFQXdraUdDNjRuVVZ0bHJDZ2ZGOGtlTEhvbDhQZHVpS052ZklzT0VpUE1VM29RLVNGZzlTb05TSUd5OVNxa3NVWEtaVXBwNlg5dw?oc=5",
         "sources": [
+          {
+            "name": "스포츠동아",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pdU9RXzNjbVNPYVBkQ1k3YXZmYk5DbkVJbkJnbmFZRWNFQXdraUdDNjRuVVZ0bHJDZ2ZGOGtlTEhvbDhQZHVpS052ZklzT0VpUE1VM29RLVNGZzlTb05TSUd5OVNxa3NVWEtaVXBwNlg5dw?oc=5",
+            "published_at": "2026-11-09T09:00:00Z",
+            "headline": "‘생애 첫 A대표팀 발탁’ 서울 손정범, 10월 K리그1 이달의 영플레이어상도 첫 수상…프로 데뷔 첫해 겹경사"
+          },
+          {
+            "name": "스포츠경향",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VT0thSXJyUnVORWl3U3ZVNXpPLWp4RkI5SGV5RzBpUVFENjBCemhhTHdSc3FJaFEwc3hNV3V2M3RDaEg1RzJHbTcyeUpleE1ITlFiTWR5OFV0Qmc4cVHSAWNBVV95cUxPLVJxLXQxN0JyYkdxVEM3Z29TWEV1Z3oxVEtTLWpKbWFCbTBuNnBDZDlEVzNyVFBsakpkTXkxY1NPZ0ZjUEVJcFpfNU1QekJIblFLT0J4NVJSZjhDNVRsOWhjMWc?oc=5",
+            "published_at": "2026-11-09T07:25:00Z",
+            "headline": "‘첫 태극마크’ FC서울 손정범, 10월 K리그 이달의 영플레이어상 수상"
+          },
+          {
+            "name": "문화일보",
+            "group": "munhwa.com",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FV1Zqb0JIUnV3UVJGMUFnR2NueElkTWRtOHI4TlV6U3l3blEzLVduZU51S3JEWjBnVTZqRksxT3VwN1owdUNhSGZBQjJJc1Q2?oc=5",
+            "published_at": "2026-11-09T06:32:28Z",
+            "headline": "서울 손정범, K리그 ‘이달의 영플레이어상’ 첫 수상"
+          },
+          {
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TeDJrTkxRTzZ3aFR0ejZ5RXA0NjA5RVI5N0VwS2dDQTR1aVgxR2kzVUpNbEhLRWVRejlKNkVqSTRLOThiSks2QlhNMkNFd3UzZUswUA?oc=5",
+            "published_at": "2026-11-09T04:53:57Z",
+            "headline": "'생애 첫 A대표팀' 손정범, 10월 K리그 '이달의 영플레이어 상' 수상"
+          },
           {
             "name": "조선일보",
             "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX2NxaDE0QnBnUDc0aWZVcExnUDl6aExNOVVseHNnRVg0LTlva2Y2amV1b2h3aUp3YTNjN0t3dzBMZkttSVoxTjFCNlFaWTVETWhxZTJKWkFXdkNYQkJETTVUcllrNUtBck9oRGc5aFBSbFN3bFNuVFlKREdfS0ZmTkhFZw?oc=5",
-            "published_at": "2026-11-08T15:40:00Z",
-            "headline": "수원 삼성, 4년 만에 K리그1 복귀"
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYVVIbFgxM0tOeTlKNk5QSlY5c1duUmd6M0hMb3c4TWpwVXhDOWtUbnlNWk1HMzJDUnFRS2tqWjlpcW5oSEs1a3JsWnhhYUphY28zcG41T3NzMEFCYU5wT1pscU5kclIzRmRRNkhrdmhFOEEzc0JrVWpPUjR3OUxfTXRjRQ?oc=5",
+            "published_at": "2026-11-09T03:19:00Z",
+            "headline": "[오피셜]국가대표 FC서울 손정범, 드디어 K리그 '이달의 영플레이어 상' 영광"
           },
           {
-            "name": "경향신문",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xcEw5UVRXbTRPWXI2Vk93YVdhR3RSeERnQVRQUld4bG41UjBwbi1nbU9ZWUl1bEtCT05zZEJIc3RtbDVZbjRKMTdkMDVCY25lRkJXRHJVOUxKQdIBX0FVX3lxTFBtYW82WDdQSmU3UTZGRkljNHF4UnQ5Sk80UXgxT0FaZV9YZjVVQzMxU1docnE5VzY2eEJpNHJ2QU9nU2E2Z2V4VzF3RU51LS1vN3V5SzZyY29tTHh5VVB3?oc=5",
-            "published_at": "2026-11-08T08:12:00Z",
-            "headline": "결과로 보여줬다 ‘이정효 매직’···수원삼성, 3년 만에 K리그1 복귀"
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RSGVQeWtWNWx4RFdWUFV1WHpOTFhmb19HWGJLbG42N0NaXzNTYTlkbUloN1k2REdlSEF4T2RhQml1cVBnQU5lcV9Hc0RiRFZNRFJCMmhjTHR0a2NJYURITdIBYEFVX3lxTE5RSGVQeWtWNWx4RFdWUFV1WHpOTFhmb19HWGJLbG42N0NaXzNTYTlkbUloN1k2REdlSEF4T2RhQml1cVBnQU5lcV9Hc0RiRFZNRFJCMmhjTHR0a2NJYURITQ?oc=5",
+            "published_at": "2026-11-09T02:32:59Z",
+            "headline": "'첫 태극마크' 손정범, K리그 '이달의 영플레이어상'도 첫 수상"
           }
         ]
       },
       "selection_rank": 2
     },
     {
-      "id": "b5197b0f8b8306cc889a",
+      "id": "50723f8fbe7ea1719b6b",
       "category": "기술·과학",
-      "title": "[Why] 엔비디아 AI 반도체 60만개가 홍콩에 묶인 이유는",
-      "summary": "[Why] 엔비디아 AI 반도체 60만개가 홍콩에 묶인 이유는",
-      "why_now": "이전 수집(11.09 07:00 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘[Why] 엔비디아 AI 반도체 60만개가 홍콩에 묶인 이유는’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "title": "영·호남 “우주항공복합도시 특별법 촉구” 한목소리",
+      "summary": "영·호남 “우주항공복합도시 특별법 촉구” 한목소리",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘영·호남 “우주항공복합도시 특별법 촉구” 한목소리’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-      "source": "Chosunbiz",
-      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZpM2ZXbDVXRTJLbnRSdnl3VVpvMmszUVNOeWM4aDhJazZjRDZ0WW5xQlVnOGpYM1ZQY0F2alB1OWVMNkxHWWRxZkxzUXVoWVZmdWliNkxTcXROenlFcGVGeEFHYXpzZGxiWnFMVEpfM01iMl8zejNwR1hITWw3RWw1U3FsX2Mxb2E1X2F3TWstemxTYmw5ZTNHYlR0QdIBsgFBVV95cUxPdDBDdl9NNTdUejFSMlJwM1g3cjlPRFl2YXUxcHJseUR6WnJLWXNyU1g0Z0NsZnNmQXNFUFZScUFaQU9GLWwzQXZZV0sybjByQ2lTVWJnMEpxLUFDcWNmNm1wNnZxSUdmNWxuNFVHa3E0T1V2amhMQjdpZ0otTXp1aHo5NUhfaUUxWDdRWDE5YURqV0dUZE1IaVFnRzFwOFFhRFY1YUZ3QTBVX1pkYmdabFZB?oc=5",
-      "published_at": "2026-11-07T21:00:00Z",
+      "source": "KBS 뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41cHRXYjg4dFBJODdFQ0pjbXZVa2ZBQnBrbURRRVpybUJ6XzZlbkowZXRHWUMtZ1ZLVktVOC1rWUFha2t5RExWY3Rxd3dJa19UdUJZdXRQc2ktZFRnZ2l4U2ZwUjFhZw?oc=5",
+      "published_at": "2026-11-09T10:24:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 37.1,
-        "first_report_at": "2026-11-06T07:55:00Z",
-        "last_report_at": "2026-11-07T21:00:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IRnRvajVSSUc0UEU5cFBkRUNwMXluVGpJQ2twUU85bUpwU0lSX2wxVXBrN0RpU0U2YXJsa1NjNk83MXp3UjVzU3RFQTZjQmJWWlBLYVlvLThVZ9IBX0FVX3lxTE1iaGpkWmw5aGRoMWgtTGZuM3p2WmJSS1NERFBZc1ZCSHdvS1ZNOTBHM3hNVy14UjBMNVBJT0hEaWxEMldPWVdrWHZpc1U1Mzl3bFpWTi1GRkU3dzJkeldN?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZpM2ZXbDVXRTJLbnRSdnl3VVpvMmszUVNOeWM4aDhJazZjRDZ0WW5xQlVnOGpYM1ZQY0F2alB1OWVMNkxHWWRxZkxzUXVoWVZmdWliNkxTcXROenlFcGVGeEFHYXpzZGxiWnFMVEpfM01iMl8zejNwR1hITWw3RWw1U3FsX2Mxb2E1X2F3TWstemxTYmw5ZTNHYlR0QdIBsgFBVV95cUxPdDBDdl9NNTdUejFSMlJwM1g3cjlPRFl2YXUxcHJseUR6WnJLWXNyU1g0Z0NsZnNmQXNFUFZScUFaQU9GLWwzQXZZV0sybjByQ2lTVWJnMEpxLUFDcWNmNm1wNnZxSUdmNWxuNFVHa3E0T1V2amhMQjdpZ0otTXp1aHo5NUhfaUUxWDdRWDE5YURqV0dUZE1IaVFnRzFwOFFhRFY1YUZ3QTBVX1pkYmdabFZB?oc=5",
+        "source_groups": 3,
+        "report_count": 3,
+        "span_hours": 10.3,
+        "first_report_at": "2026-11-09T04:30:01Z",
+        "last_report_at": "2026-11-09T14:50:04Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xUFRQZFc5UFJmYUJMWjl5T1k2SnlPMWtEeDdQWUZLbm5PODItdkNmdGtNVnlJb0IwTUh2VGFlQzZiNTVIVUJ2UWdRLUtFYzQ2UHhQZ3Bvd2YybHFMOU10RtIBYEFVX3lxTE8xUFRQZFc5UFJmYUJMWjl5T1k2SnlPMWtEeDdQWUZLbm5PODItdkNmdGtNVnlJb0IwTUh2VGFlQzZiNTVIVUJ2UWdRLUtFYzQ2UHhQZ3Bvd2YybHFMOU10Rg?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VN2R1UHNjYWh1TW0wYVB4Ykp6Sl9JaXYtSlQ5ZkQ0eFhXU2o4cXdQTEVGZy14QUd4M2R2Z0p1NGlBN3RLX2R6TnI4THdFMHgwVzVEQXZUbGFUZHBLWVVkMQ?oc=5",
         "sources": [
           {
-            "name": "Chosunbiz",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1ZpM2ZXbDVXRTJLbnRSdnl3VVpvMmszUVNOeWM4aDhJazZjRDZ0WW5xQlVnOGpYM1ZQY0F2alB1OWVMNkxHWWRxZkxzUXVoWVZmdWliNkxTcXROenlFcGVGeEFHYXpzZGxiWnFMVEpfM01iMl8zejNwR1hITWw3RWw1U3FsX2Mxb2E1X2F3TWstemxTYmw5ZTNHYlR0QdIBsgFBVV95cUxPdDBDdl9NNTdUejFSMlJwM1g3cjlPRFl2YXUxcHJseUR6WnJLWXNyU1g0Z0NsZnNmQXNFUFZScUFaQU9GLWwzQXZZV0sybjByQ2lTVWJnMEpxLUFDcWNmNm1wNnZxSUdmNWxuNFVHa3E0T1V2amhMQjdpZ0otTXp1aHo5NUhfaUUxWDdRWDE5YURqV0dUZE1IaVFnRzFwOFFhRFY1YUZ3QTBVX1pkYmdabFZB?oc=5",
-            "published_at": "2026-11-07T21:00:00Z",
-            "headline": "[Why] 엔비디아 AI 반도체 60만개가 홍콩에 묶인 이유는"
+            "name": "아시아경제",
+            "group": "asiae.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VN2R1UHNjYWh1TW0wYVB4Ykp6Sl9JaXYtSlQ5ZkQ0eFhXU2o4cXdQTEVGZy14QUd4M2R2Z0p1NGlBN3RLX2R6TnI4THdFMHgwVzVEQXZUbGFUZHBLWVVkMQ?oc=5",
+            "published_at": "2026-11-09T14:50:04Z",
+            "headline": "경남·전남광주 뭉쳤다 … \"우주항공 5대 강국 되려면 우주항공복합도시 특별법 제정\""
           },
           {
-            "name": "경향신문",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IRnRvajVSSUc0UEU5cFBkRUNwMXluVGpJQ2twUU85bUpwU0lSX2wxVXBrN0RpU0U2YXJsa1NjNk83MXp3UjVzU3RFQTZjQmJWWlBLYVlvLThVZ9IBX0FVX3lxTE1iaGpkWmw5aGRoMWgtTGZuM3p2WmJSS1NERFBZc1ZCSHdvS1ZNOTBHM3hNVy14UjBMNVBJT0hEaWxEMldPWVdrWHZpc1U1Mzl3bFpWTi1GRkU3dzJkeldN?oc=5",
-            "published_at": "2026-11-06T07:55:00Z",
-            "headline": "엔비디아 AI 반도체 운송 중 도난···154억원어치 화물 ‘증발’"
+            "name": "KBS 뉴스",
+            "group": "kbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41cHRXYjg4dFBJODdFQ0pjbXZVa2ZBQnBrbURRRVpybUJ6XzZlbkowZXRHWUMtZ1ZLVktVOC1rWUFha2t5RExWY3Rxd3dJa19UdUJZdXRQc2ktZFRnZ2l4U2ZwUjFhZw?oc=5",
+            "published_at": "2026-11-09T10:24:00Z",
+            "headline": "영·호남 “우주항공복합도시 특별법 촉구” 한목소리"
+          },
+          {
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xUFRQZFc5UFJmYUJMWjl5T1k2SnlPMWtEeDdQWUZLbm5PODItdkNmdGtNVnlJb0IwTUh2VGFlQzZiNTVIVUJ2UWdRLUtFYzQ2UHhQZ3Bvd2YybHFMOU10RtIBYEFVX3lxTE8xUFRQZFc5UFJmYUJMWjl5T1k2SnlPMWtEeDdQWUZLbm5PODItdkNmdGtNVnlJb0IwTUh2VGFlQzZiNTVIVUJ2UWdRLUtFYzQ2UHhQZ3Bvd2YybHFMOU10Rg?oc=5",
+            "published_at": "2026-11-09T04:30:01Z",
+            "headline": "사천·고흥을 우주항공복합도시로…경남·전남광주, 특별법 촉구"
           }
         ]
       },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-08T22:00:22.348957Z"
+      "selection_rank": 1
     },
     {
       "id": "1cde2675224b8d5d7453",
@@ -345,51 +438,11 @@
       "last_collected_at": "2026-11-08T22:00:22.348957Z"
     },
     {
-      "id": "5f0bf341f03c84787382",
-      "category": "사회",
-      "title": "토요일 서울 마라톤·집회…여의도·광화문 곳곳 교통통제",
-      "summary": "토요일 서울 마라톤·집회…여의도·광화문 곳곳 교통통제",
-      "why_now": "이전 수집(11.08 06:47 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘토요일 서울 마라톤·집회…여의도·광화문 곳곳 교통통제’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
-      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
-      "source": "뉴스1",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40VVVPUG5LTmhSc0tJeEVSTXZudmJ3WVQ2NHBNOFhCM3o0aV9Td0hTZ1JuRUV6d2VMa0c2RTg4QTRTYXVlaG9oRzYxbDZLdjl2SWpBN1lFX0RieGxrYVJtSFRXYU8?oc=5",
-      "published_at": "2026-11-06T20:30:00Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 0.5,
-        "first_report_at": "2026-11-06T20:00:02Z",
-        "last_report_at": "2026-11-06T20:30:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnZJaENxOHpqclhnSmpyazRFNTYtR3hxTHdQYk1UN19DRHlrQmNjNl9ibnRCUXBqNHZoNFA3Q0xIS2N0ejRMYzVYLTJ2a184amdVNkdtcHVGUURhcDd0OEhVYXpXMlhKSGlaQkxUOWxCdW9RUE1XUlUyNm9MS0hueg?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40VVVPUG5LTmhSc0tJeEVSTXZudmJ3WVQ2NHBNOFhCM3o0aV9Td0hTZ1JuRUV6d2VMa0c2RTg4QTRTYXVlaG9oRzYxbDZLdjl2SWpBN1lFX0RieGxrYVJtSFRXYU8?oc=5",
-        "sources": [
-          {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40VVVPUG5LTmhSc0tJeEVSTXZudmJ3WVQ2NHBNOFhCM3o0aV9Td0hTZ1JuRUV6d2VMa0c2RTg4QTRTYXVlaG9oRzYxbDZLdjl2SWpBN1lFX0RieGxrYVJtSFRXYU8?oc=5",
-            "published_at": "2026-11-06T20:30:00Z",
-            "headline": "토요일 서울 마라톤·집회…여의도·광화문 곳곳 교통통제"
-          },
-          {
-            "name": "이데일리",
-            "group": "edaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcnZJaENxOHpqclhnSmpyazRFNTYtR3hxTHdQYk1UN19DRHlrQmNjNl9ibnRCUXBqNHZoNFA3Q0xIS2N0ejRMYzVYLTJ2a184amdVNkdtcHVGUURhcDd0OEhVYXpXMlhKSGlaQkxUOWxCdW9RUE1XUlUyNm9MS0hueg?oc=5",
-            "published_at": "2026-11-06T20:00:02Z",
-            "headline": "주말 서울 곳곳 집회·마라톤…\"교통정보 확인하세요\"[사회in]"
-          }
-        ]
-      },
-      "selection_rank": 2,
-      "last_collected_at": "2026-11-07T21:47:53.933825Z"
-    },
-    {
       "id": "60e9d6d3334df608bff7",
       "category": "경제·주식",
       "title": "뉴욕·상하이 증시, 美 소비자물가·코어위브 실적 '주목'",
       "summary": "뉴욕·상하이 증시, 美 소비자물가·코어위브 실적 '주목'",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.09 15:20 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘뉴욕·상하이 증시, 美 소비자물가·코어위브 실적 '주목'’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
       "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
       "source": "한국경제",
@@ -421,7 +474,8 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-09T06:20:13.928764Z"
     },
     {
       "id": "a8c740df47dc35bd7342",
@@ -468,7 +522,7 @@
       "category": "세계뉴스",
       "title": "프랑스서 세계항구도시협회 총회…내년 부산 개최 선포",
       "summary": "프랑스서 세계항구도시협회 총회…내년 부산 개최 선포",
-      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.09 15:20 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘프랑스서 세계항구도시협회 총회…내년 부산 개최 선포’라는 소식을 봤어요. 최근 글로벌 소식 중 관심이 갔던 변화가 있어요?",
       "context": "국가·사람 전체를 단정하지 말고 사실과 해석을 구분해 이야기해 보세요.",
       "source": "연합뉴스",
@@ -514,7 +568,8 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-09T06:20:13.928764Z"
     },
     {
       "id": "a736455bb3a24070b481",
