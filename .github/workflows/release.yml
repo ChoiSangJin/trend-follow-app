@@ -98,6 +98,8 @@ jobs:
           fi
       - name: Verify APK signature and ABI
         run: |
+          bash scripts/check_command.sh bash <<'VERIFY_APK'
+          set -euo pipefail
           APK=build/app/outputs/flutter-apk/app-arm64-v8a-release.apk
           BUILD_TOOLS=$(find "$ANDROID_HOME/build-tools" -mindepth 1 -maxdepth 1 -type d | sort -V | tail -1)
           "$BUILD_TOOLS/apksigner" verify --verbose --print-certs "$APK" > "$RUNNER_TEMP/release-cert.txt"
@@ -107,10 +109,16 @@ jobs:
           from pathlib import Path
           version, code = re.search(r'^version: ([^+\s]+)\+(\d+)', Path('pubspec.yaml').read_text(), re.M).groups()
           badging = (Path(os.environ['RUNNER_TEMP']) / 'release-badging.txt').read_text()
+          # Flutter split-per-ABI: ARM64 offset 2 * 1000 + pubspec build number.
+          expected_code = int(code) + 2000
           required = ["package: name='com.malmun.app'", "application-label:'말문'",
-                      "sdkVersion:'24'", f"versionName='{version}'", f"versionCode='{code}'"]
-          if any(value not in badging for value in required) or 'application-debuggable' in badging:
-              raise SystemExit('APK identity, version, SDK or release-mode mismatch')
+                      "sdkVersion:'24'", f"versionName='{version}'", f"versionCode='{expected_code}'"]
+          missing = [value for value in required if value not in badging]
+          if missing:
+              raise SystemExit(f'APK metadata mismatch: missing {missing}')
+          if 'application-debuggable' in badging:
+              raise SystemExit('APK must not be debuggable')
+          print(f'Verified release APK: com.malmun.app {version} versionCode={expected_code}, minSdk=24')
           cert = (Path(os.environ['RUNNER_TEMP']) / 'release-cert.txt').read_text()
           fingerprints = {value.lower() for value in re.findall(
               r'certificate SHA-256 digest:[ \t]*([0-9a-fA-F]{64})(?![0-9a-fA-F])', cert, re.I)}
@@ -128,6 +136,7 @@ jobs:
           PY
           cp "$APK" Malmun-arm64-v8a.apk
           sha256sum Malmun-arm64-v8a.apk > SHA256SUMS
+          VERIFY_APK
       - name: Publish GitHub Release
         env:
           GH_TOKEN: ${{ github.token }}
