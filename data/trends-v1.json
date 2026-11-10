@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "region": "KR",
-  "updated_at": "2026-11-10T07:13:55.338655Z",
-  "tracking_started_at": "2026-11-07T12:56:50.968527Z",
+  "updated_at": "2026-11-10T19:42:24.853139Z",
+  "tracking_started_at": "2026-11-07T21:47:53.933825Z",
   "snapshot_count": 8,
   "cards": [
     {
       "topic": {
-        "id": "1564db1c28da4f5f5d7c",
+        "id": "eb7e6a6f2f5be2f44d2a",
         "category": "스포츠",
         "title": "이강인 선제골 기점 패스에도…아틀레티코, 바르셀로나에 1-2 역전패",
         "summary": "이강인 선제골 기점 패스에도…아틀레티코, 바르셀로나에 1-2 역전패",
-        "why_now": "수집 범위에서 관련 보도 18개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 33시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "why_now": "수집 범위에서 관련 보도 16개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 11시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
         "opener": "‘이강인 선제골 기점 패스에도…아틀레티코, 바르셀로나에 1-2 역전패’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
         "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
         "source": "뉴시스",
@@ -20,26 +20,33 @@
         "evidence": "headline",
         "coverage": {
           "source_groups": 8,
-          "report_count": 18,
-          "span_hours": 33.0,
-          "first_report_at": "2026-11-07T15:05:00Z",
-          "last_report_at": "2026-11-09T00:04:10Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83LThMd01SLWRrYTA4eDhfSGVHcnIzYUZzbFNTS1lvZjd6U3RFZ3FXYlB2dHlIUzYyQkhVWjllX2ZkVEpGbEpuOFU3Tkl1VmNkREFmRm1nM0xHeGlybV9rTg?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNTFvNElhcEVyeTNaM3p6YnE1OVhYZWVJQ2F0dUtDM0FRZFJsRHlCSlY3TldBX1BfM3czRHVrS192YzRGMFh4SXBBd0VEVlctMVR6ZktNcnVEQVI0cEJ1d0VSUloxcy1yeER5WVlfRjNOTndVRzNXUk5pRDdRRFk0UA?oc=5",
+          "report_count": 16,
+          "span_hours": 11.2,
+          "first_report_at": "2026-11-08T21:56:22Z",
+          "last_report_at": "2026-11-09T09:08:27Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Md1c0b0FudDQwRzFFODJsTnd3U2N0M0hCcXR4RnBUT1QxOEFvelpxUTdTRGlfRXZSVXphOGRJMXpwa04xSGxsMVpCQmZvNXZDalE4enY5X2lQOEg5YlVRcEV4YlgtQm41OHfSAW9BVV95cUxNRkkwcnlVS2kycDIyWWVFRENyMnFvZXlWaHhDbnA1WVVtYS12R21jY2E0OGZ1Y1lsNmtMSVlnNlBaTGVFZGlVME5rNUo1LU5ENkpnX3hPQjlzMmNKUVFlX3R4Y2dZNXVsVVBCMUM0N0E?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13RklvdGk1eFB2ZGpIUUctTC1LWlNLN1p0bmlzOHJLc3FLZ2Rkd0k2aTZ1S2EtT3BRcFRRbkZ5NDFab09MMlhlN0pRYldtVWhYVnMxWEx4SzdGN21ZZWlycWd6TG9BNUZRR2h3bTF4OWE2UGRtOWc?oc=5",
           "sources": [
             {
-              "name": "이데일리",
-              "group": "edaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNTFvNElhcEVyeTNaM3p6YnE1OVhYZWVJQ2F0dUtDM0FRZFJsRHlCSlY3TldBX1BfM3czRHVrS192YzRGMFh4SXBBd0VEVlctMVR6ZktNcnVEQVI0cEJ1d0VSUloxcy1yeER5WVlfRjNOTndVRzNXUk5pRDdRRFk0UA?oc=5",
-              "published_at": "2026-11-09T00:04:10Z",
-              "headline": "'이강인 선제골 기점에도'…아틀레티코, 바르셀로나에 역전패"
+              "name": "스타뉴스",
+              "group": "starnewskorea.com",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13RklvdGk1eFB2ZGpIUUctTC1LWlNLN1p0bmlzOHJLc3FLZ2Rkd0k2aTZ1S2EtT3BRcFRRbkZ5NDFab09MMlhlN0pRYldtVWhYVnMxWEx4SzdGN21ZZWlycWd6TG9BNUZRR2h3bTF4OWE2UGRtOWc?oc=5",
+              "published_at": "2026-11-09T09:08:27Z",
+              "headline": "\"이강인 더 오래 보고 싶었는데\" 외신도 60분 교체 아쉬움... \"바르셀로나 측면 수비 계속 괴롭혔다\""
             },
             {
-              "name": "한겨레",
-              "group": "hani.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxRDRJa0F0WlBlb0c0bGozamVwUllYaTlVazNDUlpLUGRpcDluMHQtenVuTWMxd3k5eEtzNlNHT2RwRlVzRUF2WE00YTI1WWVtRTNXZEVFcWZoT1IwNG9hMFpVVUs?oc=5",
-              "published_at": "2026-11-08T23:59:00Z",
-              "headline": "이강인 패스 기점 아틀레티코 선제골에도 바르셀로나에 1-2 역전패"
+              "name": "스포츠동아",
+              "group": "donga.com",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84RmkxNWtpcVQwS0VKaHpDcDVFT0JyS3UtRHB4VnB5VlVkclFOQk04Z0d3S2RYMFdBQlNheURCTC1WeWxHVWtVSnhuT0xJdGgtY3pRRVQzSDF2WUl0ZlNxOWlFeDBJbENKbmJMeWRfUWwtdw?oc=5",
+              "published_at": "2026-11-09T07:24:02Z",
+              "headline": "바르셀로나전 선제골 기점 패스에도 웃지 못한 AT 마드리드 이강인…중앙-측면 오가며 분투했지만 팀은 1-2 역전패"
+            },
+            {
+              "name": "조선일보",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWUlPWDE5cHM2bVNXN3Ftd0RSZkFPa0xtc1NscFU0b1VuNkR2cndrUGUwUGdxcmhDQU1ia2t0UW1MazJEY3kxd202SWtXcXVxbmpHT2ZJdDNuN0gtVEYxbGIxX1lkVjJQN3dWSEk0eDdEQ1RTRXFqTG1RM2hGQW9KRzlUajR4VnJEUFRN?oc=5",
+              "published_at": "2026-11-08T23:47:00Z",
+              "headline": "'이강인 교체→6분 뒤 역전 허용' ATM의 뼈아픈 선택...환상적인 아웃프런트 패스 빛났지만 바르셀로나에 패배"
             },
             {
               "name": "문화일보",
@@ -49,6 +56,13 @@
               "headline": "이강인의 아웃프런트 패스 빛났지만… 아틀레티코 마드리드, 바르셀로나에 1-2 역전패"
             },
             {
+              "name": "일간스포츠",
+              "group": "edaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xNXdDN25Gdi1zamdvajBILVVBRXNTelZaS2FhT183OURJbkpxeklDZk5qVmR4NGlTRVFaLWhCN1VSQkJEck9BNVFQeU0zRUo3MldDY29KZzN3ck0?oc=5",
+              "published_at": "2026-11-08T22:54:00Z",
+              "headline": "'이강인 선제골 기점 패스' 아틀레티코, 선두 바르사에 1-2 역전패…리그 연승 마감"
+            },
+            {
               "name": "뉴시스",
               "group": "wire:뉴시스",
               "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JcVA5bG9BX1BrWHBJcWhKNnJQR2V6TjJUUGI0SHMxOHpaeXpYdkx3cEZXdW5rVnVoWllCSjZqeE10d182UUQyRUJDd1ZtaWI2cU5PVE5RVGJKSHg4NUdiedIBeEFVX3lxTE9RbVhOcHVvOEdaaGdBdThuNTNtckgtMjhBazV2bmtXN0FId2hKeURVa1RraFl3VGNFbmNKSnIxWVcwbV9PU2ZXajJVWmJfOV9RVkxVeE9VdHZEV2J5X0FqVHpYdG5RcXFlSEtBZ1M3N0lnQzNkUm1VMQ?oc=5",
@@ -56,40 +70,26 @@
               "headline": "이강인 선제골 기점 패스에도…아틀레티코, 바르셀로나에 1-2 역전패"
             },
             {
-              "name": "SBS 뉴스",
-              "group": "sbs.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2Wm5EeDVRX29IbDRZSnBtRklCak1NOGVrTGlRc05aQmpFeUNpRnQxWEp6a2dIa09fS2JVdnJuc1hPTl9qTHRxUUI5YzJwRFBIM19hSUtOUjI3QnhZNlo3b3VCSWVGTnlJNFE?oc=5",
-              "published_at": "2026-11-08T22:24:56Z",
-              "headline": "이강인, 선제골 기점 됐지만…아틀레티코, 바르사에 역전패"
+              "name": "뉴스1",
+              "group": "wire:뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGLUtwbEx2Z0RUdVZTWVkwRFVaUURkdkJydnppWVZYRURoajlJQ3RvRnpUMWdCdWc3cGlIaXo0TXhfMlZ3RThoUkVkREc5T3NpU2VDcHZ1MTV6LTRtTFZ2RQ?oc=5",
+              "published_at": "2026-11-08T22:44:58Z",
+              "headline": "'이강인 60분' AT 마드리드, 바르샤에 1-2 역전패…9연승 무산"
             },
             {
-              "name": "연합뉴스",
-              "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aVXUwcGE1RnZ0c2hYMTVCOG1wemtmWUZ5QUlTcU1Uc3dDTVVyUU5aWVZUV1JTVUU4S09FYXNzdjJyQ3pfdDRrcmFtMkVLSXpIN0FLejg1NkxrdHZHdDlyZdIBYEFVX3lxTE9aVXUwcGE1RnZ0c2hYMTVCOG1wemtmWUZ5QUlTcU1Uc3dDTVVyUU5aWVZUV1JTVUU4S09FYXNzdjJyQ3pfdDRrcmFtMkVLSXpIN0FLejg1NkxrdHZHdDlyZQ?oc=5",
-              "published_at": "2026-11-08T22:15:02Z",
-              "headline": "'이강인 선제골 기점 패스' 아틀레티코, 바르사에 1-2 역전패"
-            },
-            {
-              "name": "마이데일리",
-              "group": "mydaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxSjBRaExGeEJFc2JvMVFYLWg2c0V3RXFuOWZSRlpQa0MteFR3NWhucHo3ZmhPaC00X2FvNHllMUxUeW1MWDBMZGNCSGhfV3RmTGtCUXZPaG0tTzNDUFYxekRmbkc4Zw?oc=5",
-              "published_at": "2026-11-08T21:57:18Z",
-              "headline": "'이럴 수가' 이강인 환상 기점 패스 선취골에도 웃지 못했다…아틀레티코, 바르셀로나에 1-2 역전패"
-            },
-            {
-              "name": "매일경제",
-              "group": "mk.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JQ0I2eXdGRjNSUmxhQkFwaTVUSkplT3FQb2xvd0ZWZGU2dXZHWHY0YzhUMUVic0lvWkRVcHlUWE1BM0lJNWJ5Uk5saTBHaEhQQjVF?oc=5",
-              "published_at": "2026-11-08T19:43:33Z",
-              "headline": "이강인vs야말 맞대결 성사! 아틀레티코, 바르셀로나전 이강인·알바레스 투톱 출격"
+              "name": "노컷뉴스",
+              "group": "nocutnews.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QOERMRncxRXJZTnNpdXVTREZ2UkQ2amI5MWJ5LXVKb3JzLVdTN0tPdmh5MGZQc203TUR6NW5Pd2lBczJMRE5YWnBTMXlYd2N6YVE?oc=5",
+              "published_at": "2026-11-08T22:43:28Z",
+              "headline": "'선제골 기점' 이강인, 빠지자마자 역전…선두 기회 날린 AT 마드리드"
             }
           ]
         }
       },
-      "source_groups": 10,
+      "source_groups": 12,
       "daily_sources": [
-        3,
-        9,
+        0,
+        12,
         0
       ],
       "tracking_hours": 0.0,
@@ -275,14 +275,107 @@
       "source_groups": 8,
       "daily_sources": [
         0,
-        6,
-        2
+        8,
+        0
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
       "rank": 3
+    },
+    {
+      "topic": {
+        "id": "64340f2a761e2b1ce09c",
+        "category": "기술·과학",
+        "title": "제주 해상 우주발사체 바지선서 작업하던 다이버 숨져",
+        "summary": "제주 해상 우주발사체 바지선서 작업하던 다이버 숨져",
+        "why_now": "수집 범위에서 관련 보도 8개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘제주 해상 우주발사체 바지선서 작업하던 다이버 숨져’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+        "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+        "source": "연합뉴스",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfQnVDQVpjMmFtVDhpU3RlOW9WaE5nM21NdlVadFlzZ2k1cF9hak1ZRkJETEhoSGlTSU4xY1lhcDlzOVJJR1F0eEthZXE0R1VqNTFDRlVjNm5FVlnSAWBBVV95cUxNQlQ0NWd0eXlBZGd1X0F1MHF4dFRFSWZoQTB6SC1BRHF2TmlxR1NMblF2eURETENlMGc0amtwS2RNRjRYeklYY0VEMXVLUGdnUk9kREVYa2tGbTBhRGsza0Y?oc=5",
+        "published_at": "2026-11-10T09:36:36Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 8,
+          "report_count": 8,
+          "span_hours": 4.5,
+          "first_report_at": "2026-11-10T09:36:36Z",
+          "last_report_at": "2026-11-10T14:07:59Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfQnVDQVpjMmFtVDhpU3RlOW9WaE5nM21NdlVadFlzZ2k1cF9hak1ZRkJETEhoSGlTSU4xY1lhcDlzOVJJR1F0eEthZXE0R1VqNTFDRlVjNm5FVlnSAWBBVV95cUxNQlQ0NWd0eXlBZGd1X0F1MHF4dFRFSWZoQTB6SC1BRHF2TmlxR1NMblF2eURETENlMGc0amtwS2RNRjRYeklYY0VEMXVLUGdnUk9kREVYa2tGbTBhRGsza0Y?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yVDM5U3hkRUpFMlI0LVVGVVA4anRoa1RWV3o5WVBWelJ1VTk3NE9zY092Z044YmpSNnRhSFg2eW9JcDRGXzVZeF9ObmFkNzdNenItSXRtUk1TdS1zVFc5NEhhcUxSX0U?oc=5",
+          "sources": [
+            {
+              "name": "뉴스1",
+              "group": "wire:뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yVDM5U3hkRUpFMlI0LVVGVVA4anRoa1RWV3o5WVBWelJ1VTk3NE9zY092Z044YmpSNnRhSFg2eW9JcDRGXzVZeF9ObmFkNzdNenItSXRtUk1TdS1zVFc5NEhhcUxSX0U?oc=5",
+              "published_at": "2026-11-10T14:07:59Z",
+              "headline": "우주발사체 바지선서 작업하던 다이버 숨져…국방부 \"안전 대책 강화\"(종합2보)"
+            },
+            {
+              "name": "JTBC",
+              "group": "jtbc.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56di0wZ1hqX1lLb01MSGkxRzhoY0pOWGozNzVvRlVOM0drUlJSSC1FamNmRXpMNWhiVlVTdnRSdTFPYWxvS2N1WXlWZnI4Umt2V0xkcg?oc=5",
+              "published_at": "2026-11-10T13:41:00Z",
+              "headline": "우주발사체 작업 다이버 숨져…국방부 \"엄중히 받아들여\""
+            },
+            {
+              "name": "뉴시스",
+              "group": "wire:뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10QUNTMlp1MXJRUFFCeWFQa2pMWXFOSUtaYXB6dWpPZWhRWmMwbV9Vc1BMNUdtcURZUTA1Z0RVcGhPdlpRRGI0MFFwcjZNRUNIVm5LbHBLYWdTa2p5elhOMtIBeEFVX3lxTFA3OVRfN1U4cS1DWk1FbjFxUTRidWhlMFhrZjZlczJzckhFRTE5QmlfbnNvY2hDTFhXakpiZG45ZHAzQl9QWDJtdGNITHFSazl1bEVZd2lWUS11TjRNUkM3aFp4eFJlRF9makVvYnlYV1JyRVlveWFlQQ?oc=5",
+              "published_at": "2026-11-10T13:13:17Z",
+              "headline": "제주 우주발사체 바지선 수중 작업하던 50대 다이버 숨져(종합2보)"
+            },
+            {
+              "name": "MBC 뉴스",
+              "group": "imbc.com",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhd3NIUDVMdkZKQ0lhanlhMXZfUG9MUms5VE9uclVkcGhTVVl5b29wajdFMkFkWlZKbF8yclF2MDNsTS1kMWlPWHQ2UjVYaFlZZTFGdF9JMGJUU3hwUE5EclZtQ2xKaUFXME15YjllQld6SlJBOXpEedIBeEFVX3lxTE9pMngyQ3haei1xS1NRazhFVWdJdTF4ZzdsYzhoeGlDZFdlMS1jT1huNk10c3AycVY3TGNCQkNEbGdDcE9nZzVfN3ZseThFbURfbWJsR3NZUVZMYzI1Y2pqdUtZZlBBNXU3U2VEandTMWpUbEFGbkxadg?oc=5",
+              "published_at": "2026-11-10T13:07:30Z",
+              "headline": "국방부 \"우주발사체 바지선에서 작업하던 다이버 숨져‥조사 적극 협조\""
+            },
+            {
+              "name": "문화일보",
+              "group": "munhwa.com",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93cmhhUU5qZEowNlNJYnlOQkwtYXRDZzh6RUZQYlBuWXp6WjB0ekNUZ2p4OVlBSTloUXNCbmNEX1NlcVJ4RFpPbmllRUdpa0Vq?oc=5",
+              "published_at": "2026-11-10T11:36:56Z",
+              "headline": "[속보]제주서 우주발사체 작업하던 다이버 심정지…수중 작업 직후"
+            },
+            {
+              "name": "서울신문",
+              "group": "seoul.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tSmp0X3lZMU4zTU5HT2hqNWgzNW80LW5jSlQ4eWZQLS0zV1IxcEtocFZCX3BpS3Vpal92dEE4QkJsU091Ylg4Wl9KdmhobnRZZmZJWlRaTHpCVVRvOGpsOGpHS0ZYU0EwdDBfNldwVQ?oc=5",
+              "published_at": "2026-11-10T09:51:04Z",
+              "headline": "제주 해상서 다이버 숨져…우주발사체 바지선서 수중작업"
+            },
+            {
+              "name": "경향신문",
+              "group": "khan.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ka3lEcTlaeENnR3R4emlhWmowVU42ZU92aWo1ZG5FME1WaWcxOElRR01aQ0ZfZ2kyX2xDNGNoSlNKaFhRcXBCSWNJaVAxVGlwTW40ZDEyRm9EQdIBX0FVX3lxTE55WlZNS1llaFRxLUhvbFhKU3cxYXRYMUdvVThIcTQ5X1pHeXJRNVI4aWMydVF1MEtxazdVZDI4Q3JTRjhiV040MEdZb1BqYUp3YjdjdUlBbFR0TnVmX1FR?oc=5",
+              "published_at": "2026-11-10T09:51:00Z",
+              "headline": "마라도 해상 우주발사체 바지선, 수중작업 하던 다이버 숨져"
+            },
+            {
+              "name": "연합뉴스",
+              "group": "wire:연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfQnVDQVpjMmFtVDhpU3RlOW9WaE5nM21NdlVadFlzZ2k1cF9hak1ZRkJETEhoSGlTSU4xY1lhcDlzOVJJR1F0eEthZXE0R1VqNTFDRlVjNm5FVlnSAWBBVV95cUxNQlQ0NWd0eXlBZGd1X0F1MHF4dFRFSWZoQTB6SC1BRHF2TmlxR1NMblF2eURETENlMGc0amtwS2RNRjRYeklYY0VEMXVLUGdnUk9kREVYa2tGbTBhRGsza0Y?oc=5",
+              "published_at": "2026-11-10T09:36:36Z",
+              "headline": "제주 해상 우주발사체 바지선서 작업하던 다이버 숨져"
+            }
+          ]
+        }
+      },
+      "source_groups": 8,
+      "daily_sources": [
+        0,
+        0,
+        8
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 4
     },
     {
       "topic": {
@@ -360,15 +453,94 @@
       },
       "source_groups": 7,
       "daily_sources": [
-        3,
-        4,
+        7,
+        0,
         0
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "topic": {
+        "id": "71598bddaf8690cc7804",
+        "category": "연예",
+        "title": "수능 3주전 강의 중단 뒤 예능 출연…사탐 강사 이도 결국 사과",
+        "summary": "수능 3주전 강의 중단 뒤 예능 출연…사탐 강사 이도 결국 사과",
+        "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 33시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘수능 3주전 강의 중단 뒤 예능 출연…사탐 강사 이도 결국 사과’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+        "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
+        "source": "중앙일보",
+        "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LeW9WQ0h1ZmtDZE1Pem8zQ1Ffd2xlRkxtTVFVZGRCSUxkeHBENGxnQi1aVmJYS0o2VDk1aHFIa2Z0dGszcjZsR0k0R1lMN2RqWE5QRWRn?oc=5",
+        "published_at": "2026-11-10T10:35:02Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 6,
+          "report_count": 6,
+          "span_hours": 33.5,
+          "first_report_at": "2026-11-09T01:07:00Z",
+          "last_report_at": "2026-11-10T10:35:02Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwMjlLc0FJZHdqbER2U0p3NjZ4dWVrazlza1did0lyaDI2bzZQWmtpZVJ6UmwwVG45c2YydjNCaXhxTXUyRi1md1d2WHotTlJKSGh1ZQ?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LeW9WQ0h1ZmtDZE1Pem8zQ1Ffd2xlRkxtTVFVZGRCSUxkeHBENGxnQi1aVmJYS0o2VDk1aHFIa2Z0dGszcjZsR0k0R1lMN2RqWE5QRWRn?oc=5",
+          "sources": [
+            {
+              "name": "중앙일보",
+              "group": "joongang.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LeW9WQ0h1ZmtDZE1Pem8zQ1Ffd2xlRkxtTVFVZGRCSUxkeHBENGxnQi1aVmJYS0o2VDk1aHFIa2Z0dGszcjZsR0k0R1lMN2RqWE5QRWRn?oc=5",
+              "published_at": "2026-11-10T10:35:02Z",
+              "headline": "수능 3주전 강의 중단 뒤 예능 출연…사탐 강사 이도 결국 사과"
+            },
+            {
+              "name": "아시아경제",
+              "group": "asiae.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QNFNRak1YWjlVemFKZE1XVzFUcTl1Z3dCZWVCLU9leXV1QVdQNTZuZjI4RUN1TUFlZWtseURFS0lnYVBydjlUSWxiRDU2OG9SRDZYNEdQcUNvUTNEZE10OA?oc=5",
+              "published_at": "2026-11-10T10:19:19Z",
+              "headline": "아프다며 수능 3주 전 강의 중단했는데 예능엔 출연한 스타강사, 결국 사과"
+            },
+            {
+              "name": "문화일보",
+              "group": "munhwa.com",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42ajdoSlBTTExqdGc1MC1PaDRvb0FfcEpWT2ZsRFdLN0VGTHB6QmQxZjZGZ1JldHdTdnJ6bk9qYUlJak1qaFZ6OUpPNkd5LXA5?oc=5",
+              "published_at": "2026-11-10T07:22:51Z",
+              "headline": "수능 앞두고…‘강의 중단→예능 출연’ 이도, 사과 후 “활동 중단”"
+            },
+            {
+              "name": "조선일보",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONEVHemZkMklNSmNTU3FQWmRMZGkyMFdCSFotNGdHN3ZVNm1KTXFheVFnQmJua2EwTWJMN040WjZCak1pWkZDV2xUMFhoRHdUU04xOVVmaU5GRWg4SlpPZk9JNm5wajBRdkMweWdTWVhaaVA1empRZ2FPUzNSSFFmcVdqdmlSWmM?oc=5",
+              "published_at": "2026-11-09T08:43:00Z",
+              "headline": "수능 전 \"건강 악화\" 강의 중단, 예능 활동 나선 입시 강사"
+            },
+            {
+              "name": "전자신문",
+              "group": "etnews.com",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yaDdKYUtxaER4WG13TVEzZ0RfR0tjZHN5Z2Z6S0NwZ0JHYzhwazlvM1Jhajl1NS0wUVBQTU5rSXViQlRSUEJhTUFfVWI4Zw?oc=5",
+              "published_at": "2026-11-09T01:50:15Z",
+              "headline": "수능 3주 전 “아프다” 강의 중단하더니…넷플릭스 예능 간 인강 女강사"
+            },
+            {
+              "name": "JTBC",
+              "group": "jtbc.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwMjlLc0FJZHdqbER2U0p3NjZ4dWVrazlza1did0lyaDI2bzZQWmtpZVJ6UmwwVG45c2YydjNCaXhxTXUyRi1md1d2WHotTlJKSGh1ZQ?oc=5",
+              "published_at": "2026-11-09T01:07:00Z",
+              "headline": "수능 3주 전 \"아파서 강의 중단\"…예능 출연에 수험생들 ‘분통’"
+            }
+          ]
+        }
+      },
+      "source_groups": 6,
+      "daily_sources": [
+        0,
+        3,
+        3
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 6
     },
     {
       "topic": {
@@ -440,14 +612,165 @@
       "source_groups": 6,
       "daily_sources": [
         0,
-        3,
+        5,
+        1
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 7
+    },
+    {
+      "topic": {
+        "id": "bf5330d69f5d5b8c1ce7",
+        "category": "스포츠",
+        "title": "'1골 1도움' 모재현, K리그1 35R MVP…베스트 팀 강원",
+        "summary": "'1골 1도움' 모재현, K리그1 35R MVP…베스트 팀 강원",
+        "why_now": "수집 범위에서 관련 보도 8개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 12시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘'1골 1도움' 모재현, K리그1 35R MVP…베스트 팀 강원’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "뉴스1",
+        "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9acmlqVzR1dHVTcXdaUjMtTmZJSHEyLU9iamp0ME5jX3lRTE1CZjZSSkd1S3ppbmpHdEVzcFl0REVZaVpIOEtnWnlYRW03QXZHc3AzZQ?oc=5",
+        "published_at": "2026-11-10T04:30:41Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 6,
+          "report_count": 8,
+          "span_hours": 12.7,
+          "first_report_at": "2026-11-10T01:58:04Z",
+          "last_report_at": "2026-11-10T14:42:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TdThTZnl1V3dyZ3FiZ2tWUFdVSlctOU9sR09ZRnlmemRKdlNJZ0NzVGJVVDE1ZTIzcjVLaDRGRnA5RV9hYURSb2dzQ1ZGWnRlc2wtQVR0NGZmbmNEaTJXUTNCc2dmNW9lZ1E?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYNFl2Z1UtaXIwQW9tcDA4c19vQW5mT1hidGkxclFsX0FzbXVzc3o4MGdTYlBnempKQ2lLRUVqR3ZVTVVHZ3BaM2xLOHNVTDlYbi00VlJhbzVoSE1Na1E?oc=5",
+          "sources": [
+            {
+              "name": "YTN",
+              "group": "sbs.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYNFl2Z1UtaXIwQW9tcDA4c19vQW5mT1hidGkxclFsX0FzbXVzc3o4MGdTYlBnempKQ2lLRUVqR3ZVTVVHZ3BaM2xLOHNVTDlYbi00VlJhbzVoSE1Na1E?oc=5",
+              "published_at": "2026-11-10T14:42:00Z",
+              "headline": "'1골 1도움' 강원 모재현, K리그1 35라운드 MVP"
+            },
+            {
+              "name": "문화일보",
+              "group": "munhwa.com",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVzRyU1JwTlVvcy1VRkx5STBHOHZqMlVGRzFOTDl5eUxOeE5JQ0gzWWs3cDZlS2thREdMaURBWC1NaDhGX1dlWVk1RXoxU180?oc=5",
+              "published_at": "2026-11-10T06:23:45Z",
+              "headline": "강원 모재현, K리그1 35R MVP 선정"
+            },
+            {
+              "name": "뉴스1",
+              "group": "wire:뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9acmlqVzR1dHVTcXdaUjMtTmZJSHEyLU9iamp0ME5jX3lRTE1CZjZSSkd1S3ppbmpHdEVzcFl0REVZaVpIOEtnWnlYRW03QXZHc3AzZQ?oc=5",
+              "published_at": "2026-11-10T04:30:41Z",
+              "headline": "'1골 1도움' 모재현, K리그1 35R MVP…베스트 팀 강원"
+            },
+            {
+              "name": "일간스포츠",
+              "group": "edaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuY0NLTllMU3RjdWt4S2VLbjNibG01OFE3SW1QTTEyTUpuTDYyZzR2Z2FEQm1Md2NyX293WTJzWThDY2NrcHZTNnpPVmRqaUZfLXRrUGM4a2VBbEU?oc=5",
+              "published_at": "2026-11-10T02:13:00Z",
+              "headline": "‘전북전 1골 1도움’ 모재현, K리그1 35R MVP…2부는 이랜드 에울레르"
+            },
+            {
+              "name": "머니투데이",
+              "group": "mt.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44TFl2VFpBMWJoYzhrSDJBN0lnWVhyZlo4Ry1wbTR2UTJYc2JEZmZyVnpMXzRoZWk1NXpVX0VUN2NQZWJqTnByTHdvTmhXRllUcGhXR0hXUXRBdWJYRVlsb0p5ZnZoVlM5TFHSAW9BVV95cUxQeFlHckRDVS0wZUQtZUVmX2stWWEyNXpWV1dLM3BLV0E5eC13TENLSFA4aUplS1hVQlFSaFNCMGdOeFpBMlhPem5TZDh1cWRCcHpwVVY4SDJ5WVZTYTRPSFZnUTZMVnZOTUV1SWVad2s?oc=5",
+              "published_at": "2026-11-10T02:07:53Z",
+              "headline": "'1골 1도움 전북 울린' 모재현, K리그1 35R MVP... K리그2는 'PK 멀티골' 에울레르 - 머니투데이"
+            },
+            {
+              "name": "조선일보",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMF8teXJIOFFjdTdhX2RGS3dUUGVNSkQ3eXk4b2t0LS1JS3JoT19uaWtjVVVXcTA0bV8tbkhOVldYbjRKRmRCOVNia19RbWN6TE8xRFBhR0QyNzZ0U2owT2FYQ0dQeXEyVVRNRTk3ZjhBOU1qZjUwTjJwX3BRdnVpWmNXQQ?oc=5",
+              "published_at": "2026-11-10T02:03:00Z",
+              "headline": "[공식발표] 강원이 싹쓸었다! '1골 1도움' 모재현, K리그1 35R MVP 영예→베스트 매치·팀도 강원...K리그2는 서울E 에울레르"
+            }
+          ]
+        }
+      },
+      "source_groups": 6,
+      "daily_sources": [
+        0,
+        0,
+        6
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 8
+    },
+    {
+      "topic": {
+        "id": "9cbeaa6129176102aef9",
+        "category": "기술·과학",
+        "title": "연봉 2억에 달에서 일할 사람 찾습니다…NASA, 우주비행사 모집",
+        "summary": "연봉 2억에 달에서 일할 사람 찾습니다…NASA, 우주비행사 모집",
+        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 31시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘연봉 2억에 달에서 일할 사람 찾습니다…NASA, 우주비행사 모집’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+        "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+        "source": "연합뉴스",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCV0kyaGJqQXI1MGFRaGtldmVhN0hGLTlkb1NteHJIY0xQQU9jVGhFTzdIZlRacTlwLWxpQVVmYnNmbVFPZzFoemZjQzN6blI4T1pxcVp3emlSOE3SAWBBVV95cUxOU0gwQ3VId05SQ1c2am83ZDlGb0ljdjhPTThpNG9OZ3drcDQ4aS1WTjBsLVY4X1B3dkVtTzhxaDY0OUxfZjB5SEYxU2tZdWJ0WEhzMTFFS3FGQjdvbEhLdWI?oc=5",
+        "published_at": "2026-11-10T05:05:30Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 5,
+          "report_count": 5,
+          "span_hours": 31.8,
+          "first_report_at": "2026-11-09T04:31:00Z",
+          "last_report_at": "2026-11-10T12:18:14Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX1hFNlVrdkNST3ZILVJla2dOVzFIcGZ4RldNQkNDODhiTFBWb182RTV3TU5pOGRodUliYU1FSFpMTFdQWU42cDk1YngtVkM3aWx3S001aWdxQU54aXJHaFVnbE9iNDhQNzV1WXJSNlczbzFuUEpWLTYwb2F3MmU1T2Rydw?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91Q21EeG15RjI4NVdiTm5oeVJrRkN4SFpaQm9YNHRvd2lodEhkWXY2ZjhWd1JEUkdLTzR4VGliaWJVcWxHbG1zVzhIMVNValJ6c3NUUld5LU4tU2RsVFZOLWR2Z3M0RkJu0gFuQVVfeXFMUGlHaWQwX0FOV2VDNkx4dEI3WkFUeFdRTmNJd3JwQmdacHF5MXlyN3ZhLS1OVWVnNzdPVl9KQ3JlY1V4WW5jNWlKdU5QWHc3RHBjbThMQzRhRlptQ29ESGtDM01FOG9LakZ3Qm9kRlE?oc=5",
+          "sources": [
+            {
+              "name": "머니투데이",
+              "group": "mt.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91Q21EeG15RjI4NVdiTm5oeVJrRkN4SFpaQm9YNHRvd2lodEhkWXY2ZjhWd1JEUkdLTzR4VGliaWJVcWxHbG1zVzhIMVNValJ6c3NUUld5LU4tU2RsVFZOLWR2Z3M0RkJu0gFuQVVfeXFMUGlHaWQwX0FOV2VDNkx4dEI3WkFUeFdRTmNJd3JwQmdacHF5MXlyN3ZhLS1OVWVnNzdPVl9KQ3JlY1V4WW5jNWlKdU5QWHc3RHBjbThMQzRhRlptQ29ESGtDM01FOG9LakZ3Qm9kRlE?oc=5",
+              "published_at": "2026-11-10T12:18:14Z",
+              "headline": "\"달에서 살 사람 찾습니다\"…NASA, '연봉 2억' 우주비행사 모집 - 머니투데이"
+            },
+            {
+              "name": "YTN",
+              "group": "ytn.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iU3JraGtGVW5qcDN5UGhFNnlrYUtqOTdURWNWckkzNTdMTUlCWnN0Wm9iOW9NNnRZUXhTcnplcXJ0ZW5mRXdHb1ZjeUlrNy1zY0E0eHVMNjlMVDE1T0E?oc=5",
+              "published_at": "2026-11-10T06:06:00Z",
+              "headline": "\"연봉 2억, 달에서 근무\"...NASA, 우주비행사 모집"
+            },
+            {
+              "name": "연합뉴스",
+              "group": "wire:연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCV0kyaGJqQXI1MGFRaGtldmVhN0hGLTlkb1NteHJIY0xQQU9jVGhFTzdIZlRacTlwLWxpQVVmYnNmbVFPZzFoemZjQzN6blI4T1pxcVp3emlSOE3SAWBBVV95cUxOU0gwQ3VId05SQ1c2am83ZDlGb0ljdjhPTThpNG9OZ3drcDQ4aS1WTjBsLVY4X1B3dkVtTzhxaDY0OUxfZjB5SEYxU2tZdWJ0WEhzMTFFS3FGQjdvbEhLdWI?oc=5",
+              "published_at": "2026-11-10T05:05:30Z",
+              "headline": "연봉 2억에 달에서 일할 사람 찾습니다…NASA, 우주비행사 모집"
+            },
+            {
+              "name": "동아일보",
+              "group": "donga.com",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DYS1OSVh0VWptNnNNLWVDSm5KS25kTVpuUW5GbVlJeUVrSWd3cFhyendtMmxjaXU3ZFVHMXR1Wk15SEZDdkRvNDdXaXhMMm1mUllyN0JxLVdaZm1jeGFfbmZuMXNFTGVKSjM1REEtSHk0NGVQ0gFmQVVfeXFMT3I5eXB1cjFlRE80bHNMTHpLZnU0S18wS2xyeXpNckpBMENJejBiZ3Vsd1VhOG9mYlVNeWtLV3ZuRFhqT3RIRXd0YkRIbDBlSVJkTXBnV0d2eS1vbzMxbXFtMnNISlRB?oc=5",
+              "published_at": "2026-11-09T19:30:00Z",
+              "headline": "“달·화성 탐사 함께 하실 분”… NASA, 우주비행사 공개 모집"
+            },
+            {
+              "name": "조선일보",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX1hFNlVrdkNST3ZILVJla2dOVzFIcGZ4RldNQkNDODhiTFBWb182RTV3TU5pOGRodUliYU1FSFpMTFdQWU42cDk1YngtVkM3aWx3S001aWdxQU54aXJHaFVnbE9iNDhQNzV1WXJSNlczbzFuUEpWLTYwb2F3MmU1T2Rydw?oc=5",
+              "published_at": "2026-11-09T04:31:00Z",
+              "headline": "\"달에서 일하실 분 구합니다\" 경쟁률 800:1 NASA 우주비행사 공개 채용"
+            }
+          ]
+        }
+      },
+      "source_groups": 5,
+      "daily_sources": [
+        0,
+        2,
         3
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 5
+      "rank": 9
     },
     {
       "topic": {
@@ -512,14 +835,14 @@
       "source_groups": 5,
       "daily_sources": [
         0,
-        3,
-        2
+        4,
+        1
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 6
+      "rank": 10
     },
     {
       "topic": {
@@ -527,7 +850,7 @@
         "category": "스포츠",
         "title": "프로야구 삼성, 12년 만에 한국시리즈 정상 탈환…통산 9번째 V",
         "summary": "프로야구 삼성, 12년 만에 한국시리즈 정상 탈환…통산 9번째 V",
-        "why_now": "수집 범위에서 관련 보도 13개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "why_now": "수집 범위에서 관련 보도 14개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
         "opener": "‘프로야구 삼성, 12년 만에 한국시리즈 정상 탈환…통산 9번째 V’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
         "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
         "source": "연합뉴스",
@@ -536,7 +859,7 @@
         "evidence": "headline",
         "coverage": {
           "source_groups": 5,
-          "report_count": 13,
+          "report_count": 14,
           "span_hours": 6.8,
           "first_report_at": "2026-11-08T08:03:28Z",
           "last_report_at": "2026-11-08T14:53:00Z",
@@ -583,15 +906,15 @@
       },
       "source_groups": 5,
       "daily_sources": [
-        0,
         5,
+        0,
         0
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 7
+      "rank": 11
     },
     {
       "topic": {
@@ -663,129 +986,122 @@
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 8
+      "rank": 12
     },
     {
       "topic": {
-        "id": "bf5330d69f5d5b8c1ce7",
-        "category": "스포츠",
-        "title": "'1골 1도움' 모재현, K리그1 35R MVP…베스트 팀 강원",
-        "summary": "'1골 1도움' 모재현, K리그1 35R MVP…베스트 팀 강원",
-        "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘'1골 1도움' 모재현, K리그1 35R MVP…베스트 팀 강원’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "뉴스1",
-        "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9acmlqVzR1dHVTcXdaUjMtTmZJSHEyLU9iamp0ME5jX3lRTE1CZjZSSkd1S3ppbmpHdEVzcFl0REVZaVpIOEtnWnlYRW03QXZHc3AzZQ?oc=5",
-        "published_at": "2026-11-10T04:30:41Z",
+        "id": "048190cccf4a36751c73",
+        "category": "경제·주식",
+        "title": "‘블루 웨이브 쇼크’에 코스피 5000선도 아슬아슬···이번 주 관건은?",
+        "summary": "‘블루 웨이브 쇼크’에 코스피 5000선도 아슬아슬···이번 주 관건은?",
+        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 49시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘‘블루 웨이브 쇼크’에 코스피 5000선도 아슬아슬···이번 주 관건은?’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+        "source": "경향신문",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mdTEzaGVhZlZ3RkswQWgzNnVyWGN0cUpVWFFZYi03SUx5X1RmdlpvZTZxU0lEYnRIRDdiNnFDMVZZbFFpLWlrSVRUZFBWLURXYkQyQ0JRbmNaUdIBX0FVX3lxTE02TS1KOXNNeG1wZndaa3ZNdDlKcWRvM1plNWxWUmFTRENOSXRHQ3hwUFVCSzNOZTQwcDVuZTJxeXZual9NOE1qYXZoVFozQmhuaFI2VDR1cGxPYjM0blRz?oc=5",
+        "published_at": "2026-11-08T05:47:00Z",
         "evidence": "headline",
         "coverage": {
-          "source_groups": 5,
-          "report_count": 6,
-          "span_hours": 4.4,
-          "first_report_at": "2026-11-10T01:58:04Z",
-          "last_report_at": "2026-11-10T06:23:45Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TdThTZnl1V3dyZ3FiZ2tWUFdVSlctOU9sR09ZRnlmemRKdlNJZ0NzVGJVVDE1ZTIzcjVLaDRGRnA5RV9hYURSb2dzQ1ZGWnRlc2wtQVR0NGZmbmNEaTJXUTNCc2dmNW9lZ1E?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVzRyU1JwTlVvcy1VRkx5STBHOHZqMlVGRzFOTDl5eUxOeE5JQ0gzWWs3cDZlS2thREdMaURBWC1NaDhGX1dlWVk1RXoxU180?oc=5",
+          "source_groups": 4,
+          "report_count": 4,
+          "span_hours": 49.5,
+          "first_report_at": "2026-11-08T05:47:00Z",
+          "last_report_at": "2026-11-10T07:18:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mdTEzaGVhZlZ3RkswQWgzNnVyWGN0cUpVWFFZYi03SUx5X1RmdlpvZTZxU0lEYnRIRDdiNnFDMVZZbFFpLWlrSVRUZFBWLURXYkQyQ0JRbmNaUdIBX0FVX3lxTE02TS1KOXNNeG1wZndaa3ZNdDlKcWRvM1plNWxWUmFTRENOSXRHQ3hwUFVCSzNOZTQwcDVuZTJxeXZual9NOE1qYXZoVFozQmhuaFI2VDR1cGxPYjM0blRz?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84b1lPUzFWTXJBMDYwbnE1NU9QODJVelh3elp4STNSWjFpRVZqSndBLTZ5cU9ROFZDaDdnYXRVQ0dTcDE5SUxEczRCT2c5UWtTbjJuek5LNFdKTVpLZm9CelRaRUk1RjYwd2V5bg?oc=5",
           "sources": [
             {
-              "name": "문화일보",
-              "group": "munhwa.com",
-              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVzRyU1JwTlVvcy1VRkx5STBHOHZqMlVGRzFOTDl5eUxOeE5JQ0gzWWs3cDZlS2thREdMaURBWC1NaDhGX1dlWVk1RXoxU180?oc=5",
-              "published_at": "2026-11-10T06:23:45Z",
-              "headline": "강원 모재현, K리그1 35R MVP 선정"
+              "name": "한경매거진",
+              "group": "hankyung.com",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84b1lPUzFWTXJBMDYwbnE1NU9QODJVelh3elp4STNSWjFpRVZqSndBLTZ5cU9ROFZDaDdnYXRVQ0dTcDE5SUxEczRCT2c5UWtTbjJuek5LNFdKTVpLZm9CelRaRUk1RjYwd2V5bg?oc=5",
+              "published_at": "2026-11-10T07:18:00Z",
+              "headline": "‘블루 웨이브’에 출렁인 코스피…반등 열쇠는 외국인과 반도체 실적[전예진의 마켓 인사이트]"
             },
             {
-              "name": "뉴스1",
-              "group": "wire:뉴스1",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9acmlqVzR1dHVTcXdaUjMtTmZJSHEyLU9iamp0ME5jX3lRTE1CZjZSSkd1S3ppbmpHdEVzcFl0REVZaVpIOEtnWnlYRW03QXZHc3AzZQ?oc=5",
-              "published_at": "2026-11-10T04:30:41Z",
-              "headline": "'1골 1도움' 모재현, K리그1 35R MVP…베스트 팀 강원"
-            },
-            {
-              "name": "YTN",
-              "group": "sbs.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03cXdsT3RJZTRUX0lKWElCY1J5ei1ISEtZOEFrRmtyYzliY3FZNEFlTmQzWGZXb2FJa2t4QUVlNEdDN2R4NldHZkl0VElmbXctMjJNc3c5c0VEMDEtX3c?oc=5",
-              "published_at": "2026-11-10T03:55:00Z",
-              "headline": "'1골 1도움' 강원 모재현, K리그1 35라운드 MVP"
-            },
-            {
-              "name": "머니투데이",
-              "group": "mt.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44TFl2VFpBMWJoYzhrSDJBN0lnWVhyZlo4Ry1wbTR2UTJYc2JEZmZyVnpMXzRoZWk1NXpVX0VUN2NQZWJqTnByTHdvTmhXRllUcGhXR0hXUXRBdWJYRVlsb0p5ZnZoVlM5TFHSAW9BVV95cUxQeFlHckRDVS0wZUQtZUVmX2stWWEyNXpWV1dLM3BLV0E5eC13TENLSFA4aUplS1hVQlFSaFNCMGdOeFpBMlhPem5TZDh1cWRCcHpwVVY4SDJ5WVZTYTRPSFZnUTZMVnZOTUV1SWVad2s?oc=5",
-              "published_at": "2026-11-10T02:07:53Z",
-              "headline": "'1골 1도움 전북 울린' 모재현, K리그1 35R MVP... K리그2는 'PK 멀티골' 에울레르 - 머니투데이"
-            },
-            {
-              "name": "조선일보",
+              "name": "Chosunbiz",
               "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMF8teXJIOFFjdTdhX2RGS3dUUGVNSkQ3eXk4b2t0LS1JS3JoT19uaWtjVVVXcTA0bV8tbkhOVldYbjRKRmRCOVNia19RbWN6TE8xRFBhR0QyNzZ0U2owT2FYQ0dQeXEyVVRNRTk3ZjhBOU1qZjUwTjJwX3BRdnVpWmNXQQ?oc=5",
-              "published_at": "2026-11-10T02:03:00Z",
-              "headline": "[공식발표] 강원이 싹쓸었다! '1골 1도움' 모재현, K리그1 35R MVP 영예→베스트 매치·팀도 강원...K리그2는 서울E 에울레르"
+              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONE15czBzdkpzWWxNSnZLMU9FSWVqYnlUM1lVeWVPTHRGY3pkYTRDNXdLSENFMXpnOXFqSE5sOFJhbEJUUGIwUktVb2UyLTZ0d2lxcEhnOGlTME9UWGc5QS14VGtTcHFBWVVLUm1fbWZ1dkkxbktIOWRwczlsdDBOdUU0QzRFc2dD0gGcAUFVX3lxTE1xUm5iZ1R5UHo2RlpyUDJ2WExxd01pQ2RnZzBleGVsXzZqRjlnVlROaG9WNDZNMklDSENrU0U4N18xTVRxMDlIMTY1ZXFwWWhGYzRCdTk1US1XTERxVE5EeHNFQWh6WWVjenR3aEZJUkpjdjlpOU92NHhSaWxBanBPb09CYmU4cGRpdTV4Z1M0WXNDNHNoT3RJQXpYNw?oc=5",
+              "published_at": "2026-11-09T07:17:00Z",
+              "headline": "[마켓뷰] 장중 5200선 넘보던 코스피… 외국인 매도에 5000선 턱걸이"
+            },
+            {
+              "name": "매일경제 마켓",
+              "group": "mk.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wUzFnaDRGZzlOY3NXX2hyN181NW5ibVVFNFhTUVQ3eHltZ1dEYlIxQ0oteGU5OVpLSmU1SG1aNk8zUDZSYkJsZlhNemh1QUxWQ2ttaUlhcWhKMXJYUlVkbw?oc=5",
+              "published_at": "2026-11-09T00:35:37Z",
+              "headline": "美 반도체 반등에도 코스피 ‘흔들’…장중 다시 5000선 밑으로"
+            },
+            {
+              "name": "경향신문",
+              "group": "khan.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mdTEzaGVhZlZ3RkswQWgzNnVyWGN0cUpVWFFZYi03SUx5X1RmdlpvZTZxU0lEYnRIRDdiNnFDMVZZbFFpLWlrSVRUZFBWLURXYkQyQ0JRbmNaUdIBX0FVX3lxTE02TS1KOXNNeG1wZndaa3ZNdDlKcWRvM1plNWxWUmFTRENOSXRHQ3hwUFVCSzNOZTQwcDVuZTJxeXZual9NOE1qYXZoVFozQmhuaFI2VDR1cGxPYjM0blRz?oc=5",
+              "published_at": "2026-11-08T05:47:00Z",
+              "headline": "‘블루 웨이브 쇼크’에 코스피 5000선도 아슬아슬···이번 주 관건은?"
             }
           ]
         }
       },
-      "source_groups": 5,
+      "source_groups": 4,
       "daily_sources": [
-        0,
-        0,
-        5
+        1,
+        2,
+        1
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 9
+      "rank": 13
     },
     {
       "topic": {
-        "id": "9cbeaa6129176102aef9",
+        "id": "8edaef6112280068c651",
         "category": "기술·과학",
-        "title": "연봉 2억에 달에서 일할 사람 찾습니다…NASA, 우주비행사 모집",
-        "summary": "연봉 2억에 달에서 일할 사람 찾습니다…NASA, 우주비행사 모집",
-        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 25시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘연봉 2억에 달에서 일할 사람 찾습니다…NASA, 우주비행사 모집’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+        "title": "[과학스냅] 동아사이언스 AI 과학탐구 설루션 '에어노바' CES 혁신상",
+        "summary": "[과학스냅] 동아사이언스 AI 과학탐구 설루션 '에어노바' CES 혁신상",
+        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 13시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘[과학스냅] 동아사이언스 AI 과학탐구 설루션 '에어노바' CES 혁신상’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
         "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-        "source": "연합뉴스",
-        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCV0kyaGJqQXI1MGFRaGtldmVhN0hGLTlkb1NteHJIY0xQQU9jVGhFTzdIZlRacTlwLWxpQVVmYnNmbVFPZzFoemZjQzN6blI4T1pxcVp3emlSOE3SAWBBVV95cUxOU0gwQ3VId05SQ1c2am83ZDlGb0ljdjhPTThpNG9OZ3drcDQ4aS1WTjBsLVY4X1B3dkVtTzhxaDY0OUxfZjB5SEYxU2tZdWJ0WEhzMTFFS3FGQjdvbEhLdWI?oc=5",
-        "published_at": "2026-11-10T05:05:30Z",
+        "source": "매일경제 마켓",
+        "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pd1pTakpnSHRMY1ZxcHNoNFRrTDVPeE9vTU9xR1RRTmloVzlXNVJneE1sazFnbVk2VDdiQm9paWVqOVlvNGgtR2hiNVJnWkdELXc?oc=5",
+        "published_at": "2026-11-10T08:30:43Z",
         "evidence": "headline",
         "coverage": {
           "source_groups": 4,
           "report_count": 4,
-          "span_hours": 25.6,
-          "first_report_at": "2026-11-09T04:31:00Z",
-          "last_report_at": "2026-11-10T06:06:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX1hFNlVrdkNST3ZILVJla2dOVzFIcGZ4RldNQkNDODhiTFBWb182RTV3TU5pOGRodUliYU1FSFpMTFdQWU42cDk1YngtVkM3aWx3S001aWdxQU54aXJHaFVnbE9iNDhQNzV1WXJSNlczbzFuUEpWLTYwb2F3MmU1T2Rydw?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iU3JraGtGVW5qcDN5UGhFNnlrYUtqOTdURWNWckkzNTdMTUlCWnN0Wm9iOW9NNnRZUXhTcnplcXJ0ZW5mRXdHb1ZjeUlrNy1zY0E0eHVMNjlMVDE1T0E?oc=5",
+          "span_hours": 13.5,
+          "first_report_at": "2026-11-09T19:01:02Z",
+          "last_report_at": "2026-11-10T08:30:43Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQSEhmbUt5d2ZUS05vSFdMMWpwc0QxekF0WlpBdmJsSDdGMlZEaUhTOE5IM3kyMjl6VHdSX2FPVmdyUmx3R1dpUHdjeEQxX05mVlpKaGJn?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pd1pTakpnSHRMY1ZxcHNoNFRrTDVPeE9vTU9xR1RRTmloVzlXNVJneE1sazFnbVk2VDdiQm9paWVqOVlvNGgtR2hiNVJnWkdELXc?oc=5",
           "sources": [
             {
-              "name": "YTN",
-              "group": "ytn.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iU3JraGtGVW5qcDN5UGhFNnlrYUtqOTdURWNWckkzNTdMTUlCWnN0Wm9iOW9NNnRZUXhTcnplcXJ0ZW5mRXdHb1ZjeUlrNy1zY0E0eHVMNjlMVDE1T0E?oc=5",
-              "published_at": "2026-11-10T06:06:00Z",
-              "headline": "\"연봉 2억, 달에서 근무\"...NASA, 우주비행사 모집"
+              "name": "매일경제 마켓",
+              "group": "mk.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pd1pTakpnSHRMY1ZxcHNoNFRrTDVPeE9vTU9xR1RRTmloVzlXNVJneE1sazFnbVk2VDdiQm9paWVqOVlvNGgtR2hiNVJnWkdELXc?oc=5",
+              "published_at": "2026-11-10T08:30:43Z",
+              "headline": "[과학스냅] 동아사이언스 AI 과학탐구 설루션 '에어노바' CES 혁신상"
             },
             {
-              "name": "연합뉴스",
-              "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCV0kyaGJqQXI1MGFRaGtldmVhN0hGLTlkb1NteHJIY0xQQU9jVGhFTzdIZlRacTlwLWxpQVVmYnNmbVFPZzFoemZjQzN6blI4T1pxcVp3emlSOE3SAWBBVV95cUxOU0gwQ3VId05SQ1c2am83ZDlGb0ljdjhPTThpNG9OZ3drcDQ4aS1WTjBsLVY4X1B3dkVtTzhxaDY0OUxfZjB5SEYxU2tZdWJ0WEhzMTFFS3FGQjdvbEhLdWI?oc=5",
-              "published_at": "2026-11-10T05:05:30Z",
-              "headline": "연봉 2억에 달에서 일할 사람 찾습니다…NASA, 우주비행사 모집"
+              "name": "중앙일보",
+              "group": "joongang.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FZ3VGVmhOLXNyYXlzTXpQcWxJeVhPdkdscG44UGh5X3lIN2ZCMndxOU5xZW03a2tnTXlYMml0OXZveUhhczNITDJRTm5iTF9BUUU2MzZR?oc=5",
+              "published_at": "2026-11-10T04:58:34Z",
+              "headline": "올레드 TV부터 로봇 얼굴·배터리까지…국내 기업 CES 혁신상 잇따라"
             },
             {
               "name": "동아일보",
               "group": "donga.com",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DYS1OSVh0VWptNnNNLWVDSm5KS25kTVpuUW5GbVlJeUVrSWd3cFhyendtMmxjaXU3ZFVHMXR1Wk15SEZDdkRvNDdXaXhMMm1mUllyN0JxLVdaZm1jeGFfbmZuMXNFTGVKSjM1REEtSHk0NGVQ0gFmQVVfeXFMT3I5eXB1cjFlRE80bHNMTHpLZnU0S18wS2xyeXpNckpBMENJejBiZ3Vsd1VhOG9mYlVNeWtLV3ZuRFhqT3RIRXd0YkRIbDBlSVJkTXBnV0d2eS1vbzMxbXFtMnNISlRB?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HcktrMmxqQ3JmeTBkTTB0THdLaVhLX19scjJ5azdXanZoZldqY0k0RDRoZUVacjVZbmo3aVdscm1DUHh0ekJHVU0tNGdCZGtXa3N5OGpxbXpKd2FkcV9ueUJPbHM4eVBfSWdVZEJpZmRZaGZG0gFmQVVfeXFMTi1KVUhmaGxRcVN5RmFFYTFpMU43MkhINFA4emVLVjJTcFpXTjhoRnd6Mkp6VW1GWjFQekdQWjVuREF1LWxERWdtRzZsaElyRk1RVHdXSzVUcUFIM3dXd3NHRHZmNkFB?oc=5",
               "published_at": "2026-11-09T19:30:00Z",
-              "headline": "“달·화성 탐사 함께 하실 분”… NASA, 우주비행사 공개 모집"
+              "headline": "동아사이언스 ‘AI 과학탐구 솔루션’ CES 혁신상"
             },
             {
-              "name": "조선일보",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX1hFNlVrdkNST3ZILVJla2dOVzFIcGZ4RldNQkNDODhiTFBWb182RTV3TU5pOGRodUliYU1FSFpMTFdQWU42cDk1YngtVkM3aWx3S001aWdxQU54aXJHaFVnbE9iNDhQNzV1WXJSNlczbzFuUEpWLTYwb2F3MmU1T2Rydw?oc=5",
-              "published_at": "2026-11-09T04:31:00Z",
-              "headline": "\"달에서 일하실 분 구합니다\" 경쟁률 800:1 NASA 우주비행사 공개 채용"
+              "name": "지디넷코리아",
+              "group": "zdnet.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQSEhmbUt5d2ZUS05vSFdMMWpwc0QxekF0WlpBdmJsSDdGMlZEaUhTOE5IM3kyMjl6VHdSX2FPVmdyUmx3R1dpUHdjeEQxX05mVlpKaGJn?oc=5",
+              "published_at": "2026-11-09T19:01:02Z",
+              "headline": "동아사이언스, AI 과학 탐구 서비스 '에어노바'로 CES 혁신상 수상"
             }
           ]
         }
@@ -793,79 +1109,14 @@
       "source_groups": 4,
       "daily_sources": [
         0,
-        1,
-        3
+        2,
+        2
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 10
-    },
-    {
-      "topic": {
-        "id": "32412b89e0f7f013962c",
-        "category": "문화·예술",
-        "title": "황유민, LPGA 토토 저팬 클래식 3라운드 공동 3위 도약",
-        "summary": "황유민, LPGA 토토 저팬 클래식 3라운드 공동 3위 도약",
-        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 22시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘황유민, LPGA 토토 저팬 클래식 3라운드 공동 3위 도약’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
-        "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-        "source": "조선일보",
-        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43WWtna2h6bUM5VzI0X2trMmt4TVY5aWlBOVZVVlR5RTVfd1RGZXlQUFpqbUVmZHNUWkQ2amM1SmJfemJmaHZlUXp6TzBHQURvUmJiQ2U4Z3FQTVp3MGc4aFFIM01XRDN2S2JnblY1a3h3ZDRtaXlF?oc=5",
-        "published_at": "2026-11-07T08:35:34Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 4,
-          "report_count": 4,
-          "span_hours": 22.5,
-          "first_report_at": "2026-11-07T08:35:34Z",
-          "last_report_at": "2026-11-08T07:04:11Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43WWtna2h6bUM5VzI0X2trMmt4TVY5aWlBOVZVVlR5RTVfd1RGZXlQUFpqbUVmZHNUWkQ2amM1SmJfemJmaHZlUXp6TzBHQURvUmJiQ2U4Z3FQTVp3MGc4aFFIM01XRDN2S2JnblY1a3h3ZDRtaXlF?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50eUpjYXhRa2RHUlp5RjVZWDIyZGZvWndwSExwUUZfOFdhU0FYOEFlZk5PX1ctY2d3YXhJNnVJdndOeVhjd21qZUZBTEdvT3B3?oc=5",
-          "sources": [
-            {
-              "name": "문화일보",
-              "group": "munhwa.com",
-              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50eUpjYXhRa2RHUlp5RjVZWDIyZGZvWndwSExwUUZfOFdhU0FYOEFlZk5PX1ctY2d3YXhJNnVJdndOeVhjd21qZUZBTEdvT3B3?oc=5",
-              "published_at": "2026-11-08T07:04:11Z",
-              "headline": "‘5연속 버디’ 사쿠마, LPGA 토토 재팬 클래식 짜릿한 뒤집기…日, 3연속 우승"
-            },
-            {
-              "name": "서울신문",
-              "group": "seoul.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Iakw2SHJnRmU3Y3RGMGc3RTF0cXlBaGFVaktoVW14ME9TcUxOQXI2T0UtVVdsbzFpeHBwek40TUxtSHg3RWc5WmtyTTFhM2cwY1J6cVJRYmxhNWFhRzJQRGlXdWh3Sk9IcUVlVGdoVWFWNm8?oc=5",
-              "published_at": "2026-11-08T06:34:09Z",
-              "headline": "김효주·황유민, LPGA 토토 저팬 클래식 공동 6위…일본 투어 8승 사쿠마, LPGA 첫 정상"
-            },
-            {
-              "name": "KBS 뉴스",
-              "group": "kbs.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zYUx5Zk1zRHd0UVpJUXB1N3BkZTYyYlpEWGlyU3VUWlBpVWdjSjFKdGFEdzU3VnNueEJIUEJfOW5pWGktWlByZTFCaml3LUlYNWZlSldxbzNhb2s?oc=5",
-              "published_at": "2026-11-07T08:49:00Z",
-              "headline": "황유민, LPGA 저팬 클래식 선두에 2타 차 공동 3위…역전 우승 도전"
-            },
-            {
-              "name": "조선일보",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43WWtna2h6bUM5VzI0X2trMmt4TVY5aWlBOVZVVlR5RTVfd1RGZXlQUFpqbUVmZHNUWkQ2amM1SmJfemJmaHZlUXp6TzBHQURvUmJiQ2U4Z3FQTVp3MGc4aFFIM01XRDN2S2JnblY1a3h3ZDRtaXlF?oc=5",
-              "published_at": "2026-11-07T08:35:34Z",
-              "headline": "황유민, LPGA 토토 저팬 클래식 3라운드 공동 3위 도약"
-            }
-          ]
-        }
-      },
-      "source_groups": 4,
-      "daily_sources": [
-        4,
-        0,
-        0
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 11
+      "rank": 14
     },
     {
       "topic": {
@@ -923,14 +1174,79 @@
       "source_groups": 4,
       "daily_sources": [
         4,
-        1,
+        0,
         0
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 12
+      "rank": 15
+    },
+    {
+      "topic": {
+        "id": "1758a8691fe8a1560b37",
+        "category": "문화·예술",
+        "title": "최수종·하희라, 첫 부부동반 연극…\"배우 대 배우로도 호흡 잘 맞아\"",
+        "summary": "최수종·하희라, 첫 부부동반 연극…\"배우 대 배우로도 호흡 잘 맞아\"",
+        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 8시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘최수종·하희라, 첫 부부동반 연극…\"배우 대 배우로도 호흡 잘 맞아\"’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+        "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
+        "source": "연합뉴스",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Lb2tPSTVIMl9ndjNBd0dNY1h6UmliLVdVdTQ1dnVhSXg1TkpJV3BIT1VKUFo0RHFhTXF5a0ZaY2VLcmNCcERVN0xXemNRYkR3aGgwVm5JMzVsd0tzd1l6YdIBYEFVX3lxTE1Lb2tPSTVIMl9ndjNBd0dNY1h6UmliLVdVdTQ1dnVhSXg1TkpJV3BIT1VKUFo0RHFhTXF5a0ZaY2VLcmNCcERVN0xXemNRYkR3aGgwVm5JMzVsd0tzd1l6YQ?oc=5",
+        "published_at": "2026-11-10T08:24:58Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 4,
+          "report_count": 4,
+          "span_hours": 8.7,
+          "first_report_at": "2026-11-10T07:00:37Z",
+          "last_report_at": "2026-11-10T15:40:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsV2ZVelJMNGpCRUhteWoyeXVhbXpFV3lpUzhhUTVSSTY1cXQ5NVJNZzQ1SFRZa3pUMU12dGRtdS1rTkMxVUM1TW5vWVFfbFh1SHNmNGNrYW5YaGc?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHpKZzZDMVJMSXlLa3NELXdPYUpUc3Jrc0xNUnBXWVVyRW1KOTk2Sy1ZMDQzQkoyaWM1a3BJVFd3X3NtQjVvQ0o2d0t2QTBMN0JhZnNkTkRrangweVVJX3dJTzl4cUtudW52QmswbEsxSkFFUGpucVBON09OOGtRQ0dOTjZOd1BFYVRBNnU5Rm9hRHJkWlE?oc=5",
+          "sources": [
+            {
+              "name": "조선일보",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaHpKZzZDMVJMSXlLa3NELXdPYUpUc3Jrc0xNUnBXWVVyRW1KOTk2Sy1ZMDQzQkoyaWM1a3BJVFd3X3NtQjVvQ0o2d0t2QTBMN0JhZnNkTkRrangweVVJX3dJTzl4cUtudW52QmswbEsxSkFFUGpucVBON09OOGtRQ0dOTjZOd1BFYVRBNnU5Rm9hRHJkWlE?oc=5",
+              "published_at": "2026-11-10T15:40:00Z",
+              "headline": "최수종·하희라 첫 동반 연극… \"연기 호흡도 완벽\""
+            },
+            {
+              "name": "한국경제",
+              "group": "hankyung.com",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iXzRGYlhfMGphcUpWUnM4eUVvaS1SY1ZRcFVUUjRuMk0xTHpSSkFkc1dBV3FoVkhnNlJjYm9KdlBxMW8xQjhLdG01NTM1X3dQbTB2LXlsRUVhUQ?oc=5",
+              "published_at": "2026-11-10T08:32:32Z",
+              "headline": "함께 연극 무대 오르는 최수종·하희라 \"배우로 호흡 잘 맞아\""
+            },
+            {
+              "name": "연합뉴스",
+              "group": "wire:연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Lb2tPSTVIMl9ndjNBd0dNY1h6UmliLVdVdTQ1dnVhSXg1TkpJV3BIT1VKUFo0RHFhTXF5a0ZaY2VLcmNCcERVN0xXemNRYkR3aGgwVm5JMzVsd0tzd1l6YdIBYEFVX3lxTE1Lb2tPSTVIMl9ndjNBd0dNY1h6UmliLVdVdTQ1dnVhSXg1TkpJV3BIT1VKUFo0RHFhTXF5a0ZaY2VLcmNCcERVN0xXemNRYkR3aGgwVm5JMzVsd0tzd1l6YQ?oc=5",
+              "published_at": "2026-11-10T08:24:58Z",
+              "headline": "최수종·하희라, 첫 부부동반 연극…\"배우 대 배우로도 호흡 잘 맞아\""
+            },
+            {
+              "name": "매일경제",
+              "group": "mk.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsV2ZVelJMNGpCRUhteWoyeXVhbXpFV3lpUzhhUTVSSTY1cXQ5NVJNZzQ1SFRZa3pUMU12dGRtdS1rTkMxVUM1TW5vWVFfbFh1SHNmNGNrYW5YaGc?oc=5",
+              "published_at": "2026-11-10T07:00:37Z",
+              "headline": "“편하지만 긴장됐다”…‘결혼 34년차’ 최수종·하희라의 첫 연극 호흡 [현장 LIVE]"
+            }
+          ]
+        }
+      },
+      "source_groups": 4,
+      "daily_sources": [
+        0,
+        0,
+        4
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 16
     },
     {
       "topic": {
@@ -995,7 +1311,7 @@
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 13
+      "rank": 17
     },
     {
       "topic": {
@@ -1060,50 +1376,50 @@
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 14
+      "rank": 18
     },
     {
       "topic": {
-        "id": "62e4563ec467ee14ead6",
-        "category": "기술·과학",
-        "title": "\"누리호 발사체, 순천서 조립한다\"...우주산업 핵심 거점 기대",
-        "summary": "\"누리호 발사체, 순천서 조립한다\"...우주산업 핵심 거점 기대",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 48시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘\"누리호 발사체, 순천서 조립한다\"...우주산업 핵심 거점 기대’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
-        "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-        "source": "YTN",
-        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UZEx1cU52M3ktdmZLMUtaN0ZPWDU4VWU3T3NmcDVucndyaEt2N1pTYU1JN2gyN1JrbWFoV2ZfdE81S0tOV0dfRFZ6VkNUc2ZoUDNOQzJqRkpxVFBFYmc?oc=5",
-        "published_at": "2026-11-07T19:39:00Z",
+        "id": "23b2dffe8cc2d669204c",
+        "category": "스포츠",
+        "title": "모레노호, 오늘 밤 소집해 출국…손흥민·96라인은 현지 합류",
+        "summary": "모레노호, 오늘 밤 소집해 출국…손흥민·96라인은 현지 합류",
+        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 61시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘모레노호, 오늘 밤 소집해 출국…손흥민·96라인은 현지 합류’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "조선일보",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBid1E2X0ZfbUxuUlZFTXc2UGs1N1hwRlQyTXhfNEdfc1pyV2RLM2s5eGtKUDVCaER5XzlVSnVPV1ZLbGVkLUJNeUs5b3BfenozRkFEekV1b1Y1TTR6bnNYQmh4UXRqMXpNeTFQNk1VTnFFRFBTSElj?oc=5",
+        "published_at": "2026-11-07T23:31:00Z",
         "evidence": "headline",
         "coverage": {
           "source_groups": 3,
-          "report_count": 3,
-          "span_hours": 48.4,
-          "first_report_at": "2026-11-07T19:39:00Z",
-          "last_report_at": "2026-11-09T20:00:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UZEx1cU52M3ktdmZLMUtaN0ZPWDU4VWU3T3NmcDVucndyaEt2N1pTYU1JN2gyN1JrbWFoV2ZfdE81S0tOV0dfRFZ6VkNUc2ZoUDNOQzJqRkpxVFBFYmc?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8ydWh4UnpNc193Q213VU1SUDRSbnpYaHV6UWVlam5PczZPWS1SaGpjNnBqRlhGalRfX25OOFpVN3RTVGpmTVctNHp6cTBhZVJXLVpkRWlmVTlhMFl6X20xVUZtQXV2elRzTVHSAW9BVV95cUxQMEtMMEtzYXh4LUFzbUpxWWtuRUQ1WnhjelhtM1ZSVk8wREtUN3pwdS1ObWdTQWdfNng4X1lVejg1bXVUNi15Zl9nRm9DQWk1aVp0RVVXTF9xZFg2M0EzVXVncVZLYmZ6UnBVMU1pM28?oc=5",
+          "report_count": 4,
+          "span_hours": 61.4,
+          "first_report_at": "2026-11-07T23:01:32Z",
+          "last_report_at": "2026-11-10T12:25:36Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fZ1o4Z2RBbW1oMXE0dTh1VjA2TVY0Y2ZHRnNMN2pXd3R3T3AzcjNzN3BQTnNYcXNPZkd1aG16TUhnQ0twR01NWmM5Z2Zvd3BFZlpvMDVyR3pfZw?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSTVyLWthWTk0SlcyWVFSWnF5ZElXRkt4MVlKVVduNV9oUnphRUMtN1RTMHlyMFVvQnhGcjhIN096WVlFcVpYaDlCSU1aanh6NV9tcEhmTlRMb0x3UzVmcUVpX0VHTk05X2gxRFIyQ3E1eGJVVUMtTUh3SXUyVGtRcTRjSE52MXc4Z3pnYWRGNNIBZkFVX3lxTE9mNlRNdlpDbXpWbDVndE0tS0doamg5MHNJMTA5VU1KRmgwSVRJYktZcTE2eTJhMDhOaEdvVW95Yk04dWdjS01BV1RSOS1kVk9Lc3JYYVNlbnJ3VDZ3V2xVOEdqQTV5QQ?oc=5",
           "sources": [
             {
-              "name": "머니투데이",
-              "group": "mt.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8ydWh4UnpNc193Q213VU1SUDRSbnpYaHV6UWVlam5PczZPWS1SaGpjNnBqRlhGalRfX25OOFpVN3RTVGpmTVctNHp6cTBhZVJXLVpkRWlmVTlhMFl6X20xVUZtQXV2elRzTVHSAW9BVV95cUxQMEtMMEtzYXh4LUFzbUpxWWtuRUQ1WnhjelhtM1ZSVk8wREtUN3pwdS1ObWdTQWdfNng4X1lVejg1bXVUNi15Zl9nRm9DQWk1aVp0RVVXTF9xZFg2M0EzVXVncVZLYmZ6UnBVMU1pM28?oc=5",
-              "published_at": "2026-11-09T20:00:00Z",
-              "headline": "누리호 성공에도 '우주강국' 멀었다…K-우주산업의 다음 과제는 - 머니투데이"
+              "name": "SBS 뉴스",
+              "group": "sbs.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSTVyLWthWTk0SlcyWVFSWnF5ZElXRkt4MVlKVVduNV9oUnphRUMtN1RTMHlyMFVvQnhGcjhIN096WVlFcVpYaDlCSU1aanh6NV9tcEhmTlRMb0x3UzVmcUVpX0VHTk05X2gxRFIyQ3E1eGJVVUMtTUh3SXUyVGtRcTRjSE52MXc4Z3pnYWRGNNIBZkFVX3lxTE9mNlRNdlpDbXpWbDVndE0tS0doamg5MHNJMTA5VU1KRmgwSVRJYktZcTE2eTJhMDhOaEdvVW95Yk04dWdjS01BV1RSOS1kVk9Lc3JYYVNlbnJ3VDZ3V2xVOEdqQTV5QQ?oc=5",
+              "published_at": "2026-11-10T12:25:36Z",
+              "headline": "다시 만난 '손흥민·96라인'…갈등 봉합 될까"
             },
             {
-              "name": "전자신문",
-              "group": "etnews.com",
-              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxdXNISUhWN0JicFB4WDNaQlNuR2JxWVBESkJVRlBQTmRWTmEycnZfb2FBOXdlZDhaQng0dk1GYmR1Vm0wa3hEb29JNVVxQQ?oc=5",
-              "published_at": "2026-11-09T04:57:55Z",
-              "headline": "김민석 “경북, AI·로봇 산업 핵심 거점 육성”"
+              "name": "뉴스1",
+              "group": "wire:뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmckxId3hFQThkd3VMV3c4a0VNRVM3QW1EYTZhMUNoT24zWk5nU2d2em9YVG5tVVhZcFMzRUxKUGdwR0NfMnU2SXRTeFV0MnNmWTJ0NQ?oc=5",
+              "published_at": "2026-11-10T01:30:00Z",
+              "headline": "모레노호, 손흥민·'은퇴설 3인방' 포함 26인 완전체…오늘 첫 담금질"
             },
             {
-              "name": "YTN",
-              "group": "ytn.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UZEx1cU52M3ktdmZLMUtaN0ZPWDU4VWU3T3NmcDVucndyaEt2N1pTYU1JN2gyN1JrbWFoV2ZfdE81S0tOV0dfRFZ6VkNUc2ZoUDNOQzJqRkpxVFBFYmc?oc=5",
-              "published_at": "2026-11-07T19:39:00Z",
-              "headline": "\"누리호 발사체, 순천서 조립한다\"...우주산업 핵심 거점 기대"
+              "name": "조선일보",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBid1E2X0ZfbUxuUlZFTXc2UGs1N1hwRlQyTXhfNEdfc1pyV2RLM2s5eGtKUDVCaER5XzlVSnVPV1ZLbGVkLUJNeUs5b3BfenozRkFEekV1b1Y1TTR6bnNYQmh4UXRqMXpNeTFQNk1VTnFFRFBTSElj?oc=5",
+              "published_at": "2026-11-07T23:31:00Z",
+              "headline": "모레노호, 오늘 밤 소집해 출국…손흥민·96라인은 현지 합류"
             }
           ]
         }
@@ -1111,6 +1427,64 @@
       "source_groups": 3,
       "daily_sources": [
         1,
+        0,
+        2
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 19
+    },
+    {
+      "topic": {
+        "id": "7f9f5a1557558df8c1fb",
+        "category": "스포츠",
+        "title": "'풀타임 뛰고 싶다면 증명해라'...시메오네, 이강인에 강렬한 메시지 남겼다→'출전 시간' 언급하며 \"긍정적인 만큼 경기에 나서고 있어\"",
+        "summary": "'풀타임 뛰고 싶다면 증명해라'...시메오네, 이강인에 강렬한 메시지 남겼다→'출전 시간' 언급하며 \"긍정적인 만큼 경기에 나서고 있어\"",
+        "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 55시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘'풀타임 뛰고 싶다면 증명해라'...시메오네, 이강인에 강렬한 메시지 남겼다→'출전 시간' 언급하며 \"긍정적인 만큼 경기에 나서고 있어\"’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "마이데일리",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zTzJnTlZNdFpUZFFPX3JIVzB0Ri15LWl4YUZEcHIzUGhJWWEwRW5ocTJkcG5oREZTRTNKUVlvQlFNOHFpUjViZi1US0Z5T0NVR2NTN1FES015SW04QW9tQg?oc=5",
+        "published_at": "2026-11-08T01:32:00Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 7,
+          "span_hours": 55.1,
+          "first_report_at": "2026-11-07T20:35:22Z",
+          "last_report_at": "2026-11-10T03:40:39Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwS2dQNUd4QVRqQ2VsOGduV2MybkdOTlJZZnZ1YWt2Z3JYZVpnNkdJMTFjWm00eU5OLUxPYkhDUElQZGFBbFBxdUF0ZmY2OFdtakgzNjZLNy1MV1hVZV9kOHp2aU1RX1ZPQmR2aFVQUGJGUUZKSjdoV0J1dUhyUQ?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mdVFhTG9YNjJVSWdIZnU3U2JGTzVpYWFRVVJkUGVrYjhsYXJhejUxdXllZ29TQlNLc0VGaXdKeEp2dmgxeGIxakw1RG9HM1hkd01CclpoVXlkdmpKSHVGQ1p6ZFJuNi1qdWVxWUF0WU1oVXg1WndnWExSMWRyZw?oc=5",
+          "sources": [
+            {
+              "name": "스포츠조선",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mdVFhTG9YNjJVSWdIZnU3U2JGTzVpYWFRVVJkUGVrYjhsYXJhejUxdXllZ29TQlNLc0VGaXdKeEp2dmgxeGIxakw1RG9HM1hkd01CclpoVXlkdmpKSHVGQ1p6ZFJuNi1qdWVxWUF0WU1oVXg1WndnWExSMWRyZw?oc=5",
+              "published_at": "2026-11-10T03:40:39Z",
+              "headline": "이강인 초대형 호재, 최고의 오피셜 뜬다...'명장' 시메오네 아틀레티코와 2년 재계약 유력 \"수 개월 내 공식발표\""
+            },
+            {
+              "name": "머니투데이",
+              "group": "mt.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uX2RHcDJEcmVJYXdEREVjeW1kejZ6c0FQaFNiNHkyRFl1WjQ5bkVDdk5ZTFZYTU52NHI0V1BFcXA1VC0yc3MtZ3BlT1phcHpEZ2tvQTZtajVTMVVjWEtIeUdCN2hjajlLbHfSAW9BVV95cUxOcC1lWGdYbXRfM1J1S09EazY0SGRJcnFXdmtLcUNDUFlFSnFrQnhkLU1SeEZiOWZiUkJTdmgtQVBfTVRXc29SM1BNQTlOekNBaGFQR2M3c2FGZFFzVTJKV2l5OUpyZmFHTzJ5VlpCSHc?oc=5",
+              "published_at": "2026-11-08T03:44:00Z",
+              "headline": "\"도대체 몇 분을 뛰어야 만족하겠나?\" 시메오네, 이강인 출전 시간 질문에 불편한 심기...바르셀로나전 선발 복귀 전망 - 머니투데이"
+            },
+            {
+              "name": "마이데일리",
+              "group": "mydaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zTzJnTlZNdFpUZFFPX3JIVzB0Ri15LWl4YUZEcHIzUGhJWWEwRW5ocTJkcG5oREZTRTNKUVlvQlFNOHFpUjViZi1US0Z5T0NVR2NTN1FES015SW04QW9tQg?oc=5",
+              "published_at": "2026-11-08T01:32:00Z",
+              "headline": "'풀타임 뛰고 싶다면 증명해라'...시메오네, 이강인에 강렬한 메시지 남겼다→'출전 시간' 언급하며 \"긍정적인 만큼 경기에 나서고 있어\""
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        3,
         1,
         1
       ],
@@ -1118,50 +1492,50 @@
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 15
+      "rank": 20
     },
     {
       "topic": {
-        "id": "e0afe999bcb1092e43a4",
-        "category": "연예",
-        "title": "수능 코앞인데 “아프다” 강의 중단하더니 ‘예능 출연’…“강의 올려줘요” 아우성",
-        "summary": "수능 코앞인데 “아프다” 강의 중단하더니 ‘예능 출연’…“강의 올려줘요” 아우성",
-        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 42시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘수능 코앞인데 “아프다” 강의 중단하더니 ‘예능 출연’…“강의 올려줘요” 아우성’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-        "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-        "source": "서울신문",
-        "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1udVk5VzYwQ2FWVGxYelEtUzhTMDNBN2RzU2lmTXRzeFAzUmtXMVplNWdfSXhXVm9hMk9KOHFEVkVEVnR2MUF2ZGNmdGZrWVlhMmVrX092OENWcHFZbWtfcG15RkNkWEJLVElJWWZCQU5TaVlUSE5XLVBLcw?oc=5",
-        "published_at": "2026-11-09T04:44:00Z",
+        "id": "ab5215dfa1f2f57513e2",
+        "category": "스포츠",
+        "title": "'손흥민 빈자리' 실감한 토트넘 역대 최악의 감독, 9개월 만에 EPL 복귀하나…\"최하위 추락 팰리스 차기 사령탑 유력 후보\" BBC 보도",
+        "summary": "'손흥민 빈자리' 실감한 토트넘 역대 최악의 감독, 9개월 만에 EPL 복귀하나…\"최하위 추락 팰리스 차기 사령탑 유력 후보\" BBC 보도",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 27시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘'손흥민 빈자리' 실감한 토트넘 역대 최악의 감독, 9개월 만에 EPL 복귀하나…\"최하위 추락 팰리스 차기 사령탑 유력 후보\" BBC 보도’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "SPOTV NEWS",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJcEE0VENKbDRuQkhzLWxtRXdJYVNuM3U4amdxS2pYTVQ5OU5Fcko1MndkMlhNUE1HcmdNUE1abWlSQlZvSUxNdFFBdmNPemo4Q1Q4dkdJbDh3cUhkakpxbnQ4Ul9waThFb0FNdnh6ODQ?oc=5",
+        "published_at": "2026-11-09T06:55:30Z",
         "evidence": "headline",
         "coverage": {
           "source_groups": 3,
-          "report_count": 4,
-          "span_hours": 42.1,
-          "first_report_at": "2026-11-08T11:57:25Z",
-          "last_report_at": "2026-11-10T06:06:17Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTkN2WUxVelRsQWRkRTJmMzM3QnFFSmh5YmVCRDFrNXF4cWoybDFpby1fcVFYT2poOUxxNzVZblMya3FwRmhrMWJOeE1tX19YUDJDcXpJQ0w0QW9TWHd4QzNxOEIzcDlpazNFdklOYW5DOUhhaFFyMEVaeFRlemllWNIBhgFBVV95cUxORnVQcTNjamlKdlB1MWVpMks3U25vQmxUNUlVdmpvRTVpM3VaWXVFUjA5UEVoSmZ1aXZLZmpMYVlUUnNHbElqN2VLM1RmdkZhOWdmWmpHQmxiMEZ3RTVFNzZPT08xOE0tWVFfVWVFcGVreDN2SjNfc1ZlQ1F5WFVVMUkyRE4xZw?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XZWY3b3hyUjJ2N1R0aEt2XzlQd3RFOVpobnVDbXNvUUxWTWk4TnQ2QTRUbjlmNW5pdDFhR2l1c1Y0d0dFZ3JwQ3JGd2V5UlNvdGFRdlpWcGZjWHdUOW1rekpqYTZjWHhHR2VFVDVNYmNLdUXSAXhBVV95cUxQR1ZrVUNnbUlRaGRwZDI5TURnemN5ZU5mRkhfdXRnMTJyNDU4NmplSnUzRVI0SENUSnVmb0JrZktubEgzdm5VcnRGeE9ETUkzTG94Y0wwOUMwZGtuQUNnQ00zR2N1RU9iZFFmS1JiUmI3WjBFV2Z4ME0?oc=5",
+          "report_count": 3,
+          "span_hours": 27.8,
+          "first_report_at": "2026-11-09T05:37:00Z",
+          "last_report_at": "2026-11-10T09:23:43Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42eUFUVUhqX1B6aDNPUDc4dmUxMld1TTRqM2dMWGJoMVpfM1pkUF9jWlo4N2ZaTmU0YktISnhDSUNzbTlYaTBrcUNKbHlxeGFCNjdnQ1lVWkZ5dUE?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iQjFzQmx4RU5iR2VhdmlpdDRNZDB6RzZBd1pmOHhzamVycEw0TzhfVGhWVnBaUHd1eGZlXzBqN1M2TDNNT2d0WjZVaW0wWm9IWTlUTkN3SDF2SzdXYTBWbWcyLWkzOFRZWkdqNVdCQm9PQjdLNFE?oc=5",
           "sources": [
             {
-              "name": "머니투데이",
-              "group": "mt.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XZWY3b3hyUjJ2N1R0aEt2XzlQd3RFOVpobnVDbXNvUUxWTWk4TnQ2QTRUbjlmNW5pdDFhR2l1c1Y0d0dFZ3JwQ3JGd2V5UlNvdGFRdlpWcGZjWHdUOW1rekpqYTZjWHhHR2VFVDVNYmNLdUXSAXhBVV95cUxQR1ZrVUNnbUlRaGRwZDI5TURnemN5ZU5mRkhfdXRnMTJyNDU4NmplSnUzRVI0SENUSnVmb0JrZktubEgzdm5VcnRGeE9ETUkzTG94Y0wwOUMwZGtuQUNnQ00zR2N1RU9iZFFmS1JiUmI3WjBFV2Z4ME0?oc=5",
-              "published_at": "2026-11-10T06:06:17Z",
-              "headline": "'러시아 귀화' 빅토르 안, 국내 예능 출연…쇼트트랙 코치로 합류 - 머니투데이"
+              "name": "스타뉴스",
+              "group": "starnewskorea.com",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iQjFzQmx4RU5iR2VhdmlpdDRNZDB6RzZBd1pmOHhzamVycEw0TzhfVGhWVnBaUHd1eGZlXzBqN1M2TDNNT2d0WjZVaW0wWm9IWTlUTkN3SDF2SzdXYTBWbWcyLWkzOFRZWkdqNVdCQm9PQjdLNFE?oc=5",
+              "published_at": "2026-11-10T09:23:43Z",
+              "headline": "'美 발칵' 손흥민 최고 은사 EPL 복귀설, 다름아닌 맨유 사령탑이라니 \"이게 무슨 날벼락... 좋은 시절 끝났다\""
             },
             {
-              "name": "서울신문",
-              "group": "seoul.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1udVk5VzYwQ2FWVGxYelEtUzhTMDNBN2RzU2lmTXRzeFAzUmtXMVplNWdfSXhXVm9hMk9KOHFEVkVEVnR2MUF2ZGNmdGZrWVlhMmVrX092OENWcHFZbWtfcG15RkNkWEJLVElJWWZCQU5TaVlUSE5XLVBLcw?oc=5",
-              "published_at": "2026-11-09T04:44:00Z",
-              "headline": "수능 코앞인데 “아프다” 강의 중단하더니 ‘예능 출연’…“강의 올려줘요” 아우성"
+              "name": "SPOTV NEWS",
+              "group": "spotvnews.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJcEE0VENKbDRuQkhzLWxtRXdJYVNuM3U4amdxS2pYTVQ5OU5Fcko1MndkMlhNUE1HcmdNUE1abWlSQlZvSUxNdFFBdmNPemo4Q1Q4dkdJbDh3cUhkakpxbnQ4Ul9waThFb0FNdnh6ODQ?oc=5",
+              "published_at": "2026-11-09T06:55:30Z",
+              "headline": "'손흥민 빈자리' 실감한 토트넘 역대 최악의 감독, 9개월 만에 EPL 복귀하나…\"최하위 추락 팰리스 차기 사령탑 유력 후보\" BBC 보도"
             },
             {
-              "name": "아시아경제",
-              "group": "asiae.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83N1ZrVDdtU3phdk82OG5XVmJtekQ5RlE2NEpsOVNtVkV1MnFPazZkTjBFXzhpZm5wSXlsMjNYV21jYUxSdHRMaG1vU2NoZnpMWVJuUlRFY2xPN1hUd3oyZA?oc=5",
-              "published_at": "2026-11-09T01:57:52Z",
-              "headline": "\"수능 3주 앞두고 아프다며 강의 중단하더니\"…넷플 예능 나온 유명 강사 ‘시끌’"
+              "name": "일간스포츠",
+              "group": "edaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42eUFUVUhqX1B6aDNPUDc4dmUxMld1TTRqM2dMWGJoMVpfM1pkUF9jWlo4N2ZaTmU0YktISnhDSUNzbTlYaTBrcUNKbHlxeGFCNjdnQ1lVWkZ5dUE?oc=5",
+              "published_at": "2026-11-09T05:37:00Z",
+              "headline": "손흥민과 잠시 함께했던 사령탑, EPL 감독직 복귀하나…팰리스 후보로 거론되는 프랭크"
             }
           ]
         }
@@ -1169,14 +1543,14 @@
       "source_groups": 3,
       "daily_sources": [
         0,
-        3,
+        2,
         1
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 16
+      "rank": 21
     },
     {
       "topic": {
@@ -1226,15 +1600,15 @@
       },
       "source_groups": 3,
       "daily_sources": [
-        0,
         2,
-        1
+        1,
+        0
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 17
+      "rank": 22
     },
     {
       "topic": {
@@ -1292,7 +1666,7 @@
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 18
+      "rank": 23
     },
     {
       "topic": {
@@ -1350,7 +1724,7 @@
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 19
+      "rank": 24
     },
     {
       "topic": {
@@ -1400,7 +1774,7 @@
       },
       "source_groups": 3,
       "daily_sources": [
-        0,
+        1,
         3,
         0
       ],
@@ -1408,7 +1782,7 @@
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 20
+      "rank": 25
     },
     {
       "topic": {
@@ -1458,15 +1832,15 @@
       },
       "source_groups": 3,
       "daily_sources": [
-        1,
         3,
+        1,
         0
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 21
+      "rank": 26
     },
     {
       "topic": {
@@ -1517,14 +1891,14 @@
       "source_groups": 3,
       "daily_sources": [
         0,
-        0,
-        3
+        1,
+        2
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 22
+      "rank": 27
     },
     {
       "topic": {
@@ -1575,14 +1949,14 @@
       "source_groups": 3,
       "daily_sources": [
         0,
-        2,
-        1
+        3,
+        0
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 23
+      "rank": 28
     },
     {
       "topic": {
@@ -1633,72 +2007,14 @@
       "source_groups": 3,
       "daily_sources": [
         0,
-        1,
-        2
+        3,
+        0
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 24
-    },
-    {
-      "topic": {
-        "id": "8edaef6112280068c651",
-        "category": "기술·과학",
-        "title": "동아사이언스 ‘AI 과학탐구 솔루션’ CES 혁신상",
-        "summary": "동아사이언스 ‘AI 과학탐구 솔루션’ CES 혁신상",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘동아사이언스 ‘AI 과학탐구 솔루션’ CES 혁신상’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
-        "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-        "source": "동아일보",
-        "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HcktrMmxqQ3JmeTBkTTB0THdLaVhLX19scjJ5azdXanZoZldqY0k0RDRoZUVacjVZbmo3aVdscm1DUHh0ekJHVU0tNGdCZGtXa3N5OGpxbXpKd2FkcV9ueUJPbHM4eVBfSWdVZEJpZmRZaGZG0gFmQVVfeXFMTi1KVUhmaGxRcVN5RmFFYTFpMU43MkhINFA4emVLVjJTcFpXTjhoRnd6Mkp6VW1GWjFQekdQWjVuREF1LWxERWdtRzZsaElyRk1RVHdXSzVUcUFIM3dXd3NHRHZmNkFB?oc=5",
-        "published_at": "2026-11-09T19:30:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 3,
-          "report_count": 3,
-          "span_hours": 10.0,
-          "first_report_at": "2026-11-09T19:01:02Z",
-          "last_report_at": "2026-11-10T04:58:34Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQSEhmbUt5d2ZUS05vSFdMMWpwc0QxekF0WlpBdmJsSDdGMlZEaUhTOE5IM3kyMjl6VHdSX2FPVmdyUmx3R1dpUHdjeEQxX05mVlpKaGJn?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FZ3VGVmhOLXNyYXlzTXpQcWxJeVhPdkdscG44UGh5X3lIN2ZCMndxOU5xZW03a2tnTXlYMml0OXZveUhhczNITDJRTm5iTF9BUUU2MzZR?oc=5",
-          "sources": [
-            {
-              "name": "중앙일보",
-              "group": "joongang.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FZ3VGVmhOLXNyYXlzTXpQcWxJeVhPdkdscG44UGh5X3lIN2ZCMndxOU5xZW03a2tnTXlYMml0OXZveUhhczNITDJRTm5iTF9BUUU2MzZR?oc=5",
-              "published_at": "2026-11-10T04:58:34Z",
-              "headline": "올레드 TV부터 로봇 얼굴·배터리까지…국내 기업 CES 혁신상 잇따라"
-            },
-            {
-              "name": "동아일보",
-              "group": "donga.com",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HcktrMmxqQ3JmeTBkTTB0THdLaVhLX19scjJ5azdXanZoZldqY0k0RDRoZUVacjVZbmo3aVdscm1DUHh0ekJHVU0tNGdCZGtXa3N5OGpxbXpKd2FkcV9ueUJPbHM4eVBfSWdVZEJpZmRZaGZG0gFmQVVfeXFMTi1KVUhmaGxRcVN5RmFFYTFpMU43MkhINFA4emVLVjJTcFpXTjhoRnd6Mkp6VW1GWjFQekdQWjVuREF1LWxERWdtRzZsaElyRk1RVHdXSzVUcUFIM3dXd3NHRHZmNkFB?oc=5",
-              "published_at": "2026-11-09T19:30:00Z",
-              "headline": "동아사이언스 ‘AI 과학탐구 솔루션’ CES 혁신상"
-            },
-            {
-              "name": "지디넷코리아",
-              "group": "zdnet.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQSEhmbUt5d2ZUS05vSFdMMWpwc0QxekF0WlpBdmJsSDdGMlZEaUhTOE5IM3kyMjl6VHdSX2FPVmdyUmx3R1dpUHdjeEQxX05mVlpKaGJn?oc=5",
-              "published_at": "2026-11-09T19:01:02Z",
-              "headline": "동아사이언스, AI 과학 탐구 서비스 '에어노바'로 CES 혁신상 수상"
-            }
-          ]
-        }
-      },
-      "source_groups": 3,
-      "daily_sources": [
-        0,
-        0,
-        3
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 25
+      "rank": 29
     },
     {
       "topic": {
@@ -1742,238 +2058,6 @@
               "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DQmd6VVBYR1hXR181aC1wMGhvWnlMdjFORkw3dVFnWFQ3VjlFdmVnX001LTd2S3pLLXA1a2FkX18xa3FVelQ4VUhYUGZ2bkFCTWpiWUVpUXNiV1d6MHM4bdIBYEFVX3lxTE1DQmd6VVBYR1hXR181aC1wMGhvWnlMdjFORkw3dVFnWFQ3VjlFdmVnX001LTd2S3pLLXA1a2FkX18xa3FVelQ4VUhYUGZ2bkFCTWpiWUVpUXNiV1d6MHM4bQ?oc=5",
               "published_at": "2026-11-09T00:41:56Z",
               "headline": "\"아이돌 90%는 중소社서 데뷔했지만…활동 기간은 대형 소속이 2배\""
-            }
-          ]
-        }
-      },
-      "source_groups": 3,
-      "daily_sources": [
-        0,
-        2,
-        1
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 26
-    },
-    {
-      "topic": {
-        "id": "2b66ab18c838cb0efec3",
-        "category": "문화·예술",
-        "title": "정태영 현대카드 부회장, 뉴욕현대미술관 MoMA 명예 이사 선임",
-        "summary": "정태영 현대카드 부회장, 뉴욕현대미술관 MoMA 명예 이사 선임",
-        "why_now": "수집 범위에서 관련 보도 12개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘정태영 현대카드 부회장, 뉴욕현대미술관 MoMA 명예 이사 선임’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
-        "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-        "source": "문화일보",
-        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DME8zQkZ2bklNa1F4YldKM0tZN09PUC1XU1Z5V3NfYkhkMWx4QkF0eVl2Sk9CR3Q5ZmlKMnNodWN6d3JmMWtjLTM3SzlLU1Bu?oc=5",
-        "published_at": "2026-11-09T06:44:40Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 3,
-          "report_count": 12,
-          "span_hours": 6.4,
-          "first_report_at": "2026-11-09T00:18:13Z",
-          "last_report_at": "2026-11-09T06:44:40Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBeTJSTDNYVVV5V01fSnpUWUFWalpaR0hGZGUxODdVekhXbm9oWnctNlhiRVduT25BWXFzenZHaVdycElFdFUtcUlJUlJZdURLa3dKUVJUUGNhYU9ZMGFOQw?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DME8zQkZ2bklNa1F4YldKM0tZN09PUC1XU1Z5V3NfYkhkMWx4QkF0eVl2Sk9CR3Q5ZmlKMnNodWN6d3JmMWtjLTM3SzlLU1Bu?oc=5",
-          "sources": [
-            {
-              "name": "문화일보",
-              "group": "asiae.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DME8zQkZ2bklNa1F4YldKM0tZN09PUC1XU1Z5V3NfYkhkMWx4QkF0eVl2Sk9CR3Q5ZmlKMnNodWN6d3JmMWtjLTM3SzlLU1Bu?oc=5",
-              "published_at": "2026-11-09T06:44:40Z",
-              "headline": "정태영 현대카드 부회장, 뉴욕현대미술관 MoMA 명예 이사 선임"
-            },
-            {
-              "name": "머니투데이",
-              "group": "mt.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aUExRNFAxbWZlTU5JYXlZek5iZkRPakRyU1N3OXV6LWhpbVFuTTFxbkR5NHJHWTZwN08tOGRHTV9laXJzOTBSX2F3OHZ6Y1NFVkUtUElrUV9tcm5VcnlXc0FNcmhyRXhNQkY40gFwQVVfeXFMTlpqcVBkbGpNWjRaM0haQmhRR1RWVDM2MjB4Yk5xNkJKX2k5dUxNc0IzaFpJTnM5ZzZPcTBzeEhGZ25xblp4a1RqT1MtTmRscXA0endFVy1Vc1JDbXYtYi1jQ0FuN3RCU3BtV2lRQkxuUg?oc=5",
-              "published_at": "2026-11-09T06:12:13Z",
-              "headline": "정태영 부회장, 뉴욕미술관 명예이사 '깜짝 선임'…\"최고 영예\" - 머니투데이"
-            },
-            {
-              "name": "IT조선",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjRmg3d29qQ1NYZnBnT0k3M2dDdGpJMGdtMzJzcE96YVoyS1hEOW9KSmFVRnhwZnctVHlMa20wRlp2ek9DSjEybjN6NHVzODFVZS1TWnFyRWRrTzRNSUMzR1hzYVBoU3RjOHhLT01CeDfSAXRBVV95cUxNa3VyLW1YSkh6dUFGZE9UbXBIZlB2Vm5fd0M0NXpPM1V2bWVTTnZVU0JiZE1YdXZYemx4M1RCbGxjblkzLU5vWVA1RWlDTVRzNHBOU2JSdUVLQjZwWWRscUZXa1pocHlmdXlmbm5oR1pkRXZrRQ?oc=5",
-              "published_at": "2026-11-09T04:27:37Z",
-              "headline": "정태영 현대카드 부회장, 현대미술 정수 뉴욕 MoMA 명예이사"
-            }
-          ]
-        }
-      },
-      "source_groups": 3,
-      "daily_sources": [
-        0,
-        3,
-        0
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 27
-    },
-    {
-      "topic": {
-        "id": "13d3c63dbb564d714bc3",
-        "category": "스포츠",
-        "title": "‘승격넘버 1’ K리그1 복귀 보인다…수원 이정효 감독 “아직 손에 쥔 게 아무것도 없어” [MK현장]",
-        "summary": "‘승격넘버 1’ K리그1 복귀 보인다…수원 이정효 감독 “아직 손에 쥔 게 아무것도 없어” [MK현장]",
-        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 3시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘‘승격넘버 1’ K리그1 복귀 보인다…수원 이정효 감독 “아직 손에 쥔 게 아무것도 없어” [MK현장]’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "매일경제",
-        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80UE5GOUhSX0ZDcjhtS1dCeVVid3lCcjZQVEo2RXczOHNMTGdaaXJDVEtKaHZzNjR5dk8yVHVZNmlVQWQ1eHlnX2lOTTc5bnJ5c1Vv?oc=5",
-        "published_at": "2026-11-08T04:48:51Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 3,
-          "report_count": 5,
-          "span_hours": 3.1,
-          "first_report_at": "2026-11-08T03:45:48Z",
-          "last_report_at": "2026-11-08T06:54:34Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DN29wY0d4UEswSHhMV2lvUUZwN002MHNMV3l5THoyRHV2djU5WW41ZDY2VDR6OUVXOTcxdndtYTZhWFZIbTZVam5VSHZOY1ZWRDlj?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uNmgyVVpOU3RRYkd2ZkpwUTY4UXVYNWFIcDNWeGFvY0RLbFJGdEphMXJLc2ZLdExYb09Vc0lGSFdzZlRVUDRpQjE2eVpMZW9uSFJGV3UtR1lYckJfWG15VHdKb1ZyaHVkc0HSAW9BVV95cUxOYi1FWnBGMng3eDZPMDAwVjEtb0VPSWtvWmdNZzV5RTRvVkVZVmpqRkItVXk1YUFSQWJRWEUwb0VWVXZhYkhaLV9Ebl9mbTc1QXpFb2hnNmRBdE9UTlc5ZU5yU0tEWWdKemxHN0xqMTg?oc=5",
-          "sources": [
-            {
-              "name": "스타뉴스",
-              "group": "mt.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yUmJpN0NhTDFGbktkbjlnNGRXU2N3aDNXTnNQOVhKcDV5RjdPQWl4QTNBV1NnYkVIWTh6X1kwYkV6NnYxXzl5b2JURmxMcFBUbUE0RWcxQ013Q0w0SExXT2VTeU11RU9kNXREb3Q4VFZlMjZXclE?oc=5",
-              "published_at": "2026-11-08T06:54:34Z",
-              "headline": "'이정효호' 수원 삼성, 3시즌 만에 승격 확정! 용인 2:0 격파→K리그2 2위 확보... '두비츠카스+르본 연속골' [수원 현장리뷰]"
-            },
-            {
-              "name": "마이데일리",
-              "group": "mydaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CNlUxVDA3NG5KWXBoTEhYR1pmMTdCUFJBNDRZbzU3M3ZRVkw5Q2xGTUhQVVlLQV9WY1hXbEU0QVpjbkhMSXgzdG91Z0VMRGgxYUVZb0hSTXJoMm02T1h0d0ludy1SQQ?oc=5",
-              "published_at": "2026-11-08T05:49:08Z",
-              "headline": "수원 'K리그1 복귀'까지 45분 남았다! '두비츠카스 선제골→이상민+김민우 부상' 용인에 전반전 1-0 리드...무승부만 거둬도 '승격' 가능 [MD현장]"
-            },
-            {
-              "name": "매일경제",
-              "group": "mk.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80UE5GOUhSX0ZDcjhtS1dCeVVid3lCcjZQVEo2RXczOHNMTGdaaXJDVEtKaHZzNjR5dk8yVHVZNmlVQWQ1eHlnX2lOTTc5bnJ5c1Vv?oc=5",
-              "published_at": "2026-11-08T04:48:51Z",
-              "headline": "‘승격넘버 1’ K리그1 복귀 보인다…수원 이정효 감독 “아직 손에 쥔 게 아무것도 없어” [MK현장]"
-            }
-          ]
-        }
-      },
-      "source_groups": 3,
-      "daily_sources": [
-        3,
-        0,
-        0
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 28
-    },
-    {
-      "topic": {
-        "id": "d123b817783397c67969",
-        "category": "기술·과학",
-        "title": "인천 송도에 ‘인천바이오과학기술원’ 설립 준비위원회 발족",
-        "summary": "인천 송도에 ‘인천바이오과학기술원’ 설립 준비위원회 발족",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 2시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘인천 송도에 ‘인천바이오과학기술원’ 설립 준비위원회 발족’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
-        "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-        "source": "KBS 뉴스",
-        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BdnNlM0hQT3hsUklMQ0otYmp5Wk43UWxxMGNLd2NPSlpvUDcyUlppTTR4TkE3MkNKd3ZKRjZaSkxDOHVsVzNZUDc5Z0pyUWl0N2M0NHRrYzBkSVk?oc=5",
-        "published_at": "2026-11-10T06:55:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 3,
-          "report_count": 3,
-          "span_hours": 2.4,
-          "first_report_at": "2026-11-10T04:31:00Z",
-          "last_report_at": "2026-11-10T06:55:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKbnN4VXprY2xwdUdRV3gtaDM0UWJlblluU2FMUXhkZl8zQjVycnBlRmJMRXpVNzF3VjFHWjRyalF1dURxMkQtTERNMGJ0UnE2M01wenN4RUQweVHSAWBBVV95cUxNeXZFNnV5QjFxQkdXVnNwYlZRXzNIZmNqV0FHZGJHX2JWdm1MRy15bEtkSGVTYkRobnVNcHhOVDdPZ3h0aHJVMzJlbXhpU01rMkhHRHhfcUlfYkFhNm03a3o?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BdnNlM0hQT3hsUklMQ0otYmp5Wk43UWxxMGNLd2NPSlpvUDcyUlppTTR4TkE3MkNKd3ZKRjZaSkxDOHVsVzNZUDc5Z0pyUWl0N2M0NHRrYzBkSVk?oc=5",
-          "sources": [
-            {
-              "name": "KBS 뉴스",
-              "group": "kbs.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BdnNlM0hQT3hsUklMQ0otYmp5Wk43UWxxMGNLd2NPSlpvUDcyUlppTTR4TkE3MkNKd3ZKRjZaSkxDOHVsVzNZUDc5Z0pyUWl0N2M0NHRrYzBkSVk?oc=5",
-              "published_at": "2026-11-10T06:55:00Z",
-              "headline": "인천 송도에 ‘인천바이오과학기술원’ 설립 준비위원회 발족"
-            },
-            {
-              "name": "경향신문",
-              "group": "khan.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VOUdPWlRKRUdMUnNZdWRZVEtUekJ1ZV9wZlEyMkNwQlZ4SHVVMHFfbXNRazNmV2Z3Ri1vLXpXSlN5bmJlRFROeTlXVUhiMDhJdW1fMnRQLUpGUdIBX0FVX3lxTE1EcFlVZGk5d24tbjZPWHhnU2ZCTkJxeURST1ZoMnhrOUR6SzhfaklwM3d3SVVhaTJXSEU4cXVlN1NBc0RtamhHaE1EYkxZRjA4ZkNtamJLLUlvUmtJMHYw?oc=5",
-              "published_at": "2026-11-10T05:17:00Z",
-              "headline": "“약 만드는 곳 넘어 설계하는 도시로”… 인천바이오과학기술원 설립 추진"
-            },
-            {
-              "name": "연합뉴스",
-              "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKbnN4VXprY2xwdUdRV3gtaDM0UWJlblluU2FMUXhkZl8zQjVycnBlRmJMRXpVNzF3VjFHWjRyalF1dURxMkQtTERNMGJ0UnE2M01wenN4RUQweVHSAWBBVV95cUxNeXZFNnV5QjFxQkdXVnNwYlZRXzNIZmNqV0FHZGJHX2JWdm1MRy15bEtkSGVTYkRobnVNcHhOVDdPZ3h0aHJVMzJlbXhpU01rMkhHRHhfcUlfYkFhNm03a3o?oc=5",
-              "published_at": "2026-11-10T04:31:00Z",
-              "headline": "인천바이오과학기술원 설립 준비위 발족…특별법 제정 추진"
-            }
-          ]
-        }
-      },
-      "source_groups": 3,
-      "daily_sources": [
-        0,
-        0,
-        3
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 29
-    },
-    {
-      "topic": {
-        "id": "3ff532a29ac8047c2b54",
-        "category": "스포츠",
-        "title": "보은서 KBO 야구 유망주 캠프…고교 선수 등 50명 참가",
-        "summary": "보은서 KBO 야구 유망주 캠프…고교 선수 등 50명 참가",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘보은서 KBO 야구 유망주 캠프…고교 선수 등 50명 참가’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "뉴시스",
-        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uZlR1MGFHOHdhc2VCa3M5cEVyTTQ2WGIxeGVfUlIzTUFuM2FoY1d5a0NPZ0FOcXJHZnhodXNuQXd4S2Q1azVLSHRzd004QVpvUGtNSk9XTDVVd29PMUI4ZtIBeEFVX3lxTE9sWjEtbUV3TDRuY2Voa0oyZGVibjRQdUppaE5GejBHT0p3TUpwZnZ3SVlvRDV3aDZqVm9qOVpkMExZd1hSamo2TDFuUU95NUQtMi1rVzBMMjl5Z0Nmc0RzV0VPSmlpQktKRmJ4LXhsdk8yVG4xUDBCUg?oc=5",
-        "published_at": "2026-11-09T02:00:36Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 3,
-          "report_count": 3,
-          "span_hours": 1.8,
-          "first_report_at": "2026-11-09T00:14:53Z",
-          "last_report_at": "2026-11-09T02:00:36Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1WTEtRHhseGRMT241Xzk1RTBUQndBNy1xRkk0bG1PM2tLMnh0b1dRZ3hwWHJ0LXR5VnBQOHc3N3RNZEFsVjhOVk02U1MzOEdqcFVNRjEzY0NCNm53TEVV?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uZlR1MGFHOHdhc2VCa3M5cEVyTTQ2WGIxeGVfUlIzTUFuM2FoY1d5a0NPZ0FOcXJHZnhodXNuQXd4S2Q1azVLSHRzd004QVpvUGtNSk9XTDVVd29PMUI4ZtIBeEFVX3lxTE9sWjEtbUV3TDRuY2Voa0oyZGVibjRQdUppaE5GejBHT0p3TUpwZnZ3SVlvRDV3aDZqVm9qOVpkMExZd1hSamo2TDFuUU95NUQtMi1rVzBMMjl5Z0Nmc0RzV0VPSmlpQktKRmJ4LXhsdk8yVG4xUDBCUg?oc=5",
-          "sources": [
-            {
-              "name": "뉴시스",
-              "group": "wire:뉴시스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uZlR1MGFHOHdhc2VCa3M5cEVyTTQ2WGIxeGVfUlIzTUFuM2FoY1d5a0NPZ0FOcXJHZnhodXNuQXd4S2Q1azVLSHRzd004QVpvUGtNSk9XTDVVd29PMUI4ZtIBeEFVX3lxTE9sWjEtbUV3TDRuY2Voa0oyZGVibjRQdUppaE5GejBHT0p3TUpwZnZ3SVlvRDV3aDZqVm9qOVpkMExZd1hSamo2TDFuUU95NUQtMi1rVzBMMjl5Z0Nmc0RzV0VPSmlpQktKRmJ4LXhsdk8yVG4xUDBCUg?oc=5",
-              "published_at": "2026-11-09T02:00:36Z",
-              "headline": "보은서 KBO 야구 유망주 캠프…고교 선수 등 50명 참가"
-            },
-            {
-              "name": "연합뉴스",
-              "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44U0c3MVBsZ0RiRzZjWGpGa2FnODJyc0xBSXJPMWdORXFhRl8zLXdXYUMwd0Vrd2U1WGw4WUNMVnRhRWFLaGlGR2l6cm12dWl5MG8xMWUwNFFDdjg?oc=5",
-              "published_at": "2026-11-09T02:00:27Z",
-              "headline": "보은군, KBO 야구 유망주 캠프 개최…'스포츠메카' 입지 다진다"
-            },
-            {
-              "name": "뉴스1",
-              "group": "wire:뉴스1",
-              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1WTEtRHhseGRMT241Xzk1RTBUQndBNy1xRkk0bG1PM2tLMnh0b1dRZ3hwWHJ0LXR5VnBQOHc3N3RNZEFsVjhOVk02U1MzOEdqcFVNRjEzY0NCNm53TEVV?oc=5",
-              "published_at": "2026-11-09T00:14:53Z",
-              "headline": "보은서 9~23일 KBO 야구 유망주 캠프…고1 우수선수 육성"
             }
           ]
         }
