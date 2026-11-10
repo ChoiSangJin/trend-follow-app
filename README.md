@@ -68,3 +68,5 @@ flutter build apk --debug --target-platform=android-arm64
 정식 APK는 `Release ARM64 APK`에서 버전 태그를 선택하여 빌드합니다. 버전 코드는 `pubspec.yaml` 값을 사용하며 CI 실행 횟수로 덮어쓰지 않습니다. 릴리즈 모드·앱 ID·버전·최소 SDK·ARM64와 서명을 확인하고 공개 인증서 SHA-256을 `SIGNING.txt`에 게시합니다. 정식 키가 기존 테스트 키와 다르면 업데이트 설치가 불가능하며, 기존 앱 삭제 시 개인 목록과 메모가 사라질 수 있습니다. 비밀키와 비밀번호는 Release에 포함하지 않습니다.
 
 서명 준비 단계에서 `keytool`로 키 파일·저장소 비밀번호의 일치와 alias 존재 여부를 검사합니다. `keystore password was incorrect`는 키 파일과 `ANDROID_KEYSTORE_PASSWORD`를 짝으로 다시 확인해야 한다는 뜻입니다. `ANDROID_KEY_PASSWORD`는 개인 키 비밀번호로 별개입니다. 도구 출력과 비밀값을 오류 요약에 넣지 않습니다. 키 파일과 비밀번호는 채팅에 올리지 말고 GitHub Secrets에서 수정하세요.
+
+Flutter ARM64 분리 릴리즈 APK의 Android 버전 코드는 `pubspec` 빌드 번호에 ABI 보정값 2000을 더한 값입니다(4.1.1+10 → 2010). 검증에서 이 값을 확인합니다.
