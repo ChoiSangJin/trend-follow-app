@@ -78,12 +78,12 @@ jobs:
           else
             cat "$RUNNER_TEMP/release-build.log"
             python3 - <<'PYERROR'
-            import os
-            from pathlib import Path
-            message = (Path(os.environ['RUNNER_TEMP']) / 'release-build.log').read_text(errors='replace')[-3000:]
-            message = message.replace('%', '%25').replace('\r', '%0D').replace('\n', '%0A')
-            print(f'::error title=Release build failure tail::{message}')
-            PYERROR
+          import os
+          from pathlib import Path
+          message = (Path(os.environ['RUNNER_TEMP']) / 'release-build.log').read_text(errors='replace')[-3000:]
+          message = message.replace('%', '%25').replace('\r', '%0D').replace('\n', '%0A')
+          print(f'::error title=Release build failure tail::{message}')
+          PYERROR
             exit 1
           fi
       - name: Verify APK signature and ABI
