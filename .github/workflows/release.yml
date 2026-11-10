@@ -42,7 +42,7 @@ jobs:
       - name: Prepare persistent release signing key
         env:
           KEYSTORE: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
-          STORE_PASSWORD: ${{ secrets.ANDROID_STORE_PASSWORD }}
+          STORE_PASSWORD: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
           KEY_PASSWORD: ${{ secrets.ANDROID_KEY_PASSWORD }}
           KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
         run: |
@@ -66,14 +66,32 @@ jobs:
           config.chmod(0o600)
           PY
       - name: Build signed ARM64 release
-        run: bash scripts/check_flutter.sh build apk --release --split-per-abi --target-platform=android-arm64 --build-number=${{ github.run_number }}
+        run: bash scripts/check_flutter.sh build apk --release --split-per-abi --target-platform=android-arm64
       - name: Verify APK signature and ABI
         run: |
           APK=build/app/outputs/flutter-apk/app-arm64-v8a-release.apk
           BUILD_TOOLS=$(find "$ANDROID_HOME/build-tools" -mindepth 1 -maxdepth 1 -type d | sort -V | tail -1)
-          "$BUILD_TOOLS/apksigner" verify --verbose "$APK"
+          "$BUILD_TOOLS/apksigner" verify --verbose --print-certs "$APK" > "$RUNNER_TEMP/release-cert.txt"
+          "$BUILD_TOOLS/aapt" dump badging "$APK" > "$RUNNER_TEMP/release-badging.txt"
           python3 - <<'PY'
-          import zipfile
+          import os, re, zipfile
+          from pathlib import Path
+          version, code = re.search(r'^version: ([^+\s]+)\+(\d+)', Path('pubspec.yaml').read_text(), re.M).groups()
+          badging = (Path(os.environ['RUNNER_TEMP']) / 'release-badging.txt').read_text()
+          required = ["package: name='com.malmun.app'", "application-label:'말문'",
+                      "sdkVersion:'24'", f"versionName='{version}'", f"versionCode='{code}'"]
+          if any(value not in badging for value in required) or 'application-debuggable' in badging:
+              raise SystemExit('APK identity, version, SDK or release-mode mismatch')
+          cert = (Path(os.environ['RUNNER_TEMP']) / 'release-cert.txt').read_text()
+          fingerprints = {value.lower() for value in re.findall(
+              r'certificate SHA-256 digest:[ \t]*([0-9a-fA-F]{64})(?![0-9a-fA-F])', cert, re.I)}
+          if len(fingerprints) != 1:
+              raise SystemExit('Expected exactly one release signing certificate')
+          fingerprint = next(iter(fingerprints))
+          compatible = fingerprint == '1cdc0b267875f37d8b6e47a08a9abda9394be0cc8f7be15270a80967536d3d09'
+          Path('SIGNING.txt').write_text(f'Certificate SHA-256: {fingerprint}\n'
+              f'Matches previous managed test signing certificate: {compatible}\n')
+          print(Path('SIGNING.txt').read_text())
           with zipfile.ZipFile('build/app/outputs/flutter-apk/app-arm64-v8a-release.apk') as apk:
               abis = {name.split('/')[1] for name in apk.namelist() if name.startswith('lib/') and name.endswith('.so')}
           if abis != {'arm64-v8a'}:
@@ -86,9 +104,9 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           RELEASE_TAG: ${{ github.ref_name }}
         run: |
-          gh release create "$RELEASE_TAG" Malmun-arm64-v8a.apk SHA256SUMS \
+          gh release create "$RELEASE_TAG" Malmun-arm64-v8a.apk SHA256SUMS SIGNING.txt \
             --verify-tag --title "말문 $RELEASE_TAG" --generate-notes \
-            --notes 'Android 7.0(API 24)+ · ARM64 기기 전용. APK와 SHA256 체크섬을 내려받아 설치하세요. 최초 데이터 수집 전에는 예시 데이터가 표시됩니다.'
+            --notes 'Android 7.0(API 24)+ ARM64용 정식 서명 APK입니다. 기존 테스트 APK와 서명이 다르면 덮어쓰기 설치가 불가능합니다. SIGNING.txt에서 공개 인증서 정보를 확인하세요. 기존 앱 삭제 시 기기에 저장된 개인 목록과 메모가 삭제될 수 있습니다.'
       - name: Remove signing material
         if: always()
         run: rm -f android/key.properties "$RUNNER_TEMP/follow-mz-release.jks"

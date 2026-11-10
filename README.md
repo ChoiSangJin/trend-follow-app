@@ -63,4 +63,6 @@ flutter build apk --debug --target-platform=android-arm64
 
 `Publish tested APK` 워크플로는 성공한 main CI의 `malmun-debug-arm64` artifact를 사용합니다. 버전 태그와 APK 입력 소스가 같은지, 앱 ID·버전·최소 Android 버전·ARM64 ABI 및 기존 v2.0.0과의 서명 일치를 확인하고 `Malmun-arm64.apk`, `SHA256SUMS`, 설치 안내를 GitHub prerelease로 게시합니다. 관리형 개발용 서명 키는 기존 `malmun-managed-test-signing-v1` 캐시를 그대로 사용합니다. 키 파일은 Git이나 Release에 게시하지 않습니다. 캐시가 만료되거나 삭제되면 서명이 달라질 수 있으므로 영구적인 배포 키 보관을 대체하지 않습니다.
 
-별도 영구 배포 키를 사용할 때만 `ANDROID_KEYSTORE_BASE64`, `ANDROID_STORE_PASSWORD`, `ANDROID_KEY_PASSWORD`, `ANDROID_KEY_ALIAS` secrets와 `Release ARM64 APK` 워크플로가 필요합니다. 기본 테스트 APK 배포에는 필요하지 않습니다.
+별도 영구 배포 키를 사용할 때만 `ANDROID_KEYSTORE_BASE64`, `ANDROID_KEYSTORE_PASSWORD`, `ANDROID_KEY_PASSWORD`, `ANDROID_KEY_ALIAS` secrets와 `Release ARM64 APK` 워크플로가 필요합니다. 기본 테스트 APK 배포에는 필요하지 않습니다.
+
+정식 APK는 `Release ARM64 APK`에서 버전 태그를 선택하여 빌드합니다. 버전 코드는 `pubspec.yaml` 값을 사용하며 CI 실행 횟수로 덮어쓰지 않습니다. 릴리즈 모드·앱 ID·버전·최소 SDK·ARM64와 서명을 확인하고 공개 인증서 SHA-256을 `SIGNING.txt`에 게시합니다. 정식 키가 기존 테스트 키와 다르면 업데이트 설치가 불가능하며, 기존 앱 삭제 시 개인 목록과 메모가 사라질 수 있습니다. 비밀키와 비밀번호는 Release에 포함하지 않습니다.
