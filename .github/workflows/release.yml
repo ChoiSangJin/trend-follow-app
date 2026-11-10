@@ -104,7 +104,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           RELEASE_TAG: ${{ github.ref_name }}
         run: |
-          gh release create "$RELEASE_TAG" Malmun-arm64-v8a.apk SHA256SUMS SIGNING.txt \
+          gh release create "$RELEASE_TAG" Malmun-arm64-v8a.apk SHA256SUMS SIGNING.txt docs/INSTALL-RELEASE.md \
             --verify-tag --title "말문 $RELEASE_TAG" --generate-notes \
             --notes 'Android 7.0(API 24)+ ARM64용 정식 서명 APK입니다. 기존 테스트 APK와 서명이 다르면 덮어쓰기 설치가 불가능합니다. SIGNING.txt에서 공개 인증서 정보를 확인하세요. 기존 앱 삭제 시 기기에 저장된 개인 목록과 메모가 삭제될 수 있습니다.'
       - name: Remove signing material
