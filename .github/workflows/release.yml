@@ -53,7 +53,7 @@ jobs:
           KEY_ALIAS: ${{ secrets.ANDROID_KEY_ALIAS }}
         run: |
           python3 - <<'PY'
-          import base64, os
+          import base64, os, subprocess
           from pathlib import Path
           names = ['KEYSTORE', 'STORE_PASSWORD', 'KEY_PASSWORD', 'KEY_ALIAS']
           if any(not os.environ.get(name) for name in names):
@@ -61,6 +61,16 @@ jobs:
           key = Path(os.environ['RUNNER_TEMP']) / 'follow-mz-release.jks'
           key.write_bytes(base64.b64decode(''.join(os.environ['KEYSTORE'].split()), validate=True))
           key.chmod(0o600)
+          # Fail before SDK installation/compilation without exposing tool output.
+          def verify_key(arguments, message):
+              result = subprocess.run(['keytool', '-list', '-keystore', str(key),
+                  '-storepass:env', 'STORE_PASSWORD', *arguments],
+                  stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+              if result.returncode:
+                  print(f'::error title=Release signing configuration::{message}')
+                  raise SystemExit(1)
+          verify_key([], 'Cannot open ANDROID_KEYSTORE_BASE64 with ANDROID_KEYSTORE_PASSWORD. Check the matching keystore/password pair in GitHub Secrets; do not share values in chat.')
+          verify_key(['-alias', os.environ['KEY_ALIAS']], 'ANDROID_KEY_ALIAS does not identify an entry in the configured keystore.')
           def escape(value):
               encoded = value.encode('utf-16-be')
               return ''.join('\\u' + encoded[i:i+2].hex()
