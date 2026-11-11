@@ -2,102 +2,74 @@
   "schema_version": 5,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-10T19:42:24.853139Z",
+  "updated_at": "2026-11-11T06:10:35.273398Z",
   "cards": [
     {
-      "id": "bbfd14cba52c675c10cc",
+      "id": "6c7205c55185279ea8e5",
       "category": "문화·예술",
-      "title": "청와대 사랑채서 '섬·들·산 솟아오르다' 강원 특별전",
-      "summary": "청와대 사랑채서 '섬·들·산 솟아오르다' 강원 특별전",
-      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘청와대 사랑채서 '섬·들·산 솟아오르다' 강원 특별전’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "title": "‘SF 거장’ 81세 해리슨, 영국 문학상 ‘부커상’ 최고령 수상",
+      "summary": "‘SF 거장’ 81세 해리슨, 영국 문학상 ‘부커상’ 최고령 수상",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘‘SF 거장’ 81세 해리슨, 영국 문학상 ‘부커상’ 최고령 수상’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-      "source": "지디넷코리아",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hX3pRNFBNdkt3NEREUG5YdlVkeFNYNkg5QlRtMUl6TERzYmd5SVNxdDctLTd0dV9WVmZhVVhGRFBuS1BSVDliaERES3RiZlg5bHVicHhn?oc=5",
-      "published_at": "2026-11-10T05:13:32Z",
+      "source": "경향신문",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaQWVGZG9ZWDJFeDBLbjVBWkFsemFybkJzTkYzYWZiX1ZUY2FjemFUemhDUXNzbGFTVUl0dVpHa0oyU1RjcDg5aW96ZTd3MXg5M0pHQldCUk5Ed9IBX0FVX3lxTE5UTnoxU3VWLXRaOERTNmVJTUI1dmlXcnktMWMwUVZrZ1ZfemtsYnpnbjJiNmVISUJIT240cG1KUGd5UXFYdnRBMW5PQ2JIakUwaEQwRlZfY2hlSW9MeTNJ?oc=5",
+      "published_at": "2026-11-10T11:20:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 4,
-        "report_count": 4,
-        "span_hours": 6.2,
-        "first_report_at": "2026-11-09T23:00:00Z",
-        "last_report_at": "2026-11-10T05:13:32Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mblZYY1EyY0dFdjFHQ0ZsTV9rVE5VWEZzc205V3NIX0xYMzJHWW9XRWVfZ25fY1RxV2g0QUxjakQ1V2kxNzlGQV9iMG81R1g3SUZ0bU9sNURCMzVZVGVZaA?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hX3pRNFBNdkt3NEREUG5YdlVkeFNYNkg5QlRtMUl6TERzYmd5SVNxdDctLTd0dV9WVmZhVVhGRFBuS1BSVDliaERES3RiZlg5bHVicHhn?oc=5",
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 10.5,
+        "first_report_at": "2026-11-10T00:47:25Z",
+        "last_report_at": "2026-11-10T11:20:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQRGd1LU0yREtMWTVyanVDNzNGSXJ0QjJSN1otb0dTampJMWk3LS1SUmFVcnJNOXpMUW1nLVhLbk9jY3dtamRDcFpqRl9tbFRHY2FKTllvTHFpRnfSAWBBVV95cUxQbnZSeVQxX3hHNW9rZV9LZE1SVE5aYThLOXpVTXltRFl3LVV3REZPTVJVOUZYNnpJNFRWS2JfWGEzU19BRDdmZEtDRlhyV29Nc0lYaHdtNjl3dmFLQnNUejg?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaQWVGZG9ZWDJFeDBLbjVBWkFsemFybkJzTkYzYWZiX1ZUY2FjemFUemhDUXNzbGFTVUl0dVpHa0oyU1RjcDg5aW96ZTd3MXg5M0pHQldCUk5Ed9IBX0FVX3lxTE5UTnoxU3VWLXRaOERTNmVJTUI1dmlXcnktMWMwUVZrZ1ZfemtsYnpnbjJiNmVISUJIT240cG1KUGd5UXFYdnRBMW5PQ2JIakUwaEQwRlZfY2hlSW9MeTNJ?oc=5",
         "sources": [
           {
-            "name": "지디넷코리아",
-            "group": "zdnet.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hX3pRNFBNdkt3NEREUG5YdlVkeFNYNkg5QlRtMUl6TERzYmd5SVNxdDctLTd0dV9WVmZhVVhGRFBuS1BSVDliaERES3RiZlg5bHVicHhn?oc=5",
-            "published_at": "2026-11-10T05:13:32Z",
-            "headline": "청와대 사랑채서 '섬·들·산 솟아오르다' 강원 특별전"
+            "name": "경향신문",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaQWVGZG9ZWDJFeDBLbjVBWkFsemFybkJzTkYzYWZiX1ZUY2FjemFUemhDUXNzbGFTVUl0dVpHa0oyU1RjcDg5aW96ZTd3MXg5M0pHQldCUk5Ed9IBX0FVX3lxTE5UTnoxU3VWLXRaOERTNmVJTUI1dmlXcnktMWMwUVZrZ1ZfemtsYnpnbjJiNmVISUJIT240cG1KUGd5UXFYdnRBMW5PQ2JIakUwaEQwRlZfY2hlSW9MeTNJ?oc=5",
+            "published_at": "2026-11-10T11:20:00Z",
+            "headline": "‘SF 거장’ 81세 해리슨, 영국 문학상 ‘부커상’ 최고령 수상"
           },
           {
-            "name": "머니투데이",
-            "group": "mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sTWtOcThNU1lIS3QwVmVmRG1zclJDdEZlZlo5Q3BKQ3NMcG5LdkxVcUIxdlJrdEdUWGo3UmVnWGZIUms5c0ZRWFpoODVHSzVJVTNORHdGU0w2bENuQ3JDTGI2cV84U1NPWjJZ0gFwQVVfeXFMTXZJbWVqWXNieENTSy1PMXRTZWVXeGVOaGJkRXY5ZndmeWxYQ3JjU1pBd1NOd3ZzTkswczI4Z25reER4UjNfS0hfXzZOYWNrbDhZWnRTNm91SnRUQXFZRFRoY1BCb2phTnNOaE54SjVHWQ?oc=5",
-            "published_at": "2026-11-10T02:31:10Z",
-            "headline": "청와대 사랑채서 만나는 강원 문화…'섬·들·산 솟아오르다' 특별전 - 머니투데이"
-          },
-          {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBONUVjdHU0dlY3Z09ac29GRVlYNE5DZVc0R2l0dFIxQzlteWFNeF9YUW1XRV9RdnoxR0k2cE5IQU52UHJUTDZqMGU1ZWxmalUzNFdoQjc0ay1uMkZBdHM0UNIBeEFVX3lxTE1KLUV6WllOVkFpSTA4dkszOHZtT2c1WGNTS1p4R1ZTQkFuQ2dCenBSUjFvNUZzaEZRb0lOX1B3eHV6LS1XNkJoVXJYM25Xd3ZfMW54ejJlRWNJOVV5MFUyWWRkdnptdm0tcGpCZWV3V0JvTGRBakFQSw?oc=5",
-            "published_at": "2026-11-10T00:44:38Z",
-            "headline": "'치유의 터전, 강원'…청와대 사랑채에서 특별전"
-          },
-          {
-            "name": "아시아경제",
-            "group": "asiae.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mblZYY1EyY0dFdjFHQ0ZsTV9rVE5VWEZzc205V3NIX0xYMzJHWW9XRWVfZ25fY1RxV2g0QUxjakQ1V2kxNzlGQV9iMG81R1g3SUZ0bU9sNURCMzVZVGVZaA?oc=5",
-            "published_at": "2026-11-09T23:00:00Z",
-            "headline": "청와대 사랑채서 강원 문화 특별전…계촌별빛오케스트라 공연도"
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQRGd1LU0yREtMWTVyanVDNzNGSXJ0QjJSN1otb0dTampJMWk3LS1SUmFVcnJNOXpMUW1nLVhLbk9jY3dtamRDcFpqRl9tbFRHY2FKTllvTHFpRnfSAWBBVV95cUxQbnZSeVQxX3hHNW9rZV9LZE1SVE5aYThLOXpVTXltRFl3LVV3REZPTVJVOUZYNnpJNFRWS2JfWGEzU19BRDdmZEtDRlhyV29Nc0lYaHdtNjl3dmFLQnNUejg?oc=5",
+            "published_at": "2026-11-10T00:47:25Z",
+            "headline": "영국 최고권위 문학상 부커상에 M. 존 해리슨…SF 작가로 최초"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "c046e831df01f0bbfc95",
+      "id": "021d7578821824814bdc",
       "category": "문화·예술",
-      "title": "한컴그룹, 문학상 대상에 '말의 장례식'…상금 1억까지 확대",
-      "summary": "한컴그룹, 문학상 대상에 '말의 장례식'…상금 1억까지 확대",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 24시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘한컴그룹, 문학상 대상에 '말의 장례식'…상금 1억까지 확대’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "title": "울산암각화박물관, 반구천 암각화 배경으로 14일 음악공연",
+      "summary": "울산암각화박물관, 반구천 암각화 배경으로 14일 음악공연",
+      "why_now": "단일 출처 기사입니다. 연합뉴스의 보도 1곳을 확인해 문화·스포츠의 추가 읽을거리로 제공합니다. 여러 매체의 관심이나 인기가 확인된 소식은 아닙니다.",
+      "opener": "‘울산암각화박물관, 반구천 암각화 배경으로 14일 음악공연’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-      "source": "지디넷코리아",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qWTQzZUhwZGtIVE1FUmU2LVc3STNqZWpuUk1xNjN3LW5HYk1LdE1lUmc5Y093SG5WaWtfcnVqcm1rLW5URVRCU3RrMHU2cEtUdWZOTkRB?oc=5",
-      "published_at": "2026-11-08T02:44:13Z",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Wa0thUjhsWVNnU1QwTVNMM2htOGdMNjFxbjhReWJleklMZExxbldCdnFxdlBWbGxQN0w5NHlmUmEzZUZoUWtBZWsxcTdpNVM5UEhmNG1kbG1PMG5YQW1LSNIBYEFVX3lxTE1Wa0thUjhsWVNnU1QwTVNMM2htOGdMNjFxbjhReWJleklMZExxbldCdnFxdlBWbGxQN0w5NHlmUmEzZUZoUWtBZWsxcTdpNVM5UEhmNG1kbG1PMG5YQW1LSA?oc=5",
+      "published_at": "2026-11-11T00:00:10Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 3,
-        "report_count": 3,
-        "span_hours": 24.2,
-        "first_report_at": "2026-11-08T01:55:00Z",
-        "last_report_at": "2026-11-09T02:04:52Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNam43RzlFTm42WlJJRWtEX0hfdGZ6QW9pZzJqWTBoMzhsSUwwMkFuQ3RaTHhIUnFEZ3FzdUdUVDlVbmFSSG80dHdzak0ydlJFV1JoOGR1QUloQzJENzFwSmtDSnhrdXB2eGpwMWpxVFlSU3piMzVIWm55Sm96clRMQUxR0gGWAUFVX3lxTE9LbmV0dEFwbllVd3V5N2V5TjdPeEJmbHZ6NUFpaURSNG9wczFGeVdFNFlOVjdvWXBDWDZBRFBROEZ5T1hySFhSUEJTY0ZKQVR4NEFkVGY4bzh4RVdzblNQUmh2Q2pZVXktZDYzTHBOZTBGTlhNVy1OcGllN0ZhQTlUajZNVUJySXBnU2JjandyUVpFQmd2Zw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ubkxHMF9udF84WDMxQlRwelM2RmZuUFBFTDJlNmtTSzZkSld3MlRnVnRJS21Sc2JuMkhvWEFYQnA5U3N2U1Q5cFpVSVFEZzNDQ0ZSenJsX1k4U2UwOUtTMDZ4dHBZbFQ5X2dfZ1h0ZlY3WEZnQWx6WNIBeEFVX3lxTE9ubkxHMF9udF84WDMxQlRwelM2RmZuUFBFTDJlNmtTSzZkSld3MlRnVnRJS21Sc2JuMkhvWEFYQnA5U3N2U1Q5cFpVSVFEZzNDQ0ZSenJsX1k4U2UwOUtTMDZ4dHBZbFQ5X2dfZ1h0ZlY3WEZnQWx6WA?oc=5",
+        "source_groups": 1,
+        "report_count": 1,
+        "span_hours": 0.0,
+        "first_report_at": "2026-11-11T00:00:10Z",
+        "last_report_at": "2026-11-11T00:00:10Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Wa0thUjhsWVNnU1QwTVNMM2htOGdMNjFxbjhReWJleklMZExxbldCdnFxdlBWbGxQN0w5NHlmUmEzZUZoUWtBZWsxcTdpNVM5UEhmNG1kbG1PMG5YQW1LSNIBYEFVX3lxTE1Wa0thUjhsWVNnU1QwTVNMM2htOGdMNjFxbjhReWJleklMZExxbldCdnFxdlBWbGxQN0w5NHlmUmEzZUZoUWtBZWsxcTdpNVM5UEhmNG1kbG1PMG5YQW1LSA?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Wa0thUjhsWVNnU1QwTVNMM2htOGdMNjFxbjhReWJleklMZExxbldCdnFxdlBWbGxQN0w5NHlmUmEzZUZoUWtBZWsxcTdpNVM5UEhmNG1kbG1PMG5YQW1LSNIBYEFVX3lxTE1Wa0thUjhsWVNnU1QwTVNMM2htOGdMNjFxbjhReWJleklMZExxbldCdnFxdlBWbGxQN0w5NHlmUmEzZUZoUWtBZWsxcTdpNVM5UEhmNG1kbG1PMG5YQW1LSA?oc=5",
         "sources": [
           {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ubkxHMF9udF84WDMxQlRwelM2RmZuUFBFTDJlNmtTSzZkSld3MlRnVnRJS21Sc2JuMkhvWEFYQnA5U3N2U1Q5cFpVSVFEZzNDQ0ZSenJsX1k4U2UwOUtTMDZ4dHBZbFQ5X2dfZ1h0ZlY3WEZnQWx6WNIBeEFVX3lxTE9ubkxHMF9udF84WDMxQlRwelM2RmZuUFBFTDJlNmtTSzZkSld3MlRnVnRJS21Sc2JuMkhvWEFYQnA5U3N2U1Q5cFpVSVFEZzNDQ0ZSenJsX1k4U2UwOUtTMDZ4dHBZbFQ5X2dfZ1h0ZlY3WEZnQWx6WA?oc=5",
-            "published_at": "2026-11-09T02:04:52Z",
-            "headline": "한컴문학상 대상 상금 1억까지 올린다…제2회 시상식 개최"
-          },
-          {
-            "name": "지디넷코리아",
-            "group": "zdnet.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qWTQzZUhwZGtIVE1FUmU2LVc3STNqZWpuUk1xNjN3LW5HYk1LdE1lUmc5Y093SG5WaWtfcnVqcm1rLW5URVRCU3RrMHU2cEtUdWZOTkRB?oc=5",
-            "published_at": "2026-11-08T02:44:13Z",
-            "headline": "한컴그룹, 문학상 대상에 '말의 장례식'…상금 1억까지 확대"
-          },
-          {
-            "name": "Chosunbiz",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNam43RzlFTm42WlJJRWtEX0hfdGZ6QW9pZzJqWTBoMzhsSUwwMkFuQ3RaTHhIUnFEZ3FzdUdUVDlVbmFSSG80dHdzak0ydlJFV1JoOGR1QUloQzJENzFwSmtDSnhrdXB2eGpwMWpxVFlSU3piMzVIWm55Sm96clRMQUxR0gGWAUFVX3lxTE9LbmV0dEFwbllVd3V5N2V5TjdPeEJmbHZ6NUFpaURSNG9wczFGeVdFNFlOVjdvWXBDWDZBRFBROEZ5T1hySFhSUEJTY0ZKQVR4NEFkVGY4bzh4RVdzblNQUmh2Q2pZVXktZDYzTHBOZTBGTlhNVy1OcGllN0ZhQTlUajZNVUJySXBnU2JjandyUVpFQmd2Zw?oc=5",
-            "published_at": "2026-11-08T01:55:00Z",
-            "headline": "제2회 한컴문학상 대상에 성백광 시인 ‘말의 장례식’…7700여편 경쟁"
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Wa0thUjhsWVNnU1QwTVNMM2htOGdMNjFxbjhReWJleklMZExxbldCdnFxdlBWbGxQN0w5NHlmUmEzZUZoUWtBZWsxcTdpNVM5UEhmNG1kbG1PMG5YQW1LSNIBYEFVX3lxTE1Wa0thUjhsWVNnU1QwTVNMM2htOGdMNjFxbjhReWJleklMZExxbldCdnFxdlBWbGxQN0w5NHlmUmEzZUZoUWtBZWsxcTdpNVM5UEhmNG1kbG1PMG5YQW1LSA?oc=5",
+            "published_at": "2026-11-11T00:00:10Z",
+            "headline": "울산암각화박물관, 반구천 암각화 배경으로 14일 음악공연"
           }
         ]
       },
@@ -108,7 +80,7 @@
       "category": "연예",
       "title": "수능 3주전 강의 중단 뒤 예능 출연…사탐 강사 이도 결국 사과",
       "summary": "수능 3주전 강의 중단 뒤 예능 출연…사탐 강사 이도 결국 사과",
-      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 3시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.11 04:42 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘수능 3주전 강의 중단 뒤 예능 출연…사탐 강사 이도 결국 사과’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
       "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
       "source": "중앙일보",
@@ -161,14 +133,15 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-10T19:42:24.853139Z"
     },
     {
       "id": "ab38c500bea4b19d479f",
       "category": "연예",
       "title": "러시아 귀화 빅토르 안, 7년 만에 ‘예능 코치’로 한국행",
       "summary": "러시아 귀화 빅토르 안, 7년 만에 ‘예능 코치’로 한국행",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 3시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.11 04:42 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘러시아 귀화 빅토르 안, 7년 만에 ‘예능 코치’로 한국행’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
       "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
       "source": "중앙일보",
@@ -207,67 +180,61 @@
           }
         ]
       },
-      "selection_rank": 2
+      "selection_rank": 2,
+      "last_collected_at": "2026-11-10T19:42:24.853139Z"
     },
     {
-      "id": "c46b2b815bfbf9c5ef8d",
+      "id": "85370fe87d688011c7c0",
       "category": "스포츠",
-      "title": "'1골 1도움' 강원 모재현, K리그1 35라운드 MVP 선정",
-      "summary": "'1골 1도움' 강원 모재현, K리그1 35라운드 MVP 선정",
-      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘'1골 1도움' 강원 모재현, K리그1 35라운드 MVP 선정’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "title": "긴 대화 나눈 손흥민·황희찬…‘92-96’ 갈등 해소될까?",
+      "summary": "긴 대화 나눈 손흥민·황희찬…‘92-96’ 갈등 해소될까?",
+      "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 8시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘긴 대화 나눈 손흥민·황희찬…‘92-96’ 갈등 해소될까?’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "연합뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GUERnazUwS3RlSkxMNWotUWpINl81Y2J3aXN1c3BlcUJuYk50bk9BM2dSalMyY0dhSENkQmhmeU9iLTI2RUtkN1ZaUDZMclNfMWVCVHcwUlpkT0HSAWBBVV95cUxPUnlVR3poWHhJT1BrbHF1cnQ2STM4d2JYUGhta1Y2cFRIX195UTUxZ2hOZmhiR2ltdzFnRDUtMVJ6bUVPM3E0c3pOQXBmSmhOQTM3ZzBzdU1oemNOTER1Q1k?oc=5",
-      "published_at": "2026-11-10T01:49:45Z",
+      "source": "KBS 뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95TTdwMk9fV2xxdEFTbjEyeThJWUhVOUkzQ0c1TnFHUFh1UzRZcVBySVJqX0YySHZqQ2FsUXZWbUZmdTY3WnR1enQtNWNVeE5JUXl2Q2cwV1RQbHc?oc=5",
+      "published_at": "2026-11-10T22:43:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 4,
-        "report_count": 4,
-        "span_hours": 4.6,
-        "first_report_at": "2026-11-10T01:49:45Z",
-        "last_report_at": "2026-11-10T06:23:45Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GUERnazUwS3RlSkxMNWotUWpINl81Y2J3aXN1c3BlcUJuYk50bk9BM2dSalMyY0dhSENkQmhmeU9iLTI2RUtkN1ZaUDZMclNfMWVCVHcwUlpkT0HSAWBBVV95cUxPUnlVR3poWHhJT1BrbHF1cnQ2STM4d2JYUGhta1Y2cFRIX195UTUxZ2hOZmhiR2ltdzFnRDUtMVJ6bUVPM3E0c3pOQXBmSmhOQTM3ZzBzdU1oemNOTER1Q1k?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVzRyU1JwTlVvcy1VRkx5STBHOHZqMlVGRzFOTDl5eUxOeE5JQ0gzWWs3cDZlS2thREdMaURBWC1NaDhGX1dlWVk1RXoxU180?oc=5",
+        "source_groups": 3,
+        "report_count": 6,
+        "span_hours": 8.8,
+        "first_report_at": "2026-11-10T13:53:42Z",
+        "last_report_at": "2026-11-10T22:43:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tVERpbWlQN0FjWkRYVkt6bDE4U0VrQ2R6eUppNlNxa1pGNEJwZnBFeUp2a0xxVGd1T09xcWFMeTJCWXo4YUZEanBhRERqZ3d0TzFUODYxUFA3Rm1jOG1qbtIBYEFVX3lxTE5tVERpbWlQN0FjWkRYVkt6bDE4U0VrQ2R6eUppNlNxa1pGNEJwZnBFeUp2a0xxVGd1T09xcWFMeTJCWXo4YUZEanBhRERqZ3d0TzFUODYxUFA3Rm1jOG1qbg?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95TTdwMk9fV2xxdEFTbjEyeThJWUhVOUkzQ0c1TnFHUFh1UzRZcVBySVJqX0YySHZqQ2FsUXZWbUZmdTY3WnR1enQtNWNVeE5JUXl2Q2cwV1RQbHc?oc=5",
         "sources": [
           {
-            "name": "문화일보",
-            "group": "munhwa.com",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yVzRyU1JwTlVvcy1VRkx5STBHOHZqMlVGRzFOTDl5eUxOeE5JQ0gzWWs3cDZlS2thREdMaURBWC1NaDhGX1dlWVk1RXoxU180?oc=5",
-            "published_at": "2026-11-10T06:23:45Z",
-            "headline": "강원 모재현, K리그1 35R MVP 선정"
+            "name": "KBS 뉴스",
+            "group": "kbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95TTdwMk9fV2xxdEFTbjEyeThJWUhVOUkzQ0c1TnFHUFh1UzRZcVBySVJqX0YySHZqQ2FsUXZWbUZmdTY3WnR1enQtNWNVeE5JUXl2Q2cwV1RQbHc?oc=5",
+            "published_at": "2026-11-10T22:43:00Z",
+            "headline": "긴 대화 나눈 손흥민·황희찬…‘92-96’ 갈등 해소될까?"
           },
           {
-            "name": "일간스포츠",
-            "group": "edaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuY0NLTllMU3RjdWt4S2VLbjNibG01OFE3SW1QTTEyTUpuTDYyZzR2Z2FEQm1Md2NyX293WTJzWThDY2NrcHZTNnpPVmRqaUZfLXRrUGM4a2VBbEU?oc=5",
-            "published_at": "2026-11-10T02:13:00Z",
-            "headline": "‘전북전 1골 1도움’ 모재현, K리그1 35R MVP…2부는 이랜드 에울레르"
-          },
-          {
-            "name": "머니투데이",
-            "group": "mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44TFl2VFpBMWJoYzhrSDJBN0lnWVhyZlo4Ry1wbTR2UTJYc2JEZmZyVnpMXzRoZWk1NXpVX0VUN2NQZWJqTnByTHdvTmhXRllUcGhXR0hXUXRBdWJYRVlsb0p5ZnZoVlM5TFHSAW9BVV95cUxQeFlHckRDVS0wZUQtZUVmX2stWWEyNXpWV1dLM3BLV0E5eC13TENLSFA4aUplS1hVQlFSaFNCMGdOeFpBMlhPem5TZDh1cWRCcHpwVVY4SDJ5WVZTYTRPSFZnUTZMVnZOTUV1SWVad2s?oc=5",
-            "published_at": "2026-11-10T02:07:53Z",
-            "headline": "'1골 1도움 전북 울린' 모재현, K리그1 35R MVP... K리그2는 'PK 멀티골' 에울레르 - 머니투데이"
+            "name": "MBC 뉴스",
+            "group": "imbc.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1YkdFdExRZHVXR0huYWdHbVRaU1dQd1pZb2VKa3R4T3BrMTljdXFlSUt2N3p6WDd2dlg2Vy1fTkpLSTcybnBQUkdMNm4zenRDWGZqOC01cGF3UVh0aFA2dkxyTHRhdGFHem8weG51YU1ZTTl3X1HSAXZBVV95cUxPWV8xdldsU01nOVRYMi1abWlteUpsNW50a281TzRRZkp1dDZvNGRCVlNUVXdQNVNYNEgwTHpURUNRMlV1bzdkcVhVV3dsMDlhV3hWdDVXeFhvQ201ZWx5V1F2U0hxekNlaERTMkN1WDJtenpVb2Rn?oc=5",
+            "published_at": "2026-11-10T19:27:55Z",
+            "headline": "내분설 겪은 축구대표팀, 카타르서 첫 훈련.. 손흥민-황희찬 대화"
           },
           {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GUERnazUwS3RlSkxMNWotUWpINl81Y2J3aXN1c3BlcUJuYk50bk9BM2dSalMyY0dhSENkQmhmeU9iLTI2RUtkN1ZaUDZMclNfMWVCVHcwUlpkT0HSAWBBVV95cUxPUnlVR3poWHhJT1BrbHF1cnQ2STM4d2JYUGhta1Y2cFRIX195UTUxZ2hOZmhiR2ltdzFnRDUtMVJ6bUVPM3E0c3pOQXBmSmhOQTM3ZzBzdU1oemNOTER1Q1k?oc=5",
-            "published_at": "2026-11-10T01:49:45Z",
-            "headline": "'1골 1도움' 강원 모재현, K리그1 35라운드 MVP 선정"
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyZWRWMUdwVVlHeEdpcG9kNVhQSzJTWnZSZlBjV0pNSk1YQkwxTTRJeGRFcmxwd01LclRIbnp4SmVwWm5ycm5UdFU4QU82OGVXT1l5NDhfbkRpRnptUmNHRdIBYEFVX3lxTFAyZWRWMUdwVVlHeEdpcG9kNVhQSzJTWnZSZlBjV0pNSk1YQkwxTTRJeGRFcmxwd01LclRIbnp4SmVwWm5ycm5UdFU4QU82OGVXT1l5NDhfbkRpRnptUmNHRQ?oc=5",
+            "published_at": "2026-11-10T15:45:34Z",
+            "headline": "훈련 앞두고 대화 나누는 손흥민-이재성-오현규"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "39cadf19b65a957f607d",
+      "id": "d4890611132d8f3f70d6",
       "category": "스포츠",
       "title": "프로야구 삼성, 12년 만에 한국시리즈 정상 탈환",
       "summary": "프로야구 삼성, 12년 만에 한국시리즈 정상 탈환",
-      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘프로야구 삼성, 12년 만에 한국시리즈 정상 탈환’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
       "source": "KBS 뉴스",
@@ -275,21 +242,14 @@
       "published_at": "2026-11-08T08:21:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 3,
-        "report_count": 4,
-        "span_hours": 0.7,
-        "first_report_at": "2026-11-08T08:06:16Z",
-        "last_report_at": "2026-11-08T08:50:35Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zVXlzZzZVOHpkNU9MZms5MkFGSnRrSmQyZU92Y25GMXR3RFcxdFpUVGRxV2tBZ0VEVFZOQk9HdUxfbFg1azFFNGRJUTJtSFZyNjJuUDI5YThNUTZyeU9XZnBpTmQzM3U4aFlJcnZ3MXBYdnlJTnfSAXZBVV95cUxQNHItbUxYbEJzcEhRMTMxN1pNYk8xWGJRNFFCbHJtQWpURV82czVtZmU1Ym1wNnN5OXNGQ1pUYUEtUGo4WkRBVHEtdWFGd3M2RkZIM093eEpVUGxvQl9QYXpsYnJESHJwMFBnUWpjdlF0UW1Db3JB?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85YVFWSmNhSU5DREluVVI1dXZUZmJKcWwxWEs3ZTkxNElpakpBcmRaTVl6LTAwNzdEVDNXWHl1aHRRVzJEYk9aRWJKdFdUUFFZb3NoLW5WMm1QU1XSAWBBVV95cUxOZGVacFA4d3dQRmh1NUZTbU5TMW5aUlByZmNKWVBseFdsZkJYLTFaTk43OWQwVGZMZUNGektzSnR6alhyMnhoeERzQmhzRlYwaVYxVU5ORTBUWHhaSmFMeTI?oc=5",
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 0.1,
+        "first_report_at": "2026-11-08T08:15:36Z",
+        "last_report_at": "2026-11-08T08:21:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52T054ZTYwR01obHZMem9nSTVxZDE4T1BNMG41X2hER3FBanRGSEp2bkF4Qy1HOW1xZnlDLXlMYVRGQWVFR3dFSmNFdmlfWFZFLUlmNm5kaHVRQ1nSAWBBVV95cUxOd1lOeF8yUFR0YlNhd3czNDR4eWlnYndvOXlRZWJieTI2YVdDX0RLTzYzdzM4ZkVHLUhwYzFpeHlfOWRDLXNoWVRGY0Q1NHR4a3JDVkJrNHl5d3l1MHYyNzc?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMSDBmZ1huSXNjU2p1RDBYOFBvdUM2MTBMd0FqRG1qS0F2d3U4S21kM1JySlJ2bmM2ODZ5MkRYREV4anBIZ3V4X1ZPVXlTbEc4Z0ZzT09KcnFZUXc?oc=5",
         "sources": [
-          {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85YVFWSmNhSU5DREluVVI1dXZUZmJKcWwxWEs3ZTkxNElpakpBcmRaTVl6LTAwNzdEVDNXWHl1aHRRVzJEYk9aRWJKdFdUUFFZb3NoLW5WMm1QU1XSAWBBVV95cUxOZGVacFA4d3dQRmh1NUZTbU5TMW5aUlByZmNKWVBseFdsZkJYLTFaTk43OWQwVGZMZUNGektzSnR6alhyMnhoeERzQmhzRlYwaVYxVU5ORTBUWHhaSmFMeTI?oc=5",
-            "published_at": "2026-11-08T08:50:35Z",
-            "headline": "[그래픽] 2026 프로야구 한국시리즈 결과"
-          },
           {
             "name": "KBS 뉴스",
             "group": "kbs.co.kr",
@@ -298,11 +258,11 @@
             "headline": "프로야구 삼성, 12년 만에 한국시리즈 정상 탈환"
           },
           {
-            "name": "MBC 뉴스",
-            "group": "imbc.com",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zVXlzZzZVOHpkNU9MZms5MkFGSnRrSmQyZU92Y25GMXR3RFcxdFpUVGRxV2tBZ0VEVFZOQk9HdUxfbFg1azFFNGRJUTJtSFZyNjJuUDI5YThNUTZyeU9XZnBpTmQzM3U4aFlJcnZ3MXBYdnlJTnfSAXZBVV95cUxQNHItbUxYbEJzcEhRMTMxN1pNYk8xWGJRNFFCbHJtQWpURV82czVtZmU1Ym1wNnN5OXNGQ1pUYUEtUGo4WkRBVHEtdWFGd3M2RkZIM093eEpVUGxvQl9QYXpsYnJESHJwMFBnUWpjdlF0UW1Db3JB?oc=5",
-            "published_at": "2026-11-08T08:06:16Z",
-            "headline": "프로야구 삼성, 1패 뒤 4연승으로 한국시리즈 우승‥12년 만에 정상 복귀"
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52T054ZTYwR01obHZMem9nSTVxZDE4T1BNMG41X2hER3FBanRGSEp2bkF4Qy1HOW1xZnlDLXlMYVRGQWVFR3dFSmNFdmlfWFZFLUlmNm5kaHVRQ1nSAWBBVV95cUxOd1lOeF8yUFR0YlNhd3czNDR4eWlnYndvOXlRZWJieTI2YVdDX0RLTzYzdzM4ZkVHLUhwYzFpeHlfOWRDLXNoWVRGY0Q1NHR4a3JDVkJrNHl5d3l1MHYyNzc?oc=5",
+            "published_at": "2026-11-08T08:15:36Z",
+            "headline": "프로야구 삼성, 12년 만에 한국시리즈 정상 탈환…통산 9번째 V(종합)"
           }
         ]
       },
@@ -313,7 +273,7 @@
       "category": "기술·과학",
       "title": "제주 해상 우주발사체 바지선서 작업하던 다이버 숨져",
       "summary": "제주 해상 우주발사체 바지선서 작업하던 다이버 숨져",
-      "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.11 04:42 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘제주 해상 우주발사체 바지선서 작업하던 다이버 숨져’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
       "source": "연합뉴스",
@@ -380,14 +340,15 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-10T19:42:24.853139Z"
     },
     {
       "id": "bdcfad3d77a54208eda2",
       "category": "기술·과학",
       "title": "‘ㅈㄱㅁㄴ’ 콕 집어냈다…AI 도입 6개월, 성착취물 삭제 10배 껑충",
       "summary": "‘ㅈㄱㅁㄴ’ 콕 집어냈다…AI 도입 6개월, 성착취물 삭제 10배 껑충",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.11 04:42 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘‘ㅈㄱㅁㄴ’ 콕 집어냈다…AI 도입 6개월, 성착취물 삭제 10배 껑충’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
       "source": "한겨레",
@@ -419,68 +380,15 @@
           }
         ]
       },
-      "selection_rank": 2
-    },
-    {
-      "id": "1cde2675224b8d5d7453",
-      "category": "사회",
-      "title": "금천구 박미삼거리서 승용차량이 버스정류장 펜스 들이받아…다친 사람 없어",
-      "summary": "금천구 박미삼거리서 승용차량이 버스정류장 펜스 들이받아…다친 사람 없어",
-      "why_now": "이전 수집(11.09 07:00 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘금천구 박미삼거리서 승용차량이 버스정류장 펜스 들이받아…다친 사람 없어’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
-      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
-      "source": "news.sbs.co.kr",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6RUxETXBUVmhhcDlhaWwyeHBrOE50YnZLUlIyU2NmSWJKTlRYNG5DMmlLVG1MWURLRnRJc2FJbmtkeVdXRklyYnlWekVzOTE0ZVNmaFFMMndUUkNMd3MtTXNMVEd5dw?oc=5",
-      "published_at": "2026-11-08T04:54:00Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 4,
-        "report_count": 6,
-        "span_hours": 8.5,
-        "first_report_at": "2026-11-08T04:17:05Z",
-        "last_report_at": "2026-11-08T12:44:36Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WTlVyUUVpOF9MUGRxQXJ1aEtzUnYtME1XWjBCZ3ExNWVfYUgtcGRmdlUzb1JBcWxTZkw3b2lpTXhlcjg2ZlRNRVYwU3NndmY4cGh2eGUyLU5aQ0HSAWBBVV95cUxOUWs3ZldITnhsdi1DZXZiakQza0E0YnRzXzBTOUFJVU55Tng2YUc0YWdEYWo0dmRwVGhoZ0hwQnVqM2ZhV3JJSFlMQlM2T1gwQ2RwXzl5VmVZcTB1NzlKMG4?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hUE1HZWF6ajFicnZ0UEhyOWFYRnNyVDBSbFVIWEJzVjZUbjRiemRKSmFEX3NBZlJObmJ3V09LOVNjeDlZRHBhbUVPd0xOWTc4cEw4RGRueDBGY0c3cmNjLU9kcUpjQzRfSEVsYnZwRTNza2w4Z3Z30gF3QVVfeXFMUFhDVGUyYXFMYk9WRjFPWHJBTGllOFk1TGtXb0MwblNvNXFlYkV2bjhHeWtMZ21lYjdFak05aTcxcHV3c2JMMUU5NUQ4dUVkUEs0UWRhSHR5cGg5WllpVmN3RHA2d3VsQnU2SndqTFpxUTNRcnR1Sjg?oc=5",
-        "sources": [
-          {
-            "name": "MBC 뉴스",
-            "group": "imbc.com",
-            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hUE1HZWF6ajFicnZ0UEhyOWFYRnNyVDBSbFVIWEJzVjZUbjRiemRKSmFEX3NBZlJObmJ3V09LOVNjeDlZRHBhbUVPd0xOWTc4cEw4RGRueDBGY0c3cmNjLU9kcUpjQzRfSEVsYnZwRTNza2w4Z3Z30gF3QVVfeXFMUFhDVGUyYXFMYk9WRjFPWHJBTGllOFk1TGtXb0MwblNvNXFlYkV2bjhHeWtMZ21lYjdFak05aTcxcHV3c2JMMUU5NUQ4dUVkUEs0UWRhSHR5cGg5WllpVmN3RHA2d3VsQnU2SndqTFpxUTNRcnR1Sjg?oc=5",
-            "published_at": "2026-11-08T12:44:36Z",
-            "headline": "대전 서구서 통근 버스가 가로수 들이받아‥다친 사람 없어"
-          },
-          {
-            "name": "한겨레",
-            "group": "hani.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uUXZyNTN5LU53TXo3eFRRSWxyT1ZSZFNuYlp5Mi1WaEpSVnZzSFpwNGtSNmh0bDByaURoTmJBM0VFNFFVclk4SFpWeDJpSkNUbmFJS0k3MHVkXzhzX2pENWJOYlRDTnhTMjEzR0g3OTNaQQ?oc=5",
-            "published_at": "2026-11-08T06:32:00Z",
-            "headline": "금천구서 SUV 차량 버스정류장 난간 들이받아…인명 피해 없어"
-          },
-          {
-            "name": "news.sbs.co.kr",
-            "group": "sbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6RUxETXBUVmhhcDlhaWwyeHBrOE50YnZLUlIyU2NmSWJKTlRYNG5DMmlLVG1MWURLRnRJc2FJbmtkeVdXRklyYnlWekVzOTE0ZVNmaFFMMndUUkNMd3MtTXNMVEd5dw?oc=5",
-            "published_at": "2026-11-08T04:54:00Z",
-            "headline": "금천구 박미삼거리서 승용차량이 버스정류장 펜스 들이받아…다친 사람 없어"
-          },
-          {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WTlVyUUVpOF9MUGRxQXJ1aEtzUnYtME1XWjBCZ3ExNWVfYUgtcGRmdlUzb1JBcWxTZkw3b2lpTXhlcjg2ZlRNRVYwU3NndmY4cGh2eGUyLU5aQ0HSAWBBVV95cUxOUWs3ZldITnhsdi1DZXZiakQza0E0YnRzXzBTOUFJVU55Tng2YUc0YWdEYWo0dmRwVGhoZ0hwQnVqM2ZhV3JJSFlMQlM2T1gwQ2RwXzl5VmVZcTB1NzlKMG4?oc=5",
-            "published_at": "2026-11-08T04:17:05Z",
-            "headline": "금천구 박미삼거리서 SUV 차량, 버스정류장 돌진…다친 사람 없어"
-          }
-        ]
-      },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-08T22:00:22.348957Z"
+      "selection_rank": 2,
+      "last_collected_at": "2026-11-10T19:42:24.853139Z"
     },
     {
       "id": "7580f27ba8b059ee0d4e",
       "category": "경제·주식",
       "title": "월러 연준 이사 \"12월 금리인상 지지\"…CPI 따라 50bp 인상도 고려\" - 머니투데이",
       "summary": "월러 연준 이사 \"12월 금리인상 지지\"…CPI 따라 50bp 인상도 고려\" - 머니투데이",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 38시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.11 04:42 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘월러 연준 이사 \"12월 금리인상 지지\"…CPI 따라 50bp 인상도 고려\" - 머니투데이’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
       "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
       "source": "머니투데이",
@@ -512,14 +420,15 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-10T19:42:24.853139Z"
     },
     {
       "id": "f718de9ff2a1d67d3c3e",
       "category": "경제·주식",
       "title": "‘블루 웨이브’에 출렁인 코스피…반등 열쇠는 외국인과 반도체 실적[전예진의 마켓 인사이트]",
       "summary": "‘블루 웨이브’에 출렁인 코스피…반등 열쇠는 외국인과 반도체 실적[전예진의 마켓 인사이트]",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 24시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.11 04:42 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘‘블루 웨이브’에 출렁인 코스피…반등 열쇠는 외국인과 반도체 실적[전예진의 마켓 인사이트]’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
       "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
       "source": "한경매거진",
@@ -551,14 +460,15 @@
           }
         ]
       },
-      "selection_rank": 2
+      "selection_rank": 2,
+      "last_collected_at": "2026-11-10T19:42:24.853139Z"
     },
     {
       "id": "5967e56fca2e06935371",
       "category": "세계뉴스",
       "title": "“2028년 세계를 초대합니다” ···‘평화의 섬’ 제주 G20 정상회의 유치 ‘사활’",
       "summary": "“2028년 세계를 초대합니다” ···‘평화의 섬’ 제주 G20 정상회의 유치 ‘사활’",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 23시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.11 04:42 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘“2028년 세계를 초대합니다” ···‘평화의 섬’ 제주 G20 정상회의 유치 ‘사활’’라는 소식을 봤어요. 최근 글로벌 소식 중 관심이 갔던 변화가 있어요?",
       "context": "국가·사람 전체를 단정하지 말고 사실과 해석을 구분해 이야기해 보세요.",
       "source": "경향신문",
@@ -590,14 +500,15 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-10T19:42:24.853139Z"
     },
     {
       "id": "1dceee30475d482c83e1",
       "category": "세계뉴스",
       "title": "\"각본대로만 하자\"…시진핑, 정상회담 때 트럼프 애드립 꺼린다",
       "summary": "\"각본대로만 하자\"…시진핑, 정상회담 때 트럼프 애드립 꺼린다",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 9시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.11 04:42 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘\"각본대로만 하자\"…시진핑, 정상회담 때 트럼프 애드립 꺼린다’라는 소식을 봤어요. 최근 글로벌 소식 중 관심이 갔던 변화가 있어요?",
       "context": "국가·사람 전체를 단정하지 말고 사실과 해석을 구분해 이야기해 보세요.",
       "source": "연합뉴스",
@@ -629,7 +540,8 @@
           }
         ]
       },
-      "selection_rank": 2
+      "selection_rank": 2,
+      "last_collected_at": "2026-11-10T19:42:24.853139Z"
     }
   ]
 }
