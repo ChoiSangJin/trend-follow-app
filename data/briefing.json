@@ -2,36 +2,29 @@
   "schema_version": 2,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-11T14:16:46.389852Z",
+  "updated_at": "2026-11-12T00:39:47.162142Z",
   "cards": [
     {
       "id": "c3fa823aecd5754ae205",
       "category": "문화",
-      "title": "美 한국어반 고등학생 그림, 샌프란시스코 현대미술관에 걸린다",
-      "summary": "美 한국어반 고등학생 그림, 샌프란시스코 현대미술관에 걸린다",
-      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘美 한국어반 고등학생 그림, 샌프란시스코 현대미술관에 걸린다’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "title": "미국 한국어반 고교생들 한글 그림, 샌프란 현대미술관에 걸린다",
+      "summary": "미국 한국어반 고교생들 한글 그림, 샌프란 현대미술관에 걸린다",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 2시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘미국 한국어반 고교생들 한글 그림, 샌프란 현대미술관에 걸린다’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-      "source": "매일경제",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQY1JyZEQyZEFNZGJHd0pyTVVFYWYxZHpmbHY1NV9OanVoajNuNzZBcURlNkNRYzVLX2xDb19WUW02VHljdV9ySnZ2cGU1b0QxR3hKVA?oc=5",
-      "published_at": "2026-11-11T05:19:03Z",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CTkhWampVdnZUVXFIV0xReGFPTlVUYlFCLVMwS29MMmh6dUIzQ1VQTDlxSmRla1RjbnlIYTFiNF9RS0s0N1hHSzJ1YVRubENKZ2ZKR2JsR1lRa0NVSXhOV9IBYEFVX3lxTE5CTkhWampVdnZUVXFIV0xReGFPTlVUYlFCLVMwS29MMmh6dUIzQ1VQTDlxSmRla1RjbnlIYTFiNF9RS0s0N1hHSzJ1YVRubENKZ2ZKR2JsR1lRa0NVSXhOVw?oc=5",
+      "published_at": "2026-11-11T03:00:12Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 4,
-        "report_count": 5,
-        "span_hours": 4.6,
+        "source_groups": 3,
+        "report_count": 3,
+        "span_hours": 2.3,
         "first_report_at": "2026-11-11T03:00:00Z",
-        "last_report_at": "2026-11-11T07:38:00Z",
+        "last_report_at": "2026-11-11T05:19:03Z",
         "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TcXlQN3ZJbHZUaVZuVWJWNWNjN0dfZC1LSEVQNTFoRkdxb01MbEd1M25RWWRaWmV5MVNfUFFsOE44SGNPd3ozd3ZXcUVtYWtOQjJUcWNwcjhJYzNWdEhrZg?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CYUZrVEFMbXBKOUctaHlNNm9Ecmd0eHNmODNzNnkxVjdJQkwzVkQ5UFVreEo5RXBiNlBmcEppb0RxSDltVUwxWGlfa2ptU3dVckVtbjdFTkJMZXoteVlhcUM4NlpCU19Mc052WnVwcFZ2UHIzQmfSAWZBVV95cUxOTDU1cXFQT19ldnVEXzhYMTJVaC12Wko2UGdXdklzQmk3SU9pbVNLYmpGNUdqenlfcVZ4X3hWQkZESjg0TkhPeElQSmdSMUVFLTJNcW1ZYkotNDJuUVF2OFhWUXNjNkE?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQY1JyZEQyZEFNZGJHd0pyTVVFYWYxZHpmbHY1NV9OanVoajNuNzZBcURlNkNRYzVLX2xDb19WUW02VHljdV9ySnZ2cGU1b0QxR3hKVA?oc=5",
         "sources": [
-          {
-            "name": "동아일보",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MNTVxcVBPX2V2dURfOFgxMlVoLXZaSjZQZ1d2SXNCaTdJT2ltU0tiakY1R2p6eV9xVnhfeFZCRkRKODROSE94SVBKZ1IxRUUtMk1xbVliSi00Mm5RUXY4WFZRc2M2QdIBZkFVX3lxTE5MNTVxcVBPX2V2dURfOFgxMlVoLXZaSjZQZ1d2SXNCaTdJT2ltU0tiakY1R2p6eV9xVnhfeFZCRkRKODROSE94SVBKZ1IxRUUtMk1xbVliSi00Mm5RUXY4WFZRc2M2QQ?oc=5",
-            "published_at": "2026-11-11T07:38:00Z",
-            "headline": "美 학생들이 그린 한글 그림…샌프란시스코 현대미술관에 전시"
-          },
           {
             "name": "매일경제",
             "group": "mk.co.kr",
@@ -42,7 +35,7 @@
           {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JM3ZDQ0EwZ0k0WGpSTVRRSHNLVEgteDBOR2pURDVaTllvc3JiOXdLemVqUk5VbzVERGtRRE9NU1lBc0x4TU0tMmFzeUczVWpJY0lpd3BmcnA3ZlHSAWBBVV95cUxOQk5IVmpqVXZ2VFVxSFdMUXhhT05VVGJRQi1TMEtvTDJoenVCM0NVUEw5cUpkZWtUY255SGExYjRfUUtLNDdYR0sydWFUbmxDSmdmSkdibEdZUWtDVUl4Tlc?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CTkhWampVdnZUVXFIV0xReGFPTlVUYlFCLVMwS29MMmh6dUIzQ1VQTDlxSmRla1RjbnlIYTFiNF9RS0s0N1hHSzJ1YVRubENKZ2ZKR2JsR1lRa0NVSXhOV9IBYEFVX3lxTE5CTkhWampVdnZUVXFIV0xReGFPTlVUYlFCLVMwS29MMmh6dUIzQ1VQTDlxSmRla1RjbnlIYTFiNF9RS0s0N1hHSzJ1YVRubENKZ2ZKR2JsR1lRa0NVSXhOVw?oc=5",
             "published_at": "2026-11-11T03:00:12Z",
             "headline": "미국 한국어반 고교생들 한글 그림, 샌프란 현대미술관에 걸린다"
           },
@@ -62,7 +55,7 @@
       "category": "문화",
       "title": "리센느, 내년 2월 첫 단독 콘서트…\"꿈만 같다\"",
       "summary": "리센느, 내년 2월 첫 단독 콘서트…\"꿈만 같다\"",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.11 23:16 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘리센느, 내년 2월 첫 단독 콘서트…\"꿈만 같다\"’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
       "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
       "source": "SBS 뉴스",
@@ -94,14 +87,15 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-11T14:16:46.389852Z"
     },
     {
       "id": "0ef6a9aec5ac58e7228d",
       "category": "스포츠",
       "title": "[영상] ‘내분설’ 손흥민 황희찬, 같이 걸으며 오랜 대화",
       "summary": "[영상] ‘내분설’ 손흥민 황희찬, 같이 걸으며 오랜 대화",
-      "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 13시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 13시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘[영상] ‘내분설’ 손흥민 황희찬, 같이 걸으며 오랜 대화’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
       "source": "KBS 뉴스",
@@ -109,8 +103,8 @@
       "published_at": "2026-11-11T02:18:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 5,
-        "report_count": 7,
+        "source_groups": 4,
+        "report_count": 5,
         "span_hours": 13.4,
         "first_report_at": "2026-11-10T15:45:12Z",
         "last_report_at": "2026-11-11T05:08:21Z",
@@ -130,13 +124,6 @@
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDNDZuTjNBcE54eGs2eFRyZ1BQVjNnWWg4ckFUMk9uWHUyQ3Q3SEYzdUJ6TlhHWGxVRUtmTjc0TlFkZ0ZJaHVIS0dldkNfN2dSX2ZHOTZvbjFXTEU?oc=5",
             "published_at": "2026-11-11T02:18:00Z",
             "headline": "[영상] ‘내분설’ 손흥민 황희찬, 같이 걸으며 오랜 대화"
-          },
-          {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tOVkyR1pNcDVCUmdVZjdOWXVnYmVnd3E0a21VVnplNUd0NmxTcEhxdlpVZGlNT3pBeE9iWWFqMlhKSDBRSzdtY0ViSjlqd0hEX0w4T1hhWDVvdzAyUkdLddIBeEFVX3lxTFA3aGhxRnAzZ3d2eEkzWENxdXJVTnBRYThzb3RyV1liMHAwN3FueUdHeFdwOXN2dnIwOXFxaFl3OGJodWZ1dVF0M2JYX0ctQVZxU3piMHAxcHItV2c5SHJfdmRuLUFaSEQwUEVJMFBhRzdoSmlTU2M3Sg?oc=5",
-            "published_at": "2026-11-11T02:08:34Z",
-            "headline": "내분설 뒤 첫 훈련…'92라인' 손흥민·'96라인' 황희찬 대화 눈길"
           },
           {
             "name": "중앙일보",
@@ -161,7 +148,7 @@
       "category": "기술",
       "title": "삼성-애플-샤오미, 엇갈린 스마트폰 성적표",
       "summary": "삼성-애플-샤오미, 엇갈린 스마트폰 성적표",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 27시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.11 23:16 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘삼성-애플-샤오미, 엇갈린 스마트폰 성적표’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
       "source": "지디넷코리아",
@@ -193,36 +180,30 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-11T14:16:46.389852Z"
     },
     {
-      "id": "68184905cc01a8c21957",
+      "id": "a3b23d674b9c7ccd9f7d",
       "category": "생활",
-      "title": "[단독] 전면 통합 대신… 사관학교 분리·통합 병행 검토",
-      "summary": "[단독] 전면 통합 대신… 사관학교 분리·통합 병행 검토",
-      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 52시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘[단독] 전면 통합 대신… 사관학교 분리·통합 병행 검토’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
+      "title": "반발에 물러선 군…사관학교 분리·통합 병행 검토",
+      "summary": "반발에 물러선 군…사관학교 분리·통합 병행 검토",
+      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 25시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘반발에 물러선 군…사관학교 분리·통합 병행 검토’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
       "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
-      "source": "서울신문",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZUEJhOEFqQjR4SWVvVEFTcF9uMVRaLWVUVnJGV2p5Z3E2aXZRZF9GQ2lYMlg0Y0NPc3NZUkVLMzI3YjVlOFQwWU01MWExbGxWQTByVlp0UTUwTkdtUFNIVm11WGJyUkdUTnlobmlNVVFxX2xzdUZfOUNTMHY2UQ?oc=5",
-      "published_at": "2026-11-08T15:52:00Z",
+      "source": "KBS 뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1neWxtR3ctWTVhMWVmNVJFd3dabm96QVF2ODhybHVmYmQ1SW5rTEhBNzJQWjZtTHRJYzVNSU90QV9BVExWTDNuU2Zpd0EyZ3ZWLVNzOVAyMmJocFk?oc=5",
+      "published_at": "2026-11-09T21:13:00Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 4,
-        "report_count": 4,
-        "span_hours": 52.1,
-        "first_report_at": "2026-11-08T15:52:00Z",
-        "last_report_at": "2026-11-10T20:00:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZUEJhOEFqQjR4SWVvVEFTcF9uMVRaLWVUVnJGV2p5Z3E2aXZRZF9GQ2lYMlg0Y0NPc3NZUkVLMzI3YjVlOFQwWU01MWExbGxWQTByVlp0UTUwTkdtUFNIVm11WGJyUkdUTnlobmlNVVFxX2xzdUZfOUNTMHY2UQ?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zbnRPbmR5S1JVRnYwQmdHZUZPRklid05UQ3BBemo5U1RaRThaUWttYU5jVVV6X09aSEpXeUdfbko2LUJualp5TW1lSG4zV1RzcEE?oc=5",
+        "report_count": 5,
+        "span_hours": 25.4,
+        "first_report_at": "2026-11-09T12:37:00Z",
+        "last_report_at": "2026-11-10T14:00:05Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiY1NYWjFYektEZXlLN2xvM1RUQlFNeW05QjNnN3RYM2VhM0loY0w3cGR3M1BLNkUxbjlEZFdoWjd4ekI2cDN6TE10ekE3NUZvNVRScEJBZWZOdUk?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45TkRDRDdOSzFnTXREUGh3cHhDOHNtZlZJREpGRHJYcjJHVVAzUnFwX0w2U1JLeEZWRXA4NG9jM2lnd050S1I4TDY2U0xZcWFfUF9YNtIBVEFVX3lxTE45TkRDRDdOSzFnTXREUGh3cHhDOHNtZlZJREpGRHJYcjJHVVAzUnFwX0w2U1JLeEZWRXA4NG9jM2lnd050S1I4TDY2U0xZcWFfUF9YNg?oc=5",
         "sources": [
-          {
-            "name": "노컷뉴스",
-            "group": "nocutnews.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zbnRPbmR5S1JVRnYwQmdHZUZPRklid05UQ3BBemo5U1RaRThaUWttYU5jVVV6X09aSEpXeUdfbko2LUJualp5TW1lSG4zV1RzcEE?oc=5",
-            "published_at": "2026-11-10T20:00:00Z",
-            "headline": "'완전통합' 사관학교 → '네트워크 통합' 가닥…속도에 방점"
-          },
           {
             "name": "세계일보",
             "group": "segye.com",
@@ -231,18 +212,25 @@
             "headline": "[사설] 누더기 절충안 된 사관학교 통합, 원점 재검토하라"
           },
           {
+            "name": "문화일보",
+            "group": "munhwa.com",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6T1hjMGpXc1U1WlVGekVpWmFNcFk4TDVSMVRETjlLZm9OQkRLcFU5SmN4Wi1rQjAxbHhZSldLVGVob2hhTEdQWVRkbUhzZ1dz?oc=5",
+            "published_at": "2026-11-10T02:55:17Z",
+            "headline": "잘못된 발상에 뒤죽박죽… 사관학교 통합 접는 게 옳다[사설]"
+          },
+          {
+            "name": "KBS 뉴스",
+            "group": "kbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1neWxtR3ctWTVhMWVmNVJFd3dabm96QVF2ODhybHVmYmQ1SW5rTEhBNzJQWjZtTHRJYzVNSU90QV9BVExWTDNuU2Zpd0EyZ3ZWLVNzOVAyMmJocFk?oc=5",
+            "published_at": "2026-11-09T21:13:00Z",
+            "headline": "반발에 물러선 군…사관학교 분리·통합 병행 검토"
+          },
+          {
             "name": "조선일보",
             "group": "chosun.com",
             "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPV0l6Rnc0VEdtY29HWFNOeFJzUmxZeHpMRnE5Z2wzbU1DOFRqeGZ1TDhnbVhKMmZoeWZDc0FxSUhhZW5OaXRjT3RCMVM1d0ZrWGZ2SWNqdzRpeE1RcnBzZWh5MjljRXRMZDNLell3UjZ6SEJRc1lMYmx1bE10cXB0bFFlV080WFhIMVVXSTQ1WkpTZw?oc=5",
             "published_at": "2026-11-09T15:49:01Z",
             "headline": "‘통합’ 반발에… 국군사관학교 만들되, 육·해·공사 존치 검토"
-          },
-          {
-            "name": "서울신문",
-            "group": "seoul.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZUEJhOEFqQjR4SWVvVEFTcF9uMVRaLWVUVnJGV2p5Z3E2aXZRZF9GQ2lYMlg0Y0NPc3NZUkVLMzI3YjVlOFQwWU01MWExbGxWQTByVlp0UTUwTkdtUFNIVm11WGJyUkdUTnlobmlNVVFxX2xzdUZfOUNTMHY2UQ?oc=5",
-            "published_at": "2026-11-08T15:52:00Z",
-            "headline": "[단독] 전면 통합 대신… 사관학교 분리·통합 병행 검토"
           }
         ]
       },
