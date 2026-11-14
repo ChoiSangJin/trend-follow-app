@@ -2,14 +2,14 @@
   "schema_version": 2,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-14T13:36:45.301427Z",
+  "updated_at": "2026-11-14T22:21:09.081464Z",
   "cards": [
     {
       "id": "ba6e47021d4697d88c23",
       "category": "문화",
       "title": "국립현대미술관 신임 관장에 기혜경 부교수",
       "summary": "국립현대미술관 신임 관장에 기혜경 부교수",
-      "why_now": "수집 범위에서 관련 보도 20개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 26시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 21개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 26시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘국립현대미술관 신임 관장에 기혜경 부교수’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
       "source": "아시아경제",
@@ -18,7 +18,7 @@
       "evidence": "headline",
       "coverage": {
         "source_groups": 7,
-        "report_count": 20,
+        "report_count": 21,
         "span_hours": 26.9,
         "first_report_at": "2026-11-13T00:15:00Z",
         "last_report_at": "2026-11-14T03:07:00Z",
@@ -33,6 +33,13 @@
             "headline": "국립현대미술관 새 관장에 기혜경 홍익대 교수"
           },
           {
+            "name": "머니투데이",
+            "group": "mt.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qSG5MOXVQWVRCZTY1bWh3TGo3NEtuSU1NS1A1NTJkMmNuV1dUTUo5QlFMT3JLMWtzMER4b0UyeV9FajVtY2Q1ZHdqbHZHZWxsU1p4cVZhVURsVzZ2Rl8wTEZGWHhVNG4tT1FB0gFwQVVfeXFMTi16TW5tLU5BN08tU3pnbmlLOFJTTEZpUXRPNHhHc3RPMVpRblNUZ080ZHJNQ3BRcF9salRHRUFSZVRuZ1lIQUIwbk1nMW94bS04dEdLek9Sc0U1bG1vUHA2SXhhNGEwbVE5dnpVb1cxbQ?oc=5",
+            "published_at": "2026-11-13T16:50:35Z",
+            "headline": "국립현대미술관 새 관장에 기혜경 교수…'미술사 전문가' - 머니투데이"
+          },
+          {
             "name": "동아일보",
             "group": "donga.com",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WM0toSU04Qjl1UkZEMGRyN19xZWRNR2R4Z3Rta1g2T3BBN1pBVGhaOUdSd1lUVG9qaDNhaGcwNlc1d2VDckJrbGFja0p1VmlSaFhJejZRbFlMMEp2M29jcmc0S2UtVHdMX1hEYnJGd19jUGF10gFmQVVfeXFMUFpWazBsc0FDWGlvemlWaXNtTXNPbmZzbTlSS05sZU5NX3h1MXR1b2NXNGlybTE5SmpxMTU1NkpRSVZSNjlyWlN3eUM2WlNjUFhPU0NtNlpQNDBnaGxVY0huSGdDc0Jn?oc=5",
@@ -45,13 +52,6 @@
             "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40VUV1SVVMZnlINllCRkhZV3VHWGxOT2FlOHQzblZyQmtxS3FWeXdpT3dnczRZV2Y2Z1VjeU1idnJxVHVkSXdfZlJZbTFEd3RV?oc=5",
             "published_at": "2026-11-13T02:40:32Z",
             "headline": "국립현대미술관장에 기혜경"
-          },
-          {
-            "name": "경향신문",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGN0NDeXU5MUI1NjZJTkw3WXB1ZkxzVTVoZEVjSmhOaHlqejN1ZUt1ZTNaZ2xHRDFfc0VkQTBKUjh5N1lmTzI4dVlMOVZRMUxlRER6TVF0ODRZSEFjMGI40gFfQVVfeXFMUEY3Q0N5dTkxQjU2NklOTDdZcHVmTHNVNWhkRWNKaE5oeWp6M3VlS3VlM1pnbEdEMV9zRWRBMEpSOHk3WWZPMjh1WUw5VlExTGVERHpNUXQ4NFlIQWMwYjg?oc=5",
-            "published_at": "2026-11-13T02:25:00Z",
-            "headline": "기혜경 홍익대 교수, 신임 국립현대미술관 관장에 임명"
           },
           {
             "name": "중앙일보",
@@ -79,166 +79,180 @@
       "selection_rank": 1
     },
     {
-      "id": "3cc6c7e8184e98580b2d",
+      "id": "805ec14d592790aa75a2",
       "category": "문화",
-      "title": "김필, 오늘(14일) 단독 콘서트 ‘JOURNEY’ 개막..7년 만의 정규 2집 전곡 라이브 예고",
-      "summary": "김필, 오늘(14일) 단독 콘서트 ‘JOURNEY’ 개막..7년 만의 정규 2집 전곡 라이브 예고",
-      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘김필, 오늘(14일) 단독 콘서트 ‘JOURNEY’ 개막..7년 만의 정규 2집 전곡 라이브 예고’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "title": "더보이즈 9인, 12월 단독 콘서트 연다",
+      "summary": "더보이즈 9인, 12월 단독 콘서트 연다",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 9시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘더보이즈 9인, 12월 단독 콘서트 연다’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
       "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "Chosunbiz",
-      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnJHZHBkOEluQXVKRmJtendwalJWRnlCLXVFWUwtaVgzcHJhblNfRzlKdVFicjZVd2tUaDZpakpfNkFPc0M2dF9FM2pCSmxzYkF1M1RFUVV6Q0lwR1JsLVl6Q3Rud25vcEJyejlQLTl4N2paNmY1alNBQmdBaFFzck5vNk1hU1hmU2x5WGNBbmpzdzjSAacBQVVfeXFMUEtEWGlRTEJVN2NLVnZNSE5qdTBSczh1ci1TdGlWeF9pWFh6a0tEUERZZV8ydE5RbGR0c29NWjlMckdYZmFqaUlsNExsYk9lODRxUXBfR1dOLWJIc3l6REFvRDZiaUJBTEt3eHNsaUR6M2ZhS04wMWVscEJ1NEFuc2JhdFUyZ29zYng2XzRZWXpMc0R0cWFiV2VMTllXWVphV2xFVkJ4eGs?oc=5",
-      "published_at": "2026-11-14T04:32:00Z",
+      "source": "JTBC",
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YZG1JazVJSEFGaWFsanNVaThpdzdFUVhyblZ3ZXhKS1hhdWNScTRjalRvaHkyMUVPZ2hKNWhhaFZuVUdrTHhEdFk1cjc1bWstelo4TQ?oc=5",
+      "published_at": "2026-11-14T02:22:05Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 4,
-        "report_count": 5,
-        "span_hours": 1.1,
-        "first_report_at": "2026-11-14T04:31:00Z",
-        "last_report_at": "2026-11-14T05:39:39Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9udk5URkstNkNUaXVsLTVEOHdycU9PNnpzYVFIdG1vWVlpeklRQ2d3TGVJdGR5V3ZMcHZsM0ZpdVJ3UTNWbVY5STZtMC10UUVGc0F0bA?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tSEVQUE9HZld1cURISDl6WkROWUhIaXVBcEhzcGtlZW9RS3hDdHhDcWltX1kzWk95dUdRYndlN3lXakZ6VkJmY2Y3bUJpWERGbloyaw?oc=5",
+        "source_groups": 3,
+        "report_count": 3,
+        "span_hours": 9.4,
+        "first_report_at": "2026-11-14T02:00:00Z",
+        "last_report_at": "2026-11-14T11:21:51Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hTXZJaWd4Qlp6WnIxNXM3NWI5VUtYTmd4dndnSWdqT1lvQmYyOFhTRHBMSXhfUTBSRHc2ckJmdlFXdzJ1MXdHYU00clZaU1lPdkdiSTVoWWZydl91NlVwNNIBeEFVX3lxTE1fb1VJRFhtY3gyU1NEaHQyaHMxQjhQSTM4X2ZfQ0FnTmhxbktGa1ZjZzJiclRtSF9ZSkRTa1ZqZGdnUzdlV2x6ZU9KclRXdHdUbC1zNzRzc2RNb3pacXNCa2FNV3d2MkFHb1lsYVlSMGFjcUEzOWlrXw?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wbXd4U01XdUlGNzAyZEgxX2pvY0hOUHlZSmtJX0dvajFCVVJGTTNsdk1ubVBrMmV3U25WUDhZRzNrVHJST0JKX3RnWXB2dExkME84a19xZGd1azdhSmdJYmpUaVg1VV8tNDlfOGV3?oc=5",
         "sources": [
+          {
+            "name": "스포츠동아",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wbXd4U01XdUlGNzAyZEgxX2pvY0hOUHlZSmtJX0dvajFCVVJGTTNsdk1ubVBrMmV3U25WUDhZRzNrVHJST0JKX3RnWXB2dExkME84a19xZGd1azdhSmdJYmpUaVg1VV8tNDlfOGV3?oc=5",
+            "published_at": "2026-11-14T11:21:51Z",
+            "headline": "더보이즈, 크리스마스에 9인 완전체 콘서트"
+          },
           {
             "name": "JTBC",
             "group": "jtbc.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tSEVQUE9HZld1cURISDl6WkROWUhIaXVBcEhzcGtlZW9RS3hDdHhDcWltX1kzWk95dUdRYndlN3lXakZ6VkJmY2Y3bUJpWERGbloyaw?oc=5",
-            "published_at": "2026-11-14T05:39:39Z",
-            "headline": "김필, 오늘(14일) 단독 콘서트 ‘JOURNEY’ 개최"
-          },
-          {
-            "name": "일간스포츠",
-            "group": "edaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOUhuWUZYQ0czNWtJSWt3eEZvTkxWTGxTRThaX1FDUURQOXlidFNHSmdHbzdoeGxMMUt6Ni0zaUNUN1E3TGhyOHRvQVlMQW81dVJ0d0Jza2h0RFk?oc=5",
-            "published_at": "2026-11-14T05:20:00Z",
-            "headline": "김필, 오늘(14일) 단독 콘서트 ‘저니’ 개최…7년 만의 정규앨범 감성 고스란히"
-          },
-          {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50SDBPQ3ZRYUpCUXJuZGV0MEpEalRWZXh5ZHZZQUJRVnNvZ1hfRER6a3B4SzVZaHEycVBiaDUweUowcVFFRVMxUlRocVBxUURqNWhBNHBsUQ?oc=5",
-            "published_at": "2026-11-14T05:07:46Z",
-            "headline": "김필 '저니' 콘서트 개막…정규 2집 전곡 라이브 \"위로 얻길\""
-          },
-          {
-            "name": "Chosunbiz",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnJHZHBkOEluQXVKRmJtendwalJWRnlCLXVFWUwtaVgzcHJhblNfRzlKdVFicjZVd2tUaDZpakpfNkFPc0M2dF9FM2pCSmxzYkF1M1RFUVV6Q0lwR1JsLVl6Q3Rud25vcEJyejlQLTl4N2paNmY1alNBQmdBaFFzck5vNk1hU1hmU2x5WGNBbmpzdzjSAacBQVVfeXFMUEtEWGlRTEJVN2NLVnZNSE5qdTBSczh1ci1TdGlWeF9pWFh6a0tEUERZZV8ydE5RbGR0c29NWjlMckdYZmFqaUlsNExsYk9lODRxUXBfR1dOLWJIc3l6REFvRDZiaUJBTEt3eHNsaUR6M2ZhS04wMWVscEJ1NEFuc2JhdFUyZ29zYng2XzRZWXpMc0R0cWFiV2VMTllXWVphV2xFVkJ4eGs?oc=5",
-            "published_at": "2026-11-14T04:32:00Z",
-            "headline": "김필, 오늘(14일) 단독 콘서트 ‘JOURNEY’ 개막..7년 만의 정규 2집 전곡 라이브 예고"
-          }
-        ]
-      },
-      "selection_rank": 1
-    },
-    {
-      "id": "3eab65122aeb1d5baec5",
-      "category": "스포츠",
-      "title": "손흥민·96라인 손잡았지만…42년 만에 사우디전 3실점 충격패(종합)",
-      "summary": "손흥민·96라인 손잡았지만…42년 만에 사우디전 3실점 충격패(종합)",
-      "why_now": "수집 범위에서 관련 보도 13개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 15시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘손흥민·96라인 손잡았지만…42년 만에 사우디전 3실점 충격패(종합)’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "뉴시스",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95N3dKbk9VYzI3b0xQLVNfUHFWTWFjUzM2U1FEUUY1V21UdFl6VnNmZHF1Y1ZXWkwyYjdmUExDSWZmbkRDSzBxeTFjVmx3dloyZlVYdkdCWU9lU05fZENLU9IBeEFVX3lxTE9xZDdrNnJxUGxYc1h5X1BrclkwZEUwNGt5ZHk4a24xcmVYb0Z2NXhTT2ZCdGZYS24zcnUyWGZINVlTalVjZDNYTVlLQkhwMnI4a3dqdGh6TkF0aTBiTnNWTUY2M0U5QU94U3lUVVVWZEpIWVJvNlVrSA?oc=5",
-      "published_at": "2026-11-13T16:52:18Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 7,
-        "report_count": 13,
-        "span_hours": 15.7,
-        "first_report_at": "2026-11-13T13:34:06Z",
-        "last_report_at": "2026-11-14T05:19:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnRE9jLTRtRXZJNVFsRWNJMUVXcldwTHd5aEJvVkIyVXVVYS0tZ2JIbUdLTnp3X05PWnAtQ2dwZ0VzYVduYlp0SEdJOHV1SnQ5cjk5a0x3?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXUnlNaXhvNGpndkV4NXZzN3d6X1ZvNVhXdEgwLU5KR3RYVUtxbWhkSHc0cDczMUFFWGZkeTZrVDkyRV9wRnc3OXlZWmYtV2ktQ1h6Vw?oc=5",
-        "sources": [
-          {
-            "name": "OSEN",
-            "group": "osen.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXUnlNaXhvNGpndkV4NXZzN3d6X1ZvNVhXdEgwLU5KR3RYVUtxbWhkSHc0cDczMUFFWGZkeTZrVDkyRV9wRnc3OXlZWmYtV2ktQ1h6Vw?oc=5",
-            "published_at": "2026-11-14T05:19:00Z",
-            "headline": "'손흥민과 불화설' 제일 많이 욕먹었던 황희찬이 가장 잘했다 \"왜곡된 내용 너무 많았다\""
-          },
-          {
-            "name": "매일경제",
-            "group": "mk.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EaUVfTUJhRnE0RjJWNUN1V3RkS1FManBIY0JKMUVON2otbnRBRU5qY2lYMkNRM19YRUJ5UmJSQkxPUktmU1VUOW5jemJnUmJRa0NfMjJsU1BiLWtncG5Dam1oOHE?oc=5",
-            "published_at": "2026-11-14T01:00:21Z",
-            "headline": "‘손흥민 불화설’에 입 연 황희찬 “사실 아닌 얘기 왜곡돼…정말 힘들었다”"
-          },
-          {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBndVBLbXJINzB5dzBodjVRX292bWk0RFZBWjRsR0x4bnNzc3BFQW5feTlRbzhZdDlYM2NXNWtFUnA4cTJBUnBrb3hkdw?oc=5",
-            "published_at": "2026-11-13T23:36:39Z",
-            "headline": "하이파이브하는 손흥민과 황희찬"
-          },
-          {
-            "name": "조선일보",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFFzeFlPcWw0QThsNFBzc0VTcGVPalZQRDl4LU5mSF9tY29ud2gzc2Qwdkt6aVh4RElIdUJrZFhyeXhsWldCMDg2UC1zZ1NoeEpVb25rUzBPSmE3NVgySHJIcTB0RkR2cklKUWpDbkhad2hVYXVtbW1OV0w3bmZYRUxheUJDREw5WngxMzU2RXI?oc=5",
-            "published_at": "2026-11-13T18:33:36Z",
-            "headline": "손흥민·96라인 손잡았지만... 사우디에 21년 만의 충격패"
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YZG1JazVJSEFGaWFsanNVaThpdzdFUVhyblZ3ZXhKS1hhdWNScTRjalRvaHkyMUVPZ2hKNWhhaFZuVUdrTHhEdFk1cjc1bWstelo4TQ?oc=5",
+            "published_at": "2026-11-14T02:22:05Z",
+            "headline": "더보이즈 9인, 12월 단독 콘서트 연다"
           },
           {
             "name": "뉴시스",
             "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95N3dKbk9VYzI3b0xQLVNfUHFWTWFjUzM2U1FEUUY1V21UdFl6VnNmZHF1Y1ZXWkwyYjdmUExDSWZmbkRDSzBxeTFjVmx3dloyZlVYdkdCWU9lU05fZENLU9IBeEFVX3lxTE9xZDdrNnJxUGxYc1h5X1BrclkwZEUwNGt5ZHk4a24xcmVYb0Z2NXhTT2ZCdGZYS24zcnUyWGZINVlTalVjZDNYTVlLQkhwMnI4a3dqdGh6TkF0aTBiTnNWTUY2M0U5QU94U3lUVVVWZEpIWVJvNlVrSA?oc=5",
-            "published_at": "2026-11-13T16:52:18Z",
-            "headline": "손흥민·96라인 손잡았지만…42년 만에 사우디전 3실점 충격패(종합)"
-          },
-          {
-            "name": "중앙일보",
-            "group": "joongang.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RWi1QLU5iaExBTHFoSnctam9TWlppN1ZaZEw3T1ZNeW1yWVBQX0ZLTjRLLW1JVFY2S2ZaZno2WjV0TG4zZ3RnX3hjV1JGSzRTVGQybHVR?oc=5",
-            "published_at": "2026-11-13T16:30:26Z",
-            "headline": "손흥민·96라인 손잡았지만...모레노호 42년만 사우디전 3실점 패"
-          },
-          {
-            "name": "동아일보",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UbkNLZTFzOWpWak00ZGFuTHlFaFhHSnE1UlFfMGNHOURhRkdJX1dDX2Q2YzBaeFhpM2lpZ0xIQzF2UVA4RFF6WnpHXzRmN2VZb3RZTnREVlVTSVAwN0hSTm1XaGFnd3d0eDFCc0NaNmVOZW5k0gFmQVVfeXFMUDUwNVYwNnFWTXBLTVdST3JaRG5ieWVCcGJvM0x6X3d3dWlXY3I3MnJaMlB1Tmd6Y0F1dm0yOW0tT0VvckExNnZTOEh4TEVkSF9oVW9XV0d4d1BvbTg4UDI2VmFMcG13?oc=5",
-            "published_at": "2026-11-13T15:36:00Z",
-            "headline": "‘황희찬 패스→손흥민 슛 불발’ 한국, 사우디에 전반 0-1로 뒤져"
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hTXZJaWd4Qlp6WnIxNXM3NWI5VUtYTmd4dndnSWdqT1lvQmYyOFhTRHBMSXhfUTBSRHc2ckJmdlFXdzJ1MXdHYU00clZaU1lPdkdiSTVoWWZydl91NlVwNNIBeEFVX3lxTE1fb1VJRFhtY3gyU1NEaHQyaHMxQjhQSTM4X2ZfQ0FnTmhxbktGa1ZjZzJiclRtSF9ZSkRTa1ZqZGdnUzdlV2x6ZU9KclRXdHdUbC1zNzRzc2RNb3pacXNCa2FNV3d2MkFHb1lsYVlSMGFjcUEzOWlrXw?oc=5",
+            "published_at": "2026-11-14T02:00:00Z",
+            "headline": "더보이즈, 9인 체제 본격화…12월 KSPO돔서 단독 콘서트"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "13f10a5293bd8ee39026",
-      "category": "기술",
-      "title": "로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”",
-      "summary": "로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
-      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-      "source": "전자신문",
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1URHdpZFJTT2RKMEUwYzJEUnlrZER6RVRHa1VSTG1pUmpyc0pVOU1JTFFHV2tmeWtBOWZIbUJSSHhuWEp4Zi1BSXdDQ2pFQQ?oc=5",
-      "published_at": "2026-11-14T02:20:52Z",
+      "id": "a9814a8d01a41a4a6beb",
+      "category": "스포츠",
+      "title": "구자욱·원태인·홍창기 등 프로야구 FA 자격 선수 28명 공시",
+      "summary": "구자욱·원태인·홍창기 등 프로야구 FA 자격 선수 28명 공시",
+      "why_now": "수집 범위에서 관련 보도 15개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 29시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘구자욱·원태인·홍창기 등 프로야구 FA 자격 선수 28명 공시’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "뉴스1",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zRGt2UUx2bENQVGg3X3FNRlZLeHZFYVFnVXVFNlNteW9Kb0VaMF82NVNCTHRnVEdXZHpRQ2U4bVhzajRUR0IyTC1OU3VwNFpaNnNLWFVFQQ?oc=5",
+      "published_at": "2026-11-13T07:05:12Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 0.5,
-        "first_report_at": "2026-11-14T01:48:08Z",
-        "last_report_at": "2026-11-14T02:20:52Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uZGRkdmlDTnVqck5PVmdvMGFuanE2UjBKTlM1RVdOTERPdlVnOG5tVk5uWEtQWDBxcndFOXBSWjhjcEpfSHJDTGVFMjl0Wm0wMHJ4dXh3dy1uMTDSAWBBVV95cUxNNDYyRGZfVHpkanZjal9FNGlyemdSNUtqczB3Q0dKc25nZmZ0eUw1NVE3S1o1ZnNzRTlwVWNmbXp6YTMwSUFjMXRSRGE2c2FGX2l3b0lpT1gwU0VfWWkybGc?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1URHdpZFJTT2RKMEUwYzJEUnlrZER6RVRHa1VSTG1pUmpyc0pVOU1JTFFHV2tmeWtBOWZIbUJSSHhuWEp4Zi1BSXdDQ2pFQQ?oc=5",
+        "source_groups": 6,
+        "report_count": 15,
+        "span_hours": 29.6,
+        "first_report_at": "2026-11-13T06:18:00Z",
+        "last_report_at": "2026-11-14T11:57:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sZU05S2paYnd0cjIzcWktQ0dtalk4enhOUG85blpSQVp0bWJJTEFjb1hXOE0xQmpXaVMxSERROTNxS1dHMEtMd1lBeksyTlhIZDFxMjVKNVNobk5VcTdJQWJBWGNhYkJ3NmfSAW9BVV95cUxNSGZVaXN2NTRyNVRBU1VIb0FZMHFJRmZiTDE0cWlYVVducXV6ZmV2V1oxaXFQOVA4TGdmdUh2YWNfQXRhVDJIcHN0TWdhZGI2X29OM0ZxUWs5a3B2TFE1d2RIM29LVFFQR1FrNlRNaEE?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93djVwUW1QYm5PaWxidGJCcktMVkhRQXZRMklDWU1DcEF1MUdHbEVyYWpGdHBfYk5nRERCeGRYcFp1eVpTcm44MG9qSG1BM1Q4WDJxUkJWRXBTWC13UGdRRlc3eTVjZEJPd3fSAW9BVV95cUxOMDdrSUVLV1NmdHVsYXZJN3VoWGNUTGV1M3ZyUThlUG1KWFAzUzkyOUFjUm5rSXRXbnU5bDNnLUl4M1ZrNHJtcEpUeF9GbTJKV0xvdklINThFSlVlZUw4NXpOdVhaclNHaV9sdjUzYVk?oc=5",
         "sources": [
           {
-            "name": "전자신문",
-            "group": "etnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1URHdpZFJTT2RKMEUwYzJEUnlrZER6RVRHa1VSTG1pUmpyc0pVOU1JTFFHV2tmeWtBOWZIbUJSSHhuWEp4Zi1BSXdDQ2pFQQ?oc=5",
-            "published_at": "2026-11-14T02:20:52Z",
-            "headline": "로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”"
+            "name": "머니투데이",
+            "group": "mt.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93djVwUW1QYm5PaWxidGJCcktMVkhRQXZRMklDWU1DcEF1MUdHbEVyYWpGdHBfYk5nRERCeGRYcFp1eVpTcm44MG9qSG1BM1Q4WDJxUkJWRXBTWC13UGdRRlc3eTVjZEJPd3fSAW9BVV95cUxOMDdrSUVLV1NmdHVsYXZJN3VoWGNUTGV1M3ZyUThlUG1KWFAzUzkyOUFjUm5rSXRXbnU5bDNnLUl4M1ZrNHJtcEpUeF9GbTJKV0xvdklINThFSlVlZUw4NXpOdVhaclNHaV9sdjUzYVk?oc=5",
+            "published_at": "2026-11-14T11:57:00Z",
+            "headline": "“김도영, 빨리 미국 가야 한다. KBO는 너무 좁다” 강민호도 감탄한 결정적인 한 방…“역시 스타는 스타” - 머니투데이"
           },
           {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uZGRkdmlDTnVqck5PVmdvMGFuanE2UjBKTlM1RVdOTERPdlVnOG5tVk5uWEtQWDBxcndFOXBSWjhjcEpfSHJDTGVFMjl0Wm0wMHJ4dXh3dy1uMTDSAWBBVV95cUxNNDYyRGZfVHpkanZjal9FNGlyemdSNUtqczB3Q0dKc25nZmZ0eUw1NVE3S1o1ZnNzRTlwVWNmbXp6YTMwSUFjMXRSRGE2c2FGX2l3b0lpT1gwU0VfWWkybGc?oc=5",
-            "published_at": "2026-11-14T01:48:08Z",
-            "headline": "로이터 \"'엔비디아칩 의존' 中 AI프로젝트 규모 4조6천억 이상\""
+            "name": "KBS 뉴스",
+            "group": "kbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wOXZkOEVQVlpQWXp0YUJFSVVvQUpvY05OcnJUcUNNZEZOM0t1MTVxZkM4Y3ByMlpMWk40ZG9OdTNPSW5CQTQxZkdzZVk3LS1pY01BRG9BRVB3eG8?oc=5",
+            "published_at": "2026-11-13T07:48:00Z",
+            "headline": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시"
+          },
+          {
+            "name": "동아일보",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YZHpBTlhDRlBNckprWGViMnhlS2VGb1hwaE1ZYS1LRG9iOTQ2VXN3RTUxa0tZNklEX2psWUVRNVM4MV9NUldobW9kenI4Mzl2ejZjQzc0YWtSYVdOX1Y2ZEw3NlVUVlViQ1FMOURYc1pydC1N0gFmQVVfeXFMTW9fbkN1SzBaOFFUYTB5VU9sSVdQTzhkRlJ3Wi1ZbmF3cW1IUU8zdzRXUUhZTHY0aTh2V19IQkZSMGFoSmI4eFBIa2ZLbUctR2dlUks4ck1OZUlsUFdRQWtiMlMza0hB?oc=5",
+            "published_at": "2026-11-13T07:12:38Z",
+            "headline": "KBO, 구자욱·원태인 등 28명 FA 자격 공시…17일부터 협상 시작"
+          },
+          {
+            "name": "한겨레",
+            "group": "hani.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GOFJfZUk3c3AzVWRTLXhXN0J5R3hBeDk1YmsxeURyVjQxR3Q4ZVpXNjdNNnd5c3ZBWXFJNWgzUnBSUW9kcUJ3Ti1iTWxoNG1OU1k4WXRCRTRVQ0lZcVBha09hNTEyOWM?oc=5",
+            "published_at": "2026-11-13T07:09:00Z",
+            "headline": "구자욱·원태인·홍창기 시장 나와…프로야구 FA 자격 선수 28명 공시"
+          },
+          {
+            "name": "SBS 뉴스",
+            "group": "sbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hUFZFR1M3WlhEaDA5SG5kamt6VzZFcjNaYTF0M1RhQ2tfVkowazJKVnY3Y2JheDhPV2E4eklxWllSQkpra2tVdTAzZ0RGSjNjN01SUnpJa0ptOG1jdFpKLTUwVFMySHBSc3c?oc=5",
+            "published_at": "2026-11-13T07:07:22Z",
+            "headline": "프로야구 FA 시장 개장…원태인·구자욱 등 28명 자격 공시"
+          },
+          {
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zRGt2UUx2bENQVGg3X3FNRlZLeHZFYVFnVXVFNlNteW9Kb0VaMF82NVNCTHRnVEdXZHpRQ2U4bVhzajRUR0IyTC1OU3VwNFpaNnNLWFVFQQ?oc=5",
+            "published_at": "2026-11-13T07:05:12Z",
+            "headline": "구자욱·원태인·홍창기 등 프로야구 FA 자격 선수 28명 공시"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "7f249d2e7eba3801f5d1",
+      "category": "기술",
+      "title": "‘AI 안경 의혹’ 세무사 수석 합격자…감독관 4명 “특이사항 없었다”",
+      "summary": "‘AI 안경 의혹’ 세무사 수석 합격자…감독관 4명 “특이사항 없었다”",
+      "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 37시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘‘AI 안경 의혹’ 세무사 수석 합격자…감독관 4명 “특이사항 없었다”’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+      "source": "중앙일보",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kalV6MVVNcUhmTWt0dnBVcy1pZTRFSWdMbVlnNVZybERYcExNcHhZMGMtZllpWWt2U3k1UDVzZnN2WjlGTDN5NFU2OG1TdXZTVWd5ZWtn?oc=5",
+      "published_at": "2026-11-13T03:31:17Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 6,
+        "report_count": 7,
+        "span_hours": 37.4,
+        "first_report_at": "2026-11-13T00:58:00Z",
+        "last_report_at": "2026-11-14T14:19:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxVzFjU1A5OGZkR3IwMm5QS082Qy1XTl96TlRWQktYc1ZQa1V0cjNjVkQ1bEVERS14WHFRX2xfNl9rUmtuejM0VGRpQ1NqZFp6ZkxYVUZEd2p5M01aN2dLQ2MtRHc?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVlSYjQ5UnJ0WlY0QzdTcTE3d0xtWlREWDZvdDAyaXpra0dnWmZhUjBCbVhxMkFieUFMaUhsZXlKNjk0SURxRnZ3SlI1bTIzMElqV0xCYXZfOG05UjZCOEtoWXdOaGREdVE3TDJpaDZIUWEydUFOUUVjRFpBNkpqQlln?oc=5",
+        "sources": [
+          {
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVlSYjQ5UnJ0WlY0QzdTcTE3d0xtWlREWDZvdDAyaXpra0dnWmZhUjBCbVhxMkFieUFMaUhsZXlKNjk0SURxRnZ3SlI1bTIzMElqV0xCYXZfOG05UjZCOEtoWXdOaGREdVE3TDJpaDZIUWEydUFOUUVjRFpBNkpqQlln?oc=5",
+            "published_at": "2026-11-14T14:19:00Z",
+            "headline": "‘AI 안경 의혹’ 세무사 수석 합격자 “고득점 이유로 의심받아야 하나”"
+          },
+          {
+            "name": "동아일보",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rX3NjZjhERFNHRWZ1UDZmZ3p5dUdwNjlxWUY0dld6dUM3VEoxOWtjd2xZMURUV1otTzVmeVNiYURtcnRUU0FlRzZ0VjUtYjBZSHoweVMyNDdXRVpnVnJwSEgwVnBJOGFHblE5ZHZTWEJmMk5DZ0HSAWZBVV95cUxOMUZocm1YeDVHVUJ1cUhfU1psS1YwUmRlbE5EalJEZkloZEIzeENQRE1Vd0k2VWtVWk9vY0dQVlVmRkhIMjNfZGF0UFBJTVh3djd0NUs1SEViSUFRWVQ4Q1E4VENGakE?oc=5",
+            "published_at": "2026-11-13T13:52:00Z",
+            "headline": "‘AI 안경 의혹’ 일파만파에…세무사 수석, 변호사 선임"
+          },
+          {
+            "name": "아시아경제",
+            "group": "asiae.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6c0RidlpmSGY5TWhKSE0tcVJ5TDJYVmFkMmoyOHo0WnZCVHBhTzZzUU1UcV9XSXNHS1RFRHVwelZmMGFOVk96Zm5LSzFBckhGcWcxLU51TUhjd3VnMEhUSw?oc=5",
+            "published_at": "2026-11-13T08:26:33Z",
+            "headline": "'AI안경 부정행위 의혹' 세무사 수석 합격자, 변호사 선임"
+          },
+          {
+            "name": "중앙일보",
+            "group": "joongang.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kalV6MVVNcUhmTWt0dnBVcy1pZTRFSWdMbVlnNVZybERYcExNcHhZMGMtZllpWWt2U3k1UDVzZnN2WjlGTDN5NFU2OG1TdXZTVWd5ZWtn?oc=5",
+            "published_at": "2026-11-13T03:31:17Z",
+            "headline": "‘AI 안경 의혹’ 세무사 수석 합격자…감독관 4명 “특이사항 없었다”"
+          },
+          {
+            "name": "경향신문",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBneTVWZVd2bE9vMGxHUjZJZnZmNGRiM2hvUFM2QTRFU21taTBQQm5ZcHM2ZURMRUJFeDI3WF8tRlFTU19nVUl5R19HZVRUZlkteUIxWmk5MHIxUdIBX0FVX3lxTFBNU1YyX1N5dEdZN2JKOVhCMWZHQXJMTkJ4ams1SV8zR3JBekhmMWZRNjF3ZVpEazU0c3ZOX0NvSjNaV1pXNDloYm1GdmZMOGpQbm16WXdOdV9vdVBYbzNJ?oc=5",
+            "published_at": "2026-11-13T01:19:00Z",
+            "headline": "‘AI 안경 의혹’ 세무사 수석 합격자, CCTV는 없었지만 감독관 바로 앞에서 시험"
+          },
+          {
+            "name": "한겨레",
+            "group": "hani.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxVzFjU1A5OGZkR3IwMm5QS082Qy1XTl96TlRWQktYc1ZQa1V0cjNjVkQ1bEVERS14WHFRX2xfNl9rUmtuejM0VGRpQ1NqZFp6ZkxYVUZEd2p5M01aN2dLQ2MtRHc?oc=5",
+            "published_at": "2026-11-13T00:58:00Z",
+            "headline": "‘AI 안경 의혹’ 세무사 수석합격자 1차 채점 판독…“특이사항 발견 못 해”"
           }
         ]
       },
