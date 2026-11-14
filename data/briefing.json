@@ -2,14 +2,14 @@
   "schema_version": 2,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-14T06:16:51.166340Z",
+  "updated_at": "2026-11-14T13:36:45.301427Z",
   "cards": [
     {
       "id": "ba6e47021d4697d88c23",
       "category": "문화",
       "title": "국립현대미술관 신임 관장에 기혜경 부교수",
       "summary": "국립현대미술관 신임 관장에 기혜경 부교수",
-      "why_now": "수집 범위에서 관련 보도 21개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 16시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 20개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 26시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘국립현대미술관 신임 관장에 기혜경 부교수’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
       "source": "아시아경제",
@@ -18,19 +18,19 @@
       "evidence": "headline",
       "coverage": {
         "source_groups": 7,
-        "report_count": 21,
-        "span_hours": 16.6,
+        "report_count": 20,
+        "span_hours": 26.9,
         "first_report_at": "2026-11-13T00:15:00Z",
-        "last_report_at": "2026-11-13T16:50:35Z",
+        "last_report_at": "2026-11-14T03:07:00Z",
         "first_report_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWSXliOHd0QVpVZzdwQ0hmOUJkZGtURTFLTm8wX01iQ3IycHlPQ1AwV3o5NkhTc3pnd1ljSFlwQnkzQk1oQXlvNEExYUV0MW5fV3NZY1lCeTBrZm1XVlVBMDlGVzVKYWYwVHl3bXRkYmxrZw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qSG5MOXVQWVRCZTY1bWh3TGo3NEtuSU1NS1A1NTJkMmNuV1dUTUo5QlFMT3JLMWtzMER4b0UyeV9FajVtY2Q1ZHdqbHZHZWxsU1p4cVZhVURsVzZ2Rl8wTEZGWHhVNG4tT1FB0gFwQVVfeXFMTi16TW5tLU5BN08tU3pnbmlLOFJTTEZpUXRPNHhHc3RPMVpRblNUZ080ZHJNQ3BRcF9salRHRUFSZVRuZ1lIQUIwbk1nMW94bS04dEdLek9Sc0U1bG1vUHA2SXhhNGEwbVE5dnpVb1cxbQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CRXJ2RGdtaEpaRFYxdGZfcl9aME9mZ1NtY0d6UU9sRUtIQ1JZeVZDSkVKMWlDX0ZtS054cjN1U1RXVHpiN2tEaFBMSGlPTjZ5MUxVazZoaEJaZFZNamFXMjIxMXdJbWpzb012dml3QWRsUQ?oc=5",
         "sources": [
           {
-            "name": "머니투데이",
-            "group": "mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qSG5MOXVQWVRCZTY1bWh3TGo3NEtuSU1NS1A1NTJkMmNuV1dUTUo5QlFMT3JLMWtzMER4b0UyeV9FajVtY2Q1ZHdqbHZHZWxsU1p4cVZhVURsVzZ2Rl8wTEZGWHhVNG4tT1FB0gFwQVVfeXFMTi16TW5tLU5BN08tU3pnbmlLOFJTTEZpUXRPNHhHc3RPMVpRblNUZ080ZHJNQ3BRcF9salRHRUFSZVRuZ1lIQUIwbk1nMW94bS04dEdLek9Sc0U1bG1vUHA2SXhhNGEwbVE5dnpVb1cxbQ?oc=5",
-            "published_at": "2026-11-13T16:50:35Z",
-            "headline": "국립현대미술관 새 관장에 기혜경 교수…'미술사 전문가' - 머니투데이"
+            "name": "한겨레",
+            "group": "hani.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CRXJ2RGdtaEpaRFYxdGZfcl9aME9mZ1NtY0d6UU9sRUtIQ1JZeVZDSkVKMWlDX0ZtS054cjN1U1RXVHpiN2tEaFBMSGlPTjZ5MUxVazZoaEJaZFZNamFXMjIxMXdJbWpzb012dml3QWRsUQ?oc=5",
+            "published_at": "2026-11-14T03:07:00Z",
+            "headline": "국립현대미술관 새 관장에 기혜경 홍익대 교수"
           },
           {
             "name": "동아일보",
@@ -49,7 +49,7 @@
           {
             "name": "경향신문",
             "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91UUR4Y2s1bFcxUWhpU0o5VzhGWmlpYXlQbFdsRjZMVV90VjNiVENqZzU0aEkwUWhfUU5FN1Z3bTQxdlJLcUswN2g4VW1lM1BrY1JxZElDcDlaQdIBX0FVX3lxTFBGN0NDeXU5MUI1NjZJTkw3WXB1ZkxzVTVoZEVjSmhOaHlqejN1ZUt1ZTNaZ2xHRDFfc0VkQTBKUjh5N1lmTzI4dVlMOVZRMUxlRER6TVF0ODRZSEFjMGI4?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGN0NDeXU5MUI1NjZJTkw3WXB1ZkxzVTVoZEVjSmhOaHlqejN1ZUt1ZTNaZ2xHRDFfc0VkQTBKUjh5N1lmTzI4dVlMOVZRMUxlRER6TVF0ODRZSEFjMGI40gFfQVVfeXFMUEY3Q0N5dTkxQjU2NklOTDdZcHVmTHNVNWhkRWNKaE5oeWp6M3VlS3VlM1pnbEdEMV9zRWRBMEpSOHk3WWZPMjh1WUw5VlExTGVERHpNUXQ4NFlIQWMwYjg?oc=5",
             "published_at": "2026-11-13T02:25:00Z",
             "headline": "기혜경 홍익대 교수, 신임 국립현대미술관 관장에 임명"
           },
@@ -79,71 +79,106 @@
       "selection_rank": 1
     },
     {
-      "id": "ed39682b0eb85a9d1cbb",
+      "id": "3cc6c7e8184e98580b2d",
       "category": "문화",
-      "title": "'송(SONG)~년회' 모여라! 클릭비, 연말 콘서트 개최",
-      "summary": "'송(SONG)~년회' 모여라! 클릭비, 연말 콘서트 개최",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘'송(SONG)~년회' 모여라! 클릭비, 연말 콘서트 개최’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "title": "김필, 오늘(14일) 단독 콘서트 ‘JOURNEY’ 개막..7년 만의 정규 2집 전곡 라이브 예고",
+      "summary": "김필, 오늘(14일) 단독 콘서트 ‘JOURNEY’ 개막..7년 만의 정규 2집 전곡 라이브 예고",
+      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘김필, 오늘(14일) 단독 콘서트 ‘JOURNEY’ 개막..7년 만의 정규 2집 전곡 라이브 예고’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
       "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "스타뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SNlZLalhjU2djcm5KTVJJU3ZIek1kVUFvOFBadmJxaVpGUXJiWGN5XzF5bTBlLWhQRDd6bWwwN0RhN21QbktHbWExSVN6c3J4RUJXcmpBRHROSVhUSWhMLTdGVDhaT2RJb2I5cHpSYVduNHhx?oc=5",
-      "published_at": "2026-11-13T23:31:38Z",
+      "source": "Chosunbiz",
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnJHZHBkOEluQXVKRmJtendwalJWRnlCLXVFWUwtaVgzcHJhblNfRzlKdVFicjZVd2tUaDZpakpfNkFPc0M2dF9FM2pCSmxzYkF1M1RFUVV6Q0lwR1JsLVl6Q3Rud25vcEJyejlQLTl4N2paNmY1alNBQmdBaFFzck5vNk1hU1hmU2x5WGNBbmpzdzjSAacBQVVfeXFMUEtEWGlRTEJVN2NLVnZNSE5qdTBSczh1ci1TdGlWeF9pWFh6a0tEUERZZV8ydE5RbGR0c29NWjlMckdYZmFqaUlsNExsYk9lODRxUXBfR1dOLWJIc3l6REFvRDZiaUJBTEt3eHNsaUR6M2ZhS04wMWVscEJ1NEFuc2JhdFUyZ29zYng2XzRZWXpMc0R0cWFiV2VMTllXWVphV2xFVkJ4eGs?oc=5",
+      "published_at": "2026-11-14T04:32:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 0.1,
-        "first_report_at": "2026-11-13T23:24:34Z",
-        "last_report_at": "2026-11-13T23:31:38Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NbDhEaUZlakNoNXJMQ3JYXzBNN290RlpiUnZyOHgtRzEzNC0wZmdWcDNyU0JxOW12OUZscElyM3p6R3VzbDZqeUZsOURLTy1nQ2JJLQ?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SNlZLalhjU2djcm5KTVJJU3ZIek1kVUFvOFBadmJxaVpGUXJiWGN5XzF5bTBlLWhQRDd6bWwwN0RhN21QbktHbWExSVN6c3J4RUJXcmpBRHROSVhUSWhMLTdGVDhaT2RJb2I5cHpSYVduNHhx?oc=5",
+        "source_groups": 4,
+        "report_count": 5,
+        "span_hours": 1.1,
+        "first_report_at": "2026-11-14T04:31:00Z",
+        "last_report_at": "2026-11-14T05:39:39Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9udk5URkstNkNUaXVsLTVEOHdycU9PNnpzYVFIdG1vWVlpeklRQ2d3TGVJdGR5V3ZMcHZsM0ZpdVJ3UTNWbVY5STZtMC10UUVGc0F0bA?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tSEVQUE9HZld1cURISDl6WkROWUhIaXVBcEhzcGtlZW9RS3hDdHhDcWltX1kzWk95dUdRYndlN3lXakZ6VkJmY2Y3bUJpWERGbloyaw?oc=5",
         "sources": [
-          {
-            "name": "스타뉴스",
-            "group": "starnewskorea.com",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SNlZLalhjU2djcm5KTVJJU3ZIek1kVUFvOFBadmJxaVpGUXJiWGN5XzF5bTBlLWhQRDd6bWwwN0RhN21QbktHbWExSVN6c3J4RUJXcmpBRHROSVhUSWhMLTdGVDhaT2RJb2I5cHpSYVduNHhx?oc=5",
-            "published_at": "2026-11-13T23:31:38Z",
-            "headline": "'송(SONG)~년회' 모여라! 클릭비, 연말 콘서트 개최"
-          },
           {
             "name": "JTBC",
             "group": "jtbc.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NbDhEaUZlakNoNXJMQ3JYXzBNN290RlpiUnZyOHgtRzEzNC0wZmdWcDNyU0JxOW12OUZscElyM3p6R3VzbDZqeUZsOURLTy1nQ2JJLQ?oc=5",
-            "published_at": "2026-11-13T23:24:34Z",
-            "headline": "클릭비, 12월 30·31일 연말 콘서트 ‘송(SONG)~년회’ 개최"
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tSEVQUE9HZld1cURISDl6WkROWUhIaXVBcEhzcGtlZW9RS3hDdHhDcWltX1kzWk95dUdRYndlN3lXakZ6VkJmY2Y3bUJpWERGbloyaw?oc=5",
+            "published_at": "2026-11-14T05:39:39Z",
+            "headline": "김필, 오늘(14일) 단독 콘서트 ‘JOURNEY’ 개최"
+          },
+          {
+            "name": "일간스포츠",
+            "group": "edaily.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOUhuWUZYQ0czNWtJSWt3eEZvTkxWTGxTRThaX1FDUURQOXlidFNHSmdHbzdoeGxMMUt6Ni0zaUNUN1E3TGhyOHRvQVlMQW81dVJ0d0Jza2h0RFk?oc=5",
+            "published_at": "2026-11-14T05:20:00Z",
+            "headline": "김필, 오늘(14일) 단독 콘서트 ‘저니’ 개최…7년 만의 정규앨범 감성 고스란히"
+          },
+          {
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50SDBPQ3ZRYUpCUXJuZGV0MEpEalRWZXh5ZHZZQUJRVnNvZ1hfRER6a3B4SzVZaHEycVBiaDUweUowcVFFRVMxUlRocVBxUURqNWhBNHBsUQ?oc=5",
+            "published_at": "2026-11-14T05:07:46Z",
+            "headline": "김필 '저니' 콘서트 개막…정규 2집 전곡 라이브 \"위로 얻길\""
+          },
+          {
+            "name": "Chosunbiz",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnJHZHBkOEluQXVKRmJtendwalJWRnlCLXVFWUwtaVgzcHJhblNfRzlKdVFicjZVd2tUaDZpakpfNkFPc0M2dF9FM2pCSmxzYkF1M1RFUVV6Q0lwR1JsLVl6Q3Rud25vcEJyejlQLTl4N2paNmY1alNBQmdBaFFzck5vNk1hU1hmU2x5WGNBbmpzdzjSAacBQVVfeXFMUEtEWGlRTEJVN2NLVnZNSE5qdTBSczh1ci1TdGlWeF9pWFh6a0tEUERZZV8ydE5RbGR0c29NWjlMckdYZmFqaUlsNExsYk9lODRxUXBfR1dOLWJIc3l6REFvRDZiaUJBTEt3eHNsaUR6M2ZhS04wMWVscEJ1NEFuc2JhdFUyZ29zYng2XzRZWXpMc0R0cWFiV2VMTllXWVphV2xFVkJ4eGs?oc=5",
+            "published_at": "2026-11-14T04:32:00Z",
+            "headline": "김필, 오늘(14일) 단독 콘서트 ‘JOURNEY’ 개막..7년 만의 정규 2집 전곡 라이브 예고"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "4a15be544ef235daec98",
+      "id": "3eab65122aeb1d5baec5",
       "category": "스포츠",
-      "title": "손흥민·96라인 손잡았지만...모레노호 42년만 사우디전 3실점 패",
-      "summary": "손흥민·96라인 손잡았지만...모레노호 42년만 사우디전 3실점 패",
-      "why_now": "수집 범위에서 관련 보도 17개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘손흥민·96라인 손잡았지만...모레노호 42년만 사우디전 3실점 패’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "title": "손흥민·96라인 손잡았지만…42년 만에 사우디전 3실점 충격패(종합)",
+      "summary": "손흥민·96라인 손잡았지만…42년 만에 사우디전 3실점 충격패(종합)",
+      "why_now": "수집 범위에서 관련 보도 13개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 15시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘손흥민·96라인 손잡았지만…42년 만에 사우디전 3실점 충격패(종합)’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "중앙일보",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RWi1QLU5iaExBTHFoSnctam9TWlppN1ZaZEw3T1ZNeW1yWVBQX0ZLTjRLLW1JVFY2S2ZaZno2WjV0TG4zZ3RnX3hjV1JGSzRTVGQybHVR?oc=5",
-      "published_at": "2026-11-13T16:30:26Z",
+      "source": "뉴시스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95N3dKbk9VYzI3b0xQLVNfUHFWTWFjUzM2U1FEUUY1V21UdFl6VnNmZHF1Y1ZXWkwyYjdmUExDSWZmbkRDSzBxeTFjVmx3dloyZlVYdkdCWU9lU05fZENLU9IBeEFVX3lxTE9xZDdrNnJxUGxYc1h5X1BrclkwZEUwNGt5ZHk4a24xcmVYb0Z2NXhTT2ZCdGZYS24zcnUyWGZINVlTalVjZDNYTVlLQkhwMnI4a3dqdGh6TkF0aTBiTnNWTUY2M0U5QU94U3lUVVVWZEpIWVJvNlVrSA?oc=5",
+      "published_at": "2026-11-13T16:52:18Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 8,
-        "report_count": 17,
-        "span_hours": 10.4,
-        "first_report_at": "2026-11-13T13:15:01Z",
-        "last_report_at": "2026-11-13T23:38:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tQV9qTGtEbG9ibVQ1cXN2OS13UWhEcXVkZ1ZUQjRiUUh2SjFNWkVYbHZIOHBwalhYekdVYVhCQ2hkMlJnT1pkajdqdXJTMkZSRmczMDJLXzJ0azjSAWBBVV95cUxPRDdpVERTa0hLbW1JV3JJTElRZU1xY1BULVdHNmRlTjdtZ29abFE2VUw0cjZFTVNPUS1HMFRSaWhYX2hlTGx2UU9XVTczM1lESUJWWk56QUtycnF5SkZWTGo?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OdG1mVmZxYzVaMEdha3pQeVFVNnQ3NTkwdkIyYzRzLTNvV01ieDYteFRiTUs5bHdMNTVoNVZSU2x5V0FsbWtMNTVoQ2dmT00tVk1pOUI1a01hWlRiZm1kdXl2b3NlUWhXWFNPbkR3?oc=5",
+        "source_groups": 7,
+        "report_count": 13,
+        "span_hours": 15.7,
+        "first_report_at": "2026-11-13T13:34:06Z",
+        "last_report_at": "2026-11-14T05:19:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnRE9jLTRtRXZJNVFsRWNJMUVXcldwTHd5aEJvVkIyVXVVYS0tZ2JIbUdLTnp3X05PWnAtQ2dwZ0VzYVduYlp0SEdJOHV1SnQ5cjk5a0x3?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXUnlNaXhvNGpndkV4NXZzN3d6X1ZvNVhXdEgwLU5KR3RYVUtxbWhkSHc0cDczMUFFWGZkeTZrVDkyRV9wRnc3OXlZWmYtV2ktQ1h6Vw?oc=5",
         "sources": [
           {
-            "name": "한국일보",
-            "group": "hankookilbo.com",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OdG1mVmZxYzVaMEdha3pQeVFVNnQ3NTkwdkIyYzRzLTNvV01ieDYteFRiTUs5bHdMNTVoNVZSU2x5V0FsbWtMNTVoQ2dmT00tVk1pOUI1a01hWlRiZm1kdXl2b3NlUWhXWFNPbkR3?oc=5",
-            "published_at": "2026-11-13T23:38:00Z",
-            "headline": "불화설 뒤 입 연 태극전사들… 손흥민 “동료들에 미안” 황희찬 “왜곡된 말 힘들었다”"
+            "name": "OSEN",
+            "group": "osen.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXUnlNaXhvNGpndkV4NXZzN3d6X1ZvNVhXdEgwLU5KR3RYVUtxbWhkSHc0cDczMUFFWGZkeTZrVDkyRV9wRnc3OXlZWmYtV2ktQ1h6Vw?oc=5",
+            "published_at": "2026-11-14T05:19:00Z",
+            "headline": "'손흥민과 불화설' 제일 많이 욕먹었던 황희찬이 가장 잘했다 \"왜곡된 내용 너무 많았다\""
+          },
+          {
+            "name": "매일경제",
+            "group": "mk.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EaUVfTUJhRnE0RjJWNUN1V3RkS1FManBIY0JKMUVON2otbnRBRU5qY2lYMkNRM19YRUJ5UmJSQkxPUktmU1VUOW5jemJnUmJRa0NfMjJsU1BiLWtncG5Dam1oOHE?oc=5",
+            "published_at": "2026-11-14T01:00:21Z",
+            "headline": "‘손흥민 불화설’에 입 연 황희찬 “사실 아닌 얘기 왜곡돼…정말 힘들었다”"
+          },
+          {
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBndVBLbXJINzB5dzBodjVRX292bWk0RFZBWjRsR0x4bnNzc3BFQW5feTlRbzhZdDlYM2NXNWtFUnA4cTJBUnBrb3hkdw?oc=5",
+            "published_at": "2026-11-13T23:36:39Z",
+            "headline": "하이파이브하는 손흥민과 황희찬"
+          },
+          {
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFFzeFlPcWw0QThsNFBzc0VTcGVPalZQRDl4LU5mSF9tY29ud2gzc2Qwdkt6aVh4RElIdUJrZFhyeXhsWldCMDg2UC1zZ1NoeEpVb25rUzBPSmE3NVgySHJIcTB0RkR2cklKUWpDbkhad2hVYXVtbW1OV0w3bmZYRUxheUJDREw5WngxMzU2RXI?oc=5",
+            "published_at": "2026-11-13T18:33:36Z",
+            "headline": "손흥민·96라인 손잡았지만... 사우디에 21년 만의 충격패"
           },
           {
             "name": "뉴시스",
@@ -153,20 +188,6 @@
             "headline": "손흥민·96라인 손잡았지만…42년 만에 사우디전 3실점 충격패(종합)"
           },
           {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15ZGp1NUZBbHRTZHpyX2cxdnRNU3dXSjlaVXhnd1lTRHlmS1VReXVMTW1ndGF2SUlyUmdCV3lsaEdEa3E1VGNrMktHWWxfV3BpZlVDUw?oc=5",
-            "published_at": "2026-11-13T16:40:41Z",
-            "headline": "손흥민·96라인 손잡았지만 승리는 없었다…사우디에 2-3 패배"
-          },
-          {
-            "name": "일간스포츠",
-            "group": "edaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jdnhxd3JLZkw5aERydnFVd21TZ09UNGRkQURaTnNsVllyV3k1cGdycjdNUDBuc18zM3FwanJ1RWNSMW5HMzZXS1ZpRnlocTJERU9IeUVybXFXQkE?oc=5",
-            "published_at": "2026-11-13T16:32:00Z",
-            "headline": "‘황희찬 AS·이재성 추격골’ 호흡 빛났지만…‘손흥민 찬스 미스’ 모레노호, 사우디에 2-3 석패"
-          },
-          {
             "name": "중앙일보",
             "group": "joongang.co.kr",
             "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RWi1QLU5iaExBTHFoSnctam9TWlppN1ZaZEw3T1ZNeW1yWVBQX0ZLTjRLLW1JVFY2S2ZaZno2WjV0TG4zZ3RnX3hjV1JGSzRTVGQybHVR?oc=5",
@@ -174,90 +195,54 @@
             "headline": "손흥민·96라인 손잡았지만...모레노호 42년만 사우디전 3실점 패"
           },
           {
-            "name": "머니투데이",
-            "group": "mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hVTcwdElFZm5ONmcwSl9xaVpHVFQ3cngwS3E3WG1ZRGhFUmdScWR1VTdKUUZHTDZoQXFjWHFKVUFxZ0dlaTUzN3I3dTNIZm1BazRyUjltMlVGYTRXa1g3NjFzTUpfbzBNakHSAW9BVV95cUxNOFRsMlNqdmw2WW9xY1hvUDlaNzRfanl2SWNGU1FyTWFKX2J3XzRhcHdTSUhmOHgyM3U5aWRDa2JRWWk3a1hEdVBwWWNHRGhEcTdmOGQwT1VuLWdkOHhsR3JFbF9LYkRnQ3NOdUk5cGs?oc=5",
-            "published_at": "2026-11-13T15:38:00Z",
-            "headline": "불화설 끝났다고 했는데, 경기력은 아직인가 손흥민과 96라인, 수차례 연계에도 무득점...전반 막판 와르르 실점까지 - 머니투데이"
-          },
-          {
             "name": "동아일보",
             "group": "donga.com",
             "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UbkNLZTFzOWpWak00ZGFuTHlFaFhHSnE1UlFfMGNHOURhRkdJX1dDX2Q2YzBaeFhpM2lpZ0xIQzF2UVA4RFF6WnpHXzRmN2VZb3RZTnREVlVTSVAwN0hSTm1XaGFnd3d0eDFCc0NaNmVOZW5k0gFmQVVfeXFMUDUwNVYwNnFWTXBLTVdST3JaRG5ieWVCcGJvM0x6X3d3dWlXY3I3MnJaMlB1Tmd6Y0F1dm0yOW0tT0VvckExNnZTOEh4TEVkSF9oVW9XV0d4d1BvbTg4UDI2VmFMcG13?oc=5",
             "published_at": "2026-11-13T15:36:00Z",
             "headline": "‘황희찬 패스→손흥민 슛 불발’ 한국, 사우디에 전반 0-1로 뒤져"
-          },
-          {
-            "name": "조선일보",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFFzeFlPcWw0QThsNFBzc0VTcGVPalZQRDl4LU5mSF9tY29ud2gzc2Qwdkt6aVh4RElIdUJrZFhyeXhsWldCMDg2UC1zZ1NoeEpVb25rUzBPSmE3NVgySHJIcTB0RkR2cklKUWpDbkhad2hVYXVtbW1OV0w3bmZYRUxheUJDREw5WngxMzU2RXI?oc=5",
-            "published_at": "2026-11-13T15:29:00Z",
-            "headline": "손흥민·96라인 손잡았지만... 사우디에 21년 만의 충격패"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "6a8bfccb0d9eaa7db181",
+      "id": "13f10a5293bd8ee39026",
       "category": "기술",
-      "title": "머무르, AI 음악 사상 첫 멜론 ‘톱100’ 1위",
-      "summary": "머무르, AI 음악 사상 첫 멜론 ‘톱100’ 1위",
-      "why_now": "이전 수집(11.14 04:39 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘머무르, AI 음악 사상 첫 멜론 ‘톱100’ 1위’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "title": "로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”",
+      "summary": "로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-      "source": "조선일보",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFB0SWJMOVFiMWtyT1BlWXZxUmJOTUlsRmF4YnQ4bkFSWWlrRkY3b0dpS2V5NVBfTHF1X2lJTU9BTEdpSWNGaG1GNXF3LVN5WVlqa2Y2QlczclBFTDVGVWIyZ1pBQzBXdUFEQXRaTWhUTWJWcEdfbC1ETUJEcjRScGxWUHItRjdYR0syVnRQNmNvM0tm?oc=5",
-      "published_at": "2026-11-13T09:36:54Z",
+      "source": "전자신문",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1URHdpZFJTT2RKMEUwYzJEUnlrZER6RVRHa1VSTG1pUmpyc0pVOU1JTFFHV2tmeWtBOWZIbUJSSHhuWEp4Zi1BSXdDQ2pFQQ?oc=5",
+      "published_at": "2026-11-14T02:20:52Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 5,
-        "report_count": 6,
-        "span_hours": 5.0,
-        "first_report_at": "2026-11-13T08:32:53Z",
-        "last_report_at": "2026-11-13T13:35:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LMDRqRkZlR1NvUHpEaFNudkprby1NS2hEbWNWVWR5VnItS0gtSFdMNGZ1d1Rkam1Fb2tGY0ZocGloSjNNVkduUGlqYllDWTI4UEN1cmN3MkFQNlnSAWBBVV95cUxOejNSQ3lXcFFOb0pEdkpwQTVPM0d5dEFjTTlZNUhMcTkySEU0Y1JSTDNqTWt4MkNSTVdpZkxFWm15MWJqRXptenM3Qk5OVmxWRThZclVROTluZXA1S0duakk?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mdWxnYi14czVfSi1uUjljdFVjdFZLS1FaMXRHdWpXa3NLNjQ2aFdkbzJwTkhqc0RBNW5sMF9YaG5qV2R2YlFlMEhNLVhQS1FPVGZzWVhjWV9LVmxXZWc?oc=5",
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 0.5,
+        "first_report_at": "2026-11-14T01:48:08Z",
+        "last_report_at": "2026-11-14T02:20:52Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uZGRkdmlDTnVqck5PVmdvMGFuanE2UjBKTlM1RVdOTERPdlVnOG5tVk5uWEtQWDBxcndFOXBSWjhjcEpfSHJDTGVFMjl0Wm0wMHJ4dXh3dy1uMTDSAWBBVV95cUxNNDYyRGZfVHpkanZjal9FNGlyemdSNUtqczB3Q0dKc25nZmZ0eUw1NVE3S1o1ZnNzRTlwVWNmbXp6YTMwSUFjMXRSRGE2c2FGX2l3b0lpT1gwU0VfWWkybGc?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1URHdpZFJTT2RKMEUwYzJEUnlrZER6RVRHa1VSTG1pUmpyc0pVOU1JTFFHV2tmeWtBOWZIbUJSSHhuWEp4Zi1BSXdDQ2pFQQ?oc=5",
         "sources": [
           {
-            "name": "주간경향",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mdWxnYi14czVfSi1uUjljdFVjdFZLS1FaMXRHdWpXa3NLNjQ2aFdkbzJwTkhqc0RBNW5sMF9YaG5qV2R2YlFlMEhNLVhQS1FPVGZzWVhjWV9LVmxXZWc?oc=5",
-            "published_at": "2026-11-13T13:35:00Z",
-            "headline": "AI 작곡·노래 ‘꿈꾸던 어른이 되었나요’···‘멜론 톱 100’ 첫 1위"
-          },
-          {
-            "name": "한겨레",
-            "group": "hani.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94bTgxRkhTYWZLTFBSNzVqcDJ0M2dpdk85Wlkyd1I3V2pxc1FQWTRRa0xISFgxRzFpYXhEZHhWWkloMk9RZVVrVExqdDkwd1dwcGJQZ1haZlhBd2RoSVdUUktEbzA?oc=5",
-            "published_at": "2026-11-13T13:13:00Z",
-            "headline": "AI가 작곡하고 노래한 음악, ‘멜론 톱100’ 첫 1위 올랐다"
-          },
-          {
-            "name": "한국경제",
-            "group": "hankyung.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRa2FwR3o4V0R0R01ZczZycERKblVQaG9CR2hGMURPZXhySGo3cnNJUS1MTXRTazBnV2Vkd1U4MThHYWEzcWN6dS1KMHEtcml3bDFDZmRPa1lNZw?oc=5",
-            "published_at": "2026-11-13T13:03:42Z",
-            "headline": "\"리센느도 제쳤다\"…AI로 만든 '이 노래', 사상 첫 멜론 1위"
-          },
-          {
-            "name": "조선일보",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFB0SWJMOVFiMWtyT1BlWXZxUmJOTUlsRmF4YnQ4bkFSWWlrRkY3b0dpS2V5NVBfTHF1X2lJTU9BTEdpSWNGaG1GNXF3LVN5WVlqa2Y2QlczclBFTDVGVWIyZ1pBQzBXdUFEQXRaTWhUTWJWcEdfbC1ETUJEcjRScGxWUHItRjdYR0syVnRQNmNvM0tm?oc=5",
-            "published_at": "2026-11-13T09:36:54Z",
-            "headline": "머무르, AI 음악 사상 첫 멜론 ‘톱100’ 1위"
+            "name": "전자신문",
+            "group": "etnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1URHdpZFJTT2RKMEUwYzJEUnlrZER6RVRHa1VSTG1pUmpyc0pVOU1JTFFHV2tmeWtBOWZIbUJSSHhuWEp4Zi1BSXdDQ2pFQQ?oc=5",
+            "published_at": "2026-11-14T02:20:52Z",
+            "headline": "로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”"
           },
           {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LMDRqRkZlR1NvUHpEaFNudkprby1NS2hEbWNWVWR5VnItS0gtSFdMNGZ1d1Rkam1Fb2tGY0ZocGloSjNNVkduUGlqYllDWTI4UEN1cmN3MkFQNlnSAWBBVV95cUxOejNSQ3lXcFFOb0pEdkpwQTVPM0d5dEFjTTlZNUhMcTkySEU0Y1JSTDNqTWt4MkNSTVdpZkxFWm15MWJqRXptenM3Qk5OVmxWRThZclVROTluZXA1S0duakk?oc=5",
-            "published_at": "2026-11-13T08:32:53Z",
-            "headline": "머무르 '꿈꾸던…', AI 활용곡 사상 첫 멜론 '톱 100' 1위"
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uZGRkdmlDTnVqck5PVmdvMGFuanE2UjBKTlM1RVdOTERPdlVnOG5tVk5uWEtQWDBxcndFOXBSWjhjcEpfSHJDTGVFMjl0Wm0wMHJ4dXh3dy1uMTDSAWBBVV95cUxNNDYyRGZfVHpkanZjal9FNGlyemdSNUtqczB3Q0dKc25nZmZ0eUw1NVE3S1o1ZnNzRTlwVWNmbXp6YTMwSUFjMXRSRGE2c2FGX2l3b0lpT1gwU0VfWWkybGc?oc=5",
+            "published_at": "2026-11-14T01:48:08Z",
+            "headline": "로이터 \"'엔비디아칩 의존' 中 AI프로젝트 규모 4조6천억 이상\""
           }
         ]
       },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-13T19:39:00.994987Z"
+      "selection_rank": 1
     },
     {
       "id": "cacd985722eb40666ce8",
