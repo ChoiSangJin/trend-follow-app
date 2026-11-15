@@ -2,14 +2,14 @@
   "schema_version": 5,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-14T22:21:09.081464Z",
+  "updated_at": "2026-11-15T06:34:29.908669Z",
   "cards": [
     {
       "id": "ba6e47021d4697d88c23",
       "category": "문화·예술",
       "title": "국립현대미술관 신임 관장에 기혜경 부교수",
       "summary": "국립현대미술관 신임 관장에 기혜경 부교수",
-      "why_now": "수집 범위에서 관련 보도 21개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 26시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 20개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 26시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘국립현대미술관 신임 관장에 기혜경 부교수’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
       "source": "아시아경제",
@@ -18,7 +18,7 @@
       "evidence": "headline",
       "coverage": {
         "source_groups": 7,
-        "report_count": 21,
+        "report_count": 20,
         "span_hours": 26.9,
         "first_report_at": "2026-11-13T00:15:00Z",
         "last_report_at": "2026-11-14T03:07:00Z",
@@ -79,67 +79,53 @@
       "selection_rank": 1
     },
     {
-      "id": "45c48d919be225c6b21f",
+      "id": "69d28b6eac2050d8bfe3",
       "category": "문화·예술",
-      "title": "백석문학상에 윤제림 시인…수상작 '스물다섯살을 반성함'",
-      "summary": "백석문학상에 윤제림 시인…수상작 '스물다섯살을 반성함'",
-      "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 5시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘백석문학상에 윤제림 시인…수상작 '스물다섯살을 반성함'’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "title": "100살 넘은 은행나무에 제초제 주입…환기미술관장 등 3명 재물손괴로 송치",
+      "summary": "100살 넘은 은행나무에 제초제 주입…환기미술관장 등 3명 재물손괴로 송치",
+      "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 43시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘100살 넘은 은행나무에 제초제 주입…환기미술관장 등 3명 재물손괴로 송치’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-      "source": "연합뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rcFNieFp4SWdWV2VrOHI0QmRiemNDZlgwVFhUN3ZvdloyTDZBMXVCTVk3TG1fXzk5S0llc1FzRWlpTkY2WHZZOUE5TnVvaWtacVNMRlM3a2MtcUVLX2J4TtIBYEFVX3lxTE9rcFNieFp4SWdWV2VrOHI0QmRiemNDZlgwVFhUN3ZvdloyTDZBMXVCTVk3TG1fXzk5S0llc1FzRWlpTkY2WHZZOUE5TnVvaWtacVNMRlM3a2MtcUVLX2J4Tg?oc=5",
-      "published_at": "2026-11-12T06:06:42Z",
+      "source": "한겨레",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3MUlQazhzOEllMm1iTmlfdVAtNmxHeGZPbWpUNkFsSGhjbHdWVlZrYl8zNGcxeXpJSUk5cGM4bjNSWGx1YjlTbkkwYV85QU1mcmdycmFGVnUwNXA2bTRxeS1pUDVLUVh2UjhwNG5LbkFYUQ?oc=5",
+      "published_at": "2026-11-13T01:32:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 6,
+        "source_groups": 4,
         "report_count": 6,
-        "span_hours": 5.1,
-        "first_report_at": "2026-11-12T05:55:15Z",
-        "last_report_at": "2026-11-12T11:03:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XWGhONmlTVkVkMDc5UVNqa3R1Y0dJX19BZ1o1RUF2RjV6dEFIeDFCeEh5RDVDTGdOaHpaODg5NUZ3TkQ5UDdlTUxxU215aGI30gFUQVVfeXFMUC1Ybk1RN2lReFhlc1psNUtxS1c5YWVkVFVMWU1XOU41LVV5dUxhR3lGSVFrTXRsVUltSTlRa0M5OG9UYjdXZEFMd3pwQ09EY05tYUhP?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jRDhLb2dZQWNHNGtIVzUwaXg3dmh0cGpicUV5bjMtN0I1RzE1Nkw4Q2t0XzFHZThjM1VfTlN3RlVDV1F6WkpXdTRkcXEtdmhRUWc0QU4tTjhpQdIBX0FVX3lxTFB0dGFJRGpwNjlzYVhRaWw5YW44V2o0VGlRWlJVZzg1V2JaWnc0Q2xidWoxZXZjbFZxelJYNkNiQ01BNmxHSl90YjBhTGU4MW5QSHNhdUl6ZG9SWFhyNVhF?oc=5",
+        "span_hours": 43.9,
+        "first_report_at": "2026-11-13T01:32:00Z",
+        "last_report_at": "2026-11-14T21:23:48Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3MUlQazhzOEllMm1iTmlfdVAtNmxHeGZPbWpUNkFsSGhjbHdWVlZrYl8zNGcxeXpJSUk5cGM4bjNSWGx1YjlTbkkwYV85QU1mcmdycmFGVnUwNXA2bTRxeS1pUDVLUVh2UjhwNG5LbkFYUQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04NVA3QVYtelR6NEtWelJmUGo0ZVdwdWF5OFZhVDBFVWJiS1ZTbGx6ZUJ4YzViN1k4RlFCaFFzZ3hVZS1LeXhKU0I1RWgzaUNBSmpZ?oc=5",
         "sources": [
           {
-            "name": "경향신문",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jRDhLb2dZQWNHNGtIVzUwaXg3dmh0cGpicUV5bjMtN0I1RzE1Nkw4Q2t0XzFHZThjM1VfTlN3RlVDV1F6WkpXdTRkcXEtdmhRUWc0QU4tTjhpQdIBX0FVX3lxTFB0dGFJRGpwNjlzYVhRaWw5YW44V2o0VGlRWlJVZzg1V2JaWnc0Q2xidWoxZXZjbFZxelJYNkNiQ01BNmxHSl90YjBhTGU4MW5QSHNhdUl6ZG9SWFhyNVhF?oc=5",
-            "published_at": "2026-11-12T11:03:00Z",
-            "headline": "백석문학상에 윤제림 시인"
+            "name": "JTBC",
+            "group": "jtbc.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04NVA3QVYtelR6NEtWelJmUGo0ZVdwdWF5OFZhVDBFVWJiS1ZTbGx6ZUJ4YzViN1k4RlFCaFFzZ3hVZS1LeXhKU0I1RWgzaUNBSmpZ?oc=5",
+            "published_at": "2026-11-14T21:23:48Z",
+            "headline": "\"100살 은행나무 독살 했다\"…경찰, 재물손괴 혐의 미술관장 송치"
           },
           {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yQ3l1c244SVZSb1ZwQlE3anZNdC1iMV9sTWc4dTFOUFEtZGZHbzZDSVhiNldxZzNQX3dIVkh2T2dpVUFxeTd1RVJIWURpZGlNbk9ac2piWVhvQQ?oc=5",
-            "published_at": "2026-11-12T10:41:56Z",
-            "headline": "윤제림 시인, 제28회 백석문학상 수상…'스물다섯살을 반성함'"
-          },
-          {
-            "name": "한겨레",
-            "group": "hani.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RY0dwWXVCQlI2RDZ3eThhLUlEX1pFM09tNHFmVlYtMkpQWE5TQlhWcEpxdmRaMDVhRVlORUlFSHhQd24xam1xQTd6Szh5U2ExdHlzMDhnNmxBdkZLZkE2cjJuQQ?oc=5",
-            "published_at": "2026-11-12T06:39:00Z",
-            "headline": "윤제림 시인, 올해 백석문학상 수상"
-          },
-          {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YYXBkTzl4bzNMQWRSeDI0Yl8wc0x4VHdiaVVJdjRXc1YtSjBtckY3Z1VVRXJPdDhLRFBiRTZqMmtyNVJiUWxRNWlWVDMzMlRheGJxTjVWQ0ctczZRcUhHYdIBeEFVX3lxTE1UZGJWUjV0cU8xVGJwTndlNzJjV2tuNE5IQTZiT1dPOVc5R1JCZWhzSlhSRGNKRDVPZmtvYU5LdFNIWHFHTFJkdXRLODVhZmxkcGNRX2JKM2xxTVAwaWtTeUJWWDE0akx1X0htTW1iTjE5Y1FCeUx4cA?oc=5",
-            "published_at": "2026-11-12T06:32:16Z",
-            "headline": "제28회 백석문학상에 윤제림 시인"
+            "name": "세계일보",
+            "group": "imbc.com",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vNEV6aGJWSWdoZ0NQWS10cG95a2NBY3hIOTFWLXlCOTk4YV93NWFrOTFkbE8tbG94X0NtcHNtb0pnbHR1Y012TS1OTld1Y3pnUldhcHQxUWjSAVRBVV95cUxQUXpjbFV0S2N5VDFaNURmVUc2NFBGM0VkTkhVYk5SQXNQeURtMlYwa1o1am5STGdlV2NFYUNjNHFGZjNhUzhGMFM2NTFoYlY1azlOb2I?oc=5",
+            "published_at": "2026-11-14T07:11:35Z",
+            "headline": "100년 넘은 은행나무에 제초제…환기미술관장 등 3명 송치"
           },
           {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rcFNieFp4SWdWV2VrOHI0QmRiemNDZlgwVFhUN3ZvdloyTDZBMXVCTVk3TG1fXzk5S0llc1FzRWlpTkY2WHZZOUE5TnVvaWtacVNMRlM3a2MtcUVLX2J4TtIBYEFVX3lxTE9rcFNieFp4SWdWV2VrOHI0QmRiemNDZlgwVFhUN3ZvdloyTDZBMXVCTVk3TG1fXzk5S0llc1FzRWlpTkY2WHZZOUE5TnVvaWtacVNMRlM3a2MtcUVLX2J4Tg?oc=5",
-            "published_at": "2026-11-12T06:06:42Z",
-            "headline": "백석문학상에 윤제림 시인…수상작 '스물다섯살을 반성함'"
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pdWJ5OWFram9qMkVpNjlqbHpBNkxvdExfUVUyNUltTEd2bkN2NjRRcE9OYTZrNmh2U0dScFdyYlBjVFhGNE5ZOWlJbVBhNWM2WGZKRG9kY0NEMjR1b3Noc9IBYEFVX3lxTE1pdWJ5OWFram9qMkVpNjlqbHpBNkxvdExfUVUyNUltTEd2bkN2NjRRcE9OYTZrNmh2U0dScFdyYlBjVFhGNE5ZOWlJbVBhNWM2WGZKRG9kY0NEMjR1b3Nocw?oc=5",
+            "published_at": "2026-11-13T05:02:40Z",
+            "headline": "'은행나무 독살' 의혹 부암동 환기미술관장 재물손괴로 송치"
           },
           {
-            "name": "세계일보",
-            "group": "segye.com",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XWGhONmlTVkVkMDc5UVNqa3R1Y0dJX19BZ1o1RUF2RjV6dEFIeDFCeEh5RDVDTGdOaHpaODg5NUZ3TkQ5UDdlTUxxU215aGI30gFUQVVfeXFMUC1Ybk1RN2lReFhlc1psNUtxS1c5YWVkVFVMWU1XOU41LVV5dUxhR3lGSVFrTXRsVUltSTlRa0M5OG9UYjdXZEFMd3pwQ09EY05tYUhP?oc=5",
-            "published_at": "2026-11-12T05:55:15Z",
-            "headline": "백석문학상에 윤제림 시인... ‘스물다섯살을 반성함’ 선정"
+            "name": "한겨레",
+            "group": "hani.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3MUlQazhzOEllMm1iTmlfdVAtNmxHeGZPbWpUNkFsSGhjbHdWVlZrYl8zNGcxeXpJSUk5cGM4bjNSWGx1YjlTbkkwYV85QU1mcmdycmFGVnUwNXA2bTRxeS1pUDVLUVh2UjhwNG5LbkFYUQ?oc=5",
+            "published_at": "2026-11-13T01:32:00Z",
+            "headline": "100살 넘은 은행나무에 제초제 주입…환기미술관장 등 3명 재물손괴로 송치"
           }
         ]
       },
@@ -150,7 +136,7 @@
       "category": "연예",
       "title": "더보이즈 9인, 12월 단독 콘서트 연다",
       "summary": "더보이즈 9인, 12월 단독 콘서트 연다",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 9시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.15 07:21 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘더보이즈 9인, 12월 단독 콘서트 연다’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
       "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
       "source": "JTBC",
@@ -189,14 +175,15 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-14T22:21:09.081464Z"
     },
     {
       "id": "3e0bd05dc5a4f9a7d003",
       "category": "연예",
       "title": "고경표 음주운전에 예능 비상…'놀뭐'·'대탈출'·'보검 매직컬2' 직격탄",
       "summary": "고경표 음주운전에 예능 비상…'놀뭐'·'대탈출'·'보검 매직컬2' 직격탄",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 7시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.15 07:21 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘고경표 음주운전에 예능 비상…'놀뭐'·'대탈출'·'보검 매직컬2' 직격탄’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
       "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
       "source": "뉴시스",
@@ -235,7 +222,8 @@
           }
         ]
       },
-      "selection_rank": 2
+      "selection_rank": 2,
+      "last_collected_at": "2026-11-14T22:21:09.081464Z"
     },
     {
       "id": "a9814a8d01a41a4a6beb",
@@ -305,67 +293,60 @@
       "selection_rank": 1
     },
     {
-      "id": "3eab65122aeb1d5baec5",
+      "id": "50fd3bdf30025f5ef2b4",
       "category": "스포츠",
-      "title": "‘손흥민-96라인 선발’ 모레노호, 사우디전 전반전 0-1로 끌려가",
-      "summary": "‘손흥민-96라인 선발’ 모레노호, 사우디전 전반전 0-1로 끌려가",
-      "why_now": "수집 범위에서 관련 보도 11개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 15시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘‘손흥민-96라인 선발’ 모레노호, 사우디전 전반전 0-1로 끌려가’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "title": "불화설 털어낸 손흥민과 ‘96라인’, 사우디전 선발 출전",
+      "summary": "불화설 털어낸 손흥민과 ‘96라인’, 사우디전 선발 출전",
+      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 25시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘불화설 털어낸 손흥민과 ‘96라인’, 사우디전 선발 출전’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "중앙일보",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94YklDY3MtRUJ1cTRKNlNKWHF5LVRJR2xLSDBqd0xlLVM1elNCMGc5ZFFST2V2YWNBZW1MVDV6azlJemc1X1JEX1dKaXJxS2ZubU5Hak53?oc=5",
-      "published_at": "2026-11-13T15:29:51Z",
+      "source": "조선일보",
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1R1b1ZTWGh6NUk5Mm9DaVBXbU1mVl90d2lPZVBuMFlOUE1CVjhGUXNydWFKWlpXUWZ4SmFnMEVrR2R4Qkk0RmhBdkI4V25CMm9raktrWEg2dWJwanV4ODlRUVNwaE5OUEQ2T0ZtWGRkVFhydlhaN3lPeFBaVVpoUnBsbzFmb29MbmVzRFRJMFE?oc=5",
+      "published_at": "2026-11-13T13:49:30Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 6,
-        "report_count": 11,
-        "span_hours": 15.7,
-        "first_report_at": "2026-11-13T13:34:06Z",
-        "last_report_at": "2026-11-14T05:19:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnRE9jLTRtRXZJNVFsRWNJMUVXcldwTHd5aEJvVkIyVXVVYS0tZ2JIbUdLTnp3X05PWnAtQ2dwZ0VzYVduYlp0SEdJOHV1SnQ5cjk5a0x3?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXUnlNaXhvNGpndkV4NXZzN3d6X1ZvNVhXdEgwLU5KR3RYVUtxbWhkSHc0cDczMUFFWGZkeTZrVDkyRV9wRnc3OXlZWmYtV2ktQ1h6Vw?oc=5",
+        "source_groups": 5,
+        "report_count": 5,
+        "span_hours": 25.5,
+        "first_report_at": "2026-11-12T22:05:01Z",
+        "last_report_at": "2026-11-13T23:38:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GSURKVWRuNW1MU0xNVUs0a2diSVhBN1BVYmdOS2l6a1BOeUhPMG50QjJPckltU0diajZVU2NrWEtCb1EtQWZ4Q0lWeEd3eFYwcDNyaFJSSlhVUUY5eThQc1JxSlF3Q25GYVBESElTN2F0dXU0R2xn0gF3QVVfeXFMT0FReWtQM1pMR2VNM0QtUXMzN2dySkdtcFBDVlVKcGtFTk1Tb0R3U29RNTVKcTFBWld4bXIxQnhiVUNaUTJRb3gxY3kySlI5dWVNNHdtVko0al91dm9hR0dHMS03ZXFiTkxfNzl4ZTFXUHN0UFJaWk0?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OdG1mVmZxYzVaMEdha3pQeVFVNnQ3NTkwdkIyYzRzLTNvV01ieDYteFRiTUs5bHdMNTVoNVZSU2x5V0FsbWtMNTVoQ2dmT00tVk1pOUI1a01hWlRiZm1kdXl2b3NlUWhXWFNPbkR30gFzQVVfeXFMT1dWXzVLRzEwcVlLYVBqYzFvME1OdW1UenBYNk5QRTZvcUVOb0ZpeFVvVkNwcmtONnVLcmd0U1c4UVhKOVdRWWhIUnpKSjRxWGFmX2hEMmMyWkhnOVFuTkpFZTVjZ1BrTDNtME5IUGJpQXFfOA?oc=5",
         "sources": [
           {
-            "name": "OSEN",
-            "group": "osen.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXUnlNaXhvNGpndkV4NXZzN3d6X1ZvNVhXdEgwLU5KR3RYVUtxbWhkSHc0cDczMUFFWGZkeTZrVDkyRV9wRnc3OXlZWmYtV2ktQ1h6Vw?oc=5",
-            "published_at": "2026-11-14T05:19:00Z",
-            "headline": "'손흥민과 불화설' 제일 많이 욕먹었던 황희찬이 가장 잘했다 \"왜곡된 내용 너무 많았다\""
-          },
-          {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBndVBLbXJINzB5dzBodjVRX292bWk0RFZBWjRsR0x4bnNzc3BFQW5feTlRbzhZdDlYM2NXNWtFUnA4cTJBUnBrb3hkdw?oc=5",
-            "published_at": "2026-11-13T23:36:39Z",
-            "headline": "하이파이브하는 손흥민과 황희찬"
-          },
-          {
-            "name": "조선일보",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSFFzeFlPcWw0QThsNFBzc0VTcGVPalZQRDl4LU5mSF9tY29ud2gzc2Qwdkt6aVh4RElIdUJrZFhyeXhsWldCMDg2UC1zZ1NoeEpVb25rUzBPSmE3NVgySHJIcTB0RkR2cklKUWpDbkhad2hVYXVtbW1OV0w3bmZYRUxheUJDREw5WngxMzU2RXI?oc=5",
-            "published_at": "2026-11-13T18:33:36Z",
-            "headline": "손흥민·96라인 손잡았지만... 사우디에 21년 만의 충격패"
-          },
-          {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95N3dKbk9VYzI3b0xQLVNfUHFWTWFjUzM2U1FEUUY1V21UdFl6VnNmZHF1Y1ZXWkwyYjdmUExDSWZmbkRDSzBxeTFjVmx3dloyZlVYdkdCWU9lU05fZENLU9IBeEFVX3lxTE9xZDdrNnJxUGxYc1h5X1BrclkwZEUwNGt5ZHk4a24xcmVYb0Z2NXhTT2ZCdGZYS24zcnUyWGZINVlTalVjZDNYTVlLQkhwMnI4a3dqdGh6TkF0aTBiTnNWTUY2M0U5QU94U3lUVVVWZEpIWVJvNlVrSA?oc=5",
-            "published_at": "2026-11-13T16:52:18Z",
-            "headline": "손흥민·96라인 손잡았지만…42년 만에 사우디전 3실점 충격패(종합)"
+            "name": "한국일보",
+            "group": "hankookilbo.com",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OdG1mVmZxYzVaMEdha3pQeVFVNnQ3NTkwdkIyYzRzLTNvV01ieDYteFRiTUs5bHdMNTVoNVZSU2x5V0FsbWtMNTVoQ2dmT00tVk1pOUI1a01hWlRiZm1kdXl2b3NlUWhXWFNPbkR30gFzQVVfeXFMT1dWXzVLRzEwcVlLYVBqYzFvME1OdW1UenBYNk5QRTZvcUVOb0ZpeFVvVkNwcmtONnVLcmd0U1c4UVhKOVdRWWhIUnpKSjRxWGFmX2hEMmMyWkhnOVFuTkpFZTVjZ1BrTDNtME5IUGJpQXFfOA?oc=5",
+            "published_at": "2026-11-13T23:38:00Z",
+            "headline": "불화설 뒤 입 연 태극전사들… 손흥민 “동료들에 미안” 황희찬 “왜곡된 말 힘들었다”"
           },
           {
             "name": "동아일보",
             "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UbkNLZTFzOWpWak00ZGFuTHlFaFhHSnE1UlFfMGNHOURhRkdJX1dDX2Q2YzBaeFhpM2lpZ0xIQzF2UVA4RFF6WnpHXzRmN2VZb3RZTnREVlVTSVAwN0hSTm1XaGFnd3d0eDFCc0NaNmVOZW5k0gFmQVVfeXFMUDUwNVYwNnFWTXBLTVdST3JaRG5ieWVCcGJvM0x6X3d3dWlXY3I3MnJaMlB1Tmd6Y0F1dm0yOW0tT0VvckExNnZTOEh4TEVkSF9oVW9XV0d4d1BvbTg4UDI2VmFMcG13?oc=5",
-            "published_at": "2026-11-13T15:36:00Z",
-            "headline": "‘황희찬 패스→손흥민 슛 불발’ 한국, 사우디에 전반 0-1로 뒤져"
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83S1M0Q0F0MzhTMzlqTkV5RDV5Q1dPYUpHQmI3bUMwdmUwTVRVM1JnYnV6cjhkYUlDVzNLZHJLVndKSDRkZ0ZTTmZlaDRGZTA0anBNd0tyaHZGYkhCbGN4WWtBTk9BZDdzdE9SeWRMMWdQNks10gFmQVVfeXFMUGltNExHTnpmWkpFejlFZE5adlpuWjJYanNKUEFjRmRtUlhxSlR3OTdqbXNxRjBxeUVRbWpSTVB4TWJCT3lpSzlRUUVYdm5mLU9fbGdLN05hODlxYjM5aGMtbFNSQ3R3?oc=5",
+            "published_at": "2026-11-13T14:28:52Z",
+            "headline": "‘불화설’ 털어낸 손흥민·‘96라인 3인방’, 사우디전 나란히 선발 출격"
           },
           {
-            "name": "중앙일보",
-            "group": "joongang.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94YklDY3MtRUJ1cTRKNlNKWHF5LVRJR2xLSDBqd0xlLVM1elNCMGc5ZFFST2V2YWNBZW1MVDV6azlJemc1X1JEX1dKaXJxS2ZubU5Hak53?oc=5",
-            "published_at": "2026-11-13T15:29:51Z",
-            "headline": "‘손흥민-96라인 선발’ 모레노호, 사우디전 전반전 0-1로 끌려가"
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa1R1b1ZTWGh6NUk5Mm9DaVBXbU1mVl90d2lPZVBuMFlOUE1CVjhGUXNydWFKWlpXUWZ4SmFnMEVrR2R4Qkk0RmhBdkI4V25CMm9raktrWEg2dWJwanV4ODlRUVNwaE5OUEQ2T0ZtWGRkVFhydlhaN3lPeFBaVVpoUnBsbzFmb29MbmVzRFRJMFE?oc=5",
+            "published_at": "2026-11-13T13:49:30Z",
+            "headline": "불화설 털어낸 손흥민과 ‘96라인’, 사우디전 선발 출전"
+          },
+          {
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01Xzc0dVJyOUt6MXR1OTIzSXdnOEI3WjJjY3p0UnZPVkVCbkJJelFqS2loenhIQWtUVW1KWW5LQ08zTVMxWXBLTV92My1jdnZxNzJOcV9CdjhjWmtGVDNUUtIBYEFVX3lxTE01Xzc0dVJyOUt6MXR1OTIzSXdnOEI3WjJjY3p0UnZPVkVCbkJJelFqS2loenhIQWtUVW1KWW5LQ08zTVMxWXBLTV92My1jdnZxNzJOcV9CdjhjWmtGVDNUUg?oc=5",
+            "published_at": "2026-11-13T03:53:59Z",
+            "headline": "[스포츠엔터] 불화설에 입 연 손흥민 \"내려놓고 싶지만…\""
+          },
+          {
+            "name": "MBC 뉴스",
+            "group": "imbc.com",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GSURKVWRuNW1MU0xNVUs0a2diSVhBN1BVYmdOS2l6a1BOeUhPMG50QjJPckltU0diajZVU2NrWEtCb1EtQWZ4Q0lWeEd3eFYwcDNyaFJSSlhVUUY5eThQc1JxSlF3Q25GYVBESElTN2F0dXU0R2xn0gF3QVVfeXFMT0FReWtQM1pMR2VNM0QtUXMzN2dySkdtcFBDVlVKcGtFTk1Tb0R3U29RNTVKcTFBWld4bXIxQnhiVUNaUTJRb3gxY3kySlI5dWVNNHdtVko0al91dm9hR0dHMS03ZXFiTkxfNzl4ZTFXUHN0UFJaWk0?oc=5",
+            "published_at": "2026-11-12T22:05:01Z",
+            "headline": "'불화설 이후 첫 인터뷰' 손흥민 \"내가 부족한 부분 얘기해줘서 고맙다\""
           }
         ]
       },
@@ -376,7 +357,7 @@
       "category": "기술·과학",
       "title": "‘AI 안경 의혹’ 세무사 수석 합격자…감독관 4명 “특이사항 없었다”",
       "summary": "‘AI 안경 의혹’ 세무사 수석 합격자…감독관 4명 “특이사항 없었다”",
-      "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 37시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.15 07:21 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘‘AI 안경 의혹’ 세무사 수석 합격자…감독관 4명 “특이사항 없었다”’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
       "source": "중앙일보",
@@ -436,14 +417,15 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-14T22:21:09.081464Z"
     },
     {
       "id": "94d61487e09e608c16ce",
       "category": "기술·과학",
       "title": "수능 AI 안경 부정행위 비상…“소지만 해도 시험 무효”",
       "summary": "수능 AI 안경 부정행위 비상…“소지만 해도 시험 무효”",
-      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 15시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.15 07:21 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘수능 AI 안경 부정행위 비상…“소지만 해도 시험 무효”’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
       "source": "KBS 뉴스",
@@ -489,75 +471,36 @@
           }
         ]
       },
-      "selection_rank": 2
+      "selection_rank": 2,
+      "last_collected_at": "2026-11-14T22:21:09.081464Z"
     },
     {
-      "id": "cacd985722eb40666ce8",
-      "category": "사회",
-      "title": "시흥 아파트서 일가족 3명 숨진 채 발견…10대 아들 범행 가능성(종합)",
-      "summary": "시흥 아파트서 일가족 3명 숨진 채 발견…10대 아들 범행 가능성(종합)",
-      "why_now": "이전 수집(11.13 15:39 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘시흥 아파트서 일가족 3명 숨진 채 발견…10대 아들 범행 가능성(종합)’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
-      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
-      "source": "파이낸셜뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ib1dNa1hVTGVCWlFEblpZM1FtWFdhOXpmWG1CS1lEZDc0Q3dtbk1GYUZoeVZlbnZhVmNaTnJwcHVIQXhpdUF6MUlRWEhfVndCMElleVZOOU1LUQ?oc=5",
-      "published_at": "2026-11-12T07:09:49Z",
+      "id": "79a418f52b6d151da756",
+      "category": "경제·주식",
+      "title": "'젠슨황 스캔들'에 짓눌린 증시…엔비디아 실적·앤트로픽 상장 주시",
+      "summary": "'젠슨황 스캔들'에 짓눌린 증시…엔비디아 실적·앤트로픽 상장 주시",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 18시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘'젠슨황 스캔들'에 짓눌린 증시…엔비디아 실적·앤트로픽 상장 주시’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+      "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nR0p4Y2pYLVk2R3BIak9qbGxBY2NpNWFSY0cwUG85TjFGR0hycl94WjJYTXJZTUt4Nnd2WEVjektXMjRyalYyVDE3MVFZUjl3YVVqTmlOQjl2Y0XSAWBBVV95cUxPMEFvZkx4dXNTVkhiX2RfZkV3V3ZXQzFieDlaQlFvQWExaWY3RkVFUE9UTDcwcllsMW5QeEF1LVphMzVJX0dsLVRPVjdQdlY1elczSVlMbVZjVUtJWWs4bnE?oc=5",
+      "published_at": "2026-11-14T21:00:05Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 2,
         "report_count": 2,
-        "span_hours": 5.2,
-        "first_report_at": "2026-11-12T01:57:00Z",
-        "last_report_at": "2026-11-12T07:09:49Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qS0dGdWZfLVhxYXhrdHdEbVVHQzNLUXcyeDJjaHBFZ1lQRW9RNmlEU2hQVlo3QXN2VzRua2dGUU93eHZ2UWphcjMyejVySGQzdWc3dlM0YjUtR3M?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ib1dNa1hVTGVCWlFEblpZM1FtWFdhOXpmWG1CS1lEZDc0Q3dtbk1GYUZoeVZlbnZhVmNaTnJwcHVIQXhpdUF6MUlRWEhfVndCMElleVZOOU1LUQ?oc=5",
+        "span_hours": 18.0,
+        "first_report_at": "2026-11-14T03:00:04Z",
+        "last_report_at": "2026-11-14T21:00:05Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kUHU4bnp1b05qMnJtSXlYUWk5SlQxaWFfR0tIZEpDUFVHVVRXR0FTVml3TkV0aE5BTko2VWMzbGJmS3hlN00zckQyeld3UU5XVFFRbWxSSW1idw?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nR0p4Y2pYLVk2R3BIak9qbGxBY2NpNWFSY0cwUG85TjFGR0hycl94WjJYTXJZTUt4Nnd2WEVjektXMjRyalYyVDE3MVFZUjl3YVVqTmlOQjl2Y0XSAWBBVV95cUxPMEFvZkx4dXNTVkhiX2RfZkV3V3ZXQzFieDlaQlFvQWExaWY3RkVFUE9UTDcwcllsMW5QeEF1LVphMzVJX0dsLVRPVjdQdlY1elczSVlMbVZjVUtJWWs4bnE?oc=5",
         "sources": [
           {
-            "name": "파이낸셜뉴스",
-            "group": "fnnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ib1dNa1hVTGVCWlFEblpZM1FtWFdhOXpmWG1CS1lEZDc0Q3dtbk1GYUZoeVZlbnZhVmNaTnJwcHVIQXhpdUF6MUlRWEhfVndCMElleVZOOU1LUQ?oc=5",
-            "published_at": "2026-11-12T07:09:49Z",
-            "headline": "시흥 아파트서 일가족 3명 숨진 채 발견…10대 아들 범행 가능성(종합)"
-          },
-          {
-            "name": "KBS 뉴스",
-            "group": "kbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qS0dGdWZfLVhxYXhrdHdEbVVHQzNLUXcyeDJjaHBFZ1lQRW9RNmlEU2hQVlo3QXN2VzRua2dGUU93eHZ2UWphcjMyejVySGQzdWc3dlM0YjUtR3M?oc=5",
-            "published_at": "2026-11-12T01:57:00Z",
-            "headline": "시흥 아파트 단지서 일가족 숨진채 발견…경찰 조사 중"
-          }
-        ]
-      },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-13T06:39:56.735030Z"
-    },
-    {
-      "id": "36e8a8ffc2362e292312",
-      "category": "경제·주식",
-      "title": "엔비디아 실적·앤트로픽 IPO, AI 투자 열기 가늠할 분수령",
-      "summary": "엔비디아 실적·앤트로픽 IPO, AI 투자 열기 가늠할 분수령",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 29시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘엔비디아 실적·앤트로픽 IPO, AI 투자 열기 가늠할 분수령’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
-      "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-      "source": "블로터",
-      "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56QnBUYm85Z1haQlR3UGhUMnVwT0w2dGxMNnZwVG9keU5EOFhMVHRYLTNYLTB1eWNqS09EeENjejBqZ3FlN01IckgxZlppTHpfc2NwM1BscU9DdkVTelNjQXlwVWFTLVd40gFsQVVfeXFMTTZlZGdxbjl2dXNqSGN1VzJsSy1iWklwMTB1NTlaUGlxTzJBdWlfak1CaFZGRElveFdjR2wycTNCV1FmU1lkbTQ0T3lFUmZaLXpRUkRJLWtpUEtoVEozcnNqM29ocGx0djFfTGtB?oc=5",
-      "published_at": "2026-11-14T07:00:00Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 3,
-        "report_count": 3,
-        "span_hours": 29.1,
-        "first_report_at": "2026-11-13T01:51:00Z",
-        "last_report_at": "2026-11-14T07:00:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tWmZuZ0NuV0RnbDA4cGYtdEoxS2N4NXRiYl9NQW9ZOHhBX0pDSDRJNDljN05rSUhiZXQzWlQxWDJtZnNNX196OGlPc3Vlbl84X2Nn0gFYQVVfeXFMTS1HRkZYemJkOGVGT1pUSHR6cEtOR05RcExQcFdRRHprVmItbWhGRUY4YVQ4SHJxdWlGeG1ia2tfQy1HWmo0MFV5WGhidmNQaF9aN3p2cjM5VA?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56QnBUYm85Z1haQlR3UGhUMnVwT0w2dGxMNnZwVG9keU5EOFhMVHRYLTNYLTB1eWNqS09EeENjejBqZ3FlN01IckgxZlppTHpfc2NwM1BscU9DdkVTelNjQXlwVWFTLVd40gFsQVVfeXFMTTZlZGdxbjl2dXNqSGN1VzJsSy1iWklwMTB1NTlaUGlxTzJBdWlfak1CaFZGRElveFdjR2wycTNCV1FmU1lkbTQ0T3lFUmZaLXpRUkRJLWtpUEtoVEozcnNqM29ocGx0djFfTGtB?oc=5",
-        "sources": [
-          {
-            "name": "블로터",
-            "group": "bloter.net",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56QnBUYm85Z1haQlR3UGhUMnVwT0w2dGxMNnZwVG9keU5EOFhMVHRYLTNYLTB1eWNqS09EeENjejBqZ3FlN01IckgxZlppTHpfc2NwM1BscU9DdkVTelNjQXlwVWFTLVd40gFsQVVfeXFMTTZlZGdxbjl2dXNqSGN1VzJsSy1iWklwMTB1NTlaUGlxTzJBdWlfak1CaFZGRElveFdjR2wycTNCV1FmU1lkbTQ0T3lFUmZaLXpRUkRJLWtpUEtoVEozcnNqM29ocGx0djFfTGtB?oc=5",
-            "published_at": "2026-11-14T07:00:00Z",
-            "headline": "엔비디아 실적·앤트로픽 IPO, AI 투자 열기 가늠할 분수령"
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nR0p4Y2pYLVk2R3BIak9qbGxBY2NpNWFSY0cwUG85TjFGR0hycl94WjJYTXJZTUt4Nnd2WEVjektXMjRyalYyVDE3MVFZUjl3YVVqTmlOQjl2Y0XSAWBBVV95cUxPMEFvZkx4dXNTVkhiX2RfZkV3V3ZXQzFieDlaQlFvQWExaWY3RkVFUE9UTDcwcllsMW5QeEF1LVphMzVJX0dsLVRPVjdQdlY1elczSVlMbVZjVUtJWWs4bnE?oc=5",
+            "published_at": "2026-11-14T21:00:05Z",
+            "headline": "'젠슨황 스캔들'에 짓눌린 증시…엔비디아 실적·앤트로픽 상장 주시"
           },
           {
             "name": "한국경제",
@@ -565,63 +508,56 @@
             "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kUHU4bnp1b05qMnJtSXlYUWk5SlQxaWFfR0tIZEpDUFVHVVRXR0FTVml3TkV0aE5BTko2VWMzbGJmS3hlN00zckQyeld3UU5XVFFRbWxSSW1idw?oc=5",
             "published_at": "2026-11-14T03:00:04Z",
             "headline": "엔비디아 실적 발표·앤트로픽 IPO…빅 이벤트 이어진다 [다음주 주요 변수 미리보기]"
-          },
-          {
-            "name": "SBS Biz",
-            "group": "sbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tWmZuZ0NuV0RnbDA4cGYtdEoxS2N4NXRiYl9NQW9ZOHhBX0pDSDRJNDljN05rSUhiZXQzWlQxWDJtZnNNX196OGlPc3Vlbl84X2Nn0gFYQVVfeXFMTS1HRkZYemJkOGVGT1pUSHR6cEtOR05RcExQcFdRRHprVmItbWhGRUY4YVQ4SHJxdWlGeG1ia2tfQy1HWmo0MFV5WGhidmNQaF9aN3p2cjM5VA?oc=5",
-            "published_at": "2026-11-13T01:51:00Z",
-            "headline": "[다음 주 경제일정] 엔비디아 실적·앤트로픽 상장 주목…트럼프, APEC 참석차 방중"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "73a03a86eb374025f8a2",
+      "id": "d7a29256d46cb4d47a7a",
       "category": "경제·주식",
-      "title": "코어위브 3분기 깜짝 실적… “보유주식 매각 계획 중단”",
-      "summary": "코어위브 3분기 깜짝 실적… “보유주식 매각 계획 중단”",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 15시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘코어위브 3분기 깜짝 실적… “보유주식 매각 계획 중단”’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+      "title": "'젠슨 황 사태' 속 엔비디아 실적 발표 주목…밸류에이션 정상화 지속[주간증시전망]",
+      "summary": "'젠슨 황 사태' 속 엔비디아 실적 발표 주목…밸류에이션 정상화 지속[주간증시전망]",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘'젠슨 황 사태' 속 엔비디아 실적 발표 주목…밸류에이션 정상화 지속[주간증시전망]’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
       "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-      "source": "동아일보",
-      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rMGloVVNEUm1qbGRBTDhfNXk3a1lKX0o0Y2dVaFdla0IzUm9BZXlWS0lRVktDbU5iaWlZUjdtaXcybmJ5Z1pZdmpRYzg5ZWRPSE11MHRSbmI3bHVaVFpCb3pSMEVyVWF1aHA0VWlEOWRDUlFPR2fSAWZBVV95cUxPdVJzbzRoaGR5ODE5bVcyQTJxQ0JWODB5OHdTOEQ0cjV6V0tCYTE2TzBoalVwd0tubXFoY3ZZeldwNG0tZTUzUkkyblB2NC1XVnplbEVGQXZfQzA2cDh4Vkltb01uS1E?oc=5",
-      "published_at": "2026-11-12T15:30:00Z",
+      "source": "뉴시스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VX2J6MVBUWTVNdm1RUkNZOUs1YTlRbHQ0Um5zSks0SklUQVZKcTJnSTI1SVFrRFl3TE5zN0RUUFdhdGY5V19ONG5ROXlCOWFHNmhETG80M1FoYTg5TDc4RtIBeEFVX3lxTE1oaTEtakZRNnJFdXNwTEtidllSTUVWN0laRFFka0c5aGVPMHhzZTVQVTRMTkhnanhKc1JLZmlCVXdOR2lLNEFRem4wZkRVbU1jV3dLZTBvZDVqNUV6NTJpRXZLMm1YakVURmRIM3daNl9wV2U1TVotQg?oc=5",
+      "published_at": "2026-11-14T22:00:00Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 2,
         "report_count": 2,
-        "span_hours": 15.2,
-        "first_report_at": "2026-11-12T00:18:47Z",
-        "last_report_at": "2026-11-12T15:30:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5WVp5ckFINGVYWHBsNElQWHRXdUp5R1pKTGpIcThEQ3dXVW5TWXBUdHY1b0F1b3IzLXZEMUs2SmVIOS1zSjQ0dzdETVhfNkwwTDRfRHNqNDdSdw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rMGloVVNEUm1qbGRBTDhfNXk3a1lKX0o0Y2dVaFdla0IzUm9BZXlWS0lRVktDbU5iaWlZUjdtaXcybmJ5Z1pZdmpRYzg5ZWRPSE11MHRSbmI3bHVaVFpCb3pSMEVyVWF1aHA0VWlEOWRDUlFPR2fSAWZBVV95cUxPdVJzbzRoaGR5ODE5bVcyQTJxQ0JWODB5OHdTOEQ0cjV6V0tCYTE2TzBoalVwd0tubXFoY3ZZeldwNG0tZTUzUkkyblB2NC1XVnplbEVGQXZfQzA2cDh4Vkltb01uS1E?oc=5",
+        "span_hours": 0.9,
+        "first_report_at": "2026-11-14T21:03:48Z",
+        "last_report_at": "2026-11-14T22:00:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1kxc3ZBb2tpZFZoTENHblhJNHRyUTBzMFc4T1Y1VnFINmdaVTFXZmJ0bVVTelRSWmlrRnlaWk5ySk80M3lhbmkzQW1fTF9IUHVIUXVZZkdYMFN2TkRxdno3QmJ0MXhHZ2I5MGpmR0pPOXVjTThpY2JQODAxQl9uVElOVDRKR2ZO0gGcAUFVX3lxTE93OTctTnMzR251TFFFbFpnbVZkQzFDUm9CVVRzeUl3MVhCWGZCZmg5RlNlZ0xhOFdhWDJaaC15djNGOFdhLUY1ZHVvNzczWTE4b0xhWTI0Vkh1Sm1TVVhpNVNZbmwzc211czRlUEM2NXVGcjdRWTJueGJrelp5MWN3THRBT1dYeDFZVWpaS0lYeEttek9VWTNrWnFtSA?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VX2J6MVBUWTVNdm1RUkNZOUs1YTlRbHQ0Um5zSks0SklUQVZKcTJnSTI1SVFrRFl3TE5zN0RUUFdhdGY5V19ONG5ROXlCOWFHNmhETG80M1FoYTg5TDc4RtIBeEFVX3lxTE1oaTEtakZRNnJFdXNwTEtidllSTUVWN0laRFFka0c5aGVPMHhzZTVQVTRMTkhnanhKc1JLZmlCVXdOR2lLNEFRem4wZkRVbU1jV3dLZTBvZDVqNUV6NTJpRXZLMm1YakVURmRIM3daNl9wV2U1TVotQg?oc=5",
         "sources": [
           {
-            "name": "동아일보",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rMGloVVNEUm1qbGRBTDhfNXk3a1lKX0o0Y2dVaFdla0IzUm9BZXlWS0lRVktDbU5iaWlZUjdtaXcybmJ5Z1pZdmpRYzg5ZWRPSE11MHRSbmI3bHVaVFpCb3pSMEVyVWF1aHA0VWlEOWRDUlFPR2fSAWZBVV95cUxPdVJzbzRoaGR5ODE5bVcyQTJxQ0JWODB5OHdTOEQ0cjV6V0tCYTE2TzBoalVwd0tubXFoY3ZZeldwNG0tZTUzUkkyblB2NC1XVnplbEVGQXZfQzA2cDh4Vkltb01uS1E?oc=5",
-            "published_at": "2026-11-12T15:30:00Z",
-            "headline": "코어위브 3분기 깜짝 실적… “보유주식 매각 계획 중단”"
+            "name": "뉴시스",
+            "group": "wire:뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VX2J6MVBUWTVNdm1RUkNZOUs1YTlRbHQ0Um5zSks0SklUQVZKcTJnSTI1SVFrRFl3TE5zN0RUUFdhdGY5V19ONG5ROXlCOWFHNmhETG80M1FoYTg5TDc4RtIBeEFVX3lxTE1oaTEtakZRNnJFdXNwTEtidllSTUVWN0laRFFka0c5aGVPMHhzZTVQVTRMTkhnanhKc1JLZmlCVXdOR2lLNEFRem4wZkRVbU1jV3dLZTBvZDVqNUV6NTJpRXZLMm1YakVURmRIM3daNl9wV2U1TVotQg?oc=5",
+            "published_at": "2026-11-14T22:00:00Z",
+            "headline": "'젠슨 황 사태' 속 엔비디아 실적 발표 주목…밸류에이션 정상화 지속[주간증시전망]"
           },
           {
-            "name": "한국경제",
-            "group": "hankyung.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5WVp5ckFINGVYWHBsNElQWHRXdUp5R1pKTGpIcThEQ3dXVW5TWXBUdHY1b0F1b3IzLXZEMUs2SmVIOS1zSjQ0dzdETVhfNkwwTDRfRHNqNDdSdw?oc=5",
-            "published_at": "2026-11-12T00:18:47Z",
-            "headline": "JYP엔터, 3분기 깜짝 실적에 17% 급등"
+            "name": "Chosunbiz",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1kxc3ZBb2tpZFZoTENHblhJNHRyUTBzMFc4T1Y1VnFINmdaVTFXZmJ0bVVTelRSWmlrRnlaWk5ySk80M3lhbmkzQW1fTF9IUHVIUXVZZkdYMFN2TkRxdno3QmJ0MXhHZ2I5MGpmR0pPOXVjTThpY2JQODAxQl9uVElOVDRKR2ZO0gGcAUFVX3lxTE93OTctTnMzR251TFFFbFpnbVZkQzFDUm9CVVRzeUl3MVhCWGZCZmg5RlNlZ0xhOFdhWDJaaC15djNGOFdhLUY1ZHVvNzczWTE4b0xhWTI0Vkh1Sm1TVVhpNVNZbmwzc211czRlUEM2NXVGcjdRWTJueGJrelp5MWN3THRBT1dYeDFZVWpaS0lYeEttek9VWTNrWnFtSA?oc=5",
+            "published_at": "2026-11-14T21:03:48Z",
+            "headline": "[주간증시전망] 젠슨 황 사임 후 엔비디아 실적 발표… 미·중 정상회담 열려"
           }
         ]
       },
       "selection_rank": 2
     },
     {
-      "id": "9568caf36edfbfcac9f0",
+      "id": "6f7ae4521e7ec0c314e2",
       "category": "세계뉴스",
       "title": "\"APEC서 19일 미중러 정상회담 가능성\"…북한 논의 주목",
       "summary": "\"APEC서 19일 미중러 정상회담 가능성\"…북한 논의 주목",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 22시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 8시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘\"APEC서 19일 미중러 정상회담 가능성\"…북한 논의 주목’라는 소식을 봤어요. 최근 글로벌 소식 중 관심이 갔던 변화가 있어요?",
       "context": "국가·사람 전체를 단정하지 말고 사실과 해석을 구분해 이야기해 보세요.",
       "source": "한국일보",
@@ -631,10 +567,10 @@
       "coverage": {
         "source_groups": 2,
         "report_count": 2,
-        "span_hours": 22.9,
-        "first_report_at": "2026-11-13T02:01:13Z",
+        "span_hours": 8.1,
+        "first_report_at": "2026-11-13T16:51:06Z",
         "last_report_at": "2026-11-14T00:55:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uTHVJLV9BRFhmTE4zOG1fOVVXbkpnc2puQnozTHBtUl9UMmdGeVM5Qkp4SFMxdlZ3NVhtZXQxSzRLYzh2R2ZxSTM2MHgycVNIeEx5SHNza2tITHpaREZsdUxieE8zNU5saVh3M25xQ1dudmPSAWZBVV95cUxOb3J4Rnp1VlR5ckZwaENzM2NRWXBXdWdZNnQwR3Y0c2MwWFE5eFI4VVJxSlJmSFdwNEtDMVN4Q2NUdFJNRUc2WGpsSEwzOWZNSzd5ZGE0ZEtSY0NXWklCNmctbTJFcnc?oc=5",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45SndnNnlpYTdGekoyU1BXdDhHTUtHNEUtc1c0eEI5ZldYN0dqbXZXaS1aWnhCdDkyWm1LdjlDTjktVlhMdW5UX2NwakFxZks3?oc=5",
         "last_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4VzZYZzliZHlYZEwyU3o1RVlvS3pEcl9aRm1MSWlPc0IyZ1lDOW5ybzlfaFQ0RTdJTHo4UHNPOUYtc1ZQcmtnVm9OWWpmV1F6NVZCYXdFQnU0cWlfZ2tUeWlGdll4SFRqNkhEYmp30gFzQVVfeXFMTmZ2OHZhSFlnOUdRZjljZDNQV3hIN3J3dER3VHVkTi1HUkdMLXNDaEZXS1V4SVZCamJNNHJ5M0pXWHllNjN6U0Y5OE03YlFIUUo2LXVXcHd3cjMycDctcm13TjJteU9jWElXcldJYVhfdzFHZw?oc=5",
         "sources": [
           {
@@ -645,11 +581,11 @@
             "headline": "\"APEC서 19일 미중러 정상회담 가능성\"…북한 논의 주목"
           },
           {
-            "name": "동아일보",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uTHVJLV9BRFhmTE4zOG1fOVVXbkpnc2puQnozTHBtUl9UMmdGeVM5Qkp4SFMxdlZ3NVhtZXQxSzRLYzh2R2ZxSTM2MHgycVNIeEx5SHNza2tITHpaREZsdUxieE8zNU5saVh3M25xQ1dudmPSAWZBVV95cUxOb3J4Rnp1VlR5ckZwaENzM2NRWXBXdWdZNnQwR3Y0c2MwWFE5eFI4VVJxSlJmSFdwNEtDMVN4Q2NUdFJNRUc2WGpsSEwzOWZNSzd5ZGE0ZEtSY0NXWklCNmctbTJFcnc?oc=5",
-            "published_at": "2026-11-13T02:01:13Z",
-            "headline": "“日, 러에 APEC 계기 정상회담 타진…日기자 구속 등 협의”"
+            "name": "문화일보",
+            "group": "munhwa.com",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45SndnNnlpYTdGekoyU1BXdDhHTUtHNEUtc1c0eEI5ZldYN0dqbXZXaS1aWnhCdDkyWm1LdjlDTjktVlhMdW5UX2NwakFxZks3?oc=5",
+            "published_at": "2026-11-13T16:51:06Z",
+            "headline": "‘젠슨황 스캔들’ 세계정세까지 뒤흔든다?…미·중, 미·중·러 정상회담에 영향 가능성"
           }
         ]
       },

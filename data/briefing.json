@@ -2,14 +2,14 @@
   "schema_version": 2,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-14T22:21:09.081464Z",
+  "updated_at": "2026-11-15T06:34:29.908669Z",
   "cards": [
     {
       "id": "ba6e47021d4697d88c23",
       "category": "문화",
       "title": "국립현대미술관 신임 관장에 기혜경 부교수",
       "summary": "국립현대미술관 신임 관장에 기혜경 부교수",
-      "why_now": "수집 범위에서 관련 보도 21개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 26시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 20개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 26시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘국립현대미술관 신임 관장에 기혜경 부교수’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
       "source": "아시아경제",
@@ -18,7 +18,7 @@
       "evidence": "headline",
       "coverage": {
         "source_groups": 7,
-        "report_count": 21,
+        "report_count": 20,
         "span_hours": 26.9,
         "first_report_at": "2026-11-13T00:15:00Z",
         "last_report_at": "2026-11-14T03:07:00Z",
@@ -83,7 +83,7 @@
       "category": "문화",
       "title": "더보이즈 9인, 12월 단독 콘서트 연다",
       "summary": "더보이즈 9인, 12월 단독 콘서트 연다",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 9시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.15 07:21 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘더보이즈 9인, 12월 단독 콘서트 연다’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
       "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
       "source": "JTBC",
@@ -122,7 +122,8 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-14T22:21:09.081464Z"
     },
     {
       "id": "a9814a8d01a41a4a6beb",
@@ -196,7 +197,7 @@
       "category": "기술",
       "title": "‘AI 안경 의혹’ 세무사 수석 합격자…감독관 4명 “특이사항 없었다”",
       "summary": "‘AI 안경 의혹’ 세무사 수석 합격자…감독관 4명 “특이사항 없었다”",
-      "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 37시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.15 07:21 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘‘AI 안경 의혹’ 세무사 수석 합격자…감독관 4명 “특이사항 없었다”’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
       "source": "중앙일보",
@@ -256,47 +257,8 @@
           }
         ]
       },
-      "selection_rank": 1
-    },
-    {
-      "id": "cacd985722eb40666ce8",
-      "category": "생활",
-      "title": "시흥 아파트서 일가족 3명 숨진 채 발견…10대 아들 범행 가능성(종합)",
-      "summary": "시흥 아파트서 일가족 3명 숨진 채 발견…10대 아들 범행 가능성(종합)",
-      "why_now": "이전 수집(11.13 15:39 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘시흥 아파트서 일가족 3명 숨진 채 발견…10대 아들 범행 가능성(종합)’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
-      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
-      "source": "파이낸셜뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ib1dNa1hVTGVCWlFEblpZM1FtWFdhOXpmWG1CS1lEZDc0Q3dtbk1GYUZoeVZlbnZhVmNaTnJwcHVIQXhpdUF6MUlRWEhfVndCMElleVZOOU1LUQ?oc=5",
-      "published_at": "2026-11-12T07:09:49Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 5.2,
-        "first_report_at": "2026-11-12T01:57:00Z",
-        "last_report_at": "2026-11-12T07:09:49Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qS0dGdWZfLVhxYXhrdHdEbVVHQzNLUXcyeDJjaHBFZ1lQRW9RNmlEU2hQVlo3QXN2VzRua2dGUU93eHZ2UWphcjMyejVySGQzdWc3dlM0YjUtR3M?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ib1dNa1hVTGVCWlFEblpZM1FtWFdhOXpmWG1CS1lEZDc0Q3dtbk1GYUZoeVZlbnZhVmNaTnJwcHVIQXhpdUF6MUlRWEhfVndCMElleVZOOU1LUQ?oc=5",
-        "sources": [
-          {
-            "name": "파이낸셜뉴스",
-            "group": "fnnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ib1dNa1hVTGVCWlFEblpZM1FtWFdhOXpmWG1CS1lEZDc0Q3dtbk1GYUZoeVZlbnZhVmNaTnJwcHVIQXhpdUF6MUlRWEhfVndCMElleVZOOU1LUQ?oc=5",
-            "published_at": "2026-11-12T07:09:49Z",
-            "headline": "시흥 아파트서 일가족 3명 숨진 채 발견…10대 아들 범행 가능성(종합)"
-          },
-          {
-            "name": "KBS 뉴스",
-            "group": "kbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qS0dGdWZfLVhxYXhrdHdEbVVHQzNLUXcyeDJjaHBFZ1lQRW9RNmlEU2hQVlo3QXN2VzRua2dGUU93eHZ2UWphcjMyejVySGQzdWc3dlM0YjUtR3M?oc=5",
-            "published_at": "2026-11-12T01:57:00Z",
-            "headline": "시흥 아파트 단지서 일가족 숨진채 발견…경찰 조사 중"
-          }
-        ]
-      },
       "selection_rank": 1,
-      "last_collected_at": "2026-11-13T06:39:56.735030Z"
+      "last_collected_at": "2026-11-14T22:21:09.081464Z"
     }
   ]
 }

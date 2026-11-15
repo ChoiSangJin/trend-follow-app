@@ -3,11 +3,10 @@
   "country": "KR",
   "source_url": "https://www.netflix.com/tudum/top10/data/all-weeks-countries.tsv",
   "chart_url": "https://www.netflix.com/tudum/top10/south-korea",
-  "fetched_at": "2026-11-14T22:21:02.382385+00:00",
+  "fetched_at": "2026-11-15T06:24:23.652451+00:00",
   "weeks": [
     {
       "week": "2026-11-08",
-      "previous_available": true,
       "charts": {
         "TV": [
           {
@@ -18,13 +17,11 @@
             "previous_rank": 2,
             "weeks_in_top10": 2,
             "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/81997887?locale=ko-KR",
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
               "title_url": "https://www.netflix.com/kr/title/81997887?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/81997887?locale=ko-KR",
-              "synopsis": "빚에 쫓기던 청년 혁준 앞에 나타난 수상한 인력사무소. 시급은 최소 50배, 살아서 퇴근하면 다음엔 더 많이 준다? 가난에서 벗어나기 위해 오늘도 그는 알바 자리를 수락한다.",
-              "synopsis_language": "ko",
-              "local_title": "꿀알바",
-              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABb5e8KBDH9k1y_AE8VBWQ3uzLC854Hn6ZJhotDZewMZJ3PtijxT_keIEdc0zrz0upf4Wm-21zNobiI5fFjpSuJ8PVnEet1GloyTa.jpg?r=7d7"
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+              "synopsis_language": "en"
             }
           },
           {
@@ -59,7 +56,7 @@
               "synopsis": "자유를 찾아 미국행을 꿈꾸던 경성 최고의 소매치기. 조선총독부에 잠입해 기밀을 훔치는 임무를 맡게 된 그녀는 뜻밖에도 표적의 아들과 사랑에 빠지고 만다.",
               "synopsis_language": "ko",
               "local_title": "100일의 거짓말",
-              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/49fe-tX-KLvZWnfwQODtx3bCpWU/AAAABetQ05HSSmikv5jkhFTawEHuDhxxOKWe9VHT0-UaZzgfzjcPKQ_PL7t8lKv5ILdrygtmygLL.jpg"
+              "image_url": "https://occ-0-3012-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABbjaHdvkvOI9jYdxPopZ1d16mk0cKKql5lmESExNt3xm5Ao9hRh0hqZpUIJ4TgjYX8KlrMhRcLHNTVTw52PXCkjQdJq1bgCH7I4i.jpg?r=4a1"
             }
           },
           {
@@ -77,7 +74,7 @@
               "synopsis_language": "ko",
               "local_title": "나는 솔로",
               "kind": "예능",
-              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUu8iUFU8E9OxgzebnZ6HTNqZtREpqFSaDHEAH25iYyZIWEuUSGoXL6GyVTdWmirkxv5alpLVutThtS0AYFr26tVxqyAuVCMz_ry.jpg?r=b55"
+              "image_url": "https://occ-0-3012-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUu8iUFU8E9OxgzebnZ6HTNqZtREpqFSaDHEAH25iYyZIWEuUSGoXL6GyVTdWmirkxv5alpLVutThtS0AYFr26tVxqyAuVCMz_ry.jpg?r=b55"
             }
           },
           {
@@ -186,7 +183,14 @@
             "season": null,
             "rank": 1,
             "previous_rank": null,
-            "weeks_in_top10": 1
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/82106490?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires. By Lee Chang-dong (\"Burning\").",
+              "synopsis_language": "en"
+            }
           },
           {
             "id": "Films:Collision Course|N/A",
@@ -194,7 +198,14 @@
             "season": null,
             "rank": 2,
             "previous_rank": 6,
-            "weeks_in_top10": 2
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/82078375?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
+              "synopsis_language": "en"
+            }
           },
           {
             "id": "Films:One Year to Live, Buy a Man|N/A",
@@ -202,7 +213,14 @@
             "season": null,
             "rank": 3,
             "previous_rank": null,
-            "weeks_in_top10": 1
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/81505776?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected turn.",
+              "synopsis_language": "en"
+            }
           },
           {
             "id": "Films:The Hobbit: An Unexpected Journey|N/A",
@@ -210,7 +228,14 @@
             "season": null,
             "rank": 4,
             "previous_rank": null,
-            "weeks_in_top10": 1
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/70226288?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "In this prequel to the \"Lord of the Rings\" trilogy, Bilbo Baggins joins a hardy group of dwarves on a dangerous quest to reclaim their lost kingdom.",
+              "synopsis_language": "en"
+            }
           },
           {
             "id": "Films:The Hobbit: The Battle of the Five Armies|N/A",
@@ -218,7 +243,14 @@
             "season": null,
             "rank": 5,
             "previous_rank": null,
-            "weeks_in_top10": 1
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/70305930?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "Bilbo and the dwarves come under a final attack as armies from across Middle-earth converge on the Lonely Mountain to claim Smaug's hoard of gold.",
+              "synopsis_language": "en"
+            }
           },
           {
             "id": "Films:The Hobbit: The Desolation of Smaug|N/A",
@@ -226,7 +258,14 @@
             "season": null,
             "rank": 6,
             "previous_rank": null,
-            "weeks_in_top10": 1
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/70281532?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "Thorin and his band of dwarves flee the Orcs, pushing Bilbo toward a confrontation with the dragon Smaug in the second installment of the Hobbit saga.",
+              "synopsis_language": "en"
+            }
           },
           {
             "id": "Films:Me Before You|N/A",
@@ -234,7 +273,14 @@
             "season": null,
             "rank": 7,
             "previous_rank": null,
-            "weeks_in_top10": 1
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/80043744?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "Vivacious, unassuming Lou faces pointed questions of the heart when she takes a job caring for a wealthy, cynical bachelor paralyzed in an accident.",
+              "synopsis_language": "en"
+            }
           },
           {
             "id": "Films:Heist|N/A",
@@ -242,7 +288,14 @@
             "season": null,
             "rank": 8,
             "previous_rank": null,
-            "weeks_in_top10": 1
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/60020557?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "Master thief Joe Moore is blackmailed by his longtime partner into taking his nephew on one last dubious job: hitting a Swiss cargo plane full of gold.",
+              "synopsis_language": "en"
+            }
           },
           {
             "id": "Films:Nowhere to Run|N/A",
@@ -250,7 +303,14 @@
             "season": null,
             "rank": 9,
             "previous_rank": 4,
-            "weeks_in_top10": 2
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/814862?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "After his wrongful conviction for murder, Sam escapes from prison and finds refuge with widowed Clydie and her two children at their isolated farm.",
+              "synopsis_language": "en"
+            }
           },
           {
             "id": "Films:The Ultimate Duo|N/A",
@@ -258,10 +318,20 @@
             "season": null,
             "rank": 10,
             "previous_rank": 2,
-            "weeks_in_top10": 7
+            "weeks_in_top10": 7,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/81949585?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "종결된 살인 사건의 용의자를 체포한 베테랑 형사와 인플루언서 출신 경찰이 진범을 찾아 서울로 향한다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "After arresting a key suspect in an already closed murder case, a veteran detective and an influencer-turned-cop visit Seoul to uncover the real killer.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
           }
         ]
-      }
+      },
+      "previous_available": true
     },
     {
       "week": "2026-11-01",
@@ -294,13 +364,11 @@
             "previous_rank": null,
             "weeks_in_top10": 1,
             "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/81997887?locale=ko-KR",
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
               "title_url": "https://www.netflix.com/kr/title/81997887?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/81997887?locale=ko-KR",
-              "synopsis": "빚에 쫓기던 청년 혁준 앞에 나타난 수상한 인력사무소. 시급은 최소 50배, 살아서 퇴근하면 다음엔 더 많이 준다? 가난에서 벗어나기 위해 오늘도 그는 알바 자리를 수락한다.",
-              "synopsis_language": "ko",
-              "local_title": "꿀알바",
-              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABb5e8KBDH9k1y_AE8VBWQ3uzLC854Hn6ZJhotDZewMZJ3PtijxT_keIEdc0zrz0upf4Wm-21zNobiI5fFjpSuJ8PVnEet1GloyTa.jpg?r=7d7"
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+              "synopsis_language": "en"
             }
           },
           {
@@ -317,7 +385,7 @@
               "synopsis": "자유를 찾아 미국행을 꿈꾸던 경성 최고의 소매치기. 조선총독부에 잠입해 기밀을 훔치는 임무를 맡게 된 그녀는 뜻밖에도 표적의 아들과 사랑에 빠지고 만다.",
               "synopsis_language": "ko",
               "local_title": "100일의 거짓말",
-              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/49fe-tX-KLvZWnfwQODtx3bCpWU/AAAABetQ05HSSmikv5jkhFTawEHuDhxxOKWe9VHT0-UaZzgfzjcPKQ_PL7t8lKv5ILdrygtmygLL.jpg"
+              "image_url": "https://occ-0-3012-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABbjaHdvkvOI9jYdxPopZ1d16mk0cKKql5lmESExNt3xm5Ao9hRh0hqZpUIJ4TgjYX8KlrMhRcLHNTVTw52PXCkjQdJq1bgCH7I4i.jpg?r=4a1"
             }
           },
           {
@@ -335,7 +403,7 @@
               "synopsis_language": "ko",
               "local_title": "나는 솔로",
               "kind": "예능",
-              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUu8iUFU8E9OxgzebnZ6HTNqZtREpqFSaDHEAH25iYyZIWEuUSGoXL6GyVTdWmirkxv5alpLVutThtS0AYFr26tVxqyAuVCMz_ry.jpg?r=b55"
+              "image_url": "https://occ-0-3012-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUu8iUFU8E9OxgzebnZ6HTNqZtREpqFSaDHEAH25iYyZIWEuUSGoXL6GyVTdWmirkxv5alpLVutThtS0AYFr26tVxqyAuVCMz_ry.jpg?r=b55"
             }
           },
           {
@@ -464,7 +532,16 @@
             "season": null,
             "rank": 2,
             "previous_rank": 5,
-            "weeks_in_top10": 6
+            "weeks_in_top10": 6,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/81949585?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "종결된 살인 사건의 용의자를 체포한 베테랑 형사와 인플루언서 출신 경찰이 진범을 찾아 서울로 향한다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "After arresting a key suspect in an already closed murder case, a veteran detective and an influencer-turned-cop visit Seoul to uncover the real killer.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
           },
           {
             "id": "Films:Drop|N/A",
@@ -480,7 +557,14 @@
             "season": null,
             "rank": 4,
             "previous_rank": null,
-            "weeks_in_top10": 1
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/814862?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "After his wrongful conviction for murder, Sam escapes from prison and finds refuge with widowed Clydie and her two children at their isolated farm.",
+              "synopsis_language": "en"
+            }
           },
           {
             "id": "Films:The Eyes|N/A",
@@ -496,7 +580,14 @@
             "season": null,
             "rank": 6,
             "previous_rank": null,
-            "weeks_in_top10": 1
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/82078375?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
+              "synopsis_language": "en"
+            }
           },
           {
             "id": "Films:Evil Dead Burn|N/A",
@@ -579,7 +670,7 @@
               "synopsis": "자유를 찾아 미국행을 꿈꾸던 경성 최고의 소매치기. 조선총독부에 잠입해 기밀을 훔치는 임무를 맡게 된 그녀는 뜻밖에도 표적의 아들과 사랑에 빠지고 만다.",
               "synopsis_language": "ko",
               "local_title": "100일의 거짓말",
-              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/49fe-tX-KLvZWnfwQODtx3bCpWU/AAAABetQ05HSSmikv5jkhFTawEHuDhxxOKWe9VHT0-UaZzgfzjcPKQ_PL7t8lKv5ILdrygtmygLL.jpg"
+              "image_url": "https://occ-0-3012-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABbjaHdvkvOI9jYdxPopZ1d16mk0cKKql5lmESExNt3xm5Ao9hRh0hqZpUIJ4TgjYX8KlrMhRcLHNTVTw52PXCkjQdJq1bgCH7I4i.jpg?r=4a1"
             }
           },
           {
@@ -597,7 +688,7 @@
               "synopsis_language": "ko",
               "local_title": "나는 솔로",
               "kind": "예능",
-              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUu8iUFU8E9OxgzebnZ6HTNqZtREpqFSaDHEAH25iYyZIWEuUSGoXL6GyVTdWmirkxv5alpLVutThtS0AYFr26tVxqyAuVCMz_ry.jpg?r=b55"
+              "image_url": "https://occ-0-3012-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUu8iUFU8E9OxgzebnZ6HTNqZtREpqFSaDHEAH25iYyZIWEuUSGoXL6GyVTdWmirkxv5alpLVutThtS0AYFr26tVxqyAuVCMz_ry.jpg?r=b55"
             }
           },
           {
@@ -768,7 +859,16 @@
             "season": null,
             "rank": 5,
             "previous_rank": 6,
-            "weeks_in_top10": 5
+            "weeks_in_top10": 5,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/81949585?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "종결된 살인 사건의 용의자를 체포한 베테랑 형사와 인플루언서 출신 경찰이 진범을 찾아 서울로 향한다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "After arresting a key suspect in an already closed murder case, a veteran detective and an influencer-turned-cop visit Seoul to uncover the real killer.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
           },
           {
             "id": "Films:Surviving Hurricane Otis|N/A",
@@ -878,7 +978,7 @@
               "synopsis": "자유를 찾아 미국행을 꿈꾸던 경성 최고의 소매치기. 조선총독부에 잠입해 기밀을 훔치는 임무를 맡게 된 그녀는 뜻밖에도 표적의 아들과 사랑에 빠지고 만다.",
               "synopsis_language": "ko",
               "local_title": "100일의 거짓말",
-              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/49fe-tX-KLvZWnfwQODtx3bCpWU/AAAABetQ05HSSmikv5jkhFTawEHuDhxxOKWe9VHT0-UaZzgfzjcPKQ_PL7t8lKv5ILdrygtmygLL.jpg"
+              "image_url": "https://occ-0-3012-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABbjaHdvkvOI9jYdxPopZ1d16mk0cKKql5lmESExNt3xm5Ao9hRh0hqZpUIJ4TgjYX8KlrMhRcLHNTVTw52PXCkjQdJq1bgCH7I4i.jpg?r=4a1"
             }
           },
           {
@@ -896,7 +996,7 @@
               "synopsis_language": "ko",
               "local_title": "나는 솔로",
               "kind": "예능",
-              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUu8iUFU8E9OxgzebnZ6HTNqZtREpqFSaDHEAH25iYyZIWEuUSGoXL6GyVTdWmirkxv5alpLVutThtS0AYFr26tVxqyAuVCMz_ry.jpg?r=b55"
+              "image_url": "https://occ-0-3012-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUu8iUFU8E9OxgzebnZ6HTNqZtREpqFSaDHEAH25iYyZIWEuUSGoXL6GyVTdWmirkxv5alpLVutThtS0AYFr26tVxqyAuVCMz_ry.jpg?r=b55"
             }
           },
           {
@@ -1054,7 +1154,16 @@
             "season": null,
             "rank": 6,
             "previous_rank": 2,
-            "weeks_in_top10": 4
+            "weeks_in_top10": 4,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/81949585?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "종결된 살인 사건의 용의자를 체포한 베테랑 형사와 인플루언서 출신 경찰이 진범을 찾아 서울로 향한다.",
+              "synopsis_language": "ko",
+              "original_synopsis": "After arresting a key suspect in an already closed murder case, a veteran detective and an influencer-turned-cop visit Seoul to uncover the real killer.",
+              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
+            }
           },
           {
             "id": "Films:Novocaine|N/A",
