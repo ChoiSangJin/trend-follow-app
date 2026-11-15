@@ -2,29 +2,36 @@
   "schema_version": 3,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-15T06:34:29.908669Z",
+  "updated_at": "2026-11-15T18:49:41.964846Z",
   "cards": [
     {
       "id": "ba6e47021d4697d88c23",
       "category": "문화·예술",
-      "title": "국립현대미술관 신임 관장에 기혜경 부교수",
-      "summary": "국립현대미술관 신임 관장에 기혜경 부교수",
-      "why_now": "수집 범위에서 관련 보도 20개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 26시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘국립현대미술관 신임 관장에 기혜경 부교수’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "title": "국립현대미술관장에 기혜경 교수",
+      "summary": "국립현대미술관장에 기혜경 교수",
+      "why_now": "수집 범위에서 관련 보도 19개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 59시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘국립현대미술관장에 기혜경 교수’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-      "source": "아시아경제",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91NUdreU9ONVhfbnJ4ZHBYMDNNLUlQM09SVVU0S2taUWQ2LTd1U0FmRTJFX0ZpbWZYdWdaZTdYZ05xcUZnYjhmU2VweWhzNjFXWjRxTjRmMWdhOTFrTURWVA?oc=5",
-      "published_at": "2026-11-13T01:04:45Z",
+      "source": "경향신문",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sXzI1RkFLMlVvNTJxX1RoTmxjLUozOTZZbllNLUoyTnc2WXRsMFA0SjBOem9mSXBmNVlBUVdtRDAxRUY2MkR2N0hRZEhlOFoxZldaZHQ2UGVJMFNaSlJJ0gFfQVVfeXFMT2xfMjVGQUsyVW81MnFfVGhObGMtSjM5NlluWU0tSjJOdzZZdGwwUDRKME56b2ZJcGY1WUFRV21EMDFFRjYyRHY3SFFkSGU4WjFmV1pkdDZQZUkwU1pKUkk?oc=5",
+      "published_at": "2026-11-15T11:13:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 7,
-        "report_count": 20,
-        "span_hours": 26.9,
+        "source_groups": 6,
+        "report_count": 19,
+        "span_hours": 59.0,
         "first_report_at": "2026-11-13T00:15:00Z",
-        "last_report_at": "2026-11-14T03:07:00Z",
+        "last_report_at": "2026-11-15T11:13:00Z",
         "first_report_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWSXliOHd0QVpVZzdwQ0hmOUJkZGtURTFLTm8wX01iQ3IycHlPQ1AwV3o5NkhTc3pnd1ljSFlwQnkzQk1oQXlvNEExYUV0MW5fV3NZY1lCeTBrZm1XVlVBMDlGVzVKYWYwVHl3bXRkYmxrZw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CRXJ2RGdtaEpaRFYxdGZfcl9aME9mZ1NtY0d6UU9sRUtIQ1JZeVZDSkVKMWlDX0ZtS054cjN1U1RXVHpiN2tEaFBMSGlPTjZ5MUxVazZoaEJaZFZNamFXMjIxMXdJbWpzb012dml3QWRsUQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBncUNfQlp0d0stS2hCNHUwQmRZTzFFUEotcE0wVjRFQzVFalRIUGFma0xTbHByVEJWMTNmVndKRG90bVNwVlFqeXhUMW10bGVxakxhbkxtNmhqZw?oc=5",
         "sources": [
+          {
+            "name": "경향신문",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sXzI1RkFLMlVvNTJxX1RoTmxjLUozOTZZbllNLUoyTnc2WXRsMFA0SjBOem9mSXBmNVlBUVdtRDAxRUY2MkR2N0hRZEhlOFoxZldaZHQ2UGVJMFNaSlJJ0gFfQVVfeXFMT2xfMjVGQUsyVW81MnFfVGhObGMtSjM5NlluWU0tSjJOdzZZdGwwUDRKME56b2ZJcGY1WUFRV21EMDFFRjYyRHY3SFFkSGU4WjFmV1pkdDZQZUkwU1pKUkk?oc=5",
+            "published_at": "2026-11-15T11:13:00Z",
+            "headline": "국립현대미술관장에 기혜경 교수"
+          },
           {
             "name": "한겨레",
             "group": "hani.co.kr",
@@ -38,13 +45,6 @@
             "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qSG5MOXVQWVRCZTY1bWh3TGo3NEtuSU1NS1A1NTJkMmNuV1dUTUo5QlFMT3JLMWtzMER4b0UyeV9FajVtY2Q1ZHdqbHZHZWxsU1p4cVZhVURsVzZ2Rl8wTEZGWHhVNG4tT1FB0gFwQVVfeXFMTi16TW5tLU5BN08tU3pnbmlLOFJTTEZpUXRPNHhHc3RPMVpRblNUZ080ZHJNQ3BRcF9salRHRUFSZVRuZ1lIQUIwbk1nMW94bS04dEdLek9Sc0U1bG1vUHA2SXhhNGEwbVE5dnpVb1cxbQ?oc=5",
             "published_at": "2026-11-13T16:50:35Z",
             "headline": "국립현대미술관 새 관장에 기혜경 교수…'미술사 전문가' - 머니투데이"
-          },
-          {
-            "name": "동아일보",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WM0toSU04Qjl1UkZEMGRyN19xZWRNR2R4Z3Rta1g2T3BBN1pBVGhaOUdSd1lUVG9qaDNhaGcwNlc1d2VDckJrbGFja0p1VmlSaFhJejZRbFlMMEp2M29jcmc0S2UtVHdMX1hEYnJGd19jUGF10gFmQVVfeXFMUFpWazBsc0FDWGlvemlWaXNtTXNPbmZzbTlSS05sZU5NX3h1MXR1b2NXNGlybTE5SmpxMTU1NkpRSVZSNjlyWlN3eUM2WlNjUFhPU0NtNlpQNDBnaGxVY0huSGdDc0Jn?oc=5",
-            "published_at": "2026-11-13T16:40:00Z",
-            "headline": "국립현대미술관장에 기혜경 교수"
           },
           {
             "name": "문화일보",
@@ -61,13 +61,6 @@
             "headline": "국립현대미술관 신임 관장 기혜경…최휘영 장관 “현장·학계 두루 거쳐”"
           },
           {
-            "name": "아시아경제",
-            "group": "asiae.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91NUdreU9ONVhfbnJ4ZHBYMDNNLUlQM09SVVU0S2taUWQ2LTd1U0FmRTJFX0ZpbWZYdWdaZTdYZ05xcUZnYjhmU2VweWhzNjFXWjRxTjRmMWdhOTFrTURWVA?oc=5",
-            "published_at": "2026-11-13T01:04:45Z",
-            "headline": "국립현대미술관 신임 관장에 기혜경 부교수"
-          },
-          {
             "name": "지디넷코리아",
             "group": "zdnet.co.kr",
             "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3Yjkzck9mV09BUmYySEZYX0pXRUJkQzB0OGhQWFdvRGZSS04tVEMzZVg0cUo2UHlWRElxUVY3aXIyNWhSSVQxdzJzNUVVeG9Ia0swR3p3?oc=5",
@@ -79,39 +72,39 @@
       "selection_rank": 1
     },
     {
-      "id": "69d28b6eac2050d8bfe3",
+      "id": "bfc873422bf9277d737e",
       "category": "문화·예술",
-      "title": "100살 넘은 은행나무에 제초제 주입…환기미술관장 등 3명 재물손괴로 송치",
-      "summary": "100살 넘은 은행나무에 제초제 주입…환기미술관장 등 3명 재물손괴로 송치",
-      "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 43시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘100살 넘은 은행나무에 제초제 주입…환기미술관장 등 3명 재물손괴로 송치’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "title": "‘100살 은행나무’ 독살 의혹…부암동 환기미술관장 송치",
+      "summary": "‘100살 은행나무’ 독살 의혹…부암동 환기미술관장 송치",
+      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 30시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘‘100살 은행나무’ 독살 의혹…부암동 환기미술관장 송치’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-      "source": "한겨레",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3MUlQazhzOEllMm1iTmlfdVAtNmxHeGZPbWpUNkFsSGhjbHdWVlZrYl8zNGcxeXpJSUk5cGM4bjNSWGx1YjlTbkkwYV85QU1mcmdycmFGVnUwNXA2bTRxeS1pUDVLUVh2UjhwNG5LbkFYUQ?oc=5",
-      "published_at": "2026-11-13T01:32:00Z",
+      "source": "국민일보",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wdVZLUmJVdnRwUmdadjFWdEE2ZGZ3VHR4LVg5Yjg3Zm5PNi14MkFacnlVTUxWZ0dVYUNVVXoyUTRjWXpoSXZYQ1ptcGdnNWJFeEF5WUlGQXo?oc=5",
+      "published_at": "2026-11-13T00:29:13Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 4,
-        "report_count": 6,
-        "span_hours": 43.9,
-        "first_report_at": "2026-11-13T01:32:00Z",
-        "last_report_at": "2026-11-14T21:23:48Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3MUlQazhzOEllMm1iTmlfdVAtNmxHeGZPbWpUNkFsSGhjbHdWVlZrYl8zNGcxeXpJSUk5cGM4bjNSWGx1YjlTbkkwYV85QU1mcmdycmFGVnUwNXA2bTRxeS1pUDVLUVh2UjhwNG5LbkFYUQ?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04NVA3QVYtelR6NEtWelJmUGo0ZVdwdWF5OFZhVDBFVWJiS1ZTbGx6ZUJ4YzViN1k4RlFCaFFzZ3hVZS1LeXhKU0I1RWgzaUNBSmpZ?oc=5",
+        "report_count": 5,
+        "span_hours": 30.7,
+        "first_report_at": "2026-11-13T00:29:13Z",
+        "last_report_at": "2026-11-14T07:11:35Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wdVZLUmJVdnRwUmdadjFWdEE2ZGZ3VHR4LVg5Yjg3Zm5PNi14MkFacnlVTUxWZ0dVYUNVVXoyUTRjWXpoSXZYQ1ptcGdnNWJFeEF5WUlGQXo?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vNEV6aGJWSWdoZ0NQWS10cG95a2NBY3hIOTFWLXlCOTk4YV93NWFrOTFkbE8tbG94X0NtcHNtb0pnbHR1Y012TS1OTld1Y3pnUldhcHQxUWjSAVRBVV95cUxQUXpjbFV0S2N5VDFaNURmVUc2NFBGM0VkTkhVYk5SQXNQeURtMlYwa1o1am5STGdlV2NFYUNjNHFGZjNhUzhGMFM2NTFoYlY1azlOb2I?oc=5",
         "sources": [
-          {
-            "name": "JTBC",
-            "group": "jtbc.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04NVA3QVYtelR6NEtWelJmUGo0ZVdwdWF5OFZhVDBFVWJiS1ZTbGx6ZUJ4YzViN1k4RlFCaFFzZ3hVZS1LeXhKU0I1RWgzaUNBSmpZ?oc=5",
-            "published_at": "2026-11-14T21:23:48Z",
-            "headline": "\"100살 은행나무 독살 했다\"…경찰, 재물손괴 혐의 미술관장 송치"
-          },
           {
             "name": "세계일보",
             "group": "imbc.com",
             "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9vNEV6aGJWSWdoZ0NQWS10cG95a2NBY3hIOTFWLXlCOTk4YV93NWFrOTFkbE8tbG94X0NtcHNtb0pnbHR1Y012TS1OTld1Y3pnUldhcHQxUWjSAVRBVV95cUxQUXpjbFV0S2N5VDFaNURmVUc2NFBGM0VkTkhVYk5SQXNQeURtMlYwa1o1am5STGdlV2NFYUNjNHFGZjNhUzhGMFM2NTFoYlY1azlOb2I?oc=5",
             "published_at": "2026-11-14T07:11:35Z",
             "headline": "100년 넘은 은행나무에 제초제…환기미술관장 등 3명 송치"
+          },
+          {
+            "name": "JTBC",
+            "group": "jtbc.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16SjI3aDFRaGtmcUZ3SWppSnNSODdaUHVVMzUxcEV4Y1g3d2hMRkdtVWNwM1Bra2p0c1VBS0lldjRNczNveHMyUVhmM1U4TkhINHJPSA?oc=5",
+            "published_at": "2026-11-13T05:48:00Z",
+            "headline": "\"100살 은행나무 독살\"…경찰, 재물손괴 혐의 미술관장 송치"
           },
           {
             "name": "연합뉴스",
@@ -121,116 +114,100 @@
             "headline": "'은행나무 독살' 의혹 부암동 환기미술관장 재물손괴로 송치"
           },
           {
-            "name": "한겨레",
-            "group": "hani.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3MUlQazhzOEllMm1iTmlfdVAtNmxHeGZPbWpUNkFsSGhjbHdWVlZrYl8zNGcxeXpJSUk5cGM4bjNSWGx1YjlTbkkwYV85QU1mcmdycmFGVnUwNXA2bTRxeS1pUDVLUVh2UjhwNG5LbkFYUQ?oc=5",
-            "published_at": "2026-11-13T01:32:00Z",
-            "headline": "100살 넘은 은행나무에 제초제 주입…환기미술관장 등 3명 재물손괴로 송치"
+            "name": "국민일보",
+            "group": "kmib.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wdVZLUmJVdnRwUmdadjFWdEE2ZGZ3VHR4LVg5Yjg3Zm5PNi14MkFacnlVTUxWZ0dVYUNVVXoyUTRjWXpoSXZYQ1ptcGdnNWJFeEF5WUlGQXo?oc=5",
+            "published_at": "2026-11-13T00:29:13Z",
+            "headline": "‘100살 은행나무’ 독살 의혹…부암동 환기미술관장 송치"
           }
         ]
       },
       "selection_rank": 2
     },
     {
-      "id": "805ec14d592790aa75a2",
+      "id": "92a8eea0f90fda18baa5",
       "category": "연예",
-      "title": "더보이즈 9인, 12월 단독 콘서트 연다",
-      "summary": "더보이즈 9인, 12월 단독 콘서트 연다",
-      "why_now": "이전 수집(11.15 07:21 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘더보이즈 9인, 12월 단독 콘서트 연다’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "title": "이창민, 15일 신곡 ‘어데가노’ 발매…보사노바 녹인 감성 트로트",
+      "summary": "이창민, 15일 신곡 ‘어데가노’ 발매…보사노바 녹인 감성 트로트",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘이창민, 15일 신곡 ‘어데가노’ 발매…보사노바 녹인 감성 트로트’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
       "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "JTBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YZG1JazVJSEFGaWFsanNVaThpdzdFUVhyblZ3ZXhKS1hhdWNScTRjalRvaHkyMUVPZ2hKNWhhaFZuVUdrTHhEdFk1cjc1bWstelo4TQ?oc=5",
-      "published_at": "2026-11-14T02:22:05Z",
+      "source": "동아일보",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HOTloYWRKQlo5ZEhzQUs0YTg2NGlKTXFXbUNiMFZPRG01OThqRnFwU3dxUlRGSjd4T0s2UnVCTGp3VFdGRlN6WWZIVnIwQ0ZMR1Fyb2pUQ3FfYVY2Y1dnX1B0SnZxOGFzWGtxaHc0YTZDU2lrZzZzZUVFaUEyd9IBZkFVX3lxTE1lSERDSDhhck9heFZRNkZsMFJEbEZqM2g5LWVKQWtfdFBkU0tKZnBrLUV6ZGpkVHRUVHRpVndueG5MZzBxckhNTVkxaXhCM1Z3QVRHWGsxRjZlQTg0WTNVLVdKaGlHQQ?oc=5",
+      "published_at": "2026-11-15T09:12:57Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 3,
-        "report_count": 3,
-        "span_hours": 9.4,
-        "first_report_at": "2026-11-14T02:00:00Z",
-        "last_report_at": "2026-11-14T11:21:51Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hTXZJaWd4Qlp6WnIxNXM3NWI5VUtYTmd4dndnSWdqT1lvQmYyOFhTRHBMSXhfUTBSRHc2ckJmdlFXdzJ1MXdHYU00clZaU1lPdkdiSTVoWWZydl91NlVwNNIBeEFVX3lxTE1fb1VJRFhtY3gyU1NEaHQyaHMxQjhQSTM4X2ZfQ0FnTmhxbktGa1ZjZzJiclRtSF9ZSkRTa1ZqZGdnUzdlV2x6ZU9KclRXdHdUbC1zNzRzc2RNb3pacXNCa2FNV3d2MkFHb1lsYVlSMGFjcUEzOWlrXw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wbXd4U01XdUlGNzAyZEgxX2pvY0hOUHlZSmtJX0dvajFCVVJGTTNsdk1ubVBrMmV3U25WUDhZRzNrVHJST0JKX3RnWXB2dExkME84a19xZGd1azdhSmdJYmpUaVg1VV8tNDlfOGV3?oc=5",
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 6.9,
+        "first_report_at": "2026-11-15T02:16:02Z",
+        "last_report_at": "2026-11-15T09:12:57Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RWHlDZWtJZmNGMy1mV1c2aWlodGoybzcyaTEwYWN3dFlJTE5yUHphbE42Z1dtakZSWmRpM29mMkc4SGVTazM5VEVWODk1V1ZF?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HOTloYWRKQlo5ZEhzQUs0YTg2NGlKTXFXbUNiMFZPRG01OThqRnFwU3dxUlRGSjd4T0s2UnVCTGp3VFdGRlN6WWZIVnIwQ0ZMR1Fyb2pUQ3FfYVY2Y1dnX1B0SnZxOGFzWGtxaHc0YTZDU2lrZzZzZUVFaUEyd9IBZkFVX3lxTE1lSERDSDhhck9heFZRNkZsMFJEbEZqM2g5LWVKQWtfdFBkU0tKZnBrLUV6ZGpkVHRUVHRpVndueG5MZzBxckhNTVkxaXhCM1Z3QVRHWGsxRjZlQTg0WTNVLVdKaGlHQQ?oc=5",
         "sources": [
+          {
+            "name": "동아일보",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HOTloYWRKQlo5ZEhzQUs0YTg2NGlKTXFXbUNiMFZPRG01OThqRnFwU3dxUlRGSjd4T0s2UnVCTGp3VFdGRlN6WWZIVnIwQ0ZMR1Fyb2pUQ3FfYVY2Y1dnX1B0SnZxOGFzWGtxaHc0YTZDU2lrZzZzZUVFaUEyd9IBZkFVX3lxTE1lSERDSDhhck9heFZRNkZsMFJEbEZqM2g5LWVKQWtfdFBkU0tKZnBrLUV6ZGpkVHRUVHRpVndueG5MZzBxckhNTVkxaXhCM1Z3QVRHWGsxRjZlQTg0WTNVLVdKaGlHQQ?oc=5",
+            "published_at": "2026-11-15T09:12:57Z",
+            "headline": "이창민, 15일 신곡 ‘어데가노’ 발매…보사노바 녹인 감성 트로트"
+          },
+          {
+            "name": "문화일보",
+            "group": "munhwa.com",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RWHlDZWtJZmNGMy1mV1c2aWlodGoybzcyaTEwYWN3dFlJTE5yUHphbE42Z1dtakZSWmRpM29mMkc4SGVTazM5VEVWODk1V1ZF?oc=5",
+            "published_at": "2026-11-15T02:16:02Z",
+            "headline": "‘트로트 병행’ 이창민, 신곡 ‘어데가노’ 15일 발매"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "8727f83b4d6e0116be99",
+      "category": "연예",
+      "title": "'데뷔 8년차' 투바투 \"후배 아이돌이 신뢰할 만한 롤모델 되고파\"",
+      "summary": "'데뷔 8년차' 투바투 \"후배 아이돌이 신뢰할 만한 롤모델 되고파\"",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘'데뷔 8년차' 투바투 \"후배 아이돌이 신뢰할 만한 롤모델 되고파\"’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
+      "source": "뉴스1",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BcHhDYU9SZXNES3Nfd0wxQlZFcEFwbDZoYzlUN3dwWUZqaXBxb2RQdzUtY2VENmpOWTJ4Ul9JUU1HNFBKQ0FLSFYzU213OG5fLUlfRG5JYw?oc=5",
+      "published_at": "2026-11-15T07:23:56Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 0.6,
+        "first_report_at": "2026-11-15T06:46:35Z",
+        "last_report_at": "2026-11-15T07:23:56Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sLWRHdGdYbEI3X3pGOHJGOVhDQXpZOE5fejUzNUR0WWNqbUxDS1B4UjVGeDNVVWluVGZMdk13eVlzNllSQTRTUVBJVHY3NG8tNFhhQzVKV3Y1SjUzMDR5MjdSdmEtV0dZVU5qS3dn?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BcHhDYU9SZXNES3Nfd0wxQlZFcEFwbDZoYzlUN3dwWUZqaXBxb2RQdzUtY2VENmpOWTJ4Ul9JUU1HNFBKQ0FLSFYzU213OG5fLUlfRG5JYw?oc=5",
+        "sources": [
+          {
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BcHhDYU9SZXNES3Nfd0wxQlZFcEFwbDZoYzlUN3dwWUZqaXBxb2RQdzUtY2VENmpOWTJ4Ul9JUU1HNFBKQ0FLSFYzU213OG5fLUlfRG5JYw?oc=5",
+            "published_at": "2026-11-15T07:23:56Z",
+            "headline": "'데뷔 8년차' 투바투 \"후배 아이돌이 신뢰할 만한 롤모델 되고파\""
+          },
           {
             "name": "스포츠동아",
             "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wbXd4U01XdUlGNzAyZEgxX2pvY0hOUHlZSmtJX0dvajFCVVJGTTNsdk1ubVBrMmV3U25WUDhZRzNrVHJST0JKX3RnWXB2dExkME84a19xZGd1azdhSmdJYmpUaVg1VV8tNDlfOGV3?oc=5",
-            "published_at": "2026-11-14T11:21:51Z",
-            "headline": "더보이즈, 크리스마스에 9인 완전체 콘서트"
-          },
-          {
-            "name": "JTBC",
-            "group": "jtbc.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YZG1JazVJSEFGaWFsanNVaThpdzdFUVhyblZ3ZXhKS1hhdWNScTRjalRvaHkyMUVPZ2hKNWhhaFZuVUdrTHhEdFk1cjc1bWstelo4TQ?oc=5",
-            "published_at": "2026-11-14T02:22:05Z",
-            "headline": "더보이즈 9인, 12월 단독 콘서트 연다"
-          },
-          {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hTXZJaWd4Qlp6WnIxNXM3NWI5VUtYTmd4dndnSWdqT1lvQmYyOFhTRHBMSXhfUTBSRHc2ckJmdlFXdzJ1MXdHYU00clZaU1lPdkdiSTVoWWZydl91NlVwNNIBeEFVX3lxTE1fb1VJRFhtY3gyU1NEaHQyaHMxQjhQSTM4X2ZfQ0FnTmhxbktGa1ZjZzJiclRtSF9ZSkRTa1ZqZGdnUzdlV2x6ZU9KclRXdHdUbC1zNzRzc2RNb3pacXNCa2FNV3d2MkFHb1lsYVlSMGFjcUEzOWlrXw?oc=5",
-            "published_at": "2026-11-14T02:00:00Z",
-            "headline": "더보이즈, 9인 체제 본격화…12월 KSPO돔서 단독 콘서트"
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sLWRHdGdYbEI3X3pGOHJGOVhDQXpZOE5fejUzNUR0WWNqbUxDS1B4UjVGeDNVVWluVGZMdk13eVlzNllSQTRTUVBJVHY3NG8tNFhhQzVKV3Y1SjUzMDR5MjdSdmEtV0dZVU5qS3dn?oc=5",
+            "published_at": "2026-11-15T06:46:35Z",
+            "headline": "TXT “8년 차=고연차…후배들에게 롤모델 되는 아이돌 되고파”"
           }
         ]
       },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-14T22:21:09.081464Z"
-    },
-    {
-      "id": "3e0bd05dc5a4f9a7d003",
-      "category": "연예",
-      "title": "고경표 음주운전에 예능 비상…'놀뭐'·'대탈출'·'보검 매직컬2' 직격탄",
-      "summary": "고경표 음주운전에 예능 비상…'놀뭐'·'대탈출'·'보검 매직컬2' 직격탄",
-      "why_now": "이전 수집(11.15 07:21 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘고경표 음주운전에 예능 비상…'놀뭐'·'대탈출'·'보검 매직컬2' 직격탄’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "뉴시스",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MTEljUllMbkwxUnJYWG9yUFVNaUNqaWduVlhJeDNMVTd5WXpqSzNPSS0xS2Nmc2c0TDdjYnpVM01uVm1odW9KUzBSaVlGOFF1RjhhNDFsX3Z4YWdyRkNhRNIBeEFVX3lxTFBSbVdXa00zWG11ZVJib3VPbEU3OENmOVRLNklTb24tS0VseDloeFI2bjQtRC10UmlyODA0VVp3SzI4dXFQTnZvTGV0Q0RDWjZRYVRndmppWWgxTHVCY3hURWxIeFF3MXMwMXRZemhlOVNQZTZ2dC1jLQ?oc=5",
-      "published_at": "2026-11-14T02:17:34Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 3,
-        "report_count": 3,
-        "span_hours": 7.7,
-        "first_report_at": "2026-11-14T02:17:34Z",
-        "last_report_at": "2026-11-14T10:01:05Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MTEljUllMbkwxUnJYWG9yUFVNaUNqaWduVlhJeDNMVTd5WXpqSzNPSS0xS2Nmc2c0TDdjYnpVM01uVm1odW9KUzBSaVlGOFF1RjhhNDFsX3Z4YWdyRkNhRNIBeEFVX3lxTFBSbVdXa00zWG11ZVJib3VPbEU3OENmOVRLNklTb24tS0VseDloeFI2bjQtRC10UmlyODA0VVp3SzI4dXFQTnZvTGV0Q0RDWjZRYVRndmppWWgxTHVCY3hURWxIeFF3MXMwMXRZemhlOVNQZTZ2dC1jLQ?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XeWdldlZiRWxKNTFLX2Q0LThDZmZCYWpMOHlVSzlZdTR4U3pKSmtEWUZral9hSW5lTTVfSHFJU1R1UXoyZXFENlZDUVZraWhlV2NWRW40MlNpWHAwVHI3akJtQXYwUQ?oc=5",
-        "sources": [
-          {
-            "name": "매일경제",
-            "group": "mk.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XeWdldlZiRWxKNTFLX2Q0LThDZmZCYWpMOHlVSzlZdTR4U3pKSmtEWUZral9hSW5lTTVfSHFJU1R1UXoyZXFENlZDUVZraWhlV2NWRW40MlNpWHAwVHI3akJtQXYwUQ?oc=5",
-            "published_at": "2026-11-14T10:01:05Z",
-            "headline": "고경표 음주운전에 예능 5개 ‘날벼락’…방송가 통편집 ‘손절’ [종합]"
-          },
-          {
-            "name": "한국일보",
-            "group": "hankookilbo.com",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5RGZOaDI1UVpTZGRnUkJyS2NrWWtBZWdwZ3BNaGdyY3VqS2RCMnF2UDZaVUNxemdjRXNMNHljTjBsd09FcTR5NEZKRTFfMUs0eGI5OG9jWlJUUXZ4bFNlRmNzdjdHY0VEd3gxYWdn0gFzQVVfeXFMUGlkUGlCaldIVW9wT0ZySDRURzZIdnV2VllNbXUxZk53dWZEVk13VTdzMGY1bmRqT01ucy03SmtzeGp3OU44RC1hbURsX3p5YUVMOVgzV2ttaERCUXVoaFZURVgwdkVyYURJbE5tUldsRmRMOA?oc=5",
-            "published_at": "2026-11-14T07:55:00Z",
-            "headline": "고경표 음주운전 파장에 출연 예능 3편 편집 결정… '보검매직컬2' 어쩌나"
-          },
-          {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MTEljUllMbkwxUnJYWG9yUFVNaUNqaWduVlhJeDNMVTd5WXpqSzNPSS0xS2Nmc2c0TDdjYnpVM01uVm1odW9KUzBSaVlGOFF1RjhhNDFsX3Z4YWdyRkNhRNIBeEFVX3lxTFBSbVdXa00zWG11ZVJib3VPbEU3OENmOVRLNklTb24tS0VseDloeFI2bjQtRC10UmlyODA0VVp3SzI4dXFQTnZvTGV0Q0RDWjZRYVRndmppWWgxTHVCY3hURWxIeFF3MXMwMXRZemhlOVNQZTZ2dC1jLQ?oc=5",
-            "published_at": "2026-11-14T02:17:34Z",
-            "headline": "고경표 음주운전에 예능 비상…'놀뭐'·'대탈출'·'보검 매직컬2' 직격탄"
-          }
-        ]
-      },
-      "selection_rank": 2,
-      "last_collected_at": "2026-11-14T22:21:09.081464Z"
+      "selection_rank": 2
     },
     {
       "id": "a9814a8d01a41a4a6beb",
       "category": "스포츠",
       "title": "구자욱·원태인·홍창기 등 프로야구 FA 자격 선수 28명 공시",
       "summary": "구자욱·원태인·홍창기 등 프로야구 FA 자격 선수 28명 공시",
-      "why_now": "수집 범위에서 관련 보도 15개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 29시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 13개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 29시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘구자욱·원태인·홍창기 등 프로야구 FA 자격 선수 28명 공시’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
       "source": "뉴스1",
@@ -239,7 +216,7 @@
       "evidence": "headline",
       "coverage": {
         "source_groups": 6,
-        "report_count": 15,
+        "report_count": 13,
         "span_hours": 29.6,
         "first_report_at": "2026-11-13T06:18:00Z",
         "last_report_at": "2026-11-14T11:57:00Z",
@@ -256,7 +233,7 @@
           {
             "name": "KBS 뉴스",
             "group": "kbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wOXZkOEVQVlpQWXp0YUJFSVVvQUpvY05OcnJUcUNNZEZOM0t1MTVxZkM4Y3ByMlpMWk40ZG9OdTNPSW5CQTQxZkdzZVk3LS1pY01BRG9BRVB3eG8?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wSDBDU2lIOUVBakZrN0RCaU5kQ3dUN3NMUkJWdzZZcVhiQ0FrRHN6YXNxOUVHYXNYQUE5c01FUVpKMkVnSVJvbVBXNThUWUJrcDN1dDc3aTRiR0kwdkpNVURiaE1vQQ?oc=5",
             "published_at": "2026-11-13T07:48:00Z",
             "headline": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시"
           },
@@ -297,7 +274,7 @@
       "category": "스포츠",
       "title": "불화설 털어낸 손흥민과 ‘96라인’, 사우디전 선발 출전",
       "summary": "불화설 털어낸 손흥민과 ‘96라인’, 사우디전 선발 출전",
-      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 25시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 25시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘불화설 털어낸 손흥민과 ‘96라인’, 사우디전 선발 출전’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
       "source": "조선일보",
@@ -306,7 +283,7 @@
       "evidence": "headline",
       "coverage": {
         "source_groups": 5,
-        "report_count": 5,
+        "report_count": 6,
         "span_hours": 25.5,
         "first_report_at": "2026-11-12T22:05:01Z",
         "last_report_at": "2026-11-13T23:38:00Z",
@@ -321,11 +298,11 @@
             "headline": "불화설 뒤 입 연 태극전사들… 손흥민 “동료들에 미안” 황희찬 “왜곡된 말 힘들었다”"
           },
           {
-            "name": "동아일보",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83S1M0Q0F0MzhTMzlqTkV5RDV5Q1dPYUpHQmI3bUMwdmUwTVRVM1JnYnV6cjhkYUlDVzNLZHJLVndKSDRkZ0ZTTmZlaDRGZTA0anBNd0tyaHZGYkhCbGN4WWtBTk9BZDdzdE9SeWRMMWdQNks10gFmQVVfeXFMUGltNExHTnpmWkpFejlFZE5adlpuWjJYanNKUEFjRmRtUlhxSlR3OTdqbXNxRjBxeUVRbWpSTVB4TWJCT3lpSzlRUUVYdm5mLU9fbGdLN05hODlxYjM5aGMtbFNSQ3R3?oc=5",
-            "published_at": "2026-11-13T14:28:52Z",
-            "headline": "‘불화설’ 털어낸 손흥민·‘96라인 3인방’, 사우디전 나란히 선발 출격"
+            "name": "YTN",
+            "group": "ytn.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XNDJIM01fSTAwWm9uV1ZqekxVQXo4bGRBbVhZSVZxSGRIeW9ESnRqZE9OY0NtUUctbnZLTmdLWE50b1Nwc08zeGdkNkxDT2JiYWMwRzdhWlJfcVpINFE?oc=5",
+            "published_at": "2026-11-13T14:32:00Z",
+            "headline": "'불화설' 축구대표팀, 오늘 밤 사우디전...손흥민 \"경기력으로 보답\""
           },
           {
             "name": "조선일보",
@@ -337,9 +314,9 @@
           {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01Xzc0dVJyOUt6MXR1OTIzSXdnOEI3WjJjY3p0UnZPVkVCbkJJelFqS2loenhIQWtUVW1KWW5LQ08zTVMxWXBLTV92My1jdnZxNzJOcV9CdjhjWmtGVDNUUtIBYEFVX3lxTE01Xzc0dVJyOUt6MXR1OTIzSXdnOEI3WjJjY3p0UnZPVkVCbkJJelFqS2loenhIQWtUVW1KWW5LQ08zTVMxWXBLTV92My1jdnZxNzJOcV9CdjhjWmtGVDNUUg?oc=5",
-            "published_at": "2026-11-13T03:53:59Z",
-            "headline": "[스포츠엔터] 불화설에 입 연 손흥민 \"내려놓고 싶지만…\""
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tQV9qTGtEbG9ibVQ1cXN2OS13UWhEcXVkZ1ZUQjRiUUh2SjFNWkVYbHZIOHBwalhYekdVYVhCQ2hkMlJnT1pkajdqdXJTMkZSRmczMDJLXzJ0azjSAWBBVV95cUxPRDdpVERTa0hLbW1JV3JJTElRZU1xY1BULVdHNmRlTjdtZ29abFE2VUw0cjZFTVNPUS1HMFRSaWhYX2hlTGx2UU9XVTczM1lESUJWWk56QUtycnF5SkZWTGo?oc=5",
+            "published_at": "2026-11-13T13:15:01Z",
+            "headline": "불화설 떨쳐낸 손흥민과 '96라인', 사우디 격파 '선발 출격'"
           },
           {
             "name": "MBC 뉴스",
@@ -353,126 +330,163 @@
       "selection_rank": 2
     },
     {
-      "id": "7f249d2e7eba3801f5d1",
+      "id": "a6c1fccd3d6b1e75fdec",
       "category": "기술·과학",
-      "title": "‘AI 안경 의혹’ 세무사 수석 합격자…감독관 4명 “특이사항 없었다”",
-      "summary": "‘AI 안경 의혹’ 세무사 수석 합격자…감독관 4명 “특이사항 없었다”",
-      "why_now": "이전 수집(11.15 07:21 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘‘AI 안경 의혹’ 세무사 수석 합격자…감독관 4명 “특이사항 없었다”’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "title": "노동부 “올해 국가자격시험 AI 부정행위 전수조사…제보도 받을 것”",
+      "summary": "노동부 “올해 국가자격시험 AI 부정행위 전수조사…제보도 받을 것”",
+      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘노동부 “올해 국가자격시험 AI 부정행위 전수조사…제보도 받을 것”’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-      "source": "중앙일보",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kalV6MVVNcUhmTWt0dnBVcy1pZTRFSWdMbVlnNVZybERYcExNcHhZMGMtZllpWWt2U3k1UDVzZnN2WjlGTDN5NFU2OG1TdXZTVWd5ZWtn?oc=5",
-      "published_at": "2026-11-13T03:31:17Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 6,
-        "report_count": 7,
-        "span_hours": 37.4,
-        "first_report_at": "2026-11-13T00:58:00Z",
-        "last_report_at": "2026-11-14T14:19:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxVzFjU1A5OGZkR3IwMm5QS082Qy1XTl96TlRWQktYc1ZQa1V0cjNjVkQ1bEVERS14WHFRX2xfNl9rUmtuejM0VGRpQ1NqZFp6ZkxYVUZEd2p5M01aN2dLQ2MtRHc?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVlSYjQ5UnJ0WlY0QzdTcTE3d0xtWlREWDZvdDAyaXpra0dnWmZhUjBCbVhxMkFieUFMaUhsZXlKNjk0SURxRnZ3SlI1bTIzMElqV0xCYXZfOG05UjZCOEtoWXdOaGREdVE3TDJpaDZIUWEydUFOUUVjRFpBNkpqQlln?oc=5",
-        "sources": [
-          {
-            "name": "조선일보",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVlSYjQ5UnJ0WlY0QzdTcTE3d0xtWlREWDZvdDAyaXpra0dnWmZhUjBCbVhxMkFieUFMaUhsZXlKNjk0SURxRnZ3SlI1bTIzMElqV0xCYXZfOG05UjZCOEtoWXdOaGREdVE3TDJpaDZIUWEydUFOUUVjRFpBNkpqQlln?oc=5",
-            "published_at": "2026-11-14T14:19:00Z",
-            "headline": "‘AI 안경 의혹’ 세무사 수석 합격자 “고득점 이유로 의심받아야 하나”"
-          },
-          {
-            "name": "동아일보",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rX3NjZjhERFNHRWZ1UDZmZ3p5dUdwNjlxWUY0dld6dUM3VEoxOWtjd2xZMURUV1otTzVmeVNiYURtcnRUU0FlRzZ0VjUtYjBZSHoweVMyNDdXRVpnVnJwSEgwVnBJOGFHblE5ZHZTWEJmMk5DZ0HSAWZBVV95cUxOMUZocm1YeDVHVUJ1cUhfU1psS1YwUmRlbE5EalJEZkloZEIzeENQRE1Vd0k2VWtVWk9vY0dQVlVmRkhIMjNfZGF0UFBJTVh3djd0NUs1SEViSUFRWVQ4Q1E4VENGakE?oc=5",
-            "published_at": "2026-11-13T13:52:00Z",
-            "headline": "‘AI 안경 의혹’ 일파만파에…세무사 수석, 변호사 선임"
-          },
-          {
-            "name": "아시아경제",
-            "group": "asiae.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6c0RidlpmSGY5TWhKSE0tcVJ5TDJYVmFkMmoyOHo0WnZCVHBhTzZzUU1UcV9XSXNHS1RFRHVwelZmMGFOVk96Zm5LSzFBckhGcWcxLU51TUhjd3VnMEhUSw?oc=5",
-            "published_at": "2026-11-13T08:26:33Z",
-            "headline": "'AI안경 부정행위 의혹' 세무사 수석 합격자, 변호사 선임"
-          },
-          {
-            "name": "중앙일보",
-            "group": "joongang.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kalV6MVVNcUhmTWt0dnBVcy1pZTRFSWdMbVlnNVZybERYcExNcHhZMGMtZllpWWt2U3k1UDVzZnN2WjlGTDN5NFU2OG1TdXZTVWd5ZWtn?oc=5",
-            "published_at": "2026-11-13T03:31:17Z",
-            "headline": "‘AI 안경 의혹’ 세무사 수석 합격자…감독관 4명 “특이사항 없었다”"
-          },
-          {
-            "name": "경향신문",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBneTVWZVd2bE9vMGxHUjZJZnZmNGRiM2hvUFM2QTRFU21taTBQQm5ZcHM2ZURMRUJFeDI3WF8tRlFTU19nVUl5R19HZVRUZlkteUIxWmk5MHIxUdIBX0FVX3lxTFBNU1YyX1N5dEdZN2JKOVhCMWZHQXJMTkJ4ams1SV8zR3JBekhmMWZRNjF3ZVpEazU0c3ZOX0NvSjNaV1pXNDloYm1GdmZMOGpQbm16WXdOdV9vdVBYbzNJ?oc=5",
-            "published_at": "2026-11-13T01:19:00Z",
-            "headline": "‘AI 안경 의혹’ 세무사 수석 합격자, CCTV는 없었지만 감독관 바로 앞에서 시험"
-          },
-          {
-            "name": "한겨레",
-            "group": "hani.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxVzFjU1A5OGZkR3IwMm5QS082Qy1XTl96TlRWQktYc1ZQa1V0cjNjVkQ1bEVERS14WHFRX2xfNl9rUmtuejM0VGRpQ1NqZFp6ZkxYVUZEd2p5M01aN2dLQ2MtRHc?oc=5",
-            "published_at": "2026-11-13T00:58:00Z",
-            "headline": "‘AI 안경 의혹’ 세무사 수석합격자 1차 채점 판독…“특이사항 발견 못 해”"
-          }
-        ]
-      },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-14T22:21:09.081464Z"
-    },
-    {
-      "id": "94d61487e09e608c16ce",
-      "category": "기술·과학",
-      "title": "수능 AI 안경 부정행위 비상…“소지만 해도 시험 무효”",
-      "summary": "수능 AI 안경 부정행위 비상…“소지만 해도 시험 무효”",
-      "why_now": "이전 수집(11.15 07:21 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘수능 AI 안경 부정행위 비상…“소지만 해도 시험 무효”’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
-      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-      "source": "KBS 뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wRUs5bzN6SUpGalFtN3FiTWtzM0pGcW1RQWpHWWE0NUZaSEF4OE0wZWpqM2JtTHBXMFVfd3NEMUFsR2FUWmRiOEp5dnRMUzlWVUU1RFZPZmVaR1Jmbkhfb0FxTVdndw?oc=5",
-      "published_at": "2026-11-13T00:01:00Z",
+      "source": "한겨레",
+      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BQWlFTXUzMFRnbTNMekFmaVNDSlFQSk5tUUlXMjB6bkR2cVZyNmVRWFYycmZCSjJaamZsWkxnNm9LN2JkdzBXQ1o4SUpQMGphTWh4ajl2bEpyaFVkSXFXN2N5a1g?oc=5",
+      "published_at": "2026-11-15T12:31:00Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 4,
-        "report_count": 4,
-        "span_hours": 15.0,
-        "first_report_at": "2026-11-13T00:01:00Z",
-        "last_report_at": "2026-11-13T15:00:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wRUs5bzN6SUpGalFtN3FiTWtzM0pGcW1RQWpHWWE0NUZaSEF4OE0wZWpqM2JtTHBXMFVfd3NEMUFsR2FUWmRiOEp5dnRMUzlWVUU1RFZPZmVaR1Jmbkhfb0FxTVdndw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeEVvaEVHbWwtVjBuazNUb3JNbkZXc1J0QU03Y1Q4TDc3akRRaWJuNVdwNFJRRC1PMWxmVXNHUi0wVkZ0d01DallsM2k5UVpHSFhnVVM2SFVIX200NGVNZU1VUVBQLWJJMFJBOGFfSUhoOEgzcWRWWXFfVVpyV1pNWGhqT0hwUQ?oc=5",
+        "report_count": 5,
+        "span_hours": 4.5,
+        "first_report_at": "2026-11-15T08:03:08Z",
+        "last_report_at": "2026-11-15T12:31:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXIwZzFxZlNRNUpnMmFhYXJ6dnFtWW5fb040Tm1FYU4zV3o5dnZHWFdONW5QZGp0VV9aSzVWOEhwMDdtSzI1dURLQTNHaEJ5TjRtYUpteGxQZm52Z0huWV9oRmxXMG9tMTRSRkxzMWxyRmF4M0xuWlRnSWhyMmZpV3hrTi1XOXVi?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BQWlFTXUzMFRnbTNMekFmaVNDSlFQSk5tUUlXMjB6bkR2cVZyNmVRWFYycmZCSjJaamZsWkxnNm9LN2JkdzBXQ1o4SUpQMGphTWh4ajl2bEpyaFVkSXFXN2N5a1g?oc=5",
         "sources": [
           {
-            "name": "조선일보",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeEVvaEVHbWwtVjBuazNUb3JNbkZXc1J0QU03Y1Q4TDc3akRRaWJuNVdwNFJRRC1PMWxmVXNHUi0wVkZ0d01DallsM2k5UVpHSFhnVVM2SFVIX200NGVNZU1VUVBQLWJJMFJBOGFfSUhoOEgzcWRWWXFfVVpyV1pNWGhqT0hwUQ?oc=5",
-            "published_at": "2026-11-13T15:00:00Z",
-            "headline": "[사설] AI 안경 부정행위 속출, 수능 뚫리면 국가적 사태 온다"
+            "name": "한겨레",
+            "group": "hani.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BQWlFTXUzMFRnbTNMekFmaVNDSlFQSk5tUUlXMjB6bkR2cVZyNmVRWFYycmZCSjJaamZsWkxnNm9LN2JkdzBXQ1o4SUpQMGphTWh4ajl2bEpyaFVkSXFXN2N5a1g?oc=5",
+            "published_at": "2026-11-15T12:31:00Z",
+            "headline": "노동부 “올해 국가자격시험 AI 부정행위 전수조사…제보도 받을 것”"
+          },
+          {
+            "name": "지디넷코리아",
+            "group": "zdnet.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wTzZVMG91V1RVenNTNHlfSWRidDVfWk5xSTlPNC1iY196d1dDZU05VHdaQkJFTklTU2pyUFp6eFdtZ1lkZzcta2xYeWt4dHdRSnpDX3lR?oc=5",
+            "published_at": "2026-11-15T11:54:24Z",
+            "headline": "수능 코앞인데 AI 부정행위 파문…청와대, 국가자격시험 전수조사"
           },
           {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iT042UU5DbENWVWljUGRucnN5dWRlT0RTTlA3QXUtSVJoRXhlQXFEaXdrT0pPVG5xNG9CY281NzZuOFRUd29pRFNEMzhURWNJV1JSVVRkNHRXUjDSAWBBVV95cUxQZmlpWTY4cmF1TnRmNmJ4bmg0X081bXpvSldCejI4MWY4N2lnd1dlaHBpMkdXZG9xZUxfQkQzQzgzYkh3OTdFUDVnc1VodWFUQmItUXV6TWFJNko0RWt1MFA?oc=5",
-            "published_at": "2026-11-13T02:18:56Z",
-            "headline": "국가자격시험 'AI 안경' 부정행위 막는다…65억원 증액 추진"
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9INUpYaTc4WXl6VHFlbk9VcDlBc2Jxb0xKZ0ZYdlo1VExXYUJJZklNaFRVMGUtZmZ2cGNxT0puX0R2NVBMTG1BV0kxSGhxZWtwaEpGN0JQdi01aFXSAWBBVV95cUxQTVcxWXRGQUVDYzBScF9pVzJ0MGFaLTRTVHdyS0R6SGpWbUNOM0tXUzRUTWl2RDJibmtBRGVZdU44cVZYSGNzTkNhWFRKQk1wQUVPWGN1eXdJV05HekFEYmc?oc=5",
+            "published_at": "2026-11-15T08:15:15Z",
+            "headline": "靑 \"국가자격시험 전체 AI활용 부정행위 의심 사례 전수조사\""
           },
           {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XQWxiMXhKbkQxVHB6b2htUldKdUxacjNfNThaT3V2Ylc4Vzc0b080X29TZlBZSmJUZmJVc0RpMU1IWmF5SVdrX2xNQTZSN3JoUEF3ZEJvZUUzdlU?oc=5",
-            "published_at": "2026-11-13T01:23:26Z",
-            "headline": "韓총리, AI안경 부정행위 우려에 \"수능 시험장마다 전담인력 배치\""
-          },
-          {
-            "name": "KBS 뉴스",
-            "group": "kbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wRUs5bzN6SUpGalFtN3FiTWtzM0pGcW1RQWpHWWE0NUZaSEF4OE0wZWpqM2JtTHBXMFVfd3NEMUFsR2FUWmRiOEp5dnRMUzlWVUU1RFZPZmVaR1Jmbkhfb0FxTVdndw?oc=5",
-            "published_at": "2026-11-13T00:01:00Z",
-            "headline": "수능 AI 안경 부정행위 비상…“소지만 해도 시험 무효”"
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYXIwZzFxZlNRNUpnMmFhYXJ6dnFtWW5fb040Tm1FYU4zV3o5dnZHWFdONW5QZGp0VV9aSzVWOEhwMDdtSzI1dURLQTNHaEJ5TjRtYUpteGxQZm52Z0huWV9oRmxXMG9tMTRSRkxzMWxyRmF4M0xuWlRnSWhyMmZpV3hrTi1XOXVi?oc=5",
+            "published_at": "2026-11-15T08:03:08Z",
+            "headline": "靑 \"국가시험 AI 부정행위 전수조사...수능 부정행위 대응 총력\""
           }
         ]
       },
-      "selection_rank": 2,
-      "last_collected_at": "2026-11-14T22:21:09.081464Z"
+      "selection_rank": 1
+    },
+    {
+      "id": "d6990f653ecbb8e12a60",
+      "category": "기술·과학",
+      "title": "‘AI 커닝’ 세무사 수석, 로봇고 졸업 후 現重 10년 다녔다",
+      "summary": "‘AI 커닝’ 세무사 수석, 로봇고 졸업 후 現重 10년 다녔다",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 8시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘‘AI 커닝’ 세무사 수석, 로봇고 졸업 후 現重 10년 다녔다’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+      "source": "조선일보",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX0U5QVk5ZkkwSjkxa2VCcFBZSFBRR2dndkdPOW8yTHFrcXR4VnBSQ3BubGxTUUswOFhIRlN3Q2toMVA1cWN5aFZVY1FGWW8yMDZaYXlPSjE0RWwtaGtOa1N2QmFINGRINnVISDU3a1VQWTVvaDNxdURTX2ExWkJhQUpB?oc=5",
+      "published_at": "2026-11-15T02:11:37Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 3,
+        "report_count": 3,
+        "span_hours": 8.8,
+        "first_report_at": "2026-11-15T02:11:37Z",
+        "last_report_at": "2026-11-15T10:57:34Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX0U5QVk5ZkkwSjkxa2VCcFBZSFBRR2dndkdPOW8yTHFrcXR4VnBSQ3BubGxTUUswOFhIRlN3Q2toMVA1cWN5aFZVY1FGWW8yMDZaYXlPSjE0RWwtaGtOa1N2QmFINGRINnVISDU3a1VQWTVvaDNxdURTX2ExWkJhQUpB?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwUUt1aVZIdEUyaDZVRmZPRTctVlh5TWJ2RDJPNkh5SXEwNWRja2kzZWlILXZtRHJZejVCR0ZiSVFsYy1FVkRkaTRaZUFHY24xOS02a2hnWlNUVVo1ZTA2UVBJYkdmY0hIaTVTSGNsVUpLbXJrLVRqZNIBeEFVX3lxTFBfTmlLeVQxNVNNU0UtV09xbXo2X2ladUF5Nm1ZcFVydlc0Vlp5eVM5Yk0ydVJxNnVlTlBGV1hSalNHZzdRTUFlbEV0djB5RWEwQnp6NWU2Q2x0NzlXN2p5eHF2T0IxWXNuNTZBVmhrR25NNXNmeGw1Xw?oc=5",
+        "sources": [
+          {
+            "name": "MBC 뉴스",
+            "group": "imbc.com",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwUUt1aVZIdEUyaDZVRmZPRTctVlh5TWJ2RDJPNkh5SXEwNWRja2kzZWlILXZtRHJZejVCR0ZiSVFsYy1FVkRkaTRaZUFHY24xOS02a2hnWlNUVVo1ZTA2UVBJYkdmY0hIaTVTSGNsVUpLbXJrLVRqZNIBeEFVX3lxTFBfTmlLeVQxNVNNU0UtV09xbXo2X2ladUF5Nm1ZcFVydlc0Vlp5eVM5Yk0ydVJxNnVlTlBGV1hSalNHZzdRTUFlbEV0djB5RWEwQnp6NWU2Q2x0NzlXN2p5eHF2T0IxWXNuNTZBVmhrR25NNXNmeGw1Xw?oc=5",
+            "published_at": "2026-11-15T10:57:34Z",
+            "headline": "'AI 부정행위' 세무사 수석 결국 자수‥감독관 코앞에서 뚫렸다"
+          },
+          {
+            "name": "한겨레",
+            "group": "hani.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZRVJTNlRNM1lUZHpHMkNhTWd1YzMtbDRrRzI2X0dMX09yaGN0VU1uNXBSdk80UzNVa244MDB6ZmxSQkFUTmpLWThoZGJYeUJxb3o0LUFWMUpTZTl0Z0E2SjRHcmVqWS12UUpPdFJjMTNmdw?oc=5",
+            "published_at": "2026-11-15T10:53:00Z",
+            "headline": "‘AI 커닝’으로 세무사 수석 합격…국가자격시험 신뢰 흔들"
+          },
+          {
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX0U5QVk5ZkkwSjkxa2VCcFBZSFBRR2dndkdPOW8yTHFrcXR4VnBSQ3BubGxTUUswOFhIRlN3Q2toMVA1cWN5aFZVY1FGWW8yMDZaYXlPSjE0RWwtaGtOa1N2QmFINGRINnVISDU3a1VQWTVvaDNxdURTX2ExWkJhQUpB?oc=5",
+            "published_at": "2026-11-15T02:11:37Z",
+            "headline": "‘AI 커닝’ 세무사 수석, 로봇고 졸업 후 現重 10년 다녔다"
+          }
+        ]
+      },
+      "selection_rank": 2
+    },
+    {
+      "id": "89f1113f5f40c1e4aace",
+      "category": "사회",
+      "title": "아파트 방화에 주민 대피시키던 70대 경비원, 병원 치료 중 숨져",
+      "summary": "아파트 방화에 주민 대피시키던 70대 경비원, 병원 치료 중 숨져",
+      "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘아파트 방화에 주민 대피시키던 70대 경비원, 병원 치료 중 숨져’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
+      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
+      "source": "Chosunbiz",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWUlkdjVFSG5NN0FPdkI1dlZIWVcwSHBobEQ4QkhlMFRVY0hvdEVFdUhsWDVsc1dqY2FoTHNNdHVaeVFYV3FaQW1ncU5lVmhxeWIxaVlvelZ2TWxiUmZPNWNlWE9LYWl0ZWducTFPWU05MngxOW81T3dxbmlBVkN2b0RCV1FyblJBX2fSAZ4BQVVfeXFMTTdiVGVJTTRtMndYakRTc3lUbHdYcmVtLXdRLXZ6X1dpdml1M1hpb0lXdWJ1SzdrTlAwcDk5R3VOSUh5UGc0ZUY1RWhVMl81aXoxMHc1SFFPSVhqUWtCTFZzY0pyVFY1eDFuN1dFSk14RHRrZFZuOFhpRDdNR1djWjlHMXNBTGtoWTg2WTdEOFVDb2k0N01XSTRTcmhtSlE?oc=5",
+      "published_at": "2026-11-14T06:09:00Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 5,
+        "report_count": 7,
+        "span_hours": 6.7,
+        "first_report_at": "2026-11-14T03:45:56Z",
+        "last_report_at": "2026-11-14T10:27:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03NEZnSjNORW85Z1hBNmJSNUtwaFZTbkVYNkNBOThVZENCT1JOV2F3UTQ0VEdNenpGV3VuZzY1U3N1Mm0tdlRQaHNIV0JSejVnR1p4OGtDZWJod2_SAWBBVV95cUxOaUJVSHVYcEJ1ck5PbDM5cFZtYVlpdlQ1MHhUMVROd3hnNk5rRkFRcnRxUV9QdHhnQnNsVFlpMzNZRFk0b1JYLUpuMDdmYm0zMDVTSEdQanZpSk5Fcm02LXY?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Iay14Uk5NVlFwa1RLTUtBOFhUNjRBSGotRjNVZjB6ME0zb0ZfRU9DXzExcWRKdTRlQjMtSk5Ra0Z6SUtqSHZzVVhjZzltcXM0YTd2V0MycUdJX3lwaUxlM1pTTnJFQS1pdU5yaVdITUZhSFHSAXNBVV95cUxOSGsteFJOTVZRcGtUS01LQThYVDY0QUhqLUYzVWYwejBNM29GX0VPQ18xMXFkSnU0ZUIzLUpOUWtGeklLakh2c1VYY2c5bXFzNGE3dldDMnFHSV95cGlMZTNaU05yRUEtaXVOcmlXSE1GYUhR?oc=5",
+        "sources": [
+          {
+            "name": "한국일보",
+            "group": "hankookilbo.com",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Iay14Uk5NVlFwa1RLTUtBOFhUNjRBSGotRjNVZjB6ME0zb0ZfRU9DXzExcWRKdTRlQjMtSk5Ra0Z6SUtqSHZzVVhjZzltcXM0YTd2V0MycUdJX3lwaUxlM1pTTnJFQS1pdU5yaVdITUZhSFHSAXNBVV95cUxOSGsteFJOTVZRcGtUS01LQThYVDY0QUhqLUYzVWYwejBNM29GX0VPQ18xMXFkSnU0ZUIzLUpOUWtGeklLakh2c1VYY2c5bXFzNGE3dldDMnFHSV95cGlMZTNaU05yRUEtaXVOcmlXSE1GYUhR?oc=5",
+            "published_at": "2026-11-14T10:27:00Z",
+            "headline": "아파트 방화에 주민 대피 돕던 70대 경비원 끝내 숨져"
+          },
+          {
+            "name": "MBC 뉴스",
+            "group": "imbc.com",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RcG1JZWhvOVNvaE14cF8zN3ZudURLVEJjN1NGcTdWWTJJbDhJRGwtdTlsTEFFRFBCVHFZTUkwVjNRVVR3SVFuRENvQkhteEpFN3VoaVB1dGNPZWlIb2NOckpyTmRUbHk4alJ3OW9OM2h2b3RzQzRn0gF3QVVfeXFMTlE0cjhnV1E4Qnh6UFB6a3lZc0M2WE01RDVoN3ZzWXE0cllBYjludzd5QnNOSVBTQjVEYkxNdXBWN1pkMTUzVW00NVpaOGM5RGc4blhmUmg0MlR4bHVIa1ZMbE9UTFM5WHZENWVXWmlZSTVIMjVfZ0U?oc=5",
+            "published_at": "2026-11-14T06:42:17Z",
+            "headline": "아파트 방화로 주민 대피 돕다 쓰러진 70대 경비원 결국 숨져"
+          },
+          {
+            "name": "Chosunbiz",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWUlkdjVFSG5NN0FPdkI1dlZIWVcwSHBobEQ4QkhlMFRVY0hvdEVFdUhsWDVsc1dqY2FoTHNNdHVaeVFYV3FaQW1ncU5lVmhxeWIxaVlvelZ2TWxiUmZPNWNlWE9LYWl0ZWducTFPWU05MngxOW81T3dxbmlBVkN2b0RCV1FyblJBX2fSAZ4BQVVfeXFMTTdiVGVJTTRtMndYakRTc3lUbHdYcmVtLXdRLXZ6X1dpdml1M1hpb0lXdWJ1SzdrTlAwcDk5R3VOSUh5UGc0ZUY1RWhVMl81aXoxMHc1SFFPSVhqUWtCTFZzY0pyVFY1eDFuN1dFSk14RHRrZFZuOFhpRDdNR1djWjlHMXNBTGtoWTg2WTdEOFVDb2k0N01XSTRTcmhtSlE?oc=5",
+            "published_at": "2026-11-14T06:09:00Z",
+            "headline": "아파트 방화에 주민 대피시키던 70대 경비원, 병원 치료 중 숨져"
+          },
+          {
+            "name": "동아일보",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9haWpoSnFtRE1mS3lscGlac0w4ZGtpdGFPZTl3Z0I3RFBXVGllNERxX2l4TXUzRklpMlVBQ1pKT1R1UExwcmpNZ3NfcDJRWUJ1Tkw4cUs1MkhNVnlwVllQSGNha3VGZ9IBZkFVX3lxTE9haWpoSnFtRE1mS3lscGlac0w4ZGtpdGFPZTl3Z0I3RFBXVGllNERxX2l4TXUzRklpMlVBQ1pKT1R1UExwcmpNZ3NfcDJRWUJ1Tkw4cUs1MkhNVnlwVllQSGNha3VGZw?oc=5",
+            "published_at": "2026-11-14T05:42:00Z",
+            "headline": "‘광주 아파트 방화’ 당시 주민 대피 도운 70대 경비원, 결국 치료 중 숨져"
+          },
+          {
+            "name": "SBS 뉴스",
+            "group": "sbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XR3luTlJDZFV5eEJvRWNQQzNJWThLdE1LazYyVzZsa0cyeVZqSW9PcXA1UlpNSUtsdXNXZUs1MVZwWm5mMFRyLUtfYlVXb1Q4amlTWm15a0VmZWtOT1Q1eDFDVnZaY0pCYVE?oc=5",
+            "published_at": "2026-11-14T04:07:47Z",
+            "headline": "방화에 주민 대피 도운 70대 경비원, 병원 치료 중 숨져"
+          }
+        ]
+      },
+      "selection_rank": 1
     }
   ]
 }
