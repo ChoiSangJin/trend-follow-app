@@ -2,14 +2,74 @@
   "schema_version": 3,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-16T06:22:43.649193Z",
+  "updated_at": "2026-11-16T21:58:54.339439Z",
   "cards": [
     {
-      "id": "163652d205de8f567072",
+      "id": "35448e72f3fa9351154c",
+      "category": "문화·예술",
+      "title": "김수영문학상에 송혜근 시인",
+      "summary": "김수영문학상에 송혜근 시인",
+      "why_now": "수집 범위에서 관련 보도 9개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 11시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘김수영문학상에 송혜근 시인’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
+      "source": "문화일보",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ibElvczVkWXRKbjlQaGhIcTNTS0ptcGdJVVhVX3hTRUhMVEVUaHVnY0w0ZmNGcDFFcmJUY1NzeVFGRVBQX0xLeDV4cE1qaEJD?oc=5",
+      "published_at": "2026-11-16T02:44:56Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 5,
+        "report_count": 9,
+        "span_hours": 11.1,
+        "first_report_at": "2026-11-16T00:07:15Z",
+        "last_report_at": "2026-11-16T11:15:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CSHNVMWM0b2FoRkNjLUFiRGJUWElqNm00cXRMbHhWb2t5eTA1SURIdEtiaU9TQ0pmRlZ6czlUOTVZTGhvTk1IOVVoa1dTdF9SdW94btIBVEFVX3lxTE9CSHNVMWM0b2FoRkNjLUFiRGJUWElqNm00cXRMbHhWb2t5eTA1SURIdEtiaU9TQ0pmRlZ6czlUOTVZTGhvTk1IOVVoa1dTdF9SdW94bg?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jZGJXZHVRcmgwVlZKNEtmS3UyUTFSV0xLWGd1SHpxaHI1T1ZKZGEtS2RKRzlZY09MM18tXzNfOGJsdEdsLUwyUnhiR3pPank5WFBsLVg0Y2ljUdIBX0FVX3lxTE9pRU55NFAwWFJPb2k0UUp0UVNiOUZ1NnNBVEMxSDJ1SmxKT3BpM0o3QlhwSlp6NnVXVjA2OVlEYXVITDBMVDRsUkx6OG5NSkM0dC04SjVjYUtUcDRkdVB3?oc=5",
+        "sources": [
+          {
+            "name": "경향신문",
+            "group": "hankookilbo.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jZGJXZHVRcmgwVlZKNEtmS3UyUTFSV0xLWGd1SHpxaHI1T1ZKZGEtS2RKRzlZY09MM18tXzNfOGJsdEdsLUwyUnhiR3pPank5WFBsLVg0Y2ljUdIBX0FVX3lxTE9pRU55NFAwWFJPb2k0UUp0UVNiOUZ1NnNBVEMxSDJ1SmxKT3BpM0o3QlhwSlp6NnVXVjA2OVlEYXVITDBMVDRsUkx6OG5NSkM0dC04SjVjYUtUcDRkdVB3?oc=5",
+            "published_at": "2026-11-16T11:15:00Z",
+            "headline": "‘김수영문학상’에 시인 송혜근"
+          },
+          {
+            "name": "이데일리",
+            "group": "edaily.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc0N4dndLRXp1R25DS1I0T0JvMWFrRE4yekNzQ0dYUm5lWHFYcUNROFU0N0FxcnhjOGJHczBuTnlJa0ZId2JaOVVhRE5jTElZR0M4b2l3c0h5T0xhODg0MExnT2NBWWxCWXRvWDBjNzJwWW9tN1J6WFRyNHFMdkR0Wg?oc=5",
+            "published_at": "2026-11-16T04:33:47Z",
+            "headline": "제45회 김수영문학상에 송혜근 시인…“언어예술 돌파구 제시”"
+          },
+          {
+            "name": "문화일보",
+            "group": "munhwa.com",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ibElvczVkWXRKbjlQaGhIcTNTS0ptcGdJVVhVX3hTRUhMVEVUaHVnY0w0ZmNGcDFFcmJUY1NzeVFGRVBQX0xLeDV4cE1qaEJD?oc=5",
+            "published_at": "2026-11-16T02:44:56Z",
+            "headline": "김수영문학상에 송혜근 시인"
+          },
+          {
+            "name": "한겨레",
+            "group": "hani.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSVUEybllYLWVCcy00U05pNjF2T1NhdzltS3NnbXBTSGRYbmZwbTQ2TzRyUzlEMjdYUjU2NWhmaVFHUHp5YnN5dXFqZFBmM0RIVUtEVzRhbHdJRjZpSjJQV3BhUQ?oc=5",
+            "published_at": "2026-11-16T01:41:00Z",
+            "headline": "올해 김수영문학상에 송혜근 시인"
+          },
+          {
+            "name": "뉴시스",
+            "group": "wire:뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93OWhDdWx6MklfaTRSdzBvXzlXM2ZySlRYSVI0YWVxTVNVMExJZFJxZnRacV8zRkVqMy1xSmxZUWNMS2pPdnVsYW1PNG96dm5HSGc3SlU2bkNieTFjOTI0WVExbEkwLUs0cWc5aC0ybWU5Y3BDMXhrbdIBeEFVX3lxTE93OWhDdWx6MklfaTRSdzBvXzlXM2ZySlRYSVI0YWVxTVNVMExJZFJxZnRacV8zRkVqMy1xSmxZUWNMS2pPdnVsYW1PNG96dm5HSGc3SlU2bkNieTFjOTI0WVExbEkwLUs0cWc5aC0ybWU5Y3BDMXhrbQ?oc=5",
+            "published_at": "2026-11-16T00:54:23Z",
+            "headline": "제45회 김수영문학상에 시인 송혜근"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "9703eca1e4af6444e2fd",
       "category": "문화·예술",
       "title": "‘노벨 문학상’ 아스투리아스, 52년 만에 유해 고국 품으로",
       "summary": "‘노벨 문학상’ 아스투리아스, 52년 만에 유해 고국 품으로",
-      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 46시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 5시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘‘노벨 문학상’ 아스투리아스, 52년 만에 유해 고국 품으로’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
       "source": "경향신문",
@@ -17,12 +77,12 @@
       "published_at": "2026-11-15T11:15:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 4,
-        "report_count": 5,
-        "span_hours": 46.6,
-        "first_report_at": "2026-11-13T17:48:22Z",
+        "source_groups": 3,
+        "report_count": 3,
+        "span_hours": 5.2,
+        "first_report_at": "2026-11-15T11:15:00Z",
         "last_report_at": "2026-11-15T16:25:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYWWhlSDBpN1BZRHNRWGxwYTV3VWs5RzBPRnJDOF92eWhxUXNjZldvRm5TUk9kY1JZRWEwTHlmSHRHS0tKVVhmQV9aTWpGd19kZUFGSGhtU3JPM1RseVFxONIBYEFVX3lxTFBYWWhlSDBpN1BZRHNRWGxwYTV3VWs5RzBPRnJDOF92eWhxUXNjZldvRm5TUk9kY1JZRWEwTHlmSHRHS0tKVVhmQV9aTWpGd19kZUFGSGhtU3JPM1RseVFxOA?oc=5",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lWE1hWlBFTldkOG5MdEtHcy1qdDZzMmQ5QWhZcTVmLW4xOFBvbzNlaTFzYXVCNnRiWU9PSktWQU1VMHdWZnNIQTlmM0ZoTEl3eVkyLUtNQjJhMVQwcTUw0gFfQVVfeXFMTmVYTWFaUEVOV2Q4bkx0S0dzLWp0NnMyZDlBaFlxNWYtbjE4UG9vM2VpMXNhdUI2dGJZT09KS1ZBTVUwd1Zmc0hBOWYzRmhMSXd5WTItS01CMmExVDBxNTA?oc=5",
         "last_report_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TWFUyRmVLdTRYczZ0TkJtWnlXcWU2dW1nVVlVTy1wc2k4Zzd6ZFhHWEp0UzhGajViTUhRekszMGd2UVVwT0lac2o3cmpuS3NHRHdhNjZCTXo?oc=5",
         "sources": [
           {
@@ -35,7 +95,7 @@
           {
             "name": "세계일보",
             "group": "segye.com",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9paWN3UjBsS3FaNUdaVUNKWXJXUFpDOFk2ZUV1YmRIeFlpUmdUOWdKOEIyNmdJRDlpWDJVc2tENHlPZG8wd3lTQ2RSeVpja2Q30gFUQVVfeXFMTWZzbGc2N19acmlHRFRkR0JSeG9YVWRxTHlxajZ6NmJqRUFjT2xiS0dvc2lWd1h0MjNGc3BKbXJBTktCTGlsMk1qOGVDVUZNcno1b1p5?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iLWNhTmQ5aUxRN0JQbUNjdkNoZHhfWE9yME9SdGw1VkdvbGtKRkxHLVVUd0lDcGlzUEZ6VmlMSzAyT2dFc2Q2Tkh6VlVpQVNXbC04MHkwWjDSAVRBVV95cUxNZnNsZzY3X1pyaUdEVGRHQlJ4b1hVZHFMeXFqNno2YmpFQWNPbGJLR29zaVZ3WHQyM0ZzcEptckFOS0JMaWwyTWo4ZUNVRk1yejVvWnk?oc=5",
             "published_at": "2026-11-15T12:55:00Z",
             "headline": "노벨문학상 故 아스투리아스… 52년 만에 고국 과테말라 귀환"
           },
@@ -45,63 +105,56 @@
             "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lWE1hWlBFTldkOG5MdEtHcy1qdDZzMmQ5QWhZcTVmLW4xOFBvbzNlaTFzYXVCNnRiWU9PSktWQU1VMHdWZnNIQTlmM0ZoTEl3eVkyLUtNQjJhMVQwcTUw0gFfQVVfeXFMTmVYTWFaUEVOV2Q4bkx0S0dzLWp0NnMyZDlBaFlxNWYtbjE4UG9vM2VpMXNhdUI2dGJZT09KS1ZBTVUwd1Zmc0hBOWYzRmhMSXd5WTItS01CMmExVDBxNTA?oc=5",
             "published_at": "2026-11-15T11:15:00Z",
             "headline": "‘노벨 문학상’ 아스투리아스, 52년 만에 유해 고국 품으로"
-          },
-          {
-            "name": "SBS 뉴스",
-            "group": "sbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oNElJSXpxbkZqYWZ5QmcyakVLaEJlbEp3TmVrd3V3NDZJUW5XRzRjWkVjSnZsakVWV294dWdZeXZWN1dLS2wwRm1vN0pvU0V6MHIwZjJIVDJHM2tSQ2p3UjdpWW5jTzZRYlE?oc=5",
-            "published_at": "2026-11-13T19:30:24Z",
-            "headline": "'노벨문학상' 아스투리아스, 사후 52년 만에 고국 품으로"
-          }
-        ]
-      },
-      "selection_rank": 1
-    },
-    {
-      "id": "f53751ac8f7878f9be90",
-      "category": "문화·예술",
-      "title": "국립현대미술관장에 기혜경 홍익대 교수",
-      "summary": "국립현대미술관장에 기혜경 홍익대 교수",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 5시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘국립현대미술관장에 기혜경 홍익대 교수’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
-      "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-      "source": "서울신문",
-      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqd0V5UTRuNHNZRnNMQnNxcmM1eVpyRW54a3A2blByR0ZHUW52dmpPT2lmT0wzeEVnalhWREZHV0JiUVozU1F4a3R3NFYzbXZMSkRLYVlldEljMmVsQ1V0NGl5Ti1uN2hIdWxHUG40QQ?oc=5",
-      "published_at": "2026-11-15T14:52:44Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 3,
-        "report_count": 3,
-        "span_hours": 5.0,
-        "first_report_at": "2026-11-15T09:54:00Z",
-        "last_report_at": "2026-11-15T14:52:44Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CRXJ2RGdtaEpaRFYxdGZfcl9aME9mZ1NtY0d6UU9sRUtIQ1JZeVZDSkVKMWlDX0ZtS054cjN1U1RXVHpiN2tEaFBMSGlPTjZ5MUxVazZoaEJaZFZNamFXMjIxMXdJbWpzb012dml3QWRsUQ?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqd0V5UTRuNHNZRnNMQnNxcmM1eVpyRW54a3A2blByR0ZHUW52dmpPT2lmT0wzeEVnalhWREZHV0JiUVozU1F4a3R3NFYzbXZMSkRLYVlldEljMmVsQ1V0NGl5Ti1uN2hIdWxHUG40QQ?oc=5",
-        "sources": [
-          {
-            "name": "서울신문",
-            "group": "seoul.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqd0V5UTRuNHNZRnNMQnNxcmM1eVpyRW54a3A2blByR0ZHUW52dmpPT2lmT0wzeEVnalhWREZHV0JiUVozU1F4a3R3NFYzbXZMSkRLYVlldEljMmVsQ1V0NGl5Ti1uN2hIdWxHUG40QQ?oc=5",
-            "published_at": "2026-11-15T14:52:44Z",
-            "headline": "국립현대미술관장에 기혜경 홍익대 교수"
-          },
-          {
-            "name": "경향신문",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBncUNfQlp0d0stS2hCNHUwQmRZTzFFUEotcE0wVjRFQzVFalRIUGFma0xTbHByVEJWMTNmVndKRG90bVNwVlFqeXhUMW10bGVxakxhbkxtNmhqZ9IBX0FVX3lxTE9sXzI1RkFLMlVvNTJxX1RoTmxjLUozOTZZbllNLUoyTnc2WXRsMFA0SjBOem9mSXBmNVlBUVdtRDAxRUY2MkR2N0hRZEhlOFoxZldaZHQ2UGVJMFNaSlJJ?oc=5",
-            "published_at": "2026-11-15T11:13:00Z",
-            "headline": "국립현대미술관장에 기혜경 교수"
-          },
-          {
-            "name": "한겨레",
-            "group": "hani.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CRXJ2RGdtaEpaRFYxdGZfcl9aME9mZ1NtY0d6UU9sRUtIQ1JZeVZDSkVKMWlDX0ZtS054cjN1U1RXVHpiN2tEaFBMSGlPTjZ5MUxVazZoaEJaZFZNamFXMjIxMXdJbWpzb012dml3QWRsUQ?oc=5",
-            "published_at": "2026-11-15T09:54:00Z",
-            "headline": "국립현대미술관 새 관장에 기혜경 홍익대 교수"
           }
         ]
       },
       "selection_rank": 2
+    },
+    {
+      "id": "9d515cc663f943dd27d7",
+      "category": "연예",
+      "title": "태비가 돌아온다…신곡 '영화 속에서 그 로맨스에서' 예고",
+      "summary": "태비가 돌아온다…신곡 '영화 속에서 그 로맨스에서' 예고",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘태비가 돌아온다…신곡 '영화 속에서 그 로맨스에서' 예고’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
+      "source": "전자신문",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zNUNsMzQzNVV2U1RDWXFvdURTMHdPVnVQdmNCTTFoS1lWbkx6N20tbzlQbFNBc0pDanhwbzFTNmY0bV9wQTlVUGxGal90dw?oc=5",
+      "published_at": "2026-11-16T08:41:17Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 3,
+        "report_count": 3,
+        "span_hours": 4.6,
+        "first_report_at": "2026-11-16T08:41:17Z",
+        "last_report_at": "2026-11-16T13:17:53Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zNUNsMzQzNVV2U1RDWXFvdURTMHdPVnVQdmNCTTFoS1lWbkx6N20tbzlQbFNBc0pDanhwbzFTNmY0bV9wQTlVUGxGal90dw?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0RVlBQ3o1aXplQjBYT3J1X3V5dXdRZ2tncDV2UFJtTVc1LUx5N3lIQVJwUGRfYnlGX1B4dHRRUnFYNzRjdXdiRjBrUUExMThBdDFj?oc=5",
+        "sources": [
+          {
+            "name": "매일경제",
+            "group": "mk.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0RVlBQ3o1aXplQjBYT3J1X3V5dXdRZ2tncDV2UFJtTVc1LUx5N3lIQVJwUGRfYnlGX1B4dHRRUnFYNzRjdXdiRjBrUUExMThBdDFj?oc=5",
+            "published_at": "2026-11-16T13:17:53Z",
+            "headline": "‘더메르센 합류’ 태비, 18일 신곡 ‘영화 속에서 그 로맨스에서’ 발매"
+          },
+          {
+            "name": "한국경제",
+            "group": "hankyung.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40SFVjS3kzOEVWc3ZPcGlKaXFsRzdsSDhncXEwNG9VNmgxZFo1cW81ZEZaYlVXVGN0STdsT2RzTlNfMXc0Sk1vZEEtbjlmb19aZjN1S2g1eFlPdw?oc=5",
+            "published_at": "2026-11-16T09:19:36Z",
+            "headline": "태비, '영화 속에서 그 로맨스에서' 18일 발표…더메르센과 첫 걸음"
+          },
+          {
+            "name": "전자신문",
+            "group": "etnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zNUNsMzQzNVV2U1RDWXFvdURTMHdPVnVQdmNCTTFoS1lWbkx6N20tbzlQbFNBc0pDanhwbzFTNmY0bV9wQTlVUGxGal90dw?oc=5",
+            "published_at": "2026-11-16T08:41:17Z",
+            "headline": "태비가 돌아온다…신곡 '영화 속에서 그 로맨스에서' 예고"
+          }
+        ]
+      },
+      "selection_rank": 1
     },
     {
       "id": "92a8eea0f90fda18baa5",
@@ -140,164 +193,138 @@
           }
         ]
       },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-15T18:49:41.964846Z"
-    },
-    {
-      "id": "8727f83b4d6e0116be99",
-      "category": "연예",
-      "title": "'데뷔 8년차' 투바투 \"후배 아이돌이 신뢰할 만한 롤모델 되고파\"",
-      "summary": "'데뷔 8년차' 투바투 \"후배 아이돌이 신뢰할 만한 롤모델 되고파\"",
-      "why_now": "이전 수집(11.16 03:49 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘'데뷔 8년차' 투바투 \"후배 아이돌이 신뢰할 만한 롤모델 되고파\"’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "뉴스1",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BcHhDYU9SZXNES3Nfd0wxQlZFcEFwbDZoYzlUN3dwWUZqaXBxb2RQdzUtY2VENmpOWTJ4Ul9JUU1HNFBKQ0FLSFYzU213OG5fLUlfRG5JYw?oc=5",
-      "published_at": "2026-11-15T07:23:56Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 0.6,
-        "first_report_at": "2026-11-15T06:46:35Z",
-        "last_report_at": "2026-11-15T07:23:56Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sLWRHdGdYbEI3X3pGOHJGOVhDQXpZOE5fejUzNUR0WWNqbUxDS1B4UjVGeDNVVWluVGZMdk13eVlzNllSQTRTUVBJVHY3NG8tNFhhQzVKV3Y1SjUzMDR5MjdSdmEtV0dZVU5qS3dn?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BcHhDYU9SZXNES3Nfd0wxQlZFcEFwbDZoYzlUN3dwWUZqaXBxb2RQdzUtY2VENmpOWTJ4Ul9JUU1HNFBKQ0FLSFYzU213OG5fLUlfRG5JYw?oc=5",
-        "sources": [
-          {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5BcHhDYU9SZXNES3Nfd0wxQlZFcEFwbDZoYzlUN3dwWUZqaXBxb2RQdzUtY2VENmpOWTJ4Ul9JUU1HNFBKQ0FLSFYzU213OG5fLUlfRG5JYw?oc=5",
-            "published_at": "2026-11-15T07:23:56Z",
-            "headline": "'데뷔 8년차' 투바투 \"후배 아이돌이 신뢰할 만한 롤모델 되고파\""
-          },
-          {
-            "name": "스포츠동아",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sLWRHdGdYbEI3X3pGOHJGOVhDQXpZOE5fejUzNUR0WWNqbUxDS1B4UjVGeDNVVWluVGZMdk13eVlzNllSQTRTUVBJVHY3NG8tNFhhQzVKV3Y1SjUzMDR5MjdSdmEtV0dZVU5qS3dn?oc=5",
-            "published_at": "2026-11-15T06:46:35Z",
-            "headline": "TXT “8년 차=고연차…후배들에게 롤모델 되는 아이돌 되고파”"
-          }
-        ]
-      },
       "selection_rank": 2,
       "last_collected_at": "2026-11-15T18:49:41.964846Z"
     },
     {
-      "id": "252be321ce196ce7d22b",
+      "id": "48e0083e021bfbaa44d6",
       "category": "스포츠",
-      "title": "구자욱·원태인·홍창기 등 프로야구 FA 자격 선수 28명 공시",
-      "summary": "구자욱·원태인·홍창기 등 프로야구 FA 자격 선수 28명 공시",
-      "why_now": "수집 범위에서 관련 보도 8개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 56시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘구자욱·원태인·홍창기 등 프로야구 FA 자격 선수 28명 공시’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "title": "케인의 잉글랜드, 월드컵 우승팀 스페인 43경기 무패 행진 깼다",
+      "summary": "케인의 잉글랜드, 월드컵 우승팀 스페인 43경기 무패 행진 깼다",
+      "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘케인의 잉글랜드, 월드컵 우승팀 스페인 43경기 무패 행진 깼다’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "뉴스1",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zRGt2UUx2bENQVGg3X3FNRlZLeHZFYVFnVXVFNlNteW9Kb0VaMF82NVNCTHRnVEdXZHpRQ2U4bVhzajRUR0IyTC1OU3VwNFpaNnNLWFVFQQ?oc=5",
-      "published_at": "2026-11-13T07:05:12Z",
+      "source": "조선일보",
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMzdjUVR2eFVoc2g1Tk9NdC1jYW1ERWtvVldqeUlhLTRlRFlJMGg5d2ZqSlBJd2duYzlqdThpakhGV1JlcG1hTkRpNDI1VWRiMkhzemJ5Qk12cVJlN2MwZGhfRnVGUXVLenZxMkc3MkROOGxNa1NVVlpOTFBxaVJOVGxneV9NX19nMUxV?oc=5",
+      "published_at": "2026-11-16T00:08:45Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 6,
-        "report_count": 8,
-        "span_hours": 56.5,
-        "first_report_at": "2026-11-13T06:41:30Z",
-        "last_report_at": "2026-11-15T15:10:02Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KLURrNzkyLTA1NDgyWWJCVVYtSFMxMjIyM3BMVUVzM1h3cmFMTF9LYnhGeEdYU05hTkdMNTBlaWFlYXZ0eUFkdl9DVS1CNlhqUnpPelRxcHFycnM?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUdtQWNhSlpROFV5czdtaFAwUUx2UFhCSDFYbU0wNnkxU3hQSFA2MVhTQmFvTlFhbmw1bVl3T3lUZTY5UmdPMTVZb01WT2U5ekRvZHRJYUhMbFpIMTRmQzJDaWhPQWV0bUxyMDJ2MkNOMjBMMDVIRC0wSndyWk1nZw?oc=5",
+        "source_groups": 7,
+        "report_count": 7,
+        "span_hours": 4.3,
+        "first_report_at": "2026-11-15T22:55:00Z",
+        "last_report_at": "2026-11-16T03:15:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tS3FZa0JwWDZpSGk4cFVaYUlNMlNzZW9Oa2xYdmFXMXZKaFdJVm9sSEVQNmFGVW51ZXFmMnpEcTk0Y2RwSzZKN3Z1bFBXZGVUU3pYMlBOaHZtQk0?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Kel9FZHRIa3pUV0ZqcUo5UzFfajZEdDdrOUk2blF4NXV2VmNfRWhlUlRXMW5VMFEtTXlxN0NabG9acVR0MlJpMWVhMVFCWE9hRXlQOUZzME9hWjRMLVJaOXFyNjZROURTbUVESkpaMEQ?oc=5",
         "sources": [
           {
-            "name": "이데일리",
-            "group": "edaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUdtQWNhSlpROFV5czdtaFAwUUx2UFhCSDFYbU0wNnkxU3hQSFA2MVhTQmFvTlFhbmw1bVl3T3lUZTY5UmdPMTVZb01WT2U5ekRvZHRJYUhMbFpIMTRmQzJDaWhPQWV0bUxyMDJ2MkNOMjBMMDVIRC0wSndyWk1nZw?oc=5",
-            "published_at": "2026-11-15T15:10:02Z",
-            "headline": "'FA 대어' 원태인·구자욱 뜬다…막 오른 프로야구 스토브리그"
-          },
-          {
-            "name": "KBS 뉴스",
-            "group": "kbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wSDBDU2lIOUVBakZrN0RCaU5kQ3dUN3NMUkJWdzZZcVhiQ0FrRHN6YXNxOUVHYXNYQUE5c01FUVpKMkVnSVJvbVBXNThUWUJrcDN1dDc3aTRiR0kwdkpNVURiaE1vQQ?oc=5",
-            "published_at": "2026-11-13T07:48:00Z",
-            "headline": "KBO FA 시장 개장! 원태인·구자욱·양의지 등 28명 자격 공시"
+            "name": "SPOTV NEWS",
+            "group": "spotvnews.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Kel9FZHRIa3pUV0ZqcUo5UzFfajZEdDdrOUk2blF4NXV2VmNfRWhlUlRXMW5VMFEtTXlxN0NabG9acVR0MlJpMWVhMVFCWE9hRXlQOUZzME9hWjRMLVJaOXFyNjZROURTbUVESkpaMEQ?oc=5",
+            "published_at": "2026-11-16T03:15:00Z",
+            "headline": "손흥민은 2-3 충격패 고개를 떨궜지만, ‘절친’ 케인은 웃었다…잉글랜드 스페인 3-2 제압 ‘랭킹 1위 43경기 무패 끊어’"
           },
           {
             "name": "동아일보",
             "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YZHpBTlhDRlBNckprWGViMnhlS2VGb1hwaE1ZYS1LRG9iOTQ2VXN3RTUxa0tZNklEX2psWUVRNVM4MV9NUldobW9kenI4Mzl2ejZjQzc0YWtSYVdOX1Y2ZEw3NlVUVlViQ1FMOURYc1pydC1N0gFmQVVfeXFMTW9fbkN1SzBaOFFUYTB5VU9sSVdQTzhkRlJ3Wi1ZbmF3cW1IUU8zdzRXUUhZTHY0aTh2V19IQkZSMGFoSmI4eFBIa2ZLbUctR2dlUks4ck1OZUlsUFdRQWtiMlMza0hB?oc=5",
-            "published_at": "2026-11-13T07:12:38Z",
-            "headline": "KBO, 구자욱·원태인 등 28명 FA 자격 공시…17일부터 협상 시작"
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QYkdWRmxuV0pUTzJndld4MDlRU1VOVEZOV0syTE9LX3pJTldBTXlCQnUydW1rVHFuNG1CSEtwc1JMemtpd2llb0VlUXBYQ29nMWxqbFdSRHcxTGQ4ajBzc3F0RjNTcXAtVkdsV0dQUmJqOTZT0gFmQVVfeXFMUFBnVHRoX1JIVGpmQnZHRTQ0Y2hVMzJ6ODVLMHhEbVphLVkyRklwUEZYOTRxZmZiSmJEUFpJVGRNaklpN0ZERlBHVHZUeWhBeUFUdkJGakNMcS11angxREtHQkZLTjlR?oc=5",
+            "published_at": "2026-11-16T02:16:00Z",
+            "headline": "축구종가 잉글랜드, 스페인 무패행진 끝냈다…네이션스리그 방문경기서 3-2 승리"
           },
           {
             "name": "한겨레",
             "group": "hani.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GOFJfZUk3c3AzVWRTLXhXN0J5R3hBeDk1YmsxeURyVjQxR3Q4ZVpXNjdNNnd5c3ZBWXFJNWgzUnBSUW9kcUJ3Ti1iTWxoNG1OU1k4WXRCRTRVQ0lZcVBha09hNTEyOWM?oc=5",
-            "published_at": "2026-11-13T07:09:00Z",
-            "headline": "구자욱·원태인·홍창기 시장 나와…프로야구 FA 자격 선수 28명 공시"
-          },
-          {
-            "name": "news.sbs.co.kr",
-            "group": "sbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByelQ4alNBMTNablQ5TmhVOXZXcGM0UjlacUtoQk9DX1ZPd0xhUnZIT1dnSjZOWDVkMFNiQUFZUE5Lcmk5cjlPTEVzSkZHMUlhSHZIV3I5ZHlDRVBsUzZOY3kwaWxqZw?oc=5",
-            "published_at": "2026-11-13T07:07:00Z",
-            "headline": "프로야구 FA 시장 개장…원태인·구자욱 등 28명 자격 공시"
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1TQ0k0ckJmMzVPVjR0TmVSVC1tY0wweG1fSzVKdjRoV3ZDRHhMSWhBUXlDYjg3akloVzhpeWRYTFFIRjhZb3BrdkZjdV9YUF9iSGhKR2FWUDk4N1ZOWmJkVVgzUUE?oc=5",
+            "published_at": "2026-11-16T01:10:00Z",
+            "headline": "잉글랜드, 월드컵 우승팀 스페인 43경기 무패행진 끝냈다"
           },
           {
             "name": "뉴스1",
             "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zRGt2UUx2bENQVGg3X3FNRlZLeHZFYVFnVXVFNlNteW9Kb0VaMF82NVNCTHRnVEdXZHpRQ2U4bVhzajRUR0IyTC1OU3VwNFpaNnNLWFVFQQ?oc=5",
-            "published_at": "2026-11-13T07:05:12Z",
-            "headline": "구자욱·원태인·홍창기 등 프로야구 FA 자격 선수 28명 공시"
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qblBXRlNBRWlSRHRSdVNmc0ROaVY1WnRPcFRDa3FkcmdJUjBJelV2cHhVcjBqUGdacmxzU2ZVVHpERGpOanM2ZWJDLUpJRmVFTzloT1g0WDJab1JMdVNjbA?oc=5",
+            "published_at": "2026-11-16T00:10:16Z",
+            "headline": "'월드컵 챔피언' 스페인, 44경기 만에 졌다…잉글랜드에 2-3 패배"
+          },
+          {
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMzdjUVR2eFVoc2g1Tk9NdC1jYW1ERWtvVldqeUlhLTRlRFlJMGg5d2ZqSlBJd2duYzlqdThpakhGV1JlcG1hTkRpNDI1VWRiMkhzemJ5Qk12cVJlN2MwZGhfRnVGUXVLenZxMkc3MkROOGxNa1NVVlpOTFBxaVJOVGxneV9NX19nMUxV?oc=5",
+            "published_at": "2026-11-16T00:08:45Z",
+            "headline": "케인의 잉글랜드, 월드컵 우승팀 스페인 43경기 무패 행진 깼다"
+          },
+          {
+            "name": "노컷뉴스",
+            "group": "nocutnews.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mN1B4VGs0ZE1RQ1AtU0tieVNSTDUzOU1PUTBQNlJlUElwNTA3SGg5QWdNcml6WHZPcTE4c05ualhQY1JXRFJTUnlJQ1kyU2dCc2c?oc=5",
+            "published_at": "2026-11-15T23:10:14Z",
+            "headline": "'축구 종가' 잉글랜드, 스페인 43경기 연속 무패 행진에 제동"
+          },
+          {
+            "name": "일간스포츠",
+            "group": "edaily.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tS3FZa0JwWDZpSGk4cFVaYUlNMlNzZW9Oa2xYdmFXMXZKaFdJVm9sSEVQNmFGVW51ZXFmMnpEcTk0Y2RwSzZKN3Z1bFBXZGVUU3pYMlBOaHZtQk0?oc=5",
+            "published_at": "2026-11-15T22:55:00Z",
+            "headline": "'축구 종가' 잉글랜드, '무적함대' 스페인 43경기 연속 무패 행진 막았다 [UNL]"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "a551cb1b09550be06674",
+      "id": "7ad47161f96a6cbff229",
       "category": "스포츠",
-      "title": "결정적 골 기회 놓친 손흥민 \"동료들에게 많이 미안\"",
-      "summary": "결정적 골 기회 놓친 손흥민 \"동료들에게 많이 미안\"",
-      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘결정적 골 기회 놓친 손흥민 \"동료들에게 많이 미안\"’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "title": "원태인·구자욱 등 프로야구 FA 22명 공시",
+      "summary": "원태인·구자욱 등 프로야구 FA 22명 공시",
+      "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 59시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘원태인·구자욱 등 프로야구 FA 22명 공시’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "조선일보",
-      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMG9ab3pJeEVRRnpELU5LZkp6RTVQUURnVGpUVVdHblRlNkQ5NldhWXo1Ymt3MkpfWUFNaC1EejZoSTlPZ2Rib1ZXY3A0TzNpaGJCWURxZ3Y3ZE4zd3RvWHB2eHh2NE9fXzZoVXBBdlpXdGZWSVd4MlZxNk5oenBKdThsSQ?oc=5",
-      "published_at": "2026-11-14T00:00:32Z",
+      "source": "YTN",
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCZ2hWVXdzdnpkaFFVbXpmUzNJcHZQSnNza3pNUl9UelB5VC1DUGtjYm1VUlV6SUJKY2VWYlRSWlBhVDM0R0hiRW9DVWp6NW9pdEdIbmt6ak9kUGNIbEE?oc=5",
+      "published_at": "2026-11-16T14:39:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 4,
-        "report_count": 5,
-        "span_hours": 4.9,
-        "first_report_at": "2026-11-13T19:09:13Z",
-        "last_report_at": "2026-11-14T00:00:32Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0ZjhHNURwcFJQVm1GQ004NElIdjgxS3E1MGg2TDU2bGJncXVwem5Sb0hHelQ3U0xwLVFzejZmZjBKQ3l3NzhQT3N5MTdIWHJxS2UycEFkMVhBOTBPYlByTtIBYEFVX3lxTFB0ZjhHNURwcFJQVm1GQ004NElIdjgxS3E1MGg2TDU2bGJncXVwem5Sb0hHelQ3U0xwLVFzejZmZjBKQ3l3NzhQT3N5MTdIWHJxS2UycEFkMVhBOTBPYlByTg?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMG9ab3pJeEVRRnpELU5LZkp6RTVQUURnVGpUVVdHblRlNkQ5NldhWXo1Ymt3MkpfWUFNaC1EejZoSTlPZ2Rib1ZXY3A0TzNpaGJCWURxZ3Y3ZE4zd3RvWHB2eHh2NE9fXzZoVXBBdlpXdGZWSVd4MlZxNk5oenBKdThsSQ?oc=5",
+        "source_groups": 5,
+        "report_count": 7,
+        "span_hours": 59.6,
+        "first_report_at": "2026-11-14T03:03:00Z",
+        "last_report_at": "2026-11-16T14:39:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GOFJfZUk3c3AzVWRTLXhXN0J5R3hBeDk1YmsxeURyVjQxR3Q4ZVpXNjdNNnd5c3ZBWXFJNWgzUnBSUW9kcUJ3Ti1iTWxoNG1OU1k4WXRCRTRVQ0lZcVBha09hNTEyOWM?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCZ2hWVXdzdnpkaFFVbXpmUzNJcHZQSnNza3pNUl9UelB5VC1DUGtjYm1VUlV6SUJKY2VWYlRSWlBhVDM0R0hiRW9DVWp6NW9pdEdIbmt6ak9kUGNIbEE?oc=5",
         "sources": [
           {
-            "name": "조선일보",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMG9ab3pJeEVRRnpELU5LZkp6RTVQUURnVGpUVVdHblRlNkQ5NldhWXo1Ymt3MkpfWUFNaC1EejZoSTlPZ2Rib1ZXY3A0TzNpaGJCWURxZ3Y3ZE4zd3RvWHB2eHh2NE9fXzZoVXBBdlpXdGZWSVd4MlZxNk5oenBKdThsSQ?oc=5",
-            "published_at": "2026-11-14T00:00:32Z",
-            "headline": "결정적 골 기회 놓친 손흥민 \"동료들에게 많이 미안\""
+            "name": "YTN",
+            "group": "munhwa.com",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCZ2hWVXdzdnpkaFFVbXpmUzNJcHZQSnNza3pNUl9UelB5VC1DUGtjYm1VUlV6SUJKY2VWYlRSWlBhVDM0R0hiRW9DVWp6NW9pdEdIbmt6ak9kUGNIbEE?oc=5",
+            "published_at": "2026-11-16T14:39:00Z",
+            "headline": "원태인·구자욱 등 프로야구 FA 22명 공시"
           },
           {
-            "name": "스포츠경향",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvZFplU3B0MnF4cG1iNEhaY3ZlSWtlOEw1WnlpRzlhQzlZN3VQQTdHVklINHd0ZE8xbnRHUkhWYzJISGxrbjZNYVVSRVNKb1ZGLTlxcFFFZkZ3aXpSQ2fSAWNBVV95cUxQdzZZZTFRdVBJYTc0bVNJek1jS3lrMFctamhlLW9zbWUtYnE4VDZRZ3Zzc205M0dMc3l3ZlFXNktsUXRhN21rU3llanBMQlZyUUVTUy0xVUNXLU9rc2I1RERtRW8?oc=5",
-            "published_at": "2026-11-13T23:34:00Z",
-            "headline": "갈등 봉합에도 뼈아픈 사우디전 패배… ‘골 침묵’ 손흥민 “선수들에게 미안해”"
+            "name": "KBS 뉴스",
+            "group": "kbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJSl9IaDc0ZnNhdmRYZ2xLRF9PblU0TUcyeElqd1diT2otTjRyT0Nua05mblZIT0FES0o3UzhoZWlrTjBaYzRaR1lqNGNCWVE1Q1FVeklUQ1M4ZGlOeVpSS3BBNEozUQ?oc=5",
+            "published_at": "2026-11-16T05:55:00Z",
+            "headline": "‘스토브리그 개막’ 프로야구 FA 22명 공시…원태인·구자욱 어디로?"
           },
           {
-            "name": "중앙일보",
-            "group": "joongang.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RXzZCdWxweG5Nc3R6RG8taWYwWXJpUV9kYUwzVjNZbG0wNGFibWF3aXItaFVmekNrSHJ2ZUVZSjF2MGVPRURRNVI1TzBOS1dqejVWX0R3?oc=5",
-            "published_at": "2026-11-13T22:34:45Z",
-            "headline": "완벽한 골 기회 놓친 손흥민 “내 역할 못해서 선수들에게 미안”"
+            "name": "일간스포츠",
+            "group": "edaily.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hQnNVdXFWQVg5QXd1cy1NS3FnRGdoYWZWamVQclF1TEZ0SFJYemhUWGlkTUtUbEwyeFJMeWVVVmlNbEhkV2hGdW5CTXNBNkEtUk54SG16ZHNBb2s?oc=5",
+            "published_at": "2026-11-16T04:02:00Z",
+            "headline": "구자욱·원태인에 양의지도 나왔다, KBO FA 승인 22명 공시"
           },
           {
-            "name": "한국경제",
-            "group": "hankyung.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13VzRuWTFOcm9oajhmUTdTUmJPLVp2QS1JOFJMRHY5MnRNQ3dCOFpGZnNiZXUzeGZHOWFFN2hSemlwMmVPNElIZ1k2NUJzbkQtM2gwSHMzbmVZQQ?oc=5",
-            "published_at": "2026-11-13T22:32:22Z",
-            "headline": "손흥민 \"선수들에게 많이 미안\"…21년 만에 사우디에 '패배'"
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JTGFFT3ZtNmluNG4xUTlOQUFQTlpSd0liVGl0Wjlzdm1vblo0Vm9aUlNZemVQdkd5MW1fT1lDQWZKYl95S01JSXg4Wl85LWJVWG8wZDh0MTNDeDdJLVFIQQ?oc=5",
+            "published_at": "2026-11-16T02:39:27Z",
+            "headline": "프로야구 FA 22명 공시…원태인·구자욱 시장에 나온다"
+          },
+          {
+            "name": "한겨레",
+            "group": "hani.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GOFJfZUk3c3AzVWRTLXhXN0J5R3hBeDk1YmsxeURyVjQxR3Q4ZVpXNjdNNnd5c3ZBWXFJNWgzUnBSUW9kcUJ3Ti1iTWxoNG1OU1k4WXRCRTRVQ0lZcVBha09hNTEyOWM?oc=5",
+            "published_at": "2026-11-14T03:03:00Z",
+            "headline": "구자욱·원태인 등 FA 28명 공시…프로야구 ‘스토브리그’ 시작"
           }
         ]
       },
@@ -405,6 +432,45 @@
       "last_collected_at": "2026-11-15T18:49:41.964846Z"
     },
     {
+      "id": "6413b0d172a425612622",
+      "category": "사회",
+      "title": "\"수능날 전파 차단\" 꺼냈다가 반나절 만에 \"안 한다\"... 교육부 \"와이파이 차단만 검토\"",
+      "summary": "\"수능날 전파 차단\" 꺼냈다가 반나절 만에 \"안 한다\"... 교육부 \"와이파이 차단만 검토\"",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 2시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘\"수능날 전파 차단\" 꺼냈다가 반나절 만에 \"안 한다\"... 교육부 \"와이파이 차단만 검토\"’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
+      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
+      "source": "한국일보",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mYVQwQnBIZ2ROZ200bkpqb25xR0NBcGZlX2JJVTZ2aUk5U05XcmtQV2R1ZnZIM2tjRnpoV0c3MUE3VEdMOHRiMUtILV9JX2NfNmlKVTB2Ymk3R2wzVnJmYklyeEJ1eEN4RXc1ZDB0Z1VZbUHSAXNBVV95cUxOZmFUMEJwSGdkTmdtNG5Kam9ucUdDQXBmZV9iSVU2dmlJOVNOV3JrUFdkdWZ2SDNrY0Z6aFdHNzFBN1RHTDh0YjFLSC1fSV9jXzZpSlUwdmJpN0dsM1ZyZmJJcnhCdXhDeEV3NWQwdGdVWW1B?oc=5",
+      "published_at": "2026-11-16T09:03:00Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 2,
+        "report_count": 3,
+        "span_hours": 2.8,
+        "first_report_at": "2026-11-16T06:13:00Z",
+        "last_report_at": "2026-11-16T09:03:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UZ0hocTVrdC1oMXJxSUpLTXM3N3A3aHg5aXJkVmRKcWh3Ym9QVmZRSmtJa3FIckZXb29TVU1JMmRCVm1nSFZBcG5hUng5N05Cakc4Wmw2bkxSck1QdE9UeDMzVW1KN1REUkRLN2530gFzQVVfeXFMTUNVeXg3QUJzS19oMlVYZWdfWHBFYXJhczVTal8zTThQanJsOHR6NTRsd0lNbUJEQ2tKamozYlZfclk4cGlJQUtCMG1sWm1nUHdlWnFKbmd3QVdIbjZuWjVjQW9xZmJPYU9YWU9zQVNEYVdnWQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mYVQwQnBIZ2ROZ200bkpqb25xR0NBcGZlX2JJVTZ2aUk5U05XcmtQV2R1ZnZIM2tjRnpoV0c3MUE3VEdMOHRiMUtILV9JX2NfNmlKVTB2Ymk3R2wzVnJmYklyeEJ1eEN4RXc1ZDB0Z1VZbUHSAXNBVV95cUxOZmFUMEJwSGdkTmdtNG5Kam9ucUdDQXBmZV9iSVU2dmlJOVNOV3JrUFdkdWZ2SDNrY0Z6aFdHNzFBN1RHTDh0YjFLSC1fSV9jXzZpSlUwdmJpN0dsM1ZyZmJJcnhCdXhDeEV3NWQwdGdVWW1B?oc=5",
+        "sources": [
+          {
+            "name": "한국일보",
+            "group": "hankookilbo.com",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mYVQwQnBIZ2ROZ200bkpqb25xR0NBcGZlX2JJVTZ2aUk5U05XcmtQV2R1ZnZIM2tjRnpoV0c3MUE3VEdMOHRiMUtILV9JX2NfNmlKVTB2Ymk3R2wzVnJmYklyeEJ1eEN4RXc1ZDB0Z1VZbUHSAXNBVV95cUxOZmFUMEJwSGdkTmdtNG5Kam9ucUdDQXBmZV9iSVU2dmlJOVNOV3JrUFdkdWZ2SDNrY0Z6aFdHNzFBN1RHTDh0YjFLSC1fSV9jXzZpSlUwdmJpN0dsM1ZyZmJJcnhCdXhDeEV3NWQwdGdVWW1B?oc=5",
+            "published_at": "2026-11-16T09:03:00Z",
+            "headline": "\"수능날 전파 차단\" 꺼냈다가 반나절 만에 \"안 한다\"... 교육부 \"와이파이 차단만 검토\""
+          },
+          {
+            "name": "머니투데이",
+            "group": "mt.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZM1liaGpTTG12N0VuRW9aZkJ1clhDZHVpUnBRZkR4ZHNFai1idnBvVzJvcV9vVWp6djd0SWZ1VHViLTAtYmh2NTNldXRXTXU2RzJ6bmQ4WjdwelVzOWtWbVdRbjFEejjSAWxBVV95cUxNODdnODlHcld2bGRsNDJKOHVqVldKN3ZpSHI5SjQ4YjFXNUptSFZoSWFCcTRSSzBIMmlZaHBseklhN1BvTVE2NkxGX1hsUExMTVVtQV9rb1owR1pIX2hLdkVVcVJRZnJQVU0yczE?oc=5",
+            "published_at": "2026-11-16T07:49:00Z",
+            "headline": "수능 날 공공 와이파이 끈다지만...\"무선망 대책은?\" 실효성 '의문' - 머니투데이"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
       "id": "89f1113f5f40c1e4aace",
       "category": "사회",
       "title": "아파트 방화에 주민 대피시키던 70대 경비원, 병원 치료 중 숨져",
@@ -462,7 +528,7 @@
           }
         ]
       },
-      "selection_rank": 1,
+      "selection_rank": 2,
       "last_collected_at": "2026-11-15T18:49:41.964846Z"
     }
   ]
