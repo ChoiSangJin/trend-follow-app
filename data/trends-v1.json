@@ -1,196 +1,17 @@
 {
   "schema_version": 1,
   "region": "KR",
-  "updated_at": "2026-11-16T21:58:54.339439Z",
-  "tracking_started_at": "2026-11-14T06:16:51.166340Z",
+  "updated_at": "2026-11-17T07:51:39.162849Z",
+  "tracking_started_at": "2026-11-14T13:36:45.301427Z",
   "snapshot_count": 7,
   "cards": [
-    {
-      "topic": {
-        "id": "74239aaa38b338293609",
-        "category": "스포츠",
-        "title": "완벽한 골 기회 놓친 손흥민 “내 역할 못해서 선수들에게 미안”",
-        "summary": "완벽한 골 기회 놓친 손흥민 “내 역할 못해서 선수들에게 미안”",
-        "why_now": "수집 범위에서 관련 보도 8개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 37시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘완벽한 골 기회 놓친 손흥민 “내 역할 못해서 선수들에게 미안”’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "중앙일보",
-        "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RXzZCdWxweG5Nc3R6RG8taWYwWXJpUV9kYUwzVjNZbG0wNGFibWF3aXItaFVmekNrSHJ2ZUVZSjF2MGVPRURRNVI1TzBOS1dqejVWX0R3?oc=5",
-        "published_at": "2026-11-13T22:34:45Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 8,
-          "report_count": 8,
-          "span_hours": 37.5,
-          "first_report_at": "2026-11-13T22:32:22Z",
-          "last_report_at": "2026-11-15T12:03:38Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13VzRuWTFOcm9oajhmUTdTUmJPLVp2QS1JOFJMRHY5MnRNQ3dCOFpGZnNiZXUzeGZHOWFFN2hSemlwMmVPNElIZ1k2NUJzbkQtM2gwSHMzbmVZQQ?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRamxENUd2VGJhZjNNRnN2RThhdUpCcy1fdEIzM0FoVWp0cGlVRWtWajI2M3V3ZGFkVC1vd2JqbFVuU2VoVUw5U3J3UzdTMncxV1VNRlhrU2h5QQ?oc=5",
-          "sources": [
-            {
-              "name": "파이낸셜뉴스",
-              "group": "fnnews.com",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRamxENUd2VGJhZjNNRnN2RThhdUpCcy1fdEIzM0FoVWp0cGlVRWtWajI2M3V3ZGFkVC1vd2JqbFVuU2VoVUw5U3J3UzdTMncxV1VNRlhrU2h5QQ?oc=5",
-              "published_at": "2026-11-15T12:03:38Z",
-              "headline": "\"손흥민·이강인·김민재 다 데려와도 소용없었다\"... 21년 만에 한국 꺾은 사우디 축제 분위기"
-            },
-            {
-              "name": "스타뉴스",
-              "group": "starnewskorea.com",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54MDV2RjJ4aFpLNXhMRFJycV9TeU9SZ0RNZjNKNW1idm5FbEFNUVBDb3FCdDlhSGhZWEw3VmxhekE5NlhtUEFLQTBSNU15bEd0TnFWek5GLWkyRDlZbXhzM0hSbllUZjVXV1J5UWFhUUxXTzJvTHc?oc=5",
-              "published_at": "2026-11-15T03:30:06Z",
-              "headline": "\"한국, 42년 만의 굴욕\" 日도 짚었다... 손흥민·김민재 모두 내고도 사우디에 3실점 패배"
-            },
-            {
-              "name": "JTBC",
-              "group": "jtbc.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RWDhVQ3dEWjNVaTdCLTN2Yk8xQmxrcDBZMThGaFplZUdoSjVDTjdSWmtJVHVzNVJmNEJ6LWZhU1huSWYwbXZvT3pXeUs3ckI0eVJGQQ?oc=5",
-              "published_at": "2026-11-14T11:47:00Z",
-              "headline": "‘원팀’ 다짐에도 사우디에 2대3 패배…고개 숙인 손흥민"
-            },
-            {
-              "name": "SBS 뉴스",
-              "group": "sbs.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSb3FLcVJVZ3ZlWTlCWUlfTW1pLVh6cUJlMWNHd3ZTNlBfX2x0NU55TmNQNEVsZGpIM2NCTjNrR2FhakQxMTBKUUd4bVF3LTU4V1J5UTIwWk9lZ3dRLXFwZDZ5dTMxR3MtN2c?oc=5",
-              "published_at": "2026-11-14T01:42:50Z",
-              "headline": "득점 기회 놓친 손흥민 \"내 역할 못 해서 선수들에게 미안\""
-            },
-            {
-              "name": "이데일리",
-              "group": "edaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQN1dnWHRUeEdTaGlNZ3gxd3N6dllqejNXaUlwa2RlMWhvT01iYzFjbUg4SEhLS2JzTDluZWQ4QWRzLVlDSkVHXzBVU3prRTBYN3VTZm5kdnpfN0NqNlVjb0RGc0pzaF9hM2ZHNTQ0YVJPR2ZITVJ5alRsbEVGWVRUbQ?oc=5",
-              "published_at": "2026-11-14T01:26:51Z",
-              "headline": "골대 위로 뜬 오른발 슛…손흥민 “선수들에게 많이 미안하다”"
-            },
-            {
-              "name": "스포츠경향",
-              "group": "khan.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvZFplU3B0MnF4cG1iNEhaY3ZlSWtlOEw1WnlpRzlhQzlZN3VQQTdHVklINHd0ZE8xbnRHUkhWYzJISGxrbjZNYVVSRVNKb1ZGLTlxcFFFZkZ3aXpSQ2fSAWNBVV95cUxQdzZZZTFRdVBJYTc0bVNJek1jS3lrMFctamhlLW9zbWUtYnE4VDZRZ3Zzc205M0dMc3l3ZlFXNktsUXRhN21rU3llanBMQlZyUUVTUy0xVUNXLU9rc2I1RERtRW8?oc=5",
-              "published_at": "2026-11-13T23:34:00Z",
-              "headline": "갈등 봉합에도 뼈아픈 사우디전 패배… ‘골 침묵’ 손흥민 “선수들에게 미안해”"
-            },
-            {
-              "name": "중앙일보",
-              "group": "joongang.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RXzZCdWxweG5Nc3R6RG8taWYwWXJpUV9kYUwzVjNZbG0wNGFibWF3aXItaFVmekNrSHJ2ZUVZSjF2MGVPRURRNVI1TzBOS1dqejVWX0R3?oc=5",
-              "published_at": "2026-11-13T22:34:45Z",
-              "headline": "완벽한 골 기회 놓친 손흥민 “내 역할 못해서 선수들에게 미안”"
-            },
-            {
-              "name": "한국경제",
-              "group": "hankyung.com",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13VzRuWTFOcm9oajhmUTdTUmJPLVp2QS1JOFJMRHY5MnRNQ3dCOFpGZnNiZXUzeGZHOWFFN2hSemlwMmVPNElIZ1k2NUJzbkQtM2gwSHMzbmVZQQ?oc=5",
-              "published_at": "2026-11-13T22:32:22Z",
-              "headline": "손흥민 \"선수들에게 많이 미안\"…21년 만에 사우디에 '패배'"
-            }
-          ]
-        }
-      },
-      "source_groups": 8,
-      "daily_sources": [
-        6,
-        2,
-        0
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 1
-    },
-    {
-      "topic": {
-        "id": "3b3f298b9289d69c1826",
-        "category": "스포츠",
-        "title": "프로농구 KCC, SK 꺾고 4연승 질주…현대모비스는 LG 잡고 4연패 탈출",
-        "summary": "프로농구 KCC, SK 꺾고 4연승 질주…현대모비스는 LG 잡고 4연패 탈출",
-        "why_now": "수집 범위에서 관련 보도 9개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 52시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘프로농구 KCC, SK 꺾고 4연승 질주…현대모비스는 LG 잡고 4연패 탈출’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "동아일보",
-        "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwN2lSb2NFZEFhd092ek1ZX2RXQl9fd0FacENhaDg0Nk43Qk5HT1Q3TmFoQVA1RWtrNFZJa19Xb1YtZUlkNUdnOUx5Q2pzYlkxQ1A1Z2VPU2h5M1hKUTU2U3FpcHpQUdIBZkFVX3lxTFBwN2lSb2NFZEFhd092ek1ZX2RXQl9fd0FacENhaDg0Nk43Qk5HT1Q3TmFoQVA1RWtrNFZJa19Xb1YtZUlkNUdnOUx5Q2pzYlkxQ1A1Z2VPU2h5M1hKUTU2U3FpcHpQUQ?oc=5",
-        "published_at": "2026-11-14T07:31:45Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 7,
-          "report_count": 9,
-          "span_hours": 52.8,
-          "first_report_at": "2026-11-14T07:31:45Z",
-          "last_report_at": "2026-11-16T12:21:04Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwN2lSb2NFZEFhd092ek1ZX2RXQl9fd0FacENhaDg0Nk43Qk5HT1Q3TmFoQVA1RWtrNFZJa19Xb1YtZUlkNUdnOUx5Q2pzYlkxQ1A1Z2VPU2h5M1hKUTU2U3FpcHpQUdIBZkFVX3lxTFBwN2lSb2NFZEFhd092ek1ZX2RXQl9fd0FacENhaDg0Nk43Qk5HT1Q3TmFoQVA1RWtrNFZJa19Xb1YtZUlkNUdnOUx5Q2pzYlkxQ1A1Z2VPU2h5M1hKUTU2U3FpcHpQUQ?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wQ1BhRldGQzVvTk5vSEQ1WFRDV3hDMWQ4TW1hT3JzNzZKUzVuVS1rbVdTdEp4QnVtckV3OWpkTHF6dzZPNGpZeEFrTnJGUksyZGQ1aEQwVnl6UlZKUzFpR9IBeEFVX3lxTE5LOFc3QkFRTnVsV3JnNDVhdlVYcGxGQzIyQUhXbFZOc3EzRm1nNWpYTFIwMjB6ZFo2X1lFMjBPVXdmNFljUGVIN19uREk5djhWT1R4ZEZSVXFwclc1U3JyV0FqMG01MExRR2JXTlYxWDdXUTh5RlhyVA?oc=5",
-          "sources": [
-            {
-              "name": "뉴시스",
-              "group": "wire:뉴시스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wQ1BhRldGQzVvTk5vSEQ1WFRDV3hDMWQ4TW1hT3JzNzZKUzVuVS1rbVdTdEp4QnVtckV3OWpkTHF6dzZPNGpZeEFrTnJGUksyZGQ1aEQwVnl6UlZKUzFpR9IBeEFVX3lxTE5LOFc3QkFRTnVsV3JnNDVhdlVYcGxGQzIyQUhXbFZOc3EzRm1nNWpYTFIwMjB6ZFo2X1lFMjBPVXdmNFljUGVIN19uREk5djhWT1R4ZEZSVXFwclc1U3JyV0FqMG01MExRR2JXTlYxWDdXUTh5RlhyVA?oc=5",
-              "published_at": "2026-11-16T12:21:04Z",
-              "headline": "프로농구 SK, 현대모비스 92-76 꺾고 2연패 탈출…워니 더블더블"
-            },
-            {
-              "name": "연합뉴스",
-              "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42MjBpRDRnYmZ6MHVSZFd6RWJUcEctaS1rM0xoYk14ZnlPS3JTaEl5QXVEM2Q2aW1SNktYMmlDNE12WFhqZG1WUXhWcWxscVluT2VBeUplYUZKMkHSAWBBVV95cUxPTy13VVFNdlptXzB1TkdBd3pKTXVsemVhOHVJRGlRQUNpQ25VSDE4dGM1VzJlLVFEMXAtc1FiVDNtTkpVQnhIMmxoQTNXeG5VRHdsOWs3eVZUZl9JRlM3ZXE?oc=5",
-              "published_at": "2026-11-16T11:58:19Z",
-              "headline": "워니＋안영준 46점 합작…프로농구 SK, 모비스 잡고 2연패 탈출"
-            },
-            {
-              "name": "한겨레",
-              "group": "hani.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PU2ZNbXhtOC0xblcxY2FFeXpGclNZUTVqNzh5Q0xRd0w5ZGhJQ2dyVXVIVVFPazJ5SUV0SFpvXzlGS0hsamdxMkM5cVV2eU5pM1RjaE9UZ1JSOVJtVjBPNWNsLTJ3TUNnZUE?oc=5",
-              "published_at": "2026-11-15T22:56:00Z",
-              "headline": "프로농구 KCC 기세 무섭다, 5연승 질주…소노도 연패 탈출"
-            },
-            {
-              "name": "SBS 뉴스",
-              "group": "sbs.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLRUlNR0V3TG9CYjNBcHpuTl9ZenJ2b0tWbWRXQzFmeVVXQlBOamdVVmd4YzJRWGwzVVB2Y2NHTHloT2lQTUNxV19GVF9NVHJMdV9BYUVsalRTNDhTcjdOSDV1clhzNjJjc0HSAWZBVV95cUxNOTd5MFJZV3QtRzFsX2l5eDJOd1FhSzRwaUtrcHg0N2Jwbkd5YzV4blFQbHo2c0daWnptYXhuenI4QnFJRkM5SHdjR2RwV2FTa29LTFJmbkpaT0ViVnZzOTZpelJ1REE?oc=5",
-              "published_at": "2026-11-15T11:46:33Z",
-              "headline": "프로농구 KCC, 종료 3초 남기고 기적 같은 대역전극"
-            },
-            {
-              "name": "뉴스1",
-              "group": "wire:뉴스1",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzUXB1Zk5YNW5iVmNYVWdwNlAzWldpYW1CbkUwWEZ2QXhSb0I2Q3lCaUZ4Y18wY1ZfVFB3SV90cG5aMVRYd2FjNHJJUzdOVWNTTl94M2tJTXpIdw?oc=5",
-              "published_at": "2026-11-14T10:38:38Z",
-              "headline": "프로농구 정관장, 선두 삼성 꺾고 4연승…'1경기 차' 추격"
-            },
-            {
-              "name": "마이데일리",
-              "group": "mydaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95YVNRNFhTblRuR3Rmdm11SFpqUVpqQVNpQUtVMXJ2Wk44RG1UMXByNExGM3ZKOFZEd19nMVpWODFwSi1iQTVoakpmRW5YTkJQN0NYU0x6c1BZT3hpaEZKTw?oc=5",
-              "published_at": "2026-11-14T09:25:38Z",
-              "headline": "'스펠맨·박무빈 동반 더블더블' 현대모비스, LG 꺾고 4연패 탈출…KCC는 4연승 질주, 여자프로농구 삼성생명·신한은행은 나란히 승전고→공동 1위 (종합)"
-            },
-            {
-              "name": "동아일보",
-              "group": "donga.com",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwN2lSb2NFZEFhd092ek1ZX2RXQl9fd0FacENhaDg0Nk43Qk5HT1Q3TmFoQVA1RWtrNFZJa19Xb1YtZUlkNUdnOUx5Q2pzYlkxQ1A1Z2VPU2h5M1hKUTU2U3FpcHpQUdIBZkFVX3lxTFBwN2lSb2NFZEFhd092ek1ZX2RXQl9fd0FacENhaDg0Nk43Qk5HT1Q3TmFoQVA1RWtrNFZJa19Xb1YtZUlkNUdnOUx5Q2pzYlkxQ1A1Z2VPU2h5M1hKUTU2U3FpcHpQUQ?oc=5",
-              "published_at": "2026-11-14T07:31:45Z",
-              "headline": "프로농구 KCC, SK 꺾고 4연승 질주…현대모비스는 LG 잡고 4연패 탈출"
-            }
-          ]
-        }
-      },
-      "source_groups": 7,
-      "daily_sources": [
-        5,
-        1,
-        3
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 2
-    },
     {
       "topic": {
         "id": "9e38eed3f9f36719e422",
         "category": "기술·과학",
         "title": "정부, ‘AI 부정행위’ 세무사 수석 합격자 합격증 효력 정지 추진",
         "summary": "정부, ‘AI 부정행위’ 세무사 수석 합격자 합격증 효력 정지 추진",
-        "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 21시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "why_now": "수집 범위에서 관련 보도 9개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 50시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
         "opener": "‘정부, ‘AI 부정행위’ 세무사 수석 합격자 합격증 효력 정지 추진’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
         "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
         "source": "JTBC",
@@ -199,19 +20,19 @@
         "evidence": "headline",
         "coverage": {
           "source_groups": 7,
-          "report_count": 7,
-          "span_hours": 21.9,
+          "report_count": 9,
+          "span_hours": 50.4,
           "first_report_at": "2026-11-15T05:13:08Z",
-          "last_report_at": "2026-11-16T03:05:00Z",
+          "last_report_at": "2026-11-17T07:36:00Z",
           "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XanVmNk01RTJVSnBfdmtkdjUtNDc0Slo5TDFsRWpvYTJTaHRKVjQ3bHV3eTVEVW10TWFUZUFQSFEwSW9iODZ1RnBpeXdDYmtJX0M4MUpIZFVyNTBXVU52c9IBeEFVX3lxTE5FTUlrRzRDcVh5UGxSejQyR05EMUVaY1R4cDZEcDBpQllFQ09BY2FJM3l2Q1hkZzFseXFmZzUtRGxmaG1IQ2NnTVJTZ21vY0hpWER2TG1kUEwtQk81R3B5X0pwMS1kS2I3MUQ2cldYWlpvMDNDY2QzRg?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhVjQtRzVnaTBGMUFYcmVqVnRjaVhKdTdTcE8wTGpXeHFIMklyWGxVUHcxLUZkM0duVnZvMlhQLXJISThsV2wxdy1qaG9qZEV2OWlVekFmd0o1Z9IBX0FVX3lxTE1mVHM5M0hsWUJVTWVtd2hJM2dYRVQ3Y3VGbDU3Tm1mbFQ0LWJzVVkzdHpuN0RtRzIwaXEyLVJ3b2xHSlJ6TmN1amprejgwRWh0V29nTS1URW1jM1gwNEdV?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Db0wxeW5lc2VTNmVKalpHZUhOYVE5X2FyLTBFdjJvVGxZc2RWbzJNY0JGSDlmaDZrSkpzQUZGSmJ1bjN5eTM5bExQQWJhSFc0MGZSM3p6Q0FxQdIBX0FVX3lxTE4xbkdmMUpLWmlFQXprMEFLcWtGcXk1MjdtN1Nob3hjRVZqMGJ0VUpkMFFwS0dRYnhzem5lQmVIcXlJcGhyRVM2SXZFbU9vYXV5QU11QlhxV0RIMUU3Y2Z3?oc=5",
           "sources": [
             {
               "name": "경향신문",
               "group": "khan.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhVjQtRzVnaTBGMUFYcmVqVnRjaVhKdTdTcE8wTGpXeHFIMklyWGxVUHcxLUZkM0duVnZvMlhQLXJISThsV2wxdy1qaG9qZEV2OWlVekFmd0o1Z9IBX0FVX3lxTE1mVHM5M0hsWUJVTWVtd2hJM2dYRVQ3Y3VGbDU3Tm1mbFQ0LWJzVVkzdHpuN0RtRzIwaXEyLVJ3b2xHSlJ6TmN1amprejgwRWh0V29nTS1URW1jM1gwNEdV?oc=5",
-              "published_at": "2026-11-16T03:05:00Z",
-              "headline": "‘AI 부정행위’ 세무사 수석 변호인 어제밤 경찰 조사받아···초소형카메라·노트북·휴대폰 등 제출"
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Db0wxeW5lc2VTNmVKalpHZUhOYVE5X2FyLTBFdjJvVGxZc2RWbzJNY0JGSDlmaDZrSkpzQUZGSmJ1bjN5eTM5bExQQWJhSFc0MGZSM3p6Q0FxQdIBX0FVX3lxTE4xbkdmMUpLWmlFQXprMEFLcWtGcXk1MjdtN1Nob3hjRVZqMGJ0VUpkMFFwS0dRYnhzem5lQmVIcXlJcGhyRVM2SXZFbU9vYXV5QU11QlhxV0RIMUU3Y2Z3?oc=5",
+              "published_at": "2026-11-17T07:36:00Z",
+              "headline": "경찰, ‘AI 부정행위’ 세무사시험 수석 조사…‘계산기 활용’ 등 범행 수법 파악에 주력"
             },
             {
               "name": "한국일보",
@@ -260,15 +81,101 @@
       },
       "source_groups": 7,
       "daily_sources": [
-        0,
-        5,
-        2
+        4,
+        4,
+        1
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 3
+      "rank": 1
+    },
+    {
+      "topic": {
+        "id": "99e317e1a7e8f03bde06",
+        "category": "경제·주식",
+        "title": "엔비디아 실적발표·앤스로픽 상장 주목 [주간증시전망]",
+        "summary": "엔비디아 실적발표·앤스로픽 상장 주목 [주간증시전망]",
+        "why_now": "수집 범위에서 관련 보도 11개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 38시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘엔비디아 실적발표·앤스로픽 상장 주목 [주간증시전망]’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+        "source": "부산파이낸셜뉴스",
+        "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBU2ltam1LM2Y5M3ItYjZzOHBqN3BsY1NkYjFZa3doUlE5VFhnNEhjSXJCVnhHT3ZjOVFoWjZrdl9vNlpqd1JsUUFhOVRKZFJsQnJSZTZQZ3RIZ3FZ?oc=5",
+        "published_at": "2026-11-15T10:11:00Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 7,
+          "report_count": 11,
+          "span_hours": 38.2,
+          "first_report_at": "2026-11-14T21:00:05Z",
+          "last_report_at": "2026-11-16T11:12:02Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Udy1vaHZwclBHbGhpaGFhRmtBX1JpeU1KOUNjYjQzY0pkalpHaVZYRjc5ZHhqNmdpMnlfU0VNdUJrcExrZDA5cGJaNjhkazJpbUE?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WcFF4RHQ1MnJ0S0tYOUZRaFJzQUNwNlA0SWU5TllkOEdrVGtQcnJ4NGExbUVmRU5TNnRmYVFfNllDOThBa0FmMkJnZmJpZ2ZpT280eDhnWld2emVBNVpHX05VSHY1RE5BS19kMkhQNEVQbm1tOTFaNNIBeEFVX3lxTFBPR0RSVEhmeXEweGloRWNTb0xUYllxZzFCdkhnY2VXSkxreHlWY20tTXYwVDJ4TjVtV1l1WGtJek92RFVIM2QycXhSZ2swenAtNGp3dHZGWHFJSUhKbUpyYWl4V29yXzFkOHdQOG05U3c2VWU4dEZtaA?oc=5",
+          "sources": [
+            {
+              "name": "MBC 뉴스",
+              "group": "imbc.com",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WcFF4RHQ1MnJ0S0tYOUZRaFJzQUNwNlA0SWU5TllkOEdrVGtQcnJ4NGExbUVmRU5TNnRmYVFfNllDOThBa0FmMkJnZmJpZ2ZpT280eDhnWld2emVBNVpHX05VSHY1RE5BS19kMkhQNEVQbm1tOTFaNNIBeEFVX3lxTFBPR0RSVEhmeXEweGloRWNTb0xUYllxZzFCdkhnY2VXSkxreHlWY20tTXYwVDJ4TjVtV1l1WGtJek92RFVIM2QycXhSZ2swenAtNGp3dHZGWHFJSUhKbUpyYWl4V29yXzFkOHdQOG05U3c2VWU4dEZtaA?oc=5",
+              "published_at": "2026-11-16T11:12:02Z",
+              "headline": "젠슨 황·담합 소송에 코스피 3.6% 뚝‥엔비디아 실적 반등 계기 될까?"
+            },
+            {
+              "name": "뉴스1",
+              "group": "wire:뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QMDJWZ0RZcllaV3VST3E2NFJMc2ZLaWJRc0YySkhqb1Z3OXB3SVJDa3pIVkVDb1pCLW40aE4zdDYxQTZtb0IwczA2TEZvNHd2bUZBWnpCWmtGUUE4bzNBVFZoWk44U2M?oc=5",
+              "published_at": "2026-11-15T23:39:41Z",
+              "headline": "뉴욕증시 선물 소폭 상승…엔비디아 실적·앤트로픽 상장 앞두고 관망"
+            },
+            {
+              "name": "머니투데이",
+              "group": "mt.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94RUozbVJma3hLNUhiRzBjNHFqWTNZOEdIdV80U05fTDlESXlMRTJTTDdwQ1RaWG5Xc19DU2FFeEdsR1oyZ1BhTGJVaExLRzktU01YaWpFLWNxRHB1WWNTdDQ1cFlaTndf0gFuQVVfeXFMTTRXVVV0a3R1bGVZSjFMRVV0MHFRZHE3b3VTaFNjbW8ycWRlOUtZWW81eEFGamo2c0xNQ3ljRXFxeGlkcUxlWEt0UFVIdXgwQmc2Yno1bTJPX0U1aVpLRVNaOXc3b3d4bWZ5TDJMTXc?oc=5",
+              "published_at": "2026-11-15T20:35:00Z",
+              "headline": "엔비디아 실적·앤트로픽 상장…AI주 운명 달린 한 주[이번주 美 증시는] - 머니투데이"
+            },
+            {
+              "name": "중앙일보",
+              "group": "joongang.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oV09XUjhGRkJmZVhERlF2bEY2UHdVV1B1YWF0RllGTEJGX1BZUnVzTjRFaGVjb1pVWTFrWEJYU2UtWmRoU0JtZVVIUUJBQjFEYk5hWndRblV2MTg?oc=5",
+              "published_at": "2026-11-15T12:15:26Z",
+              "headline": "엔비디아 실적·앤트로픽 IPO까지…그래도 AI는 돈다 [11/16~11/20 투자캘린더]｜Global Money Club"
+            },
+            {
+              "name": "경향신문",
+              "group": "khan.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SZVdJWHN6ckFBUF9ZX3FSaF9IODdhcXVac0RBSnpaUWM1WUlNSzNJeXBYQlhwb1NjV3VZcDRFbmo5WkVBY0Q5ejNiUFhhWmxGNmdiRlZKWUMyUdIBX0FVX3lxTE1TbVBySFpmcnV2TXBIVzJ3RGw2cU43NC0xNV9vbENuZlpDbW85cVdfUE1HRm5nOVlIZ1NpMl8zenZESkpDUngwTTNGVDhON2dVeFhROHpuWDhYWjNGTl9B?oc=5",
+              "published_at": "2026-11-15T11:35:00Z",
+              "headline": "엔비디아 실적·앤트로픽 상장…이번주 증시 향방 최대 가늠자"
+            },
+            {
+              "name": "부산파이낸셜뉴스",
+              "group": "fnnews.com",
+              "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBU2ltam1LM2Y5M3ItYjZzOHBqN3BsY1NkYjFZa3doUlE5VFhnNEhjSXJCVnhHT3ZjOVFoWjZrdl9vNlpqd1JsUUFhOVRKZFJsQnJSZTZQZ3RIZ3FZ?oc=5",
+              "published_at": "2026-11-15T10:11:00Z",
+              "headline": "엔비디아 실적발표·앤스로픽 상장 주목 [주간증시전망]"
+            },
+            {
+              "name": "세계일보",
+              "group": "mk.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBa3hzWTFoazJuRGtsaXp0Wkhpa2I3NTFtY2FkdWJZczNHOTVYVENENnV2UFhhYkNFZS01b05JdlRDR2h6NldZV0dTNUh6RGhE0gFUQVVfeXFMTWs5V3pxYTdPQjhiV0xfaEdEQWxLakFoZ3BhNWRuaXZsd3hUYzFXcVUwMTJJeElzUWNnZTNSTWNpTFpJOHllVEplSEczaGdoWUpMc1lC?oc=5",
+              "published_at": "2026-11-15T01:12:34Z",
+              "headline": "'젠슨황 스캔들'에 짓눌린 증시…엔비디아 실적·앤트로픽 상장 주시"
+            }
+          ]
+        }
+      },
+      "source_groups": 7,
+      "daily_sources": [
+        1,
+        5,
+        1
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 2
     },
     {
       "topic": {
@@ -347,172 +254,14 @@
       "source_groups": 7,
       "daily_sources": [
         0,
-        0,
-        7
+        7,
+        0
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 4
-    },
-    {
-      "topic": {
-        "id": "7ad47161f96a6cbff229",
-        "category": "스포츠",
-        "title": "원태인·구자욱 등 프로야구 FA 22명 공시",
-        "summary": "원태인·구자욱 등 프로야구 FA 22명 공시",
-        "why_now": "수집 범위에서 관련 보도 8개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 59시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘원태인·구자욱 등 프로야구 FA 22명 공시’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "YTN",
-        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCZ2hWVXdzdnpkaFFVbXpmUzNJcHZQSnNza3pNUl9UelB5VC1DUGtjYm1VUlV6SUJKY2VWYlRSWlBhVDM0R0hiRW9DVWp6NW9pdEdIbmt6ak9kUGNIbEE?oc=5",
-        "published_at": "2026-11-16T14:39:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 6,
-          "report_count": 8,
-          "span_hours": 59.6,
-          "first_report_at": "2026-11-14T03:03:00Z",
-          "last_report_at": "2026-11-16T14:39:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GOFJfZUk3c3AzVWRTLXhXN0J5R3hBeDk1YmsxeURyVjQxR3Q4ZVpXNjdNNnd5c3ZBWXFJNWgzUnBSUW9kcUJ3Ti1iTWxoNG1OU1k4WXRCRTRVQ0lZcVBha09hNTEyOWM?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCZ2hWVXdzdnpkaFFVbXpmUzNJcHZQSnNza3pNUl9UelB5VC1DUGtjYm1VUlV6SUJKY2VWYlRSWlBhVDM0R0hiRW9DVWp6NW9pdEdIbmt6ak9kUGNIbEE?oc=5",
-          "sources": [
-            {
-              "name": "YTN",
-              "group": "munhwa.com",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCZ2hWVXdzdnpkaFFVbXpmUzNJcHZQSnNza3pNUl9UelB5VC1DUGtjYm1VUlV6SUJKY2VWYlRSWlBhVDM0R0hiRW9DVWp6NW9pdEdIbmt6ak9kUGNIbEE?oc=5",
-              "published_at": "2026-11-16T14:39:00Z",
-              "headline": "원태인·구자욱 등 프로야구 FA 22명 공시"
-            },
-            {
-              "name": "KBS 뉴스",
-              "group": "kbs.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJSl9IaDc0ZnNhdmRYZ2xLRF9PblU0TUcyeElqd1diT2otTjRyT0Nua05mblZIT0FES0o3UzhoZWlrTjBaYzRaR1lqNGNCWVE1Q1FVeklUQ1M4ZGlOeVpSS3BBNEozUQ?oc=5",
-              "published_at": "2026-11-16T05:55:00Z",
-              "headline": "‘스토브리그 개막’ 프로야구 FA 22명 공시…원태인·구자욱 어디로?"
-            },
-            {
-              "name": "일간스포츠",
-              "group": "edaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hQnNVdXFWQVg5QXd1cy1NS3FnRGdoYWZWamVQclF1TEZ0SFJYemhUWGlkTUtUbEwyeFJMeWVVVmlNbEhkV2hGdW5CTXNBNkEtUk54SG16ZHNBb2s?oc=5",
-              "published_at": "2026-11-16T04:02:00Z",
-              "headline": "구자욱·원태인에 양의지도 나왔다, KBO FA 승인 22명 공시"
-            },
-            {
-              "name": "연합뉴스",
-              "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JTGFFT3ZtNmluNG4xUTlOQUFQTlpSd0liVGl0Wjlzdm1vblo0Vm9aUlNZemVQdkd5MW1fT1lDQWZKYl95S01JSXg4Wl85LWJVWG8wZDh0MTNDeDdJLVFIQQ?oc=5",
-              "published_at": "2026-11-16T02:39:27Z",
-              "headline": "프로야구 FA 22명 공시…원태인·구자욱 시장에 나온다"
-            },
-            {
-              "name": "스포츠동아",
-              "group": "donga.com",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zbWJuRFlqb05GdG16clh1VzVITUwzY3YzVHduT29IaHd6MzI2bXYyUDVjUmgweWZRTGNOUFFoM3N4c25pQkJhdkY2RE8tcm1MdlNIZzRadWJfWm5WS0JaYXk1cWNSSmVUNWhmWTdPU1ZVQQ?oc=5",
-              "published_at": "2026-11-15T06:50:20Z",
-              "headline": "구자욱-원태인 필요성 역설한 삼성 이종열 단장…구자욱은 MLB 도전 위해 에이전트 선임 변수"
-            },
-            {
-              "name": "한겨레",
-              "group": "hani.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GOFJfZUk3c3AzVWRTLXhXN0J5R3hBeDk1YmsxeURyVjQxR3Q4ZVpXNjdNNnd5c3ZBWXFJNWgzUnBSUW9kcUJ3Ti1iTWxoNG1OU1k4WXRCRTRVQ0lZcVBha09hNTEyOWM?oc=5",
-              "published_at": "2026-11-14T03:03:00Z",
-              "headline": "구자욱·원태인 등 FA 28명 공시…프로야구 ‘스토브리그’ 시작"
-            }
-          ]
-        }
-      },
-      "source_groups": 6,
-      "daily_sources": [
-        1,
-        2,
-        4
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 5
-    },
-    {
-      "topic": {
-        "id": "d7a29256d46cb4d47a7a",
-        "category": "경제·주식",
-        "title": "[주간 뉴욕증시]'젠슨 황 사임 후 엔비디아 첫 실적…연준 의사록 주목",
-        "summary": "[주간 뉴욕증시]'젠슨 황 사임 후 엔비디아 첫 실적…연준 의사록 주목",
-        "why_now": "수집 범위에서 관련 보도 8개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 38시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘[주간 뉴욕증시]'젠슨 황 사임 후 엔비디아 첫 실적…연준 의사록 주목’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
-        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-        "source": "뉴시스",
-        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BeVBDVlFCSkR1MHZVeHYwVGlFeU5TR3pUSHRKQTR6MWVtXy01TWRicWg5QUVhMzNNV1VNNUpxakxaOERLVHByTnBXV3h3UlhNUXF6UmJqU3N1NmZZVmZPR9IBeEFVX3lxTE45ODNERElobzRWQWYwbDU1bmNhTlR1Z3dZUy1nUjFFS0R5M25aa2d2RVgxbkozUHFnVThvamR2Q0tvZ0s2M281ZUNiSkEzMndEQmZlSnJlcVg2dzFZdmZVUXBHTjZLRUc1XzFZR0YxVzRtZmJSS2lTMQ?oc=5",
-        "published_at": "2026-11-15T23:59:47Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 6,
-          "report_count": 8,
-          "span_hours": 38.1,
-          "first_report_at": "2026-11-14T21:03:48Z",
-          "last_report_at": "2026-11-16T11:12:02Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1kxc3ZBb2tpZFZoTENHblhJNHRyUTBzMFc4T1Y1VnFINmdaVTFXZmJ0bVVTelRSWmlrRnlaWk5ySk80M3lhbmkzQW1fTF9IUHVIUXVZZkdYMFN2TkRxdno3QmJ0MXhHZ2I5MGpmR0pPOXVjTThpY2JQODAxQl9uVElOVDRKR2ZO0gGcAUFVX3lxTE93OTctTnMzR251TFFFbFpnbVZkQzFDUm9CVVRzeUl3MVhCWGZCZmg5RlNlZ0xhOFdhWDJaaC15djNGOFdhLUY1ZHVvNzczWTE4b0xhWTI0Vkh1Sm1TVVhpNVNZbmwzc211czRlUEM2NXVGcjdRWTJueGJrelp5MWN3THRBT1dYeDFZVWpaS0lYeEttek9VWTNrWnFtSA?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WcFF4RHQ1MnJ0S0tYOUZRaFJzQUNwNlA0SWU5TllkOEdrVGtQcnJ4NGExbUVmRU5TNnRmYVFfNllDOThBa0FmMkJnZmJpZ2ZpT280eDhnWld2emVBNVpHX05VSHY1RE5BS19kMkhQNEVQbm1tOTFaNNIBeEFVX3lxTFBPR0RSVEhmeXEweGloRWNTb0xUYllxZzFCdkhnY2VXSkxreHlWY20tTXYwVDJ4TjVtV1l1WGtJek92RFVIM2QycXhSZ2swenAtNGp3dHZGWHFJSUhKbUpyYWl4V29yXzFkOHdQOG05U3c2VWU4dEZtaA?oc=5",
-          "sources": [
-            {
-              "name": "MBC 뉴스",
-              "group": "imbc.com",
-              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WcFF4RHQ1MnJ0S0tYOUZRaFJzQUNwNlA0SWU5TllkOEdrVGtQcnJ4NGExbUVmRU5TNnRmYVFfNllDOThBa0FmMkJnZmJpZ2ZpT280eDhnWld2emVBNVpHX05VSHY1RE5BS19kMkhQNEVQbm1tOTFaNNIBeEFVX3lxTFBPR0RSVEhmeXEweGloRWNTb0xUYllxZzFCdkhnY2VXSkxreHlWY20tTXYwVDJ4TjVtV1l1WGtJek92RFVIM2QycXhSZ2swenAtNGp3dHZGWHFJSUhKbUpyYWl4V29yXzFkOHdQOG05U3c2VWU4dEZtaA?oc=5",
-              "published_at": "2026-11-16T11:12:02Z",
-              "headline": "젠슨 황·담합 소송에 코스피 3.6% 뚝‥엔비디아 실적 반등 계기 될까?"
-            },
-            {
-              "name": "뉴시스",
-              "group": "wire:뉴시스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BeVBDVlFCSkR1MHZVeHYwVGlFeU5TR3pUSHRKQTR6MWVtXy01TWRicWg5QUVhMzNNV1VNNUpxakxaOERLVHByTnBXV3h3UlhNUXF6UmJqU3N1NmZZVmZPR9IBeEFVX3lxTE45ODNERElobzRWQWYwbDU1bmNhTlR1Z3dZUy1nUjFFS0R5M25aa2d2RVgxbkozUHFnVThvamR2Q0tvZ0s2M281ZUNiSkEzMndEQmZlSnJlcVg2dzFZdmZVUXBHTjZLRUc1XzFZR0YxVzRtZmJSS2lTMQ?oc=5",
-              "published_at": "2026-11-15T23:59:47Z",
-              "headline": "[주간 뉴욕증시]'젠슨 황 사임 후 엔비디아 첫 실적…연준 의사록 주목"
-            },
-            {
-              "name": "한국경제",
-              "group": "hankyung.com",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfSHdRaXdqZEtOQXIzVWFIb25IMVZILVB0Um1KaGVVeFN5SHVIcEp2VkJiZHZiVkZBU0s1azZ1ZU5XVkM4MExUV3ZqVTZCR2tUZUdSSW9kREQyZw?oc=5",
-              "published_at": "2026-11-15T22:35:57Z",
-              "headline": "치솟는 금리, 물가 속 엔비디아 실적 발표…빅위크의 시작 [오늘 아침 당신이 알아야 할 7가지]"
-            },
-            {
-              "name": "YTN",
-              "group": "ytn.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51UnFPbDVqaXVyVUYzeE9xUlJOOGJ0RzFiQTAwNG9EM0I4bWdPODVKcDhSQWZiNl9yaUFmNGRGNkxabEU2UzNtX3M3X29xT3FqdGVPb29UU29zMUtrcUE?oc=5",
-              "published_at": "2026-11-15T02:11:00Z",
-              "headline": "코스피, 한 주간 상승...\"엔비디아 실적 발표 관건\""
-            },
-            {
-              "name": "세계일보",
-              "group": "segye.com",
-              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBa3hzWTFoazJuRGtsaXp0Wkhpa2I3NTFtY2FkdWJZczNHOTVYVENENnV2UFhhYkNFZS01b05JdlRDR2h6NldZV0dTNUh6RGhE0gFUQVVfeXFMTWs5V3pxYTdPQjhiV0xfaEdEQWxLakFoZ3BhNWRuaXZsd3hUYzFXcVUwMTJJeElzUWNnZTNSTWNpTFpJOHllVEplSEczaGdoWUpMc1lC?oc=5",
-              "published_at": "2026-11-15T01:12:34Z",
-              "headline": "'젠슨황 스캔들'에 짓눌린 증시…엔비디아 실적·앤트로픽 상장 주시"
-            },
-            {
-              "name": "Chosunbiz",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1kxc3ZBb2tpZFZoTENHblhJNHRyUTBzMFc4T1Y1VnFINmdaVTFXZmJ0bVVTelRSWmlrRnlaWk5ySk80M3lhbmkzQW1fTF9IUHVIUXVZZkdYMFN2TkRxdno3QmJ0MXhHZ2I5MGpmR0pPOXVjTThpY2JQODAxQl9uVElOVDRKR2ZO0gGcAUFVX3lxTE93OTctTnMzR251TFFFbFpnbVZkQzFDUm9CVVRzeUl3MVhCWGZCZmg5RlNlZ0xhOFdhWDJaaC15djNGOFdhLUY1ZHVvNzczWTE4b0xhWTI0Vkh1Sm1TVVhpNVNZbmwzc211czRlUEM2NXVGcjdRWTJueGJrelp5MWN3THRBT1dYeDFZVWpaS0lYeEttek9VWTNrWnFtSA?oc=5",
-              "published_at": "2026-11-14T21:03:48Z",
-              "headline": "[주간증시전망] 젠슨 황 사임 후 엔비디아 실적 발표… 미·중 정상회담 열려"
-            }
-          ]
-        }
-      },
-      "source_groups": 6,
-      "daily_sources": [
-        1,
-        3,
-        3
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 6
+      "rank": 3
     },
     {
       "topic": {
@@ -584,14 +333,14 @@
       "source_groups": 6,
       "daily_sources": [
         0,
-        0,
-        6
+        4,
+        2
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 7
+      "rank": 4
     },
     {
       "topic": {
@@ -663,8 +412,224 @@
       "source_groups": 6,
       "daily_sources": [
         0,
+        6,
+        1
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 5
+    },
+    {
+      "topic": {
+        "id": "76d5166e4e7196b70c05",
+        "category": "스포츠",
+        "title": "한국 축구, 17일 카타르와 올해 마지막 A매치…'변해야 산다!'",
+        "summary": "한국 축구, 17일 카타르와 올해 마지막 A매치…'변해야 산다!'",
+        "why_now": "수집 범위에서 관련 보도 8개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 53시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘한국 축구, 17일 카타르와 올해 마지막 A매치…'변해야 산다!'’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "연합뉴스",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16cDF3MGlsVkRxQkQ4akozR2xFYnh5SXc5cmQtblZVNjBoeU15VkFuQ2tqbGFLRm1mLVBqZm5hdUlQOUJBTUZ1UDVnaFNIT0pvM1E4TmpBc0FzSU3SAWBBVV95cUxQNzJsYXM2X0JGblM5VzgzaXBpeTlfNmxKZWpXMGE1ZTRya3NSM1BrWUtWNXBUNl9vXzhmZnNsYzVURWx6b0ZsQnVtYl9QNUxvS0N5U0luc1pGVGdQV0VvdXM?oc=5",
+        "published_at": "2026-11-14T21:23:55Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 5,
+          "report_count": 8,
+          "span_hours": 53.9,
+          "first_report_at": "2026-11-14T21:23:55Z",
+          "last_report_at": "2026-11-17T03:17:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16cDF3MGlsVkRxQkQ4akozR2xFYnh5SXc5cmQtblZVNjBoeU15VkFuQ2tqbGFLRm1mLVBqZm5hdUlQOUJBTUZ1UDVnaFNIT0pvM1E4TmpBc0FzSU3SAWBBVV95cUxQNzJsYXM2X0JGblM5VzgzaXBpeTlfNmxKZWpXMGE1ZTRya3NSM1BrWUtWNXBUNl9vXzhmZnNsYzVURWx6b0ZsQnVtYl9QNUxvS0N5U0luc1pGVGdQV0VvdXM?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN01FV0pDSTZfcHc3Nm1KS3N2Uzg1SXBpTWhNeGtkdW1VUFlqdTMzQlhIM29UUkhPRlplOTNOY0R1UEpxZnRORmtfcWpjSGtVc2t2czQ2Q2FNcWxUNXNxdmJCV3VZMlVDdUNwNkVXRHBZcWt2MGdhWWFJbnpKdFJ1TDgzZw?oc=5",
+          "sources": [
+            {
+              "name": "조선일보",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN01FV0pDSTZfcHc3Nm1KS3N2Uzg1SXBpTWhNeGtkdW1VUFlqdTMzQlhIM29UUkhPRlplOTNOY0R1UEpxZnRORmtfcWpjSGtVc2t2czQ2Q2FNcWxUNXNxdmJCV3VZMlVDdUNwNkVXRHBZcWt2MGdhWWFJbnpKdFJ1TDgzZw?oc=5",
+              "published_at": "2026-11-17T03:17:00Z",
+              "headline": "'카타르와 올해 마지막 A매치' 대수술 불가피한 모레노호, 최후의 시험대...변화의 핵심은 이강인"
+            },
+            {
+              "name": "스포츠동아",
+              "group": "donga.com",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtMjgxZUtSNXdvdEVOa2ZPelM4VWVrd3k4ZzIzRHQtVGdjc1BEZWpsVmpkVk1wdmMtaXZob25uYXFtdGNrcjBQeW40bXhjU0p1bl9aQmh3b0o3VkZmaHIwRnZEeW1zYWw5VjZoMXVveTJFdw?oc=5",
+              "published_at": "2026-11-16T22:05:26Z",
+              "headline": "한국, 카타르와 2026 마지막 A매치 ‘손흥민 60호 골→승리 나올까’"
+            },
+            {
+              "name": "일간스포츠",
+              "group": "edaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kM0Uzby14bW5xY0NiZ1hYVkRxSXNzTk5nVkNOeGJnX0NxQjlYRHBpdm4yR19kaGdWS3RveEZOaEMxcU1oUUFndU83UmcwMzlzY3ZIaXFMSXdyUDA?oc=5",
+              "published_at": "2026-11-16T15:24:00Z",
+              "headline": "‘다사다난’ 손흥민, 60호골로 유종의 미 거둘까…카타르와 2026년 마지막 A매치"
+            },
+            {
+              "name": "경향신문",
+              "group": "khan.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wcE52Z2dFVlNqdzNrUGRTX0xaVTdMN05acTFNaklHOGdBYUdoN3RrME1ic1VNTUdHME96TzUtMWpwb1VkbVhzNHJkOGRGZ3VILUUzSEU0bUxwd3pONzNB0gFfQVVfeXFMTTBwTnZnZ0VWU2p3M2tQZFNfTFpVN0w3TlpxMU1qSUc4Z0FhR2g3dGswTWJzVU1NR0cwT3pPNS0xanBvVWRtWHM0cmQ4ZEZndUgtRTNIRTRtTHB3ek43M0E?oc=5",
+              "published_at": "2026-11-16T11:19:00Z",
+              "headline": "한국 축구 되살릴 이강인 ‘황금 왼발’…모레노호 부진 속 17일 밤 카타르와 올 마지막 A매치"
+            },
+            {
+              "name": "연합뉴스",
+              "group": "wire:연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16cDF3MGlsVkRxQkQ4akozR2xFYnh5SXc5cmQtblZVNjBoeU15VkFuQ2tqbGFLRm1mLVBqZm5hdUlQOUJBTUZ1UDVnaFNIT0pvM1E4TmpBc0FzSU3SAWBBVV95cUxQNzJsYXM2X0JGblM5VzgzaXBpeTlfNmxKZWpXMGE1ZTRya3NSM1BrWUtWNXBUNl9vXzhmZnNsYzVURWx6b0ZsQnVtYl9QNUxvS0N5U0luc1pGVGdQV0VvdXM?oc=5",
+              "published_at": "2026-11-14T21:23:55Z",
+              "headline": "한국 축구, 17일 카타르와 올해 마지막 A매치…'변해야 산다!'"
+            }
+          ]
+        }
+      },
+      "source_groups": 5,
+      "daily_sources": [
+        1,
         0,
-        6
+        4
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 6
+    },
+    {
+      "topic": {
+        "id": "df185188f5ca254a5392",
+        "category": "스포츠",
+        "title": "프로농구 정관장, 선두 삼성 꺾고 4연승…'1경기 차' 추격",
+        "summary": "프로농구 정관장, 선두 삼성 꺾고 4연승…'1경기 차' 추격",
+        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 37시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘프로농구 정관장, 선두 삼성 꺾고 4연승…'1경기 차' 추격’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "뉴스1",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzUXB1Zk5YNW5iVmNYVWdwNlAzWldpYW1CbkUwWEZ2QXhSb0I2Q3lCaUZ4Y18wY1ZfVFB3SV90cG5aMVRYd2FjNHJJUzdOVWNTTl94M2tJTXpIdw?oc=5",
+        "published_at": "2026-11-14T10:38:38Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 5,
+          "report_count": 5,
+          "span_hours": 37.3,
+          "first_report_at": "2026-11-14T09:39:56Z",
+          "last_report_at": "2026-11-15T22:56:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xTGY4T05wZ0Nlb2NnUTRrQWFPRHltcXhOUTBib1N2ODVxZDladU1oRHRSU3EwZjVuNWtJcTFpM3VhQVlFR2xCVDktdm05NlRlRzl3RXg2UHdVMzU4MW15NNIBeEFVX3lxTFBUaS1vUDQxcWpka3NYSFdOVXVBWmhjcXdFZHdERVNtcGhPYmotQWcwYUsteWJVUGFFNkZnR3ZrUC05VFlITDBaS29Bci1KUXFjYU5sWndTd3JKQVJKaUMxQWZxZEpEdUdNRUpBMFFuRkJUbzJiR1NJbg?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PU2ZNbXhtOC0xblcxY2FFeXpGclNZUTVqNzh5Q0xRd0w5ZGhJQ2dyVXVIVVFPazJ5SUV0SFpvXzlGS0hsamdxMkM5cVV2eU5pM1RjaE9UZ1JSOVJtVjBPNWNsLTJ3TUNnZUE?oc=5",
+          "sources": [
+            {
+              "name": "한겨레",
+              "group": "hani.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PU2ZNbXhtOC0xblcxY2FFeXpGclNZUTVqNzh5Q0xRd0w5ZGhJQ2dyVXVIVVFPazJ5SUV0SFpvXzlGS0hsamdxMkM5cVV2eU5pM1RjaE9UZ1JSOVJtVjBPNWNsLTJ3TUNnZUE?oc=5",
+              "published_at": "2026-11-15T22:56:00Z",
+              "headline": "프로농구 KCC 기세 무섭다, 5연승 질주…소노도 연패 탈출"
+            },
+            {
+              "name": "SBS 뉴스",
+              "group": "sbs.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLRUlNR0V3TG9CYjNBcHpuTl9ZenJ2b0tWbWRXQzFmeVVXQlBOamdVVmd4YzJRWGwzVVB2Y2NHTHloT2lQTUNxV19GVF9NVHJMdV9BYUVsalRTNDhTcjdOSDV1clhzNjJjc0HSAWZBVV95cUxNOTd5MFJZV3QtRzFsX2l5eDJOd1FhSzRwaUtrcHg0N2Jwbkd5YzV4blFQbHo2c0daWnptYXhuenI4QnFJRkM5SHdjR2RwV2FTa29LTFJmbkpaT0ViVnZzOTZpelJ1REE?oc=5",
+              "published_at": "2026-11-15T11:46:33Z",
+              "headline": "프로농구 KCC, 종료 3초 남기고 기적 같은 대역전극"
+            },
+            {
+              "name": "뉴스1",
+              "group": "wire:뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzUXB1Zk5YNW5iVmNYVWdwNlAzWldpYW1CbkUwWEZ2QXhSb0I2Q3lCaUZ4Y18wY1ZfVFB3SV90cG5aMVRYd2FjNHJJUzdOVWNTTl94M2tJTXpIdw?oc=5",
+              "published_at": "2026-11-14T10:38:38Z",
+              "headline": "프로농구 정관장, 선두 삼성 꺾고 4연승…'1경기 차' 추격"
+            },
+            {
+              "name": "연합뉴스",
+              "group": "wire:연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGMFgxQVBhZVJ4bUtNeS1xRU5LcnhZTjZxZnpaM1gtdlIzRWcyenk3b0ZHaW9kVmFoMElpUnNNTDcwX0xHREQwbkJTOHFVUGE0ZzVnalozQmdiWVXSAWBBVV95cUxNblc5dG9ka3d0NGcxM2JoU0tkRGJ0MTRDaGlRb3pmbHRNNlk3TFZnWGVwY2d5bndNUC1YSWlZbm96S3ZveC1FQklRdEliT1d2b2tfWVBad2gyR2RGYTVnVDk?oc=5",
+              "published_at": "2026-11-14T09:43:35Z",
+              "headline": "프로농구 정관장, 1위 삼성 제압하고 4연승 신바람…박지훈 22점(종합)"
+            },
+            {
+              "name": "뉴시스",
+              "group": "wire:뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xTGY4T05wZ0Nlb2NnUTRrQWFPRHltcXhOUTBib1N2ODVxZDladU1oRHRSU3EwZjVuNWtJcTFpM3VhQVlFR2xCVDktdm05NlRlRzl3RXg2UHdVMzU4MW15NNIBeEFVX3lxTFBUaS1vUDQxcWpka3NYSFdOVXVBWmhjcXdFZHdERVNtcGhPYmotQWcwYUsteWJVUGFFNkZnR3ZrUC05VFlITDBaS29Bci1KUXFjYU5sWndTd3JKQVJKaUMxQWZxZEpEdUdNRUpBMFFuRkJUbzJiR1NJbg?oc=5",
+              "published_at": "2026-11-14T09:39:56Z",
+              "headline": "프로농구 KCC, 4연승 질주…현대모비스·정관장도 쾌승(종합)"
+            }
+          ]
+        }
+      },
+      "source_groups": 5,
+      "daily_sources": [
+        3,
+        2,
+        0
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 7
+    },
+    {
+      "topic": {
+        "id": "5e6fe4fb6f07ca37c096",
+        "category": "문화·예술",
+        "title": "제34회 대산문학상에 이수명·은희경·김주연 등",
+        "summary": "제34회 대산문학상에 이수명·은희경·김주연 등",
+        "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 3시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘제34회 대산문학상에 이수명·은희경·김주연 등’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+        "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
+        "source": "서울컬처",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJU0xiQ3dRcVlLWk9SUnEzZGNDWm5nbkV5R3c0N3cxejRFMDRFNmtLRjZ5QXNibkN0ZGphdjFNclQ0U3Z5cXY2Y0xfNGJqSmZmRjRZOTNleFVWck9UbDdnSmpUWmNVc2p2WTB4ZmI3R2k?oc=5",
+        "published_at": "2026-11-17T04:28:00Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 5,
+          "report_count": 6,
+          "span_hours": 3.9,
+          "first_report_at": "2026-11-17T02:30:00Z",
+          "last_report_at": "2026-11-17T06:23:21Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kd2NFcjZ0d3pqeUpvVEI5RWctMUxsV3lmTGNfcHd3VnEwbExpNmFwWE1LNkFsQTFFRzRtZnAyUjlCY05YdHgtVTV2LXE5a2lkcDVPWk81WVJ3ZjDSAWBBVV95cUxNNTk2a2J1X1NYdmxYMmR2YW1yOHFyeFZOdERuQ1BBcEFiR2VfdzRIY0ZNVkU5Q2ZZOXhTc2t2SGpZR0ZrUXZ3a3BjckNUVnJ6eXZCcmlDNFRRYVZQZTJRT18?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENUNodVU0MktiT0IwaEVrdUtWZUp0QTRDb3BrOXVqaVNWZExCQWpQQlRHR2pRcDJxOVMyajMxZ3d4SG1BRUZSNWpjUUlkZlF0ZHd3aEln?oc=5",
+          "sources": [
+            {
+              "name": "중앙일보",
+              "group": "joongang.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENUNodVU0MktiT0IwaEVrdUtWZUp0QTRDb3BrOXVqaVNWZExCQWpQQlRHR2pRcDJxOVMyajMxZ3d4SG1BRUZSNWpjUUlkZlF0ZHd3aEln?oc=5",
+              "published_at": "2026-11-17T06:23:21Z",
+              "headline": "“막막하지만 더 가보겠다”…대산문학상에 시 이수명, 소설 은희경"
+            },
+            {
+              "name": "한겨레",
+              "group": "hani.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xT2R4Yjd1RE1UQU5XalZlM2Y3Sm9kYlZPNXF0aU5nSmZ5dmFzeUdJNUdaWXMtSlROUW1uNkJEdU5LeU1oNTR2NUpIcEtQRS1xaURsNUNpOWdOZDVQV2dwcDZMMA?oc=5",
+              "published_at": "2026-11-17T06:12:00Z",
+              "headline": "등단 합쳐 126년차…‘대산문학상’에 시 이수명, 소설 은희경, 평론 김주연"
+            },
+            {
+              "name": "연합뉴스",
+              "group": "wire:연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yUE9vYktKWUI1Y1pUXy1RX1ZVRE5XbW5tT1hMUWh3d1NJckdzRUNyT3RCenBVV1Z2V0pfLVo0b20xU2w4RlhLTDN4LS1yVnVERUprd1pEajFfNHA1SjNsSNIBYEFVX3lxTE1yUE9vYktKWUI1Y1pUXy1RX1ZVRE5XbW5tT1hMUWh3d1NJckdzRUNyT3RCenBVV1Z2V0pfLVo0b20xU2w4RlhLTDN4LS1yVnVERUprd1pEajFfNHA1SjNsSA?oc=5",
+              "published_at": "2026-11-17T04:50:08Z",
+              "headline": "대산문학상 은희경 \"인간을 섬세하게 존중하려는 고민 담아\"(종합)"
+            },
+            {
+              "name": "뉴스1",
+              "group": "wire:뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GT25odU5MNE40YlJNNWhLWHVuR2JHVHQ1ZEc5d0ZuYVdVbV81OE51LVZKZTZncUhDU0ZuNjJlQ3NsSkNwZHRpb0dGWmtoVjZMbnBDcjdXUVBYQQ?oc=5",
+              "published_at": "2026-11-17T04:28:15Z",
+              "headline": "대산문학상 이수명 시인의 정오의 총알'…은희경의 장편소설 '시간의 감촉'"
+            },
+            {
+              "name": "서울컬처",
+              "group": "seoul.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJU0xiQ3dRcVlLWk9SUnEzZGNDWm5nbkV5R3c0N3cxejRFMDRFNmtLRjZ5QXNibkN0ZGphdjFNclQ0U3Z5cXY2Y0xfNGJqSmZmRjRZOTNleFVWck9UbDdnSmpUWmNVc2p2WTB4ZmI3R2k?oc=5",
+              "published_at": "2026-11-17T04:28:00Z",
+              "headline": "제34회 대산문학상에 이수명·은희경·김주연 등"
+            }
+          ]
+        }
+      },
+      "source_groups": 5,
+      "daily_sources": [
+        0,
+        0,
+        5
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
@@ -674,76 +639,69 @@
     },
     {
       "topic": {
-        "id": "0b477a91f0669a26ff02",
+        "id": "45084f57eeecc311d01e",
         "category": "문화·예술",
-        "title": "뮤지컬 부부 탄생…배나라♥한재아, 오늘(14일) 결혼",
-        "summary": "뮤지컬 부부 탄생…배나라♥한재아, 오늘(14일) 결혼",
-        "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 4시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘뮤지컬 부부 탄생…배나라♥한재아, 오늘(14일) 결혼’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+        "title": "시인 이수명·소설가 은희경, 올해 대산문학상 수상",
+        "summary": "시인 이수명·소설가 은희경, 올해 대산문학상 수상",
+        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 2시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘시인 이수명·소설가 은희경, 올해 대산문학상 수상’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
         "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-        "source": "매일경제",
-        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tcnJCMllwOVFSc1Y3Q2xuXzI1bzJwbmlzWm5tSlAtYTRhSGRCcURVVGZfMlRCWk1DX3pFTFFwUzU1TDRxamxHalhNbDVzNF9sR1MzdjI5R0M?oc=5",
-        "published_at": "2026-11-14T00:12:49Z",
+        "source": "한국일보",
+        "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JMUVQTUhuaDFtUDRZa2VDQmZJakV1ZlVheTNZU193blo1ckhvT3NtY3ZfSkdrWk5wV0h1VzYyMWx3VTdSZVQ3M0VyV1NDdFpwbEhJTkxSdGdPdVdOUTRCYkpNcnN2ZUVXR3Nib0hzWVVYbk3SAXNBVV95cUxPSTFFUE1IbmgxbVA0WWtlQ0JmSWpFdWZVYXkzWVNfd25aNXJIb09zbWN2X0pHa1pOcFdIdVc2MjFsd1U3UmVUNzNFcldTQ3RacGxISU5MUnRnT3VXTlE0QmJKTXJzdmVFV0dzYm9Ic1lVWG5N?oc=5",
+        "published_at": "2026-11-17T05:19:00Z",
         "evidence": "headline",
         "coverage": {
-          "source_groups": 6,
-          "report_count": 6,
-          "span_hours": 4.9,
-          "first_report_at": "2026-11-13T23:46:33Z",
-          "last_report_at": "2026-11-14T04:42:12Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03N0RZQS1qb015NkthNERPT21nVVRTY0pMTUUycTMxRXVwaGdmTnBLRkw1V3g3MjZLTjhkdG9lanpVMF8ySzJBY0lrVENHenlkdmw2RzcycldNZkM1MXFpX3lQY0lKUjdpUnFYWlZQNlI?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZVRwZE1jS1lDRGVUNUNWc0djUXhzWnI3RXNzZE5kLWNaZ2h5RGpEZWszVEp2SnFJRmhEdWtvSjQweV96MTBpSjBsaEdPbS1pbDVaRnp2ZWN6S3FWdlF6NXFhTDdKeWxBdEdjTlpUSU11YXl3dnFUSkNnVUFoRm1IdDVtLVg?oc=5",
+          "source_groups": 5,
+          "report_count": 5,
+          "span_hours": 2.4,
+          "first_report_at": "2026-11-17T05:06:40Z",
+          "last_report_at": "2026-11-17T07:32:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56T2VQbkowSTMzSlQtaHVnQllxYXczREVHb3c4TU9ENTViVTVKTXZqMEFKNVVHc2NmUHlYekx3cV81REU4UnJ6WnotbXh5VDFhdTE1UXZpeEM4NjJ6U2ljWnlCZ1ROZ9IBZkFVX3lxTE56T2VQbkowSTMzSlQtaHVnQllxYXczREVHb3c4TU9ENTViVTVKTXZqMEFKNVVHc2NmUHlYekx3cV81REU4UnJ6WnotbXh5VDFhdTE1UXZpeEM4NjJ6U2ljWnlCZ1ROZw?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1pBVWJiNTVicFpSdlZKeTJGSm9BdHpJMjBYUjBvVl9LV0poQmxRX2dwRVA4RzFremthdGc0Rm1xZXdaZ1hlempKVzk3N1N6RmJRbnRLMlNSSEJrV09pVWYwb2RjYVZfUWZBdVo1aHN0cEsxNDlxRDJ2c0M4U2hiWG9FUGppVWlxZl8wVTJfc1JUV1NkUVhkbjNwVkJBV0otWUxrU1l1TTR0d9IBX0FVX3lxTE5sTTFLd3pQUC1ldERNelVCUkVKV0RYSW1UQmJTVUJrWUN2Y2tkdGpBOUFlWVZzR0x3VG9oWTZvQ2ZuTTVTcWZiUlg3NmxLQi11MGhCcVZBTmp3QVowV2hR?oc=5",
           "sources": [
             {
-              "name": "스포츠조선",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZVRwZE1jS1lDRGVUNUNWc0djUXhzWnI3RXNzZE5kLWNaZ2h5RGpEZWszVEp2SnFJRmhEdWtvSjQweV96MTBpSjBsaEdPbS1pbDVaRnp2ZWN6S3FWdlF6NXFhTDdKeWxBdEdjTlpUSU11YXl3dnFUSkNnVUFoRm1IdDVtLVg?oc=5",
-              "published_at": "2026-11-14T04:42:12Z",
-              "headline": "뮤지컬 배우 부부 탄생했다..배나라♥한재아, 오늘 성당서 결혼"
-            },
-            {
-              "name": "JTBC",
-              "group": "jtbc.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HTHpTd0U4cDE5YkJFYnZaYi02a3o1WERvUVVqWkVWTHFoYXltNEgxVUM1aDl1VTVPYmd6YVFQWWxYZlF3ZFgwY3lfajhSZko1ZGw4cw?oc=5",
-              "published_at": "2026-11-14T01:31:42Z",
-              "headline": "배나라·한재아, 오늘(14일) 결혼…뮤지컬 부부 탄생"
-            },
-            {
-              "name": "스포츠경향",
+              "name": "경향신문",
               "group": "khan.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Sc3l3ZFA4UHhCSERUVWM1T2o4akttYjVZZ2tqcjBDLXpOaG9xeEExcy1TZm1TQzZKb3BDNDdHT2M0Wkp6V1BZY2U5UUlFYkx2VUdTd0NpNGtYMl9FaEHSAWNBVV95cUxNMUtNY19QclhEazJkY082V0RBSDRvOUJja0xjSkpIOWxMLVhuNW1KSVlycXZybEZMZUNEelQzVzJJMUpITjZvTGc5WmFDM1d3ZFVKREVQSzBOVDZDTUJ0MUFFY00?oc=5",
-              "published_at": "2026-11-14T01:06:00Z",
-              "headline": "‘뮤지컬 배우 커플’ 배나라♥한재아, 오늘(14일) 결혼"
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ1pBVWJiNTVicFpSdlZKeTJGSm9BdHpJMjBYUjBvVl9LV0poQmxRX2dwRVA4RzFremthdGc0Rm1xZXdaZ1hlempKVzk3N1N6RmJRbnRLMlNSSEJrV09pVWYwb2RjYVZfUWZBdVo1aHN0cEsxNDlxRDJ2c0M4U2hiWG9FUGppVWlxZl8wVTJfc1JUV1NkUVhkbjNwVkJBV0otWUxrU1l1TTR0d9IBX0FVX3lxTE5sTTFLd3pQUC1ldERNelVCUkVKV0RYSW1UQmJTVUJrWUN2Y2tkdGpBOUFlWVZzR0x3VG9oWTZvQ2ZuTTVTcWZiUlg3NmxLQi11MGhCcVZBTmp3QVowV2hR?oc=5",
+              "published_at": "2026-11-17T07:32:00Z",
+              "headline": "“65세 여성에 대한 고정관념 깨고 싶었다”···은희경 ‘시간의 감촉’ 대산문학상 수상"
+            },
+            {
+              "name": "아시아경제",
+              "group": "asiae.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRNi1MYndqNktmYkR6M0ZOcXhJYkgzQ0xKM2VmUVJ6c3RrN2Y1RUZJX1kxc08yTmo5aGJVSUtJM2I2U2dDdnRvdnRyRkFldlN6cEs3Y1Y1ZFlieENwT25tTQ?oc=5",
+              "published_at": "2026-11-17T07:11:46Z",
+              "headline": "노년의 삶 새롭게 그린 은희경, 시의 언어를 바꾼 이수명…대산문학상"
+            },
+            {
+              "name": "한국일보",
+              "group": "hankookilbo.com",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JMUVQTUhuaDFtUDRZa2VDQmZJakV1ZlVheTNZU193blo1ckhvT3NtY3ZfSkdrWk5wV0h1VzYyMWx3VTdSZVQ3M0VyV1NDdFpwbEhJTkxSdGdPdVdOUTRCYkpNcnN2ZUVXR3Nib0hzWVVYbk3SAXNBVV95cUxPSTFFUE1IbmgxbVA0WWtlQ0JmSWpFdWZVYXkzWVNfd25aNXJIb09zbWN2X0pHa1pOcFdIdVc2MjFsd1U3UmVUNzNFcldTQ3RacGxISU5MUnRnT3VXTlE0QmJKTXJzdmVFV0dzYm9Ic1lVWG5N?oc=5",
+              "published_at": "2026-11-17T05:19:00Z",
+              "headline": "시인 이수명·소설가 은희경, 올해 대산문학상 수상"
             },
             {
               "name": "뉴시스",
               "group": "wire:뉴시스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KQ05sTGtsUUxkTlV6eDl2c1BkZS1zbzQ4SW5VbUJRZk4wMzdYRjVObmtTRG1mWEpmOV9pT24xYl92UFVhbHZnWExJdXVoVlh4TTQ1b1o3cUdKMVFCQmtqY9IBeEFVX3lxTE5hcnMyU3N3emJhZC1yWWtCbk4tUXNzU01LRkpHdE03QlY4LUxKRE9fTjhvdnUySHdJUFA3V1dub1cxRjVBelVqRXBmSTBLYnZsNTF5NGNYWjdZcjc3OUdxcUdpeVZYM05faUkzLUhwNG1OMmlVdUpZcA?oc=5",
-              "published_at": "2026-11-14T00:43:17Z",
-              "headline": "배나라♥한재아, 오늘 결혼…뮤지컬이 이어준 인연"
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LdjVJU2FCMUM0WDhrdmJTOFREZ3RBTkxFeGc1a3JSVzN2V3BKbUQ0OXF3UnF3MnpYcnhzSVlSVVBwN1FyckIxeGFDM3ByRm5McnFxb2xKazduazFLLXV2ZtIBeEFVX3lxTE1Xdkc2Q05jb3dSeXBSUXNfRks5V2lxWlQydmphVU5VTTZaTkJ3YW43bVZhdVNCVnFheW1qdmFjajgzX1AyaVRTZHdZWkVIeXEwckZoRHRQZEZCcXJ2aE5MdFUxa2htM1REcHQ2SVB0RG1qNGVkazZQRg?oc=5",
+              "published_at": "2026-11-17T05:15:23Z",
+              "headline": "은희경 \"약한 '감'에 의지해 소설 써\"…대산문학상 선정"
             },
             {
-              "name": "매일경제",
-              "group": "mk.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tcnJCMllwOVFSc1Y3Q2xuXzI1bzJwbmlzWm5tSlAtYTRhSGRCcURVVGZfMlRCWk1DX3pFTFFwUzU1TDRxamxHalhNbDVzNF9sR1MzdjI5R0M?oc=5",
-              "published_at": "2026-11-14T00:12:49Z",
-              "headline": "뮤지컬 부부 탄생…배나라♥한재아, 오늘(14일) 결혼"
-            },
-            {
-              "name": "SPOTV NEWS",
-              "group": "spotvnews.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03N0RZQS1qb015NkthNERPT21nVVRTY0pMTUUycTMxRXVwaGdmTnBLRkw1V3g3MjZLTjhkdG9lanpVMF8ySzJBY0lrVENHenlkdmw2RzcycldNZkM1MXFpX3lQY0lKUjdpUnFYWlZQNlI?oc=5",
-              "published_at": "2026-11-13T23:46:33Z",
-              "headline": "배나라♥한재아, 오늘(14일) 웨딩마치...뮤지컬이 맺어준 7년 사랑 결실"
+              "name": "동아일보",
+              "group": "donga.com",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56T2VQbkowSTMzSlQtaHVnQllxYXczREVHb3c4TU9ENTViVTVKTXZqMEFKNVVHc2NmUHlYekx3cV81REU4UnJ6WnotbXh5VDFhdTE1UXZpeEM4NjJ6U2ljWnlCZ1ROZ9IBZkFVX3lxTE56T2VQbkowSTMzSlQtaHVnQllxYXczREVHb3c4TU9ENTViVTVKTXZqMEFKNVVHc2NmUHlYekx3cV81REU4UnJ6WnotbXh5VDFhdTE1UXZpeEM4NjJ6U2ljWnlCZ1ROZw?oc=5",
+              "published_at": "2026-11-17T05:06:40Z",
+              "headline": "“‘이 나이를 살아보고 싶다’는 반응 기뻐”…은희경 대산문학상 수상"
             }
           ]
         }
       },
-      "source_groups": 6,
+      "source_groups": 5,
       "daily_sources": [
-        6,
         0,
-        0
+        0,
+        5
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
@@ -753,11 +711,76 @@
     },
     {
       "topic": {
-        "id": "8306255c60d7530b12a8",
+        "id": "00a558a33b3481e5d07c",
+        "category": "경제·주식",
+        "title": "엔비디아 실적·미중회담 '슈퍼위크'…코스피 6000선 회복 시험대",
+        "summary": "엔비디아 실적·미중회담 '슈퍼위크'…코스피 6000선 회복 시험대",
+        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 51시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘엔비디아 실적·미중회담 '슈퍼위크'…코스피 6000선 회복 시험대’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+        "source": "뉴스1",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvZXRsSUx1Mjg1UEI2ZXlfY0dVa253Z2E3clVhcnBsLUhiMDNJaDZFeUFTa1NVeTN4ZlItLThNOFl6VFBwSS1WWWdSUGxheW9sa0N4R0ZZQ0tiUnM?oc=5",
+        "published_at": "2026-11-14T21:00:00Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 4,
+          "report_count": 5,
+          "span_hours": 51.4,
+          "first_report_at": "2026-11-14T21:00:00Z",
+          "last_report_at": "2026-11-17T00:22:32Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvZXRsSUx1Mjg1UEI2ZXlfY0dVa253Z2E3clVhcnBsLUhiMDNJaDZFeUFTa1NVeTN4ZlItLThNOFl6VFBwSS1WWWdSUGxheW9sa0N4R0ZZQ0tiUnM?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tZzJXUDI1eXRWVTlIQVhtOHpxSUYyWHlGclhEeUxzb2dsMTFBNHJvd2M2MW9FUUIyQ2dZdFVSb1pwWW9jWUJsV2RDcjNaMFRIOXhZQkYxOW9nMlZxXzdNd01lS25iVWVqaXdHY3JJZ2F4ZnItLWfSAXtBVV95cUxOb2liZlZPZVU2N2cxVGI5WWhUZU4wa1dzc3UzalppbGUxbkJkcFBkREU0Q1JVRUtDZG1tUTFHU3FEb1BuNmVHVlNqS1AybThOdE10Y3JYWWlPY1BPajRXN3Q3VlhmZUd5LW5XdEpHUkpyUk5GQ1VwZFpXRUU?oc=5",
+          "sources": [
+            {
+              "name": "머니투데이",
+              "group": "mt.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tZzJXUDI1eXRWVTlIQVhtOHpxSUYyWHlGclhEeUxzb2dsMTFBNHJvd2M2MW9FUUIyQ2dZdFVSb1pwWW9jWUJsV2RDcjNaMFRIOXhZQkYxOW9nMlZxXzdNd01lS25iVWVqaXdHY3JJZ2F4ZnItLWfSAXtBVV95cUxOb2liZlZPZVU2N2cxVGI5WWhUZU4wa1dzc3UzalppbGUxbkJkcFBkREU0Q1JVRUtDZG1tUTFHU3FEb1BuNmVHVlNqS1AybThOdE10Y3JYWWlPY1BPajRXN3Q3VlhmZUd5LW5XdEpHUkpyUk5GQ1VwZFpXRUU?oc=5",
+              "published_at": "2026-11-17T00:22:32Z",
+              "headline": "엔비디아 실적 경계감·AI 위축 우려…코스피 한때 5000 밑으로 - 머니투데이"
+            },
+            {
+              "name": "Chosunbiz",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjc5T3hfN0VKMm9DWGczbUdiZE9DeC04bzk3V2VNN1ZvNTJzUGhkN2ZmamNqUHozUE1hYTFBSURxLUhreDFYWDkzeGI0b29aamQyOVoyaVZJWnZBNlN5WG9QaGZyWXJ3MHRoWEVqM2tHVmpiMGNrUDBsMGlvYmhySG1jQTZCOFhu0gGcAUFVX3lxTFBwVGxzSkFYcDdYcnZRc0VYLWtrZm9MMGktd1FzdjhEU1hxNnhBQ1RVZjY5NVFZSEcwWDEyWW5xOHhzZEw3V2dwaEg1ell1eGFRM2lOMnFPcGJvQTJyc1NYTzdYYjlDMGExVGd5QlNSVW1WN1ctX040WnhtbmYwZlpQZU1qa21rUHpvNGsxNTJycFBNUDBha0ZscTdaVQ?oc=5",
+              "published_at": "2026-11-17T00:04:00Z",
+              "headline": "[속보] 코스피, 엔비디아 실적 발표 앞두고 1.81% 내린 5008.09 출발"
+            },
+            {
+              "name": "이데일리",
+              "group": "edaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObVhpQ3dWNExmUWpEaEdwUkpfdlFKZFQ4dkJjWGFXR3JybkhvLWIyaF90dmZOaGRDOFFkOW42dmtDU0YxaElpaDF5TklVNmdpbm9ua1NPOUhuMjJOMUhVMWtfTzBIb2pCeTc0RXplOS1EWnMyeDByR1A2bnVCamtfbA?oc=5",
+              "published_at": "2026-11-15T05:03:18Z",
+              "headline": "엔비디아 실적에 쏠린 눈…코스피 6000선 회복할까[주간증시전망]"
+            },
+            {
+              "name": "뉴스1",
+              "group": "wire:뉴스1",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvZXRsSUx1Mjg1UEI2ZXlfY0dVa253Z2E3clVhcnBsLUhiMDNJaDZFeUFTa1NVeTN4ZlItLThNOFl6VFBwSS1WWWdSUGxheW9sa0N4R0ZZQ0tiUnM?oc=5",
+              "published_at": "2026-11-14T21:00:00Z",
+              "headline": "엔비디아 실적·미중회담 '슈퍼위크'…코스피 6000선 회복 시험대"
+            }
+          ]
+        }
+      },
+      "source_groups": 4,
+      "daily_sources": [
+        2,
+        0,
+        2
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 10
+    },
+    {
+      "topic": {
+        "id": "3d202c4c75904b584d04",
         "category": "기술·과학",
         "title": "‘수학 6~7등급’ 감스트, AI 안경 쓰고 수능 5개 틀렸다",
         "summary": "‘수학 6~7등급’ 감스트, AI 안경 쓰고 수능 5개 틀렸다",
-        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 48시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 42시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
         "opener": "‘‘수학 6~7등급’ 감스트, AI 안경 쓰고 수능 5개 틀렸다’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
         "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
         "source": "주간경향",
@@ -765,12 +788,12 @@
         "published_at": "2026-11-14T10:32:00Z",
         "evidence": "headline",
         "coverage": {
-          "source_groups": 5,
-          "report_count": 5,
-          "span_hours": 48.2,
-          "first_report_at": "2026-11-14T02:29:40Z",
+          "source_groups": 4,
+          "report_count": 4,
+          "span_hours": 42.2,
+          "first_report_at": "2026-11-14T08:28:37Z",
           "last_report_at": "2026-11-16T02:43:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VSmlpYWc3dmFNRjk3aXlqcXhKcmE5M25GLVdURXp2YVRJSmUwamFhdHZiODlqTERraHhyTnVSTTA0MW10T1E1Y19OMnBIcTRQQkFnMDZ4a1A5cHphR0dFeW5zS1QtOURaOVFfaF9yRWg2cmlZelHSAWZBVV95cUxQTjNzcWVoT0NBdmczZ2VUVVNVMjNQVV9UUjNFYjd6SGg1X3NhamJQWU1HMFkzclVLUHprblNXTTAtZ25aSXpWVXZ2QUZ2LXo2WERuVXJETHVZYUNBaGsxdDZLSjY5Tmc?oc=5",
+          "first_report_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DOVlZdXZJS2d1Z2VoTlh1X3M5aWJqR2RuTm94cnBfWmJkQ19KSkljU21PV0RzWExDdlJLRzRJeXZIYk9RUm9IVGViaVEyNWdnWGNza3hkUXgwRXh1elVvRDBrNEI2eGVOcDh3Z0RFakFMeWPSAXhBVV95cUxQdFptRXJON3JzaWVRWWo2akl0TDFtNnJSa1k3RFRKTzJNMU1CRWFLaHhDUFh6VjRXUEVoZk1IUXRzMkh3em51RndDV2FKZFdDU0J0SHljZHN4WlRVOGxlWGVMTXljWXUwbTVQY0dJMl9rcG1qckpScXU?oc=5",
           "last_report_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00eHlTUnJ3S0hJZ3N0R0RWeElXMFNPVWE2VE11T0RnbDFrYnVKZGJGUlZ4dXUxdmd6Y2h3NUVTWnFURjJzb0pfMF85aFVuUUozU1dUbVVvbFlXbHhpWUhsem5UM3pkYXV0QTBVUl9rdkk0Zw?oc=5",
           "sources": [
             {
@@ -800,345 +823,6 @@
               "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DOVlZdXZJS2d1Z2VoTlh1X3M5aWJqR2RuTm94cnBfWmJkQ19KSkljU21PV0RzWExDdlJLRzRJeXZIYk9RUm9IVGViaVEyNWdnWGNza3hkUXgwRXh1elVvRDBrNEI2eGVOcDh3Z0RFakFMeWPSAXhBVV95cUxQdFptRXJON3JzaWVRWWo2akl0TDFtNnJSa1k3RFRKTzJNMU1CRWFLaHhDUFh6VjRXUEVoZk1IUXRzMkh3em51RndDV2FKZFdDU0J0SHljZHN4WlRVOGxlWGVMTXljWXUwbTVQY0dJMl9rcG1qckpScXU?oc=5",
               "published_at": "2026-11-14T08:28:37Z",
               "headline": "'수학 6등급' 감스트, AI 안경 쓰고 수능 풀자…5문제만 틀렸다 - 머니투데이"
-            },
-            {
-              "name": "동아일보",
-              "group": "donga.com",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VSmlpYWc3dmFNRjk3aXlqcXhKcmE5M25GLVdURXp2YVRJSmUwamFhdHZiODlqTERraHhyTnVSTTA0MW10T1E1Y19OMnBIcTRQQkFnMDZ4a1A5cHphR0dFeW5zS1QtOURaOVFfaF9yRWg2cmlZelHSAWZBVV95cUxQTjNzcWVoT0NBdmczZ2VUVVNVMjNQVV9UUjNFYjd6SGg1X3NhamJQWU1HMFkzclVLUHprblNXTTAtZ25aSXpWVXZ2QUZ2LXo2WERuVXJETHVZYUNBaGsxdDZLSjY5Tmc?oc=5",
-              "published_at": "2026-11-14T02:29:40Z",
-              "headline": "수학 6~7등급 감스트, AI 안경 쓰고 수능 풀었더니 5개 틀려…부정행위 우려"
-            }
-          ]
-        }
-      },
-      "source_groups": 5,
-      "daily_sources": [
-        4,
-        0,
-        1
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 10
-    },
-    {
-      "topic": {
-        "id": "79a418f52b6d151da756",
-        "category": "경제·주식",
-        "title": "[굿모닝 증시]韓, 이번주 엔비디아 실적·앤스로픽 IPO 영향 클 것",
-        "summary": "[굿모닝 증시]韓, 이번주 엔비디아 실적·앤스로픽 IPO 영향 클 것",
-        "why_now": "수집 범위에서 관련 보도 9개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 47시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘[굿모닝 증시]韓, 이번주 엔비디아 실적·앤스로픽 IPO 영향 클 것’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
-        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-        "source": "아시아경제",
-        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TX0hJSmFFM28wZjRJSHRkX2kzQ05Ra2lHSHM0bTFBdHlYX0ZOWlNteFp2WWhmNjZnTGs4SHlQZlpyeWxfcWRSdG1mRm5XUy1rYW4taEo1d2FKbzR0cUUyUw?oc=5",
-        "published_at": "2026-11-15T23:14:35Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 5,
-          "report_count": 9,
-          "span_hours": 47.3,
-          "first_report_at": "2026-11-14T03:00:04Z",
-          "last_report_at": "2026-11-16T02:18:41Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kUHU4bnp1b05qMnJtSXlYUWk5SlQxaWFfR0tIZEpDUFVHVVRXR0FTVml3TkV0aE5BTko2VWMzbGJmS3hlN00zckQyeld3UU5XVFFRbWxSSW1idw?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VamY4b2Y4TkFsZDlVSUlsQlM2QmpTRGtHLWlpS1MybGtoUmhMdDNrZGM0cC15dy1MZlBIQ3YxUk9xbzRpUlQyMjV1UnlETWVHUmsxa2ZnZUV4QQ?oc=5",
-          "sources": [
-            {
-              "name": "한국경제",
-              "group": "hankyung.com",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VamY4b2Y4TkFsZDlVSUlsQlM2QmpTRGtHLWlpS1MybGtoUmhMdDNrZGM0cC15dy1MZlBIQ3YxUk9xbzRpUlQyMjV1UnlETWVHUmsxa2ZnZUV4QQ?oc=5",
-              "published_at": "2026-11-16T02:18:41Z",
-              "headline": "앤트로픽 IPO 앞두고 현금 확보전?...아시아 증시·비트코인 전방위 약세"
-            },
-            {
-              "name": "머니투데이",
-              "group": "mt.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JTzJpSVFzamJtWGhLQzhnZ2c2U1gycy1yU0RBRUNXNFo0Vl9STXZpUUZBTzFSb3NOLXZpODFQa2c1c0VRQXh1WjRQcmo3cE5yU0tNN1cxbXZqbUVSR25qc05kVVNqTTdt0gFuQVVfeXFMT1RFY0lVMEwwa0dsQzh3aTVhaThabUMwYWdUSUttTjk0VjU2SW0xa2pGN3dtTkZVa0o3LXBPUWJDUkl4WjVJMTFOTjdzQTY3OVFiV3c5dUpneVNKTTZuSG5FM0F2NXJoRlJHdWUxNUE?oc=5",
-              "published_at": "2026-11-16T01:42:09Z",
-              "headline": "젠슨 황 없는 엔비디아 실적·앤트로픽 IPO…코스피 6000 재탈환? - 머니투데이"
-            },
-            {
-              "name": "매일경제 마켓",
-              "group": "mk.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tY3owU3NNNFppazhSa29IUGR0eU9SbWV4RS0xTEdSNUhMUVROOEZIZnAtMFBfTlRqTGJCbDJSai1xMmFGTHVrcG5DR203VDc1amc?oc=5",
-              "published_at": "2026-11-15T23:58:54Z",
-              "headline": "“이번주엔 앞길 좀 트일까요”…엔비디아에 미중회담·앤트로픽 IPO까지, 코스피는?"
-            },
-            {
-              "name": "아시아경제",
-              "group": "asiae.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TX0hJSmFFM28wZjRJSHRkX2kzQ05Ra2lHSHM0bTFBdHlYX0ZOWlNteFp2WWhmNjZnTGs4SHlQZlpyeWxfcWRSdG1mRm5XUy1rYW4taEo1d2FKbzR0cUUyUw?oc=5",
-              "published_at": "2026-11-15T23:14:35Z",
-              "headline": "[굿모닝 증시]韓, 이번주 엔비디아 실적·앤스로픽 IPO 영향 클 것"
-            },
-            {
-              "name": "중앙일보",
-              "group": "joongang.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oV09XUjhGRkJmZVhERlF2bEY2UHdVV1B1YWF0RllGTEJGX1BZUnVzTjRFaGVjb1pVWTFrWEJYU2UtWmRoU0JtZVVIUUJBQjFEYk5hWndRblV2MTg?oc=5",
-              "published_at": "2026-11-15T12:15:26Z",
-              "headline": "엔비디아 실적·앤트로픽 IPO까지…그래도 AI는 돈다 [11/16~11/20 투자캘린더]｜Global Money Club"
-            }
-          ]
-        }
-      },
-      "source_groups": 5,
-      "daily_sources": [
-        2,
-        2,
-        4
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 11
-    },
-    {
-      "topic": {
-        "id": "f1e6569f5b9cf6a6df2a",
-        "category": "세계뉴스",
-        "title": "\"APEC서 19일 미중러 정상회담 가능성\"…북한 논의 주목",
-        "summary": "\"APEC서 19일 미중러 정상회담 가능성\"…북한 논의 주목",
-        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 56시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘\"APEC서 19일 미중러 정상회담 가능성\"…북한 논의 주목’라는 소식을 봤어요. 최근 글로벌 소식 중 관심이 갔던 변화가 있어요?",
-        "context": "국가·사람 전체를 단정하지 말고 사실과 해석을 구분해 이야기해 보세요.",
-        "source": "한국일보",
-        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4VzZYZzliZHlYZEwyU3o1RVlvS3pEcl9aRm1MSWlPc0IyZ1lDOW5ybzlfaFQ0RTdJTHo4UHNPOUYtc1ZQcmtnVm9OWWpmV1F6NVZCYXdFQnU0cWlfZ2tUeWlGdll4SFRqNkhEYmp30gFzQVVfeXFMTmZ2OHZhSFlnOUdRZjljZDNQV3hIN3J3dER3VHVkTi1HUkdMLXNDaEZXS1V4SVZCamJNNHJ5M0pXWHllNjN6U0Y5OE03YlFIUUo2LXVXcHd3cjMycDctcm13TjJteU9jWElXcldJYVhfdzFHZw?oc=5",
-        "published_at": "2026-11-14T00:55:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 4,
-          "report_count": 4,
-          "span_hours": 56.5,
-          "first_report_at": "2026-11-14T00:55:00Z",
-          "last_report_at": "2026-11-16T09:23:21Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4VzZYZzliZHlYZEwyU3o1RVlvS3pEcl9aRm1MSWlPc0IyZ1lDOW5ybzlfaFQ0RTdJTHo4UHNPOUYtc1ZQcmtnVm9OWWpmV1F6NVZCYXdFQnU0cWlfZ2tUeWlGdll4SFRqNkhEYmp30gFzQVVfeXFMTmZ2OHZhSFlnOUdRZjljZDNQV3hIN3J3dER3VHVkTi1HUkdMLXNDaEZXS1V4SVZCamJNNHJ5M0pXWHllNjN6U0Y5OE03YlFIUUo2LXVXcHd3cjMycDctcm13TjJteU9jWElXcldJYVhfdzFHZw?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2emQwSEtma1FjYU9leG5XUE1GUW9VUkdHR244MWJuMWtPYlhkbzkwSkNablQ0ZmxhamNtQlEwRURoSUVZdjRiVF9TazhrNHZDZEdXX1RGYTE0d2PSAWBBVV95cUxQbmhtN0ZiczlVVHpEQjkzeXBXdlk4ZHFYSklLUHE0alJxVkxoRTZSSkNPV1BQNWhyY3FnMUpna2d6M1RBZ1ZoRWV5MHM5Sk5tSnV6NmVIZHNtUjJlUl94eVc?oc=5",
-          "sources": [
-            {
-              "name": "연합뉴스",
-              "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2emQwSEtma1FjYU9leG5XUE1GUW9VUkdHR244MWJuMWtPYlhkbzkwSkNablQ0ZmxhamNtQlEwRURoSUVZdjRiVF9TazhrNHZDZEdXX1RGYTE0d2PSAWBBVV95cUxQbmhtN0ZiczlVVHpEQjkzeXBXdlk4ZHFYSklLUHE0alJxVkxoRTZSSkNPV1BQNWhyY3FnMUpna2d6M1RBZ1ZoRWV5MHM5Sk5tSnV6NmVIZHNtUjJlUl94eVc?oc=5",
-              "published_at": "2026-11-16T09:23:21Z",
-              "headline": "미중러 정상회담 앞두고 우크라, 모스크바·크림반도 겨눴다"
-            },
-            {
-              "name": "뉴스1",
-              "group": "wire:뉴스1",
-              "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKZkRtNzlFRFk0WjlRVEVWZEo2MUhOVFBTY21QWng2N1N2RG9ieTBSUmVwNVB2RzhHQ1hBVUx4VDlCLTA0Wnhaa2l4UDVDOUFqV05peENzRG9UZHRkTEFoVVIwVkhYeTg?oc=5",
-              "published_at": "2026-11-16T04:36:30Z",
-              "headline": "전문가 \"APEC 이후 북미 회담 가능성\"…북핵-국제 핵군축 연계 제안도"
-            },
-            {
-              "name": "한겨레",
-              "group": "hani.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VYjhxNE9MMzVIUXJRNWtnQjluUklaVllNRGVLamFIWjJxUkJRZTQ4ODEtVElCYUF3SkxRS1kyeDE0Tld2bW54ODgtZ0w1dmtIYXFsZTJMZDMyVEJ0TW5KQ1NtYVYwU04waHItVU1ROFFkN1U0?oc=5",
-              "published_at": "2026-11-14T21:53:00Z",
-              "headline": "미국 “19일 중국서 미·중·러 정상회담”…트럼프-김정은 회담은 불발 전망"
-            },
-            {
-              "name": "한국일보",
-              "group": "hankookilbo.com",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4VzZYZzliZHlYZEwyU3o1RVlvS3pEcl9aRm1MSWlPc0IyZ1lDOW5ybzlfaFQ0RTdJTHo4UHNPOUYtc1ZQcmtnVm9OWWpmV1F6NVZCYXdFQnU0cWlfZ2tUeWlGdll4SFRqNkhEYmp30gFzQVVfeXFMTmZ2OHZhSFlnOUdRZjljZDNQV3hIN3J3dER3VHVkTi1HUkdMLXNDaEZXS1V4SVZCamJNNHJ5M0pXWHllNjN6U0Y5OE03YlFIUUo2LXVXcHd3cjMycDctcm13TjJteU9jWElXcldJYVhfdzFHZw?oc=5",
-              "published_at": "2026-11-14T00:55:00Z",
-              "headline": "\"APEC서 19일 미중러 정상회담 가능성\"…북한 논의 주목"
-            }
-          ]
-        }
-      },
-      "source_groups": 4,
-      "daily_sources": [
-        2,
-        0,
-        2
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 12
-    },
-    {
-      "topic": {
-        "id": "ed39682b0eb85a9d1cbb",
-        "category": "연예",
-        "title": "클릭비, 12월 30·31일 연말 콘서트 ‘송(SONG)~년회’ 개최",
-        "summary": "클릭비, 12월 30·31일 연말 콘서트 ‘송(SONG)~년회’ 개최",
-        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 54시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘클릭비, 12월 30·31일 연말 콘서트 ‘송(SONG)~년회’ 개최’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-        "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-        "source": "JTBC",
-        "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NbDhEaUZlakNoNXJMQ3JYXzBNN290RlpiUnZyOHgtRzEzNC0wZmdWcDNyU0JxOW12OUZscElyM3p6R3VzbDZqeUZsOURLTy1nQ2JJLQ?oc=5",
-        "published_at": "2026-11-13T23:24:34Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 4,
-          "report_count": 4,
-          "span_hours": 54.3,
-          "first_report_at": "2026-11-13T23:24:34Z",
-          "last_report_at": "2026-11-16T05:44:34Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NbDhEaUZlakNoNXJMQ3JYXzBNN290RlpiUnZyOHgtRzEzNC0wZmdWcDNyU0JxOW12OUZscElyM3p6R3VzbDZqeUZsOURLTy1nQ2JJLQ?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJNUZONFV5SGp6b19sWlF2c29IdVA3azFULXJLcmM1RWM5UEhrQmMxaWdZdUhjdGVkdTdYQTRoSGNqU0xaLWRPazRWSUpvT1Fl?oc=5",
-          "sources": [
-            {
-              "name": "문화일보",
-              "group": "munhwa.com",
-              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJNUZONFV5SGp6b19sWlF2c29IdVA3azFULXJLcmM1RWM5UEhrQmMxaWdZdUhjdGVkdTdYQTRoSGNqU0xaLWRPazRWSUpvT1Fl?oc=5",
-              "published_at": "2026-11-16T05:44:34Z",
-              "headline": "2AM, 12월 ‘완전체’로 단독 콘서트 개최"
-            },
-            {
-              "name": "연합뉴스",
-              "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11WDBWRmp3clVuNUN4MFRBaWlUdTBDc3Y1MzlFVW5YZko5NktGNnBHRVEzX1NRUWNpWTBrRkZ0SXpPZU52UTBTTWhFRW4zMTRZUV9GNzhVWFJwa03SAWBBVV95cUxOYUNEVF9Da1pnUjVSM21UejlnckNmNXhYTEJyMlkxOEFJRm1QeE1icjllQUExekRlUWFoc3VWcGlCTU56a2w3SWdRNEhCbnJEcEROUGpfQnluRTZJcjMtc3Q?oc=5",
-              "published_at": "2026-11-14T04:23:42Z",
-              "headline": "클릭비, 내달 30∼31일 연말 콘서트 '송∼년회'"
-            },
-            {
-              "name": "스타뉴스",
-              "group": "starnewskorea.com",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SNlZLalhjU2djcm5KTVJJU3ZIek1kVUFvOFBadmJxaVpGUXJiWGN5XzF5bTBlLWhQRDd6bWwwN0RhN21QbktHbWExSVN6c3J4RUJXcmpBRHROSVhUSWhMLTdGVDhaT2RJb2I5cHpSYVduNHhx?oc=5",
-              "published_at": "2026-11-13T23:31:38Z",
-              "headline": "'송(SONG)~년회' 모여라! 클릭비, 연말 콘서트 개최"
-            },
-            {
-              "name": "JTBC",
-              "group": "jtbc.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NbDhEaUZlakNoNXJMQ3JYXzBNN290RlpiUnZyOHgtRzEzNC0wZmdWcDNyU0JxOW12OUZscElyM3p6R3VzbDZqeUZsOURLTy1nQ2JJLQ?oc=5",
-              "published_at": "2026-11-13T23:24:34Z",
-              "headline": "클릭비, 12월 30·31일 연말 콘서트 ‘송(SONG)~년회’ 개최"
-            }
-          ]
-        }
-      },
-      "source_groups": 4,
-      "daily_sources": [
-        3,
-        0,
-        1
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 13
-    },
-    {
-      "topic": {
-        "id": "76d5166e4e7196b70c05",
-        "category": "스포츠",
-        "title": "한국 축구, 17일 카타르와 올해 마지막 A매치…'변해야 산다!'",
-        "summary": "한국 축구, 17일 카타르와 올해 마지막 A매치…'변해야 산다!'",
-        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 47시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘한국 축구, 17일 카타르와 올해 마지막 A매치…'변해야 산다!'’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "연합뉴스",
-        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16cDF3MGlsVkRxQkQ4akozR2xFYnh5SXc5cmQtblZVNjBoeU15VkFuQ2tqbGFLRm1mLVBqZm5hdUlQOUJBTUZ1UDVnaFNIT0pvM1E4TmpBc0FzSU3SAWBBVV95cUxQNzJsYXM2X0JGblM5VzgzaXBpeTlfNmxKZWpXMGE1ZTRya3NSM1BrWUtWNXBUNl9vXzhmZnNsYzVURWx6b0ZsQnVtYl9QNUxvS0N5U0luc1pGVGdQV0VvdXM?oc=5",
-        "published_at": "2026-11-14T21:23:55Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 4,
-          "report_count": 5,
-          "span_hours": 47.8,
-          "first_report_at": "2026-11-14T21:23:55Z",
-          "last_report_at": "2026-11-16T21:12:17Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16cDF3MGlsVkRxQkQ4akozR2xFYnh5SXc5cmQtblZVNjBoeU15VkFuQ2tqbGFLRm1mLVBqZm5hdUlQOUJBTUZ1UDVnaFNIT0pvM1E4TmpBc0FzSU3SAWBBVV95cUxQNzJsYXM2X0JGblM5VzgzaXBpeTlfNmxKZWpXMGE1ZTRya3NSM1BrWUtWNXBUNl9vXzhmZnNsYzVURWx6b0ZsQnVtYl9QNUxvS0N5U0luc1pGVGdQV0VvdXM?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsbUJTWkZqSThDYXdnOVhNdS1TVkx2bTI2VWttZnlZbUhDWWtOSnNVS3RtY0tMTjJnQlRaNVRFTUJFYVBHcEZvN1VjZGNibGkxNVZMTXZvUkdSOVJjMld1WXpTTTYweXNfTW90QW9wUmFyR1FM0gFmQVVfeXFMTVRvM3hZOUhpTUN1RzNGZHBLRG1ueDBzbmZYTXlzVEduTlFCYlFCS2tZTlpvZWc2cnlEZFk4VHBkN09BYldlTTJMQ2dmZVFyNExUVy03azZybGFVRGxwLUlkYlJmZ3dB?oc=5",
-          "sources": [
-            {
-              "name": "동아일보",
-              "group": "donga.com",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsbUJTWkZqSThDYXdnOVhNdS1TVkx2bTI2VWttZnlZbUhDWWtOSnNVS3RtY0tMTjJnQlRaNVRFTUJFYVBHcEZvN1VjZGNibGkxNVZMTXZvUkdSOVJjMld1WXpTTTYweXNfTW90QW9wUmFyR1FM0gFmQVVfeXFMTVRvM3hZOUhpTUN1RzNGZHBLRG1ueDBzbmZYTXlzVEduTlFCYlFCS2tZTlpvZWc2cnlEZFk4VHBkN09BYldlTTJMQ2dmZVFyNExUVy03azZybGFVRGxwLUlkYlJmZ3dB?oc=5",
-              "published_at": "2026-11-16T21:12:17Z",
-              "headline": "태극전사, 오늘 카타르와 올해 마지막 A매치…손흥민 60호골 재도전"
-            },
-            {
-              "name": "일간스포츠",
-              "group": "edaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kM0Uzby14bW5xY0NiZ1hYVkRxSXNzTk5nVkNOeGJnX0NxQjlYRHBpdm4yR19kaGdWS3RveEZOaEMxcU1oUUFndU83UmcwMzlzY3ZIaXFMSXdyUDA?oc=5",
-              "published_at": "2026-11-16T15:24:00Z",
-              "headline": "‘다사다난’ 손흥민, 60호골로 유종의 미 거둘까…카타르와 2026년 마지막 A매치"
-            },
-            {
-              "name": "경향신문",
-              "group": "khan.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wcE52Z2dFVlNqdzNrUGRTX0xaVTdMN05acTFNaklHOGdBYUdoN3RrME1ic1VNTUdHME96TzUtMWpwb1VkbVhzNHJkOGRGZ3VILUUzSEU0bUxwd3pONzNB0gFfQVVfeXFMTTBwTnZnZ0VWU2p3M2tQZFNfTFpVN0w3TlpxMU1qSUc4Z0FhR2g3dGswTWJzVU1NR0cwT3pPNS0xanBvVWRtWHM0cmQ4ZEZndUgtRTNIRTRtTHB3ek43M0E?oc=5",
-              "published_at": "2026-11-16T11:19:00Z",
-              "headline": "한국 축구 되살릴 이강인 ‘황금 왼발’…모레노호 부진 속 17일 밤 카타르와 올 마지막 A매치"
-            },
-            {
-              "name": "연합뉴스",
-              "group": "wire:연합뉴스",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16cDF3MGlsVkRxQkQ4akozR2xFYnh5SXc5cmQtblZVNjBoeU15VkFuQ2tqbGFLRm1mLVBqZm5hdUlQOUJBTUZ1UDVnaFNIT0pvM1E4TmpBc0FzSU3SAWBBVV95cUxQNzJsYXM2X0JGblM5VzgzaXBpeTlfNmxKZWpXMGE1ZTRya3NSM1BrWUtWNXBUNl9vXzhmZnNsYzVURWx6b0ZsQnVtYl9QNUxvS0N5U0luc1pGVGdQV0VvdXM?oc=5",
-              "published_at": "2026-11-14T21:23:55Z",
-              "headline": "한국 축구, 17일 카타르와 올해 마지막 A매치…'변해야 산다!'"
-            }
-          ]
-        }
-      },
-      "source_groups": 4,
-      "daily_sources": [
-        1,
-        0,
-        3
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 14
-    },
-    {
-      "topic": {
-        "id": "d89729c309b01d20e23e",
-        "category": "스포츠",
-        "title": "[사진]마지막 잠실야구장에 모인 프로야구 레전드 선수들 - 머니투데이",
-        "summary": "[사진]마지막 잠실야구장에 모인 프로야구 레전드 선수들 - 머니투데이",
-        "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 37시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘[사진]마지막 잠실야구장에 모인 프로야구 레전드 선수들 - 머니투데이’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "머니투데이",
-        "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JNDhMZThDbDdkTElfejMyNG1Ham1jZjVhZGQtNFpaWU5MMmFaZVg2VWNhNU9TQVhtUWFMVXRTcVZCZnNYeEZuSVd3Z29KMWV6azJkMzlheG1ZTC03UHpydFRFUWpfSkZ0RnfSAW9BVV95cUxOLVBJTmNuSlpnWnJCRmE4VTBQd25XMV9mdHJfUmdUYWVaT01JTzVXek1rdmlpVzFEUU1BMkRneTRlMmNKeUcxdnlCOUtJS3VZZGp1NmxBNkxya0pTVTE3WEhYR20yeFIwRjM1RWR2Qjg?oc=5",
-        "published_at": "2026-11-14T08:33:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 4,
-          "report_count": 7,
-          "span_hours": 37.3,
-          "first_report_at": "2026-11-14T06:12:54Z",
-          "last_report_at": "2026-11-15T19:30:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBZSUVKb3hYS25ydGd6NWNoTFlybklvTHd6dFV6MEFFZzJIbkxJcVdPMEltc0NKWUxUN0dLX1otb3FvNFZHMnQ4ZThiNA?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85REs5VmpIbk42RmNvMkxWT19oRVVSY0VkeU9QbE9GQWJNQ2JjX0szdUdNcmpvLThmYW95ZDlwZGNRRVp6RE9ZS2Z4MWZleXZ0aUtrbWRCUDhqbEpfM3FnY29tVm1POHJFQ01GZHZYcmFuS25M0gFmQVVfeXFMUFZmbjV1cE5DZGRxUUlzZEhaVV9yT2FYcmNPaDBtX204cDVqLTBRUlluX1ZzSWtSLWQtdFVidldXRU12MVd3a29aYk96NTlCZmw1YXY0NFFqZ0pUbklnOFBMV2dhOGpB?oc=5",
-          "sources": [
-            {
-              "name": "동아일보",
-              "group": "donga.com",
-              "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85REs5VmpIbk42RmNvMkxWT19oRVVSY0VkeU9QbE9GQWJNQ2JjX0szdUdNcmpvLThmYW95ZDlwZGNRRVp6RE9ZS2Z4MWZleXZ0aUtrbWRCUDhqbEpfM3FnY29tVm1POHJFQ01GZHZYcmFuS25M0gFmQVVfeXFMUFZmbjV1cE5DZGRxUUlzZEhaVV9yT2FYcmNPaDBtX204cDVqLTBRUlluX1ZzSWtSLWQtdFVidldXRU12MVd3a29aYk96NTlCZmw1YXY0NFFqZ0pUbklnOFBMV2dhOGpB?oc=5",
-              "published_at": "2026-11-15T19:30:00Z",
-              "headline": "“굿바이! 잠실야구장” 프로야구 전설들 작별인사"
-            },
-            {
-              "name": "뉴스1",
-              "group": "wire:뉴스1",
-              "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBnX3hhYlZ3VlVvOHZLVVYwZkN4U2RWR1c0dy1zSHZLLVRnd2NoX2xlWFMtVUVwREVfYjk3Y1JEOGlSSTd5Z1JwN1FwUmtPYmhNQ2RycEtFVQ?oc=5",
-              "published_at": "2026-11-14T09:29:06Z",
-              "headline": "[뉴스1 PICK] '굿바이, 잠실야구장!'… 한자리에 모인 KBO리그 전설들"
-            },
-            {
-              "name": "Chosunbiz",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0N6UEFaWnJQZ1RMckNMQldaYnlyNjlPYm1CSnZUZFZDR0RfZUJxX1NIcmlPNGJydUxMbFQ3RHVFU2szRWZFLU5sSnZnYk1SeXBGazZaYUx5aWgxaTczVkVUTXpPbjhwYUtRMG5hX2pSQkI3MnRTNEFLcmQ1QjRDUFZWX0F2Unc30gGcAUFVX3lxTE1nRFFlS1FZTXdBcHo0QWthVmpBTEgyakNscndGT0Q4bk03TWt2NG9qX3ZJVGlWVlMwSngxMEdfdmhpOE4xR2VJckRwZTByT25xVGY0SVo1Mi1DVXRXY3lSRGFoM196UW5teUgzcjVSVXdSWE5naU5HOVYyYU5NRVpCRFlvZlFKUWtBVlhwYWI2d0VXeTdUSzhhZmJLLQ?oc=5",
-              "published_at": "2026-11-14T08:34:00Z",
-              "headline": "[사진]마지막 잠실야구장에서 인사 전하는 프로야구 레전드 선수들"
-            },
-            {
-              "name": "머니투데이",
-              "group": "mt.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JNDhMZThDbDdkTElfejMyNG1Ham1jZjVhZGQtNFpaWU5MMmFaZVg2VWNhNU9TQVhtUWFMVXRTcVZCZnNYeEZuSVd3Z29KMWV6azJkMzlheG1ZTC03UHpydFRFUWpfSkZ0RnfSAW9BVV95cUxOLVBJTmNuSlpnWnJCRmE4VTBQd25XMV9mdHJfUmdUYWVaT01JTzVXek1rdmlpVzFEUU1BMkRneTRlMmNKeUcxdnlCOUtJS3VZZGp1NmxBNkxya0pTVTE3WEhYR20yeFIwRjM1RWR2Qjg?oc=5",
-              "published_at": "2026-11-14T08:33:00Z",
-              "headline": "[사진]마지막 잠실야구장에 모인 프로야구 레전드 선수들 - 머니투데이"
             }
           ]
         }
@@ -1153,7 +837,202 @@
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 15
+      "rank": 11
+    },
+    {
+      "topic": {
+        "id": "d5079fedfde98a4ce8df",
+        "category": "스포츠",
+        "title": "충북보건대, 제1회 총장배 파크골프대회 개최 - 머니투데이",
+        "summary": "충북보건대, 제1회 총장배 파크골프대회 개최 - 머니투데이",
+        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 27시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘충북보건대, 제1회 총장배 파크골프대회 개최 - 머니투데이’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "머니투데이",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByd1RQWUlJX1J5QlkzemZGZnk4UVJ6YUw0N0ZQNFZYNkJxZE95dHN5VS1FbUlyVzBpUlpwMHU2TjRLUXd1RzN5ck9LZTJfS29XczdNT3NEd3hraVhnQXVtbGhWbXFSWmdOUE8zSDdHQlVudUY0azFN0gF8QVVfeXFMT1ZscXJmcVNfNjY5U19pU3dJdlZITkxvMG9LWXQyQnFRYUFSTk91VzdRa1JrVHJzcGNfMGp2RkpKZWZzang5eU1rSjR6eHFMOVlodFlSNlpBQnZlTXFUNG82R19jUnNvd3p0cXUwTVJ1TF9pTFU3RlYwdUhRbA?oc=5",
+        "published_at": "2026-11-16T00:50:56Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 4,
+          "report_count": 4,
+          "span_hours": 27.4,
+          "first_report_at": "2026-11-16T00:50:56Z",
+          "last_report_at": "2026-11-17T04:12:03Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByd1RQWUlJX1J5QlkzemZGZnk4UVJ6YUw0N0ZQNFZYNkJxZE95dHN5VS1FbUlyVzBpUlpwMHU2TjRLUXd1RzN5ck9LZTJfS29XczdNT3NEd3hraVhnQXVtbGhWbXFSWmdOUE8zSDdHQlVudUY0azFN0gF8QVVfeXFMT1ZscXJmcVNfNjY5U19pU3dJdlZITkxvMG9LWXQyQnFRYUFSTk91VzdRa1JrVHJzcGNfMGp2RkpKZWZzang5eU1rSjR6eHFMOVlodFlSNlpBQnZlTXFUNG82R19jUnNvd3p0cXUwTVJ1TF9pTFU3RlYwdUhRbA?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oWVAwZ3l0SERlNTV3S1EwbDBDOXRWUzFPUDBCVDZ2YWxGRFlLZlpLUTJ0SHNFYmcteUYxMzctaUFJcmFMLXgtdEVpeFkxXy05cmtja1hFSnBXZw?oc=5",
+          "sources": [
+            {
+              "name": "파이낸셜뉴스",
+              "group": "fnnews.com",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oWVAwZ3l0SERlNTV3S1EwbDBDOXRWUzFPUDBCVDZ2YWxGRFlLZlpLUTJ0SHNFYmcteUYxMzctaUFJcmFMLXgtdEVpeFkxXy05cmtja1hFSnBXZw?oc=5",
+              "published_at": "2026-11-17T04:12:03Z",
+              "headline": "제1회 울산 아너소사이어티 클럽 회장배 골프대회 개최"
+            },
+            {
+              "name": "아시아경제",
+              "group": "asiae.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13Q21rc21SZ2dSdEt5NDRwTHpHZTZKdl90d3ZjcTI3Z1BtSW1RM3VwTF9SYTNlbVZJU1dPSTRDSlkyalZBV3UzNVZlZkZDVDRncFB2SjhqdDJOMkMxWGlQZQ?oc=5",
+              "published_at": "2026-11-17T03:05:41Z",
+              "headline": "동아대 부동산 교육과정 한자리에… 총장배 골프대회 개최"
+            },
+            {
+              "name": "뉴시스",
+              "group": "wire:뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JbXhZTk5KZ1oycVRxM1dQN1lGTjJIbS1sd3N3czdhNnFGSWZ3cEtDb3ltVHlTdnZDV1Jfb3lzYWZYTTBTeVk0emJUZlZOYlpyRXpNSFk0U042NG9fXy1IRtIBeEFVX3lxTFB4akc1cThBYmVTWGNWNWVFYVBIcnRXMmxVNkFmV1hPUHFYcGpMZmNMVTZEZU5RbVhZQWV3c0hjaFVZTDBjdU1lSWthS0h5M1JRUjZhNGtIYXIzSExlY3ZSUUV2VFVrMEwtNU55aTZHemRqZkh0bkF0Sg?oc=5",
+              "published_at": "2026-11-16T05:28:55Z",
+              "headline": "[순창소식]제1회 순창고추장배 전국 파크골프대회 등"
+            },
+            {
+              "name": "머니투데이",
+              "group": "mt.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByd1RQWUlJX1J5QlkzemZGZnk4UVJ6YUw0N0ZQNFZYNkJxZE95dHN5VS1FbUlyVzBpUlpwMHU2TjRLUXd1RzN5ck9LZTJfS29XczdNT3NEd3hraVhnQXVtbGhWbXFSWmdOUE8zSDdHQlVudUY0azFN0gF8QVVfeXFMT1ZscXJmcVNfNjY5U19pU3dJdlZITkxvMG9LWXQyQnFRYUFSTk91VzdRa1JrVHJzcGNfMGp2RkpKZWZzang5eU1rSjR6eHFMOVlodFlSNlpBQnZlTXFUNG82R19jUnNvd3p0cXUwTVJ1TF9pTFU3RlYwdUhRbA?oc=5",
+              "published_at": "2026-11-16T00:50:56Z",
+              "headline": "충북보건대, 제1회 총장배 파크골프대회 개최 - 머니투데이"
+            }
+          ]
+        }
+      },
+      "source_groups": 4,
+      "daily_sources": [
+        0,
+        2,
+        2
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 12
+    },
+    {
+      "topic": {
+        "id": "d7a29256d46cb4d47a7a",
+        "category": "경제·주식",
+        "title": "[주간증시전망] 젠슨 황 사임 후 엔비디아 실적 발표… 미·중 정상회담 열려",
+        "summary": "[주간증시전망] 젠슨 황 사임 후 엔비디아 실적 발표… 미·중 정상회담 열려",
+        "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 26시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘[주간증시전망] 젠슨 황 사임 후 엔비디아 실적 발표… 미·중 정상회담 열려’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+        "source": "Chosunbiz",
+        "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1kxc3ZBb2tpZFZoTENHblhJNHRyUTBzMFc4T1Y1VnFINmdaVTFXZmJ0bVVTelRSWmlrRnlaWk5ySk80M3lhbmkzQW1fTF9IUHVIUXVZZkdYMFN2TkRxdno3QmJ0MXhHZ2I5MGpmR0pPOXVjTThpY2JQODAxQl9uVElOVDRKR2ZO0gGcAUFVX3lxTE93OTctTnMzR251TFFFbFpnbVZkQzFDUm9CVVRzeUl3MVhCWGZCZmg5RlNlZ0xhOFdhWDJaaC15djNGOFdhLUY1ZHVvNzczWTE4b0xhWTI0Vkh1Sm1TVVhpNVNZbmwzc211czRlUEM2NXVGcjdRWTJueGJrelp5MWN3THRBT1dYeDFZVWpaS0lYeEttek9VWTNrWnFtSA?oc=5",
+        "published_at": "2026-11-14T21:03:48Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 4,
+          "report_count": 6,
+          "span_hours": 26.9,
+          "first_report_at": "2026-11-14T21:03:48Z",
+          "last_report_at": "2026-11-15T23:59:47Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1kxc3ZBb2tpZFZoTENHblhJNHRyUTBzMFc4T1Y1VnFINmdaVTFXZmJ0bVVTelRSWmlrRnlaWk5ySk80M3lhbmkzQW1fTF9IUHVIUXVZZkdYMFN2TkRxdno3QmJ0MXhHZ2I5MGpmR0pPOXVjTThpY2JQODAxQl9uVElOVDRKR2ZO0gGcAUFVX3lxTE93OTctTnMzR251TFFFbFpnbVZkQzFDUm9CVVRzeUl3MVhCWGZCZmg5RlNlZ0xhOFdhWDJaaC15djNGOFdhLUY1ZHVvNzczWTE4b0xhWTI0Vkh1Sm1TVVhpNVNZbmwzc211czRlUEM2NXVGcjdRWTJueGJrelp5MWN3THRBT1dYeDFZVWpaS0lYeEttek9VWTNrWnFtSA?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BeVBDVlFCSkR1MHZVeHYwVGlFeU5TR3pUSHRKQTR6MWVtXy01TWRicWg5QUVhMzNNV1VNNUpxakxaOERLVHByTnBXV3h3UlhNUXF6UmJqU3N1NmZZVmZPRw?oc=5",
+          "sources": [
+            {
+              "name": "뉴시스",
+              "group": "wire:뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BeVBDVlFCSkR1MHZVeHYwVGlFeU5TR3pUSHRKQTR6MWVtXy01TWRicWg5QUVhMzNNV1VNNUpxakxaOERLVHByTnBXV3h3UlhNUXF6UmJqU3N1NmZZVmZPR9IBeEFVX3lxTE45ODNERElobzRWQWYwbDU1bmNhTlR1Z3dZUy1nUjFFS0R5M25aa2d2RVgxbkozUHFnVThvamR2Q0tvZ0s2M281ZUNiSkEzMndEQmZlSnJlcVg2dzFZdmZVUXBHTjZLRUc1XzFZR0YxVzRtZmJSS2lTMQ?oc=5",
+              "published_at": "2026-11-15T23:59:47Z",
+              "headline": "[주간 뉴욕증시]'젠슨 황 사임 후 엔비디아 첫 실적…연준 의사록 주목"
+            },
+            {
+              "name": "한국경제",
+              "group": "hankyung.com",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfSHdRaXdqZEtOQXIzVWFIb25IMVZILVB0Um1KaGVVeFN5SHVIcEp2VkJiZHZiVkZBU0s1azZ1ZU5XVkM4MExUV3ZqVTZCR2tUZUdSSW9kREQyZw?oc=5",
+              "published_at": "2026-11-15T22:35:57Z",
+              "headline": "치솟는 금리, 물가 속 엔비디아 실적 발표…빅위크의 시작 [오늘 아침 당신이 알아야 할 7가지]"
+            },
+            {
+              "name": "YTN",
+              "group": "ytn.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51UnFPbDVqaXVyVUYzeE9xUlJOOGJ0RzFiQTAwNG9EM0I4bWdPODVKcDhSQWZiNl9yaUFmNGRGNkxabEU2UzNtX3M3X29xT3FqdGVPb29UU29zMUtrcUE?oc=5",
+              "published_at": "2026-11-15T02:11:00Z",
+              "headline": "코스피, 한 주간 상승...\"엔비디아 실적 발표 관건\""
+            },
+            {
+              "name": "Chosunbiz",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1kxc3ZBb2tpZFZoTENHblhJNHRyUTBzMFc4T1Y1VnFINmdaVTFXZmJ0bVVTelRSWmlrRnlaWk5ySk80M3lhbmkzQW1fTF9IUHVIUXVZZkdYMFN2TkRxdno3QmJ0MXhHZ2I5MGpmR0pPOXVjTThpY2JQODAxQl9uVElOVDRKR2ZO0gGcAUFVX3lxTE93OTctTnMzR251TFFFbFpnbVZkQzFDUm9CVVRzeUl3MVhCWGZCZmg5RlNlZ0xhOFdhWDJaaC15djNGOFdhLUY1ZHVvNzczWTE4b0xhWTI0Vkh1Sm1TVVhpNVNZbmwzc211czRlUEM2NXVGcjdRWTJueGJrelp5MWN3THRBT1dYeDFZVWpaS0lYeEttek9VWTNrWnFtSA?oc=5",
+              "published_at": "2026-11-14T21:03:48Z",
+              "headline": "[주간증시전망] 젠슨 황 사임 후 엔비디아 실적 발표… 미·중 정상회담 열려"
+            }
+          ]
+        }
+      },
+      "source_groups": 4,
+      "daily_sources": [
+        3,
+        2,
+        0
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 13
+    },
+    {
+      "topic": {
+        "id": "9f8121685746bb967d84",
+        "category": "스포츠",
+        "title": "프로야구 FA 22명 공시…원태인·구자욱 시장에 나온다",
+        "summary": "프로야구 FA 22명 공시…원태인·구자욱 시장에 나온다",
+        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 23시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘프로야구 FA 22명 공시…원태인·구자욱 시장에 나온다’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "연합뉴스",
+        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JTGFFT3ZtNmluNG4xUTlOQUFQTlpSd0liVGl0Wjlzdm1vblo0Vm9aUlNZemVQdkd5MW1fT1lDQWZKYl95S01JSXg4Wl85LWJVWG8wZDh0MTNDeDdJLVFIQQ?oc=5",
+        "published_at": "2026-11-16T02:39:27Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 4,
+          "report_count": 5,
+          "span_hours": 23.5,
+          "first_report_at": "2026-11-15T15:10:02Z",
+          "last_report_at": "2026-11-16T14:39:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUdtQWNhSlpROFV5czdtaFAwUUx2UFhCSDFYbU0wNnkxU3hQSFA2MVhTQmFvTlFhbmw1bVl3T3lUZTY5UmdPMTVZb01WT2U5ekRvZHRJYUhMbFpIMTRmQzJDaWhPQWV0bUxyMDJ2MkNOMjBMMDVIRC0wSndyWk1nZw?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCZ2hWVXdzdnpkaFFVbXpmUzNJcHZQSnNza3pNUl9UelB5VC1DUGtjYm1VUlV6SUJKY2VWYlRSWlBhVDM0R0hiRW9DVWp6NW9pdEdIbmt6ak9kUGNIbEE?oc=5",
+          "sources": [
+            {
+              "name": "YTN",
+              "group": "munhwa.com",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCZ2hWVXdzdnpkaFFVbXpmUzNJcHZQSnNza3pNUl9UelB5VC1DUGtjYm1VUlV6SUJKY2VWYlRSWlBhVDM0R0hiRW9DVWp6NW9pdEdIbmt6ak9kUGNIbEE?oc=5",
+              "published_at": "2026-11-16T14:39:00Z",
+              "headline": "원태인·구자욱 등 프로야구 FA 22명 공시"
+            },
+            {
+              "name": "KBS 뉴스",
+              "group": "kbs.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJSl9IaDc0ZnNhdmRYZ2xLRF9PblU0TUcyeElqd1diT2otTjRyT0Nua05mblZIT0FES0o3UzhoZWlrTjBaYzRaR1lqNGNCWVE1Q1FVeklUQ1M4ZGlOeVpSS3BBNEozUQ?oc=5",
+              "published_at": "2026-11-16T05:55:00Z",
+              "headline": "‘스토브리그 개막’ 프로야구 FA 22명 공시…원태인·구자욱 어디로?"
+            },
+            {
+              "name": "연합뉴스",
+              "group": "wire:연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JTGFFT3ZtNmluNG4xUTlOQUFQTlpSd0liVGl0Wjlzdm1vblo0Vm9aUlNZemVQdkd5MW1fT1lDQWZKYl95S01JSXg4Wl85LWJVWG8wZDh0MTNDeDdJLVFIQQ?oc=5",
+              "published_at": "2026-11-16T02:39:27Z",
+              "headline": "프로야구 FA 22명 공시…원태인·구자욱 시장에 나온다"
+            },
+            {
+              "name": "이데일리",
+              "group": "edaily.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUdtQWNhSlpROFV5czdtaFAwUUx2UFhCSDFYbU0wNnkxU3hQSFA2MVhTQmFvTlFhbmw1bVl3T3lUZTY5UmdPMTVZb01WT2U5ekRvZHRJYUhMbFpIMTRmQzJDaWhPQWV0bUxyMDJ2MkNOMjBMMDVIRC0wSndyWk1nZw?oc=5",
+              "published_at": "2026-11-15T15:10:02Z",
+              "headline": "'FA 대어' 원태인·구자욱 뜬다…막 오른 프로야구 스토브리그"
+            }
+          ]
+        }
+      },
+      "source_groups": 4,
+      "daily_sources": [
+        0,
+        4,
+        1
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 14
     },
     {
       "topic": {
@@ -1210,15 +1089,15 @@
       },
       "source_groups": 4,
       "daily_sources": [
-        0,
-        4,
+        1,
+        3,
         0
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 16
+      "rank": 15
     },
     {
       "topic": {
@@ -1283,137 +1162,7 @@
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 17
-    },
-    {
-      "topic": {
-        "id": "bb057df9e5608478cf1d",
-        "category": "스포츠",
-        "title": "[공식 발표] 양의지 진짜 FA 시장 나왔다! KBO, FA 승인 선수 명단 22명 공시…최대어 구자욱·원태인",
-        "summary": "[공식 발표] 양의지 진짜 FA 시장 나왔다! KBO, FA 승인 선수 명단 22명 공시…최대어 구자욱·원태인",
-        "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘[공식 발표] 양의지 진짜 FA 시장 나왔다! KBO, FA 승인 선수 명단 22명 공시…최대어 구자욱·원태인’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "마이데일리",
-        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JZllmY3E0Rkd5anVkdU11anc1a1NKSTA1c2lnUEtMTGZMMmRQaWVGWUd0Z0NzckZ2TjVodUtsMXY2SGVHRU1wMTYzSTNCcXplVlg3aTk5NGdVbHhvVFlzXw?oc=5",
-        "published_at": "2026-11-16T02:16:33Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 4,
-          "report_count": 6,
-          "span_hours": 6.1,
-          "first_report_at": "2026-11-16T02:14:00Z",
-          "last_report_at": "2026-11-16T08:19:32Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Ic0lQWkxSMVN0UThpMkhTZzNLU2tjTmtDVlBaSlJzZUFZQ09qOXdGQUF3VG9xaEtuTU5HT2FoeWNrc0dzTThRcm84Sk5qZk5RdDlpUQ?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MY1Vnd1VGbHZSc3dwVXdyTVV6aGtZcDZMdGFvZHFQa1NjeEY4MWV5VTctdENYczRhNE1EQ2ZfQWNEaVA1VDZOc2E5X05uU0hlYzJ3?oc=5",
-          "sources": [
-            {
-              "name": "매일경제",
-              "group": "mk.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MY1Vnd1VGbHZSc3dwVXdyTVV6aGtZcDZMdGFvZHFQa1NjeEY4MWV5VTctdENYczRhNE1EQ2ZfQWNEaVA1VDZOc2E5X05uU0hlYzJ3?oc=5",
-              "published_at": "2026-11-16T08:19:32Z",
-              "headline": "프로야구 FA 시장 열린다...승인 선수 22명 명단 공개"
-            },
-            {
-              "name": "일간스포츠",
-              "group": "edaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Bd1ZOSVh0YjBtbWlmUm9XemFzTEItMEg4OTdvT1hqV0NDU3lrejVSeWdxTzRmdXktY2h3bWZyb0tjNUlpVHVjNXpuM01JYUcwaE5DdWNPVkIyckk?oc=5",
-              "published_at": "2026-11-16T02:29:00Z",
-              "headline": "KBO, 2027년 FA 승인 선수 22명 공시...롯데·키움 내부 FA O명"
-            },
-            {
-              "name": "마이데일리",
-              "group": "mydaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JZllmY3E0Rkd5anVkdU11anc1a1NKSTA1c2lnUEtMTGZMMmRQaWVGWUd0Z0NzckZ2TjVodUtsMXY2SGVHRU1wMTYzSTNCcXplVlg3aTk5NGdVbHhvVFlzXw?oc=5",
-              "published_at": "2026-11-16T02:16:33Z",
-              "headline": "[공식 발표] 양의지 진짜 FA 시장 나왔다! KBO, FA 승인 선수 명단 22명 공시…최대어 구자욱·원태인"
-            },
-            {
-              "name": "머니투데이",
-              "group": "mt.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40UFBrSmlDSUtNQkZvZ2JKNnh6RjVPc3lwdEpDSFpVYnFTUjg0dEZOSTM4aXRUeXN4V3NyMUpIU2pmUDI1aGo1ckxDNzM4SUk2alRBZlVBOUxFMmNwTEtMbFRNT0VMZHM1Q3fSAW9BVV95cUxPTFpUUEZqVndraVJuZjJNak1kYUVNaWNIT1JBNjFDSHkzRFhoclQxSjM2UmduQ2dLSnBNOUpkQUJ6d2FDYUJ3U0JVOHlfMHpxZVRQcVlySHhwWTdIeEtCdFllRmJSSG1DbXV0d0pEbUU?oc=5",
-              "published_at": "2026-11-16T02:15:00Z",
-              "headline": "[오피셜] 드디어 FA 시장이 열렸다! KBO, FA 승인 선수 22명 명단 발표…17일부터 계약 체결 교섭 가능 - 머니투데이"
-            }
-          ]
-        }
-      },
-      "source_groups": 4,
-      "daily_sources": [
-        0,
-        0,
-        4
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 18
-    },
-    {
-      "topic": {
-        "id": "bf8f532314bd8174c26c",
-        "category": "스포츠",
-        "title": "불화설 뒤 입 연 태극전사들… 손흥민 “동료들에 미안” 황희찬 “왜곡된 말 힘들었다”",
-        "summary": "불화설 뒤 입 연 태극전사들… 손흥민 “동료들에 미안” 황희찬 “왜곡된 말 힘들었다”",
-        "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 5시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘불화설 뒤 입 연 태극전사들… 손흥민 “동료들에 미안” 황희찬 “왜곡된 말 힘들었다”’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "한국일보",
-        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OdG1mVmZxYzVaMEdha3pQeVFVNnQ3NTkwdkIyYzRzLTNvV01ieDYteFRiTUs5bHdMNTVoNVZSU2x5V0FsbWtMNTVoQ2dmT00tVk1pOUI1a01hWlRiZm1kdXl2b3NlUWhXWFNPbkR30gFzQVVfeXFMT1dWXzVLRzEwcVlLYVBqYzFvME1OdW1UenBYNk5QRTZvcUVOb0ZpeFVvVkNwcmtONnVLcmd0U1c4UVhKOVdRWWhIUnpKSjRxWGFmX2hEMmMyWkhnOVFuTkpFZTVjZ1BrTDNtME5IUGJpQXFfOA?oc=5",
-        "published_at": "2026-11-13T23:38:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 4,
-          "report_count": 6,
-          "span_hours": 5.7,
-          "first_report_at": "2026-11-13T23:38:00Z",
-          "last_report_at": "2026-11-14T05:19:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OdG1mVmZxYzVaMEdha3pQeVFVNnQ3NTkwdkIyYzRzLTNvV01ieDYteFRiTUs5bHdMNTVoNVZSU2x5V0FsbWtMNTVoQ2dmT00tVk1pOUI1a01hWlRiZm1kdXl2b3NlUWhXWFNPbkR30gFzQVVfeXFMT1dWXzVLRzEwcVlLYVBqYzFvME1OdW1UenBYNk5QRTZvcUVOb0ZpeFVvVkNwcmtONnVLcmd0U1c4UVhKOVdRWWhIUnpKSjRxWGFmX2hEMmMyWkhnOVFuTkpFZTVjZ1BrTDNtME5IUGJpQXFfOA?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXUnlNaXhvNGpndkV4NXZzN3d6X1ZvNVhXdEgwLU5KR3RYVUtxbWhkSHc0cDczMUFFWGZkeTZrVDkyRV9wRnc3OXlZWmYtV2ktQ1h6Vw?oc=5",
-          "sources": [
-            {
-              "name": "OSEN",
-              "group": "osen.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXUnlNaXhvNGpndkV4NXZzN3d6X1ZvNVhXdEgwLU5KR3RYVUtxbWhkSHc0cDczMUFFWGZkeTZrVDkyRV9wRnc3OXlZWmYtV2ktQ1h6Vw?oc=5",
-              "published_at": "2026-11-14T05:19:00Z",
-              "headline": "'손흥민과 불화설' 제일 많이 욕먹었던 황희찬이 가장 잘했다 \"왜곡된 내용 너무 많았다\""
-            },
-            {
-              "name": "매일경제",
-              "group": "mk.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EaUVfTUJhRnE0RjJWNUN1V3RkS1FManBIY0JKMUVON2otbnRBRU5qY2lYMkNRM19YRUJ5UmJSQkxPUktmU1VUOW5jemJnUmJRa0NfMjJsU1BiLWtncG5Dam1oOHE?oc=5",
-              "published_at": "2026-11-14T01:00:21Z",
-              "headline": "‘손흥민 불화설’에 입 연 황희찬 “사실 아닌 얘기 왜곡돼…정말 힘들었다”"
-            },
-            {
-              "name": "조선일보",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMG9ab3pJeEVRRnpELU5LZkp6RTVQUURnVGpUVVdHblRlNkQ5NldhWXo1Ymt3MkpfWUFNaC1EejZoSTlPZ2Rib1ZXY3A0TzNpaGJCWURxZ3Y3ZE4zd3RvWHB2eHh2NE9fXzZoVXBBdlpXdGZWSVd4MlZxNk5oenBKdThsSQ?oc=5",
-              "published_at": "2026-11-13T23:57:00Z",
-              "headline": "결정적 골 기회 놓친 손흥민 \"동료들에게 많이 미안\""
-            },
-            {
-              "name": "한국일보",
-              "group": "hankookilbo.com",
-              "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OdG1mVmZxYzVaMEdha3pQeVFVNnQ3NTkwdkIyYzRzLTNvV01ieDYteFRiTUs5bHdMNTVoNVZSU2x5V0FsbWtMNTVoQ2dmT00tVk1pOUI1a01hWlRiZm1kdXl2b3NlUWhXWFNPbkR30gFzQVVfeXFMT1dWXzVLRzEwcVlLYVBqYzFvME1OdW1UenBYNk5QRTZvcUVOb0ZpeFVvVkNwcmtONnVLcmd0U1c4UVhKOVdRWWhIUnpKSjRxWGFmX2hEMmMyWkhnOVFuTkpFZTVjZ1BrTDNtME5IUGJpQXFfOA?oc=5",
-              "published_at": "2026-11-13T23:38:00Z",
-              "headline": "불화설 뒤 입 연 태극전사들… 손흥민 “동료들에 미안” 황희찬 “왜곡된 말 힘들었다”"
-            }
-          ]
-        }
-      },
-      "source_groups": 4,
-      "daily_sources": [
-        4,
-        0,
-        0
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 19
+      "rank": 16
     },
     {
       "topic": {
@@ -1478,66 +1227,240 @@
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 20
+      "rank": 17
     },
     {
       "topic": {
-        "id": "3cc6c7e8184e98580b2d",
-        "category": "연예",
-        "title": "김필, 오늘(14일) 단독 콘서트 ‘JOURNEY’ 개막..7년 만의 정규 2집 전곡 라이브 예고",
-        "summary": "김필, 오늘(14일) 단독 콘서트 ‘JOURNEY’ 개막..7년 만의 정규 2집 전곡 라이브 예고",
-        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘김필, 오늘(14일) 단독 콘서트 ‘JOURNEY’ 개막..7년 만의 정규 2집 전곡 라이브 예고’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-        "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-        "source": "Chosunbiz",
-        "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnJHZHBkOEluQXVKRmJtendwalJWRnlCLXVFWUwtaVgzcHJhblNfRzlKdVFicjZVd2tUaDZpakpfNkFPc0M2dF9FM2pCSmxzYkF1M1RFUVV6Q0lwR1JsLVl6Q3Rud25vcEJyejlQLTl4N2paNmY1alNBQmdBaFFzck5vNk1hU1hmU2x5WGNBbmpzdzjSAacBQVVfeXFMUEtEWGlRTEJVN2NLVnZNSE5qdTBSczh1ci1TdGlWeF9pWFh6a0tEUERZZV8ydE5RbGR0c29NWjlMckdYZmFqaUlsNExsYk9lODRxUXBfR1dOLWJIc3l6REFvRDZiaUJBTEt3eHNsaUR6M2ZhS04wMWVscEJ1NEFuc2JhdFUyZ29zYng2XzRZWXpMc0R0cWFiV2VMTllXWVphV2xFVkJ4eGs?oc=5",
-        "published_at": "2026-11-14T04:32:00Z",
+        "id": "ab4c4fbe38d96b1d11f6",
+        "category": "스포츠",
+        "title": "프로축구연맹, K리그 ‘추춘제 대비’ 영국 경기장 동절기 운영 사례 살펴봤다",
+        "summary": "프로축구연맹, K리그 ‘추춘제 대비’ 영국 경기장 동절기 운영 사례 살펴봤다",
+        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 3시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘프로축구연맹, K리그 ‘추춘제 대비’ 영국 경기장 동절기 운영 사례 살펴봤다’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "스포츠서울",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Zd0c3ZjQwdGJscEFEQkl1WS1VcVhzSGpYSGtmbHRXd1VIOXg3RHFpS19UY19mMzdCVVZjMjVjLUhUbTBjd1cwNVIxT1dxaTFuak5PbWtjeno?oc=5",
+        "published_at": "2026-11-17T02:18:11Z",
         "evidence": "headline",
         "coverage": {
           "source_groups": 4,
-          "report_count": 5,
-          "span_hours": 1.1,
-          "first_report_at": "2026-11-14T04:31:00Z",
-          "last_report_at": "2026-11-14T05:39:39Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9udk5URkstNkNUaXVsLTVEOHdycU9PNnpzYVFIdG1vWVlpeklRQ2d3TGVJdGR5V3ZMcHZsM0ZpdVJ3UTNWbVY5STZtMC10UUVGc0F0bA?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tSEVQUE9HZld1cURISDl6WkROWUhIaXVBcEhzcGtlZW9RS3hDdHhDcWltX1kzWk95dUdRYndlN3lXakZ6VkJmY2Y3bUJpWERGbloyaw?oc=5",
+          "report_count": 4,
+          "span_hours": 3.0,
+          "first_report_at": "2026-11-17T02:18:11Z",
+          "last_report_at": "2026-11-17T05:17:04Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Zd0c3ZjQwdGJscEFEQkl1WS1VcVhzSGpYSGtmbHRXd1VIOXg3RHFpS19UY19mMzdCVVZjMjVjLUhUbTBjd1cwNVIxT1dxaTFuak5PbWtjeno?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSbE1YbnFvS0VVNHlPbDZWWDVXMmV1NGk2dFNDWWtaRWEwTEYzWlZ0MkJabTZPT0JEZmgxZ3FWaVpzVTg3T2MxUUloUHdrZFZ4WTBlaw?oc=5",
           "sources": [
-            {
-              "name": "JTBC",
-              "group": "jtbc.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tSEVQUE9HZld1cURISDl6WkROWUhIaXVBcEhzcGtlZW9RS3hDdHhDcWltX1kzWk95dUdRYndlN3lXakZ6VkJmY2Y3bUJpWERGbloyaw?oc=5",
-              "published_at": "2026-11-14T05:39:39Z",
-              "headline": "김필, 오늘(14일) 단독 콘서트 ‘JOURNEY’ 개최"
-            },
-            {
-              "name": "일간스포츠",
-              "group": "edaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nOUhuWUZYQ0czNWtJSWt3eEZvTkxWTGxTRThaX1FDUURQOXlidFNHSmdHbzdoeGxMMUt6Ni0zaUNUN1E3TGhyOHRvQVlMQW81dVJ0d0Jza2h0RFk?oc=5",
-              "published_at": "2026-11-14T05:20:00Z",
-              "headline": "김필, 오늘(14일) 단독 콘서트 ‘저니’ 개최…7년 만의 정규앨범 감성 고스란히"
-            },
             {
               "name": "뉴스1",
               "group": "wire:뉴스1",
-              "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE50SDBPQ3ZRYUpCUXJuZGV0MEpEalRWZXh5ZHZZQUJRVnNvZ1hfRER6a3B4SzVZaHEycVBiaDUweUowcVFFRVMxUlRocVBxUURqNWhBNHBsUQ?oc=5",
-              "published_at": "2026-11-14T05:07:46Z",
-              "headline": "김필 '저니' 콘서트 개막…정규 2집 전곡 라이브 \"위로 얻길\""
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSbE1YbnFvS0VVNHlPbDZWWDVXMmV1NGk2dFNDWWtaRWEwTEYzWlZ0MkJabTZPT0JEZmgxZ3FWaVpzVTg3T2MxUUloUHdrZFZ4WTBlaw?oc=5",
+              "published_at": "2026-11-17T05:17:04Z",
+              "headline": "프로축구연맹, 추춘제 대비 영국 경기장 동절기 운영 사례 점검"
             },
             {
-              "name": "Chosunbiz",
-              "group": "chosun.com",
-              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnJHZHBkOEluQXVKRmJtendwalJWRnlCLXVFWUwtaVgzcHJhblNfRzlKdVFicjZVd2tUaDZpakpfNkFPc0M2dF9FM2pCSmxzYkF1M1RFUVV6Q0lwR1JsLVl6Q3Rud25vcEJyejlQLTl4N2paNmY1alNBQmdBaFFzck5vNk1hU1hmU2x5WGNBbmpzdzjSAacBQVVfeXFMUEtEWGlRTEJVN2NLVnZNSE5qdTBSczh1ci1TdGlWeF9pWFh6a0tEUERZZV8ydE5RbGR0c29NWjlMckdYZmFqaUlsNExsYk9lODRxUXBfR1dOLWJIc3l6REFvRDZiaUJBTEt3eHNsaUR6M2ZhS04wMWVscEJ1NEFuc2JhdFUyZ29zYng2XzRZWXpMc0R0cWFiV2VMTllXWVphV2xFVkJ4eGs?oc=5",
-              "published_at": "2026-11-14T04:32:00Z",
-              "headline": "김필, 오늘(14일) 단독 콘서트 ‘JOURNEY’ 개막..7년 만의 정규 2집 전곡 라이브 예고"
+              "name": "뉴시스",
+              "group": "wire:뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hT0FDa0ZBRUJGSEhtZW9DVzNOXzhlRWhaeXVHb1hVQVpQZ2hGV1RJaDYzLXpIcUJObkRzeHJHaEJCR25HM0JZOFU5ZEJBQmd6bFlLbHdNcHdfM1lJN2piNg?oc=5",
+              "published_at": "2026-11-17T03:20:24Z",
+              "headline": "추춘제 대비하는 K리그…영국 동절기 운영 현황 살펴"
+            },
+            {
+              "name": "세계일보",
+              "group": "segye.com",
+              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tTUFWVHF6SEwwb2taMWItcm9SNXUzYV95WHlUTllOMnhNMjRGbTE4RlVqc2RfQ3piTWJKeEdlMkRTbjdDZlN2UXhpQVZqZDN3YUtrSWZweTVSbjlnS09GTDI2bURYWUpkLWtV0gFUQVVfeXFMUEdzaXNYei13ajdQVGZhcU1leUltcVdZaW00ZEhkMkhHOWcxbFctRTlLLV9QVmwyUVBlLWlObmIwWTk0SEFYT01Qc3BmRGQxRmtKRWZj?oc=5",
+              "published_at": "2026-11-17T02:58:33Z",
+              "headline": "한국프로축구연맹, K리그 추춘제 대비 영국서 겨울철 잔디 관리 해법 모색"
+            },
+            {
+              "name": "스포츠서울",
+              "group": "sportsseoul.com",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Zd0c3ZjQwdGJscEFEQkl1WS1VcVhzSGpYSGtmbHRXd1VIOXg3RHFpS19UY19mMzdCVVZjMjVjLUhUbTBjd1cwNVIxT1dxaTFuak5PbWtjeno?oc=5",
+              "published_at": "2026-11-17T02:18:11Z",
+              "headline": "프로축구연맹, K리그 ‘추춘제 대비’ 영국 경기장 동절기 운영 사례 살펴봤다"
             }
           ]
         }
       },
       "source_groups": 4,
       "daily_sources": [
-        4,
         0,
-        0
+        0,
+        4
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 18
+    },
+    {
+      "topic": {
+        "id": "e1a01038216b8da95af4",
+        "category": "스포츠",
+        "title": "잔인한 '오피셜' 공식발표, 손흥민 올해도 트로피 없나...MLS 전문가 66% '1라운드 탈락' 전망, 우승 후보는 '마이애미-밴쿠버-내슈빌' 3파전",
+        "summary": "잔인한 '오피셜' 공식발표, 손흥민 올해도 트로피 없나...MLS 전문가 66% '1라운드 탈락' 전망, 우승 후보는 '마이애미-밴쿠버-내슈빌' 3파전",
+        "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 50시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘잔인한 '오피셜' 공식발표, 손흥민 올해도 트로피 없나...MLS 전문가 66% '1라운드 탈락' 전망, 우승 후보는 '마이애미-밴쿠버-내슈빌' 3파전’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "스포츠조선",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXYWt4SDRrM3RnbVI0MDBRWWt5UXg4eHlSOFZmTVkxcWRYa0pLOG5xMWNJMWNiMllLdjBpbzJhNlhxZWZacHk0R1NXNFc1Y1piRnZXbjJ1MlJIMHlQOGM1SXFNbTRSRmZFYlJKaGZEOGo1QVpZbDg0Z0Q0cjRLZw?oc=5",
+        "published_at": "2026-11-17T06:23:32Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 6,
+          "span_hours": 50.9,
+          "first_report_at": "2026-11-15T03:30:32Z",
+          "last_report_at": "2026-11-17T06:23:32Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBNEszTDBha1VheU5zMU5lcnJJNXJOV0Q0RllxZTJxRGthNWszLXE0Ql9HZWxmZ2U1VnFya0NPWGFSX091aUV1QWJoX2ZrZDdhaGF5YTNEaXY3a1VJRmphVnA4NUtKR1Fsd2ZhSWFyX1JRQVo2d0ZUdnV1TlpPQQ?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXYWt4SDRrM3RnbVI0MDBRWWt5UXg4eHlSOFZmTVkxcWRYa0pLOG5xMWNJMWNiMllLdjBpbzJhNlhxZWZacHk0R1NXNFc1Y1piRnZXbjJ1MlJIMHlQOGM1SXFNbTRSRmZFYlJKaGZEOGo1QVpZbDg0Z0Q0cjRLZw?oc=5",
+          "sources": [
+            {
+              "name": "스포츠조선",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXYWt4SDRrM3RnbVI0MDBRWWt5UXg4eHlSOFZmTVkxcWRYa0pLOG5xMWNJMWNiMllLdjBpbzJhNlhxZWZacHk0R1NXNFc1Y1piRnZXbjJ1MlJIMHlQOGM1SXFNbTRSRmZFYlJKaGZEOGo1QVpZbDg0Z0Q0cjRLZw?oc=5",
+              "published_at": "2026-11-17T06:23:32Z",
+              "headline": "잔인한 '오피셜' 공식발표, 손흥민 올해도 트로피 없나...MLS 전문가 66% '1라운드 탈락' 전망, 우승 후보는 '마이애미-밴쿠버-내슈빌' 3파전"
+            },
+            {
+              "name": "SPOTV NEWS",
+              "group": "spotvnews.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aX2dHeVdrTDkzTWFPRWZMUi14VzJZUS1BSW1tMUNfbXhKZHY5VmxDaGpmTDV5QUdOd0dVYl9ad1FUWktJWFQtOWNhMFdXUFRGWVlGWDRzWVo5UWoxbk1FcHR6NzRZdEl2LTk5LWYyRVM?oc=5",
+              "published_at": "2026-11-16T06:43:07Z",
+              "headline": "믿기 어려운 깜짝 ‘오피셜’ 공식발표, ‘은퇴 선언’ 손흥민에게 골 먹고 월드컵 탈락→독일 대표팀 떠났던 뢰브 “감독으로 돌아갈 가능성 없다”"
+            },
+            {
+              "name": "스포츠경향",
+              "group": "khan.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RQnBEOVlwd1VLWUhLdDIyQlQxOGp5Qm5FTXl2dmJYMDByUXhzYms1aUV6OTQ5NzlFNEwxR0FOTEpMYy1FVUpDRG1LTjlJWFhEY0JadjhnRERlQi1JVVHSAWNBVV95cUxNSnRXaEtVa0JWdjFEdFk4WHhrdDY1bDhJWFFBWUJ5SzhreTVtNGxDa3AzUkF2YlYyanlMZTh2MHlyTzFqS0VyTm4zcGppLTFfTmk0YVJRajdQN3ZOLXRJVHpoOWs?oc=5",
+              "published_at": "2026-11-15T13:33:00Z",
+              "headline": "‘韓 축구 좌절’ 손흥민 현실적으로 우승 어렵다···美 MLS “흥·부 듀오 활약은 기대되지만, 8월 이후 승리..."
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        1,
+        3,
+        1
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 19
+    },
+    {
+      "topic": {
+        "id": "1a0a285f043672292c2a",
+        "category": "스포츠",
+        "title": "‘홈런슛’ 부진한 손흥민에게 풀타임을? 모레노 감독은 전제가 잘못됐다, 중심은 이강인이 돼야 한다",
+        "summary": "‘홈런슛’ 부진한 손흥민에게 풀타임을? 모레노 감독은 전제가 잘못됐다, 중심은 이강인이 돼야 한다",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 50시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘‘홈런슛’ 부진한 손흥민에게 풀타임을? 모레노 감독은 전제가 잘못됐다, 중심은 이강인이 돼야 한다’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "스포츠서울",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXWDFobHZjTGdMbG5uVzU2R1dYd01yRjR4YWhuWndKQ3gxckoxQmdSb2NnMTU3d2JpamM4MFU1MVlCaWNfcUdkc1ZjSnZuM0x0V053NUttVmc?oc=5",
+        "published_at": "2026-11-15T01:47:57Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 3,
+          "span_hours": 50.5,
+          "first_report_at": "2026-11-15T01:47:57Z",
+          "last_report_at": "2026-11-17T04:20:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXWDFobHZjTGdMbG5uVzU2R1dYd01yRjR4YWhuWndKQ3gxckoxQmdSb2NnMTU3d2JpamM4MFU1MVlCaWNfcUdkc1ZjSnZuM0x0V053NUttVmc?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SdzVrb0o2Wk5tSi1fWHhlX0h2Zk1QYnc5WlJ0V0pHbnN3aXNRNHpaSTdhOXhqVUJPaXZCbHRxMDlhbzlVWU1HbzNjcG1sTDd0WXMzY0R5aE1wQnBtbnlrOWNxTnh2cFRkYXdhS2xoYnk?oc=5",
+          "sources": [
+            {
+              "name": "SPOTV NEWS",
+              "group": "spotvnews.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SdzVrb0o2Wk5tSi1fWHhlX0h2Zk1QYnc5WlJ0V0pHbnN3aXNRNHpaSTdhOXhqVUJPaXZCbHRxMDlhbzlVWU1HbzNjcG1sTDd0WXMzY0R5aE1wQnBtbnlrOWNxTnh2cFRkYXdhS2xoYnk?oc=5",
+              "published_at": "2026-11-17T04:20:00Z",
+              "headline": "손흥민 장외 홈런 \"동료들에게 많이 미안\" 반성…모레노, 로테이션 선언에도 \"일관성 중요\" SON 투톱은 그대로 간다"
+            },
+            {
+              "name": "조선일보",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUVVPV05FZjJaM2JFVFhzZkZVT0RqTEtCMHpHUVlxbFBJYVlKMkY3ekdDVlRLV0ZiZUZlVWx6NnNQTDJ6R21iUkY4NHBHTkIxaFpRc1FvMjZhdEdrdVpiaE5EeXM4ckRTajh3czBPcHZQLUVSaG5QYVZFS1R5MXZXQ0ZNZw?oc=5",
+              "published_at": "2026-11-15T02:42:13Z",
+              "headline": "충격의 홈런슛이 입증한 '에이징 커브'...손흥민, 멋지게 내려오기 위한 길은 '조커'"
+            },
+            {
+              "name": "스포츠서울",
+              "group": "sportsseoul.com",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXWDFobHZjTGdMbG5uVzU2R1dYd01yRjR4YWhuWndKQ3gxckoxQmdSb2NnMTU3d2JpamM4MFU1MVlCaWNfcUdkc1ZjSnZuM0x0V053NUttVmc?oc=5",
+              "published_at": "2026-11-15T01:47:57Z",
+              "headline": "‘홈런슛’ 부진한 손흥민에게 풀타임을? 모레노 감독은 전제가 잘못됐다, 중심은 이강인이 돼야 한다"
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        2,
+        0,
+        1
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 20
+    },
+    {
+      "topic": {
+        "id": "d7e725a28322f86c3630",
+        "category": "경제·주식",
+        "title": "변동성 장세 지속…'젠슨 황 퇴진' 엔비디아 실적에 쏠리는 눈 [주간전망]",
+        "summary": "변동성 장세 지속…'젠슨 황 퇴진' 엔비디아 실적에 쏠리는 눈 [주간전망]",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 50시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘변동성 장세 지속…'젠슨 황 퇴진' 엔비디아 실적에 쏠리는 눈 [주간전망]’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+        "source": "한국경제",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MZ0VjSkZ4OHIyWmlXb2xVTmFLZDFGLTBpaHV2SHNHUDdiSUREMHBJTE1PYWVYcTRDUWRGYy03eExIai1aNGxxUDgyVk1aYnk0eXU0WDgzb243dw?oc=5",
+        "published_at": "2026-11-14T23:00:08Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 3,
+          "span_hours": 50.0,
+          "first_report_at": "2026-11-14T23:00:08Z",
+          "last_report_at": "2026-11-17T00:58:12Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MZ0VjSkZ4OHIyWmlXb2xVTmFLZDFGLTBpaHV2SHNHUDdiSUREMHBJTE1PYWVYcTRDUWRGYy03eExIai1aNGxxUDgyVk1aYnk0eXU0WDgzb243dw?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SOVRONHhKMXh1NF9xNWFyWWZLZFZKYXZ3ZG13ejFwZDJETDA0RS0zWFVNUEdiZ0d4MkpwNGVxVFZGNnUwVDJIbm1uRGd6SVhmUWJIZ3pB?oc=5",
+          "sources": [
+            {
+              "name": "중앙일보",
+              "group": "joongang.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SOVRONHhKMXh1NF9xNWFyWWZLZFZKYXZ3ZG13ejFwZDJETDA0RS0zWFVNUEdiZ0d4MkpwNGVxVFZGNnUwVDJIbm1uRGd6SVhmUWJIZ3pB?oc=5",
+              "published_at": "2026-11-17T00:58:12Z",
+              "headline": "美 반도체주 급락에 코스피 5000선 안팎 등락...엔비디아 실적에 쏠린 눈"
+            },
+            {
+              "name": "파이낸셜뉴스",
+              "group": "fnnews.com",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wVkV3ZTRvM196UlQyZkdCMDhoZk1nQ1MxLUQyc3V0RU5WcVhTcW9hZ3J1QWtSVk9VYzJXZXFUdUxhS2ptdS1kNklRTHktYzJSYjI3dndOUG5Ndw?oc=5",
+              "published_at": "2026-11-15T03:19:39Z",
+              "headline": "엔비디아 실적발표에 쏠리는 눈...앤스로픽 상장까지[주간증시전망]"
+            },
+            {
+              "name": "한국경제",
+              "group": "hankyung.com",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MZ0VjSkZ4OHIyWmlXb2xVTmFLZDFGLTBpaHV2SHNHUDdiSUREMHBJTE1PYWVYcTRDUWRGYy03eExIai1aNGxxUDgyVk1aYnk0eXU0WDgzb243dw?oc=5",
+              "published_at": "2026-11-14T23:00:08Z",
+              "headline": "변동성 장세 지속…'젠슨 황 퇴진' 엔비디아 실적에 쏠리는 눈 [주간전망]"
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        2,
+        0,
+        1
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
@@ -1547,82 +1470,24 @@
     },
     {
       "topic": {
-        "id": "cc3d256dd1d2ff348187",
+        "id": "1a134c7f8e07cc704624",
         "category": "연예",
-        "title": "FT아일랜드, 타이베이 콘서트도 전석 매진…글로벌 티켓 파워",
-        "summary": "FT아일랜드, 타이베이 콘서트도 전석 매진…글로벌 티켓 파워",
-        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 53시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘FT아일랜드, 타이베이 콘서트도 전석 매진…글로벌 티켓 파워’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+        "title": "고경표 음주운전 파장에 출연 예능 3편 편집 결정… '보검매직컬2' 어쩌나",
+        "summary": "고경표 음주운전 파장에 출연 예능 3편 편집 결정… '보검매직컬2' 어쩌나",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 44시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘고경표 음주운전 파장에 출연 예능 3편 편집 결정… '보검매직컬2' 어쩌나’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
         "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-        "source": "동아일보",
-        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SelctenVBSFQ4cEdrVDJoSFZCcm1pVWVmYzM3Um13ZVNhbWRHV1BYLUNYTFI3emJvYmtWYjdCRk8zVHNGbzA2QUNRMEdYcEhWdy10S0NybmlHVllPa01nLTJjRHBBRGp0bE1MVWxIMXhOUmxZeXJKeTVNYnJrZ9IBZkFVX3lxTFBNWHd2dmVBT1U2Y09OOXBCa1RPdWFuSXNKQ1ZjQkpZUWxGYy1jVGNXeFppSWQ3Y2xFOEg1dHZoRFVNT3pxTnFIbTA4RVlwQThjY3J5c1pOVmFiSXJQNmFYd09QOW9sZw?oc=5",
-        "published_at": "2026-11-15T09:13:10Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 3,
-          "report_count": 4,
-          "span_hours": 53.7,
-          "first_report_at": "2026-11-14T00:20:51Z",
-          "last_report_at": "2026-11-16T06:05:42Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5aYXRPMlBSUVFMNzFzQVhCN0c5TDFqRVdiMFJJMjBGZThqSmNlSVNtT2FqVzYxaFBROXJlVGpUV0w4RmRtYlE4a3U4NjNldGhtZUtCSHRjYw?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhYnV0WUFuemlRY2NMd3dWaGhFN3pwZUhVSmJlemVFdHpEaHk0a1BjazR0ZzY1dkFTR2lZNGVKWHkzV19QS0luWWlVRllpQUxUMkxYc29uZw?oc=5",
-          "sources": [
-            {
-              "name": "뉴스1",
-              "group": "wire:뉴스1",
-              "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhYnV0WUFuemlRY2NMd3dWaGhFN3pwZUhVSmJlemVFdHpEaHk0a1BjazR0ZzY1dkFTR2lZNGVKWHkzV19QS0luWWlVRllpQUxUMkxYc29uZw?oc=5",
-              "published_at": "2026-11-16T06:05:42Z",
-              "headline": "이예준, 5년 연속 단독 콘서트 전석 매진 성황…미발매 신곡 최초 공개"
-            },
-            {
-              "name": "동아일보",
-              "group": "donga.com",
-              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SelctenVBSFQ4cEdrVDJoSFZCcm1pVWVmYzM3Um13ZVNhbWRHV1BYLUNYTFI3emJvYmtWYjdCRk8zVHNGbzA2QUNRMEdYcEhWdy10S0NybmlHVllPa01nLTJjRHBBRGp0bE1MVWxIMXhOUmxZeXJKeTVNYnJrZ9IBZkFVX3lxTFBNWHd2dmVBT1U2Y09OOXBCa1RPdWFuSXNKQ1ZjQkpZUWxGYy1jVGNXeFppSWQ3Y2xFOEg1dHZoRFVNT3pxTnFIbTA4RVlwQThjY3J5c1pOVmFiSXJQNmFYd09QOW9sZw?oc=5",
-              "published_at": "2026-11-15T09:13:10Z",
-              "headline": "FT아일랜드, 타이베이 콘서트도 전석 매진…글로벌 티켓 파워"
-            },
-            {
-              "name": "스포츠서울",
-              "group": "sportsseoul.com",
-              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FSXQwV3Y4dE5pWjVISUpCREZwZnlwUDZiWWpFRmhvVGdpYzdrc0hyUlFmYTZ6TzVyeUM1UVQwUUJUenR5TDdueV8zSk1EZW04UzhZWDVYSlg?oc=5",
-              "published_at": "2026-11-15T02:42:32Z",
-              "headline": "FT아일랜드, 서울 이어 타이베이 콘서트도 ‘초고속 매진’…글로벌 티켓 파워 입증"
-            }
-          ]
-        }
-      },
-      "source_groups": 3,
-      "daily_sources": [
-        1,
-        2,
-        1
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 22
-    },
-    {
-      "topic": {
-        "id": "9425198fa6de4180ddf3",
-        "category": "연예",
-        "title": "[센터엔터] '음주운전' 고경표, 출연 예능에서 줄줄이 편집 外",
-        "summary": "[센터엔터] '음주운전' 고경표, 출연 예능에서 줄줄이 편집 外",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 48시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘[센터엔터] '음주운전' 고경표, 출연 예능에서 줄줄이 편집 外’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-        "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-        "source": "연합뉴스",
-        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wZVRac2dGUlN0ZUhBUnUxeEIySGZFWUZpLUxxVDlnc2tXNmlNVk5sUVRySzBXdktzRDlIckJDS3gwcENZVGMzbVBjNUZQV2YtTm5TNWQ2TzJSeXNZWDMxUNIBYEFVX3lxTE5wZVRac2dGUlN0ZUhBUnUxeEIySGZFWUZpLUxxVDlnc2tXNmlNVk5sUVRySzBXdktzRDlIckJDS3gwcENZVGMzbVBjNUZQV2YtTm5TNWQ2TzJSeXNZWDMxUA?oc=5",
-        "published_at": "2026-11-16T04:32:47Z",
+        "source": "한국일보",
+        "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5RGZOaDI1UVpTZGRnUkJyS2NrWWtBZWdwZ3BNaGdyY3VqS2RCMnF2UDZaVUNxemdjRXNMNHljTjBsd09FcTR5NEZKRTFfMUs0eGI5OG9jWlJUUXZ4bFNlRmNzdjdHY0VEd3gxYWdn0gFzQVVfeXFMUGlkUGlCaldIVW9wT0ZySDRURzZIdnV2VllNbXUxZk53dWZEVk13VTdzMGY1bmRqT01ucy03SmtzeGp3OU44RC1hbURsX3p5YUVMOVgzV2ttaERCUXVoaFZURVgwdkVyYURJbE5tUldsRmRMOA?oc=5",
+        "published_at": "2026-11-14T07:55:00Z",
         "evidence": "headline",
         "coverage": {
           "source_groups": 3,
           "report_count": 3,
-          "span_hours": 48.3,
-          "first_report_at": "2026-11-14T04:13:00Z",
+          "span_hours": 44.6,
+          "first_report_at": "2026-11-14T07:55:00Z",
           "last_report_at": "2026-11-16T04:32:47Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xMjF2eV9NNVdZRlctMjVsUlVIbzJ5Vng1WXFBb2FnMXFCR3B0TmNTOU5ZSWtMUWlZZVBUS09URXk1Wm5UZkJ3emdxY3YzNHVCVW1UOUZob2swa1dQS3c?oc=5",
+          "first_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5RGZOaDI1UVpTZGRnUkJyS2NrWWtBZWdwZ3BNaGdyY3VqS2RCMnF2UDZaVUNxemdjRXNMNHljTjBsd09FcTR5NEZKRTFfMUs0eGI5OG9jWlJUUXZ4bFNlRmNzdjdHY0VEd3gxYWdn0gFzQVVfeXFMUGlkUGlCaldIVW9wT0ZySDRURzZIdnV2VllNbXUxZk53dWZEVk13VTdzMGY1bmRqT01ucy03SmtzeGp3OU44RC1hbURsX3p5YUVMOVgzV2ttaERCUXVoaFZURVgwdkVyYURJbE5tUldsRmRMOA?oc=5",
           "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wZVRac2dGUlN0ZUhBUnUxeEIySGZFWUZpLUxxVDlnc2tXNmlNVk5sUVRySzBXdktzRDlIckJDS3gwcENZVGMzbVBjNUZQV2YtTm5TNWQ2TzJSeXNZWDMxUNIBYEFVX3lxTE5wZVRac2dGUlN0ZUhBUnUxeEIySGZFWUZpLUxxVDlnc2tXNmlNVk5sUVRySzBXdktzRDlIckJDS3gwcENZVGMzbVBjNUZQV2YtTm5TNWQ2TzJSeXNZWDMxUA?oc=5",
           "sources": [
             {
@@ -1633,18 +1498,18 @@
               "headline": "[센터엔터] '음주운전' 고경표, 출연 예능에서 줄줄이 편집 外"
             },
             {
+              "name": "매일경제",
+              "group": "mk.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XeWdldlZiRWxKNTFLX2Q0LThDZmZCYWpMOHlVSzlZdTR4U3pKSmtEWUZral9hSW5lTTVfSHFJU1R1UXoyZXFENlZDUVZraWhlV2NWRW40MlNpWHAwVHI3akJtQXYwUQ?oc=5",
+              "published_at": "2026-11-14T10:01:05Z",
+              "headline": "고경표 음주운전에 예능 5개 ‘날벼락’…방송가 통편집 ‘손절’ [종합]"
+            },
+            {
               "name": "한국일보",
               "group": "hankookilbo.com",
               "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5RGZOaDI1UVpTZGRnUkJyS2NrWWtBZWdwZ3BNaGdyY3VqS2RCMnF2UDZaVUNxemdjRXNMNHljTjBsd09FcTR5NEZKRTFfMUs0eGI5OG9jWlJUUXZ4bFNlRmNzdjdHY0VEd3gxYWdn0gFzQVVfeXFMUGlkUGlCaldIVW9wT0ZySDRURzZIdnV2VllNbXUxZk53dWZEVk13VTdzMGY1bmRqT01ucy03SmtzeGp3OU44RC1hbURsX3p5YUVMOVgzV2ttaERCUXVoaFZURVgwdkVyYURJbE5tUldsRmRMOA?oc=5",
               "published_at": "2026-11-14T07:55:00Z",
               "headline": "고경표 음주운전 파장에 출연 예능 3편 편집 결정… '보검매직컬2' 어쩌나"
-            },
-            {
-              "name": "YTN",
-              "group": "ytn.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xMjF2eV9NNVdZRlctMjVsUlVIbzJ5Vng1WXFBb2FnMXFCR3B0TmNTOU5ZSWtMUWlZZVBUS09URXk1Wm5UZkJ3emdxY3YzNHVCVW1UOUZob2swa1dQS3c?oc=5",
-              "published_at": "2026-11-14T04:13:00Z",
-              "headline": "고경표 출연 예능, 최대한 편집해 방송 예정"
             }
           ]
         }
@@ -1652,7 +1517,65 @@
       "source_groups": 3,
       "daily_sources": [
         2,
+        1,
+        0
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 22
+    },
+    {
+      "topic": {
+        "id": "143c92bdf035b0f38679",
+        "category": "스포츠",
+        "title": "\"손흥민 최악의 경기, '96라인' 3인방에 힘 실릴 수도\" 사우디 충격 혹평...21년 만의 승리 후 \"韓 주장 앞길 막기 성공했다\"",
+        "summary": "\"손흥민 최악의 경기, '96라인' 3인방에 힘 실릴 수도\" 사우디 충격 혹평...21년 만의 승리 후 \"韓 주장 앞길 막기 성공했다\"",
+        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 27시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘\"손흥민 최악의 경기, '96라인' 3인방에 힘 실릴 수도\" 사우디 충격 혹평...21년 만의 승리 후 \"韓 주장 앞길 막기 성공했다\"’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "OSEN",
+        "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDZHRESWVIcmc5VHgzYlNWS0dZV1AxWnhxc2dKbThWYnJIMlczM3NmQmlCVW90UWNxY1RiYlhnc2YwamdyeUxoc1hMOXdCOUY2S3hjbg?oc=5",
+        "published_at": "2026-11-15T09:21:00Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 4,
+          "span_hours": 27.4,
+          "first_report_at": "2026-11-15T09:21:00Z",
+          "last_report_at": "2026-11-16T12:45:00Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDZHRESWVIcmc5VHgzYlNWS0dZV1AxWnhxc2dKbThWYnJIMlczM3NmQmlCVW90UWNxY1RiYlhnc2YwamdyeUxoc1hMOXdCOUY2S3hjbg?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52THpQNU1kbk9PUGRtSTJFT1plUFVHeTRJZGo4RG82Qktuc18wN2dRNVJRbXhiQ2VMQnBYdVJ2OU02eldoa0NONzRnTS01ajR3Y2lXdzdYZzNfR0hpQ0k3c2tmR2R1STBuc1hxQ0tfbE8?oc=5",
+          "sources": [
+            {
+              "name": "SPOTV NEWS",
+              "group": "spotvnews.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52THpQNU1kbk9PUGRtSTJFT1plUFVHeTRJZGo4RG82Qktuc18wN2dRNVJRbXhiQ2VMQnBYdVJ2OU02eldoa0NONzRnTS01ajR3Y2lXdzdYZzNfR0hpQ0k3c2tmR2R1STBuc1hxQ0tfbE8?oc=5",
+              "published_at": "2026-11-16T12:45:00Z",
+              "headline": "'손흥민 왕따설→96라인 집단 은퇴설' 김민재 드디어 입 열었다 \"사실 아닌 내용 왜곡돼 퍼져 당황…이제 하나가 된 것 같다\""
+            },
+            {
+              "name": "파이낸셜뉴스",
+              "group": "fnnews.com",
+              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRamxENUd2VGJhZjNNRnN2RThhdUpCcy1fdEIzM0FoVWp0cGlVRWtWajI2M3V3ZGFkVC1vd2JqbFVuU2VoVUw5U3J3UzdTMncxV1VNRlhrU2h5QQ?oc=5",
+              "published_at": "2026-11-15T12:03:38Z",
+              "headline": "\"손흥민·이강인·김민재 다 데려와도 소용없었다\"... 21년 만에 한국 꺾은 사우디 축제 분위기"
+            },
+            {
+              "name": "OSEN",
+              "group": "mt.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDZHRESWVIcmc5VHgzYlNWS0dZV1AxWnhxc2dKbThWYnJIMlczM3NmQmlCVW90UWNxY1RiYlhnc2YwamdyeUxoc1hMOXdCOUY2S3hjbg?oc=5",
+              "published_at": "2026-11-15T09:21:00Z",
+              "headline": "\"손흥민 최악의 경기, '96라인' 3인방에 힘 실릴 수도\" 사우디 충격 혹평...21년 만의 승리 후 \"韓 주장 앞길 막기 성공했다\""
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
         0,
+        2,
         1
       ],
       "tracking_hours": 0.0,
@@ -1663,46 +1586,104 @@
     },
     {
       "topic": {
-        "id": "d47253637ab09ed242f8",
-        "category": "스포츠",
-        "title": "이강인 사우디전 풀타임 침묵…西 매체 \"최고의 모습 보여주지 못해\"",
-        "summary": "이강인 사우디전 풀타임 침묵…西 매체 \"최고의 모습 보여주지 못해\"",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 46시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘이강인 사우디전 풀타임 침묵…西 매체 \"최고의 모습 보여주지 못해\"’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "뉴시스",
-        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41N1R2SHJRT3AzRVJwSWUtMU5yOWdPOWFDY3pVZUw5eThIdm9Ea0gzQVZjMk44UTYybVZwRk95eF9rXzNLbWUyaExWcUtIbC1Pc3BQUG9pX3JBZDVmc1Qycw?oc=5",
-        "published_at": "2026-11-14T06:14:26Z",
+        "id": "5b270c6abcdb72668e4c",
+        "category": "연예",
+        "title": "어깨동무 연예인봉사단, 12월 3일 자선콘서트 연다",
+        "summary": "어깨동무 연예인봉사단, 12월 3일 자선콘서트 연다",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 25시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘어깨동무 연예인봉사단, 12월 3일 자선콘서트 연다’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+        "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
+        "source": "중앙일보",
+        "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kYWdxOE13ZGFBcTdiNlpOYnZBdl9qUTlTM0N3U3ZlYlFqejVlN25DOTR5UUgxWl81cEtmOWhNVHV0dDhnNzRGTkRKaEtYY0JLVmpzSzd3?oc=5",
+        "published_at": "2026-11-16T10:05:00Z",
         "evidence": "headline",
         "coverage": {
           "source_groups": 3,
           "report_count": 3,
-          "span_hours": 46.1,
-          "first_report_at": "2026-11-14T06:14:26Z",
-          "last_report_at": "2026-11-16T04:21:26Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41N1R2SHJRT3AzRVJwSWUtMU5yOWdPOWFDY3pVZUw5eThIdm9Ea0gzQVZjMk44UTYybVZwRk95eF9rXzNLbWUyaExWcUtIbC1Pc3BQUG9pX3JBZDVmc1Qycw?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxWU1oOGVvd2ZZZlgtTUcxejR1dXpXUlZVWGNBeDdwTmh5NkVtaU5tczhOcHl5bkU5WjlpZC1SeDlldkFCVlJEdU54QWJCN25GRzAzVjNRaEg2M2IxWjgxWWxwaHNvbWRFRWpiZEJ5X3A?oc=5",
+          "span_hours": 25.8,
+          "first_report_at": "2026-11-16T05:40:00Z",
+          "last_report_at": "2026-11-17T07:28:27Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVm1BaVVoZ0wtUTNWaG9lVXl5MlFud2QtUzNvenE0UkUyRURZcnlVemo0VmFVV1lMd0gzUjVQVDR0bW95ZmlLNExkT0tIa2pvc2pOa25qbURBRjlUdFdCVlJjSnIzMXBwcGVhbXJxd1FTNkR6dmfSAWZBVV95cUxOM3VpZVh0MkZmNVFNdXhRcVVnTHBYTzhCSzhNeWQ3bXpiaG9ldU96ZFJwZUJqWFlyT2ZkSm80eHlyQlVRa0F1c25OWm1UUWI5bEVUOWpTdWZWeXlWRHoxaU9lSmxsSkE?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmanFhUFdYMWc3Qlp1dm13R2VmU0tuNkZtaXZ1alNBUzJXc3pZV0FFZHpOVzBRYlFmNGh4YjFEaEZrYXJCLU1lOEpSSUVtLWRi?oc=5",
           "sources": [
             {
-              "name": "SPOTV NEWS",
-              "group": "spotvnews.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxWU1oOGVvd2ZZZlgtTUcxejR1dXpXUlZVWGNBeDdwTmh5NkVtaU5tczhOcHl5bkU5WjlpZC1SeDlldkFCVlJEdU54QWJCN25GRzAzVjNRaEg2M2IxWjgxWWxwaHNvbWRFRWpiZEJ5X3A?oc=5",
-              "published_at": "2026-11-16T04:21:26Z",
-              "headline": "‘충격’ 이강인, 경기 중 ‘발로 의자를 뻥’…이유는 사우디전 심판 판정 불만? 골 못 넣어 답답함?"
+              "name": "문화일보",
+              "group": "munhwa.com",
+              "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBmanFhUFdYMWc3Qlp1dm13R2VmU0tuNkZtaXZ1alNBUzJXc3pZV0FFZHpOVzBRYlFmNGh4YjFEaEZrYXJCLU1lOEpSSUVtLWRi?oc=5",
+              "published_at": "2026-11-17T07:28:27Z",
+              "headline": "어깨동무 봉사단, 12월3일 세계장애인의 날 맞아 자선콘서트 개최"
             },
             {
-              "name": "마이데일리",
-              "group": "mydaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95R2RNSUxJTi11RnllSHk0MXVGdUE4TUdwRnJNNW55Mnl0V24ydHE2R1htNHpPZnptY18wUU9UYTZJWGJqcURBYmtENXdaR2ViNEpHWEhSZG80di1BS0NUXw?oc=5",
-              "published_at": "2026-11-15T10:04:00Z",
-              "headline": "이강인 사우디전 '풀타임' 출전에도 침묵...모레노의 'LEE 활용법' 또다시 도마 위, 西 매체 \"아직 최고의 모습 못 봐\" 비판"
+              "name": "중앙일보",
+              "group": "joongang.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kYWdxOE13ZGFBcTdiNlpOYnZBdl9qUTlTM0N3U3ZlYlFqejVlN25DOTR5UUgxWl81cEtmOWhNVHV0dDhnNzRGTkRKaEtYY0JLVmpzSzd3?oc=5",
+              "published_at": "2026-11-16T10:05:00Z",
+              "headline": "어깨동무 연예인봉사단, 12월 3일 자선콘서트 연다"
             },
             {
-              "name": "뉴시스",
-              "group": "wire:뉴시스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41N1R2SHJRT3AzRVJwSWUtMU5yOWdPOWFDY3pVZUw5eThIdm9Ea0gzQVZjMk44UTYybVZwRk95eF9rXzNLbWUyaExWcUtIbC1Pc3BQUG9pX3JBZDVmc1Qycw?oc=5",
-              "published_at": "2026-11-14T06:14:26Z",
-              "headline": "이강인 사우디전 풀타임 침묵…西 매체 \"최고의 모습 보여주지 못해\""
+              "name": "동아일보",
+              "group": "donga.com",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVm1BaVVoZ0wtUTNWaG9lVXl5MlFud2QtUzNvenE0UkUyRURZcnlVemo0VmFVV1lMd0gzUjVQVDR0bW95ZmlLNExkT0tIa2pvc2pOa25qbURBRjlUdFdCVlJjSnIzMXBwcGVhbXJxd1FTNkR6dmfSAWZBVV95cUxOM3VpZVh0MkZmNVFNdXhRcVVnTHBYTzhCSzhNeWQ3bXpiaG9ldU96ZFJwZUJqWFlyT2ZkSm80eHlyQlVRa0F1c25OWm1UUWI5bEVUOWpTdWZWeXlWRHoxaU9lSmxsSkE?oc=5",
+              "published_at": "2026-11-16T05:40:00Z",
+              "headline": "어깨동무 연예인봉사단, 장애·비장애 예술인 자선콘서트 12월 3일 개최"
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        0,
+        1,
+        2
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 24
+    },
+    {
+      "topic": {
+        "id": "fa1d4757134375cf1049",
+        "category": "스포츠",
+        "title": "“LEE의 최고 기량을 끌어내지 못한다” 스페인 매체, 모레노 감독의 이강인 활용법에 의문 제기…사우디전 패배로 다시 불거진 한계, 카타르전서 해법 찾을까",
+        "summary": "“LEE의 최고 기량을 끌어내지 못한다” 스페인 매체, 모레노 감독의 이강인 활용법에 의문 제기…사우디전 패배로 다시 불거진 한계, 카타르전서 해법 찾을까",
+        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 24시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘“LEE의 최고 기량을 끌어내지 못한다” 스페인 매체, 모레노 감독의 이강인 활용법에 의문 제기…사우디전 패배로 다시 불거진 한계, 카타르전서 해법 찾을까’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "스포츠동아",
+        "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yNGhCTVhUWDJGWlNrNHVfSjEzbklsdXJBX1ZoTjNjR193N25sMTZoTVNaWER2M25jRGtpYlNCMHhMbGRoTURNQThxM0NjSHlqT3RGd1hPSk1LZEZCRGVXWDBqOWpjVUxZRmdnNVo3U1NVZw?oc=5",
+        "published_at": "2026-11-15T09:00:00Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 5,
+          "span_hours": 24.6,
+          "first_report_at": "2026-11-14T22:51:47Z",
+          "last_report_at": "2026-11-15T23:30:32Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FVWJOWnNrYTR6cVFkRV9OekFVMXhHVmc4UFVOV1FkZlhRajlNVnZFck1IZXEwNk1VUzJ5S3pHNVlfaGs3dmZxUExkMUswMktmUmRMd0NkZ1MzRU1JYVZZdWhwbWdNM0dMeVVTSkZRTdIBb0FVX3lxTE1FVWJOWnNrYTR6cVFkRV9OekFVMXhHVmc4UFVOV1FkZlhRajlNVnZFck1IZXEwNk1VUzJ5S3pHNVlfaGs3dmZxUExkMUswMktmUmRMd0NkZ1MzRU1JYVZZdWhwbWdNM0dMeVVTSkZRTQ?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54ZHltX1l6WF9kY3dSQmV3dzV0LXJRM2NQMzd0VkRCLUc0MGpVcUJtb1VnRHdQMGs5VkhzZGtUQmdJVGFLbUIyZEk3NkhXbnB5OEx3MXlGTVFCT1Qyc29OTXZ0LW90cGJOamtaT0ZvYXhiczZGZEdVTXlGTHFDdw?oc=5",
+          "sources": [
+            {
+              "name": "스포츠조선",
+              "group": "chosun.com",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54ZHltX1l6WF9kY3dSQmV3dzV0LXJRM2NQMzd0VkRCLUc0MGpVcUJtb1VnRHdQMGs5VkhzZGtUQmdJVGFLbUIyZEk3NkhXbnB5OEx3MXlGTVFCT1Qyc29OTXZ0LW90cGJOamtaT0ZvYXhiczZGZEdVTXlGTHFDdw?oc=5",
+              "published_at": "2026-11-15T23:30:32Z",
+              "headline": "사우디전 봤으면 한숨 나올 수밖에...스페인 언론 \"모레노 이강인 제대로 못 쓴다, 이번 경기도 마찬가지\""
+            },
+            {
+              "name": "스포츠동아",
+              "group": "donga.com",
+              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yNGhCTVhUWDJGWlNrNHVfSjEzbklsdXJBX1ZoTjNjR193N25sMTZoTVNaWER2M25jRGtpYlNCMHhMbGRoTURNQThxM0NjSHlqT3RGd1hPSk1LZEZCRGVXWDBqOWpjVUxZRmdnNVo3U1NVZw?oc=5",
+              "published_at": "2026-11-15T09:00:00Z",
+              "headline": "“LEE의 최고 기량을 끌어내지 못한다” 스페인 매체, 모레노 감독의 이강인 활용법에 의문 제기…사우디전 패배로 다시 불거진 한계, 카타르전서 해법 찾을까"
+            },
+            {
+              "name": "머니투데이",
+              "group": "mt.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FVWJOWnNrYTR6cVFkRV9OekFVMXhHVmc4UFVOV1FkZlhRajlNVnZFck1IZXEwNk1VUzJ5S3pHNVlfaGs3dmZxUExkMUswMktmUmRMd0NkZ1MzRU1JYVZZdWhwbWdNM0dMeVVTSkZRTdIBb0FVX3lxTE1FVWJOWnNrYTR6cVFkRV9OekFVMXhHVmc4UFVOV1FkZlhRajlNVnZFck1IZXEwNk1VUzJ5S3pHNVlfaGs3dmZxUExkMUswMktmUmRMd0NkZ1MzRU1JYVZZdWhwbWdNM0dMeVVTSkZRTQ?oc=5",
+              "published_at": "2026-11-14T22:51:47Z",
+              "headline": "스페인 유력지 \"모레노 축구대표팀 감독, 이강인 장점 극대화 실패... 경기력 기복 극심\" 냉정 혹평 - 머니투데이"
             }
           ]
         }
@@ -1710,14 +1691,14 @@
       "source_groups": 3,
       "daily_sources": [
         1,
-        1,
-        1
+        2,
+        0
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 24
+      "rank": 25
     },
     {
       "topic": {
@@ -1767,58 +1748,116 @@
       },
       "source_groups": 3,
       "daily_sources": [
-        0,
+        1,
         2,
-        1
+        0
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 25
+      "rank": 26
     },
     {
       "topic": {
-        "id": "a8735853c6701e2328eb",
-        "category": "스포츠",
-        "title": "\"더 이상 EPL 득점왕 그 손흥민 아니다!\" 치명적인 빅찬스 미스 두 차례…손흥민도 인정 \"찬스가 있었는데 해결하지 못했다\"",
-        "summary": "\"더 이상 EPL 득점왕 그 손흥민 아니다!\" 치명적인 빅찬스 미스 두 차례…손흥민도 인정 \"찬스가 있었는데 해결하지 못했다\"",
-        "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 16시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘\"더 이상 EPL 득점왕 그 손흥민 아니다!\" 치명적인 빅찬스 미스 두 차례…손흥민도 인정 \"찬스가 있었는데 해결하지 못했다\"’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "OSEN",
-        "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3cF9vV3doSXFNLVk4M3luSjFEdHRnWk9nSlgyUjNJeVpYTXVjME4yR1YyaHVFVHFWNE1HWUY4ODZwZnhmTjJjU0VGNVZOX0NZcjdZNQ?oc=5",
-        "published_at": "2026-11-14T15:14:00Z",
+        "id": "505de1fd7c74516e0216",
+        "category": "경제·주식",
+        "title": "코스피 5300선 등락…엔비디아 실적 앞두고 관망세",
+        "summary": "코스피 5300선 등락…엔비디아 실적 앞두고 관망세",
+        "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 21시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘코스피 5300선 등락…엔비디아 실적 앞두고 관망세’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+        "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+        "source": "전자신문",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WakI2WnhhWmcydGFrQVhPVUZUNFdKR2JUVW1lal9QaDZyLUpGZWpLaGNYcy0zRmREOXRNbEx3aWZIbzVLNHN2TXBkcG40UQ?oc=5",
+        "published_at": "2026-11-16T00:41:26Z",
         "evidence": "headline",
         "coverage": {
           "source_groups": 3,
-          "report_count": 6,
-          "span_hours": 16.5,
-          "first_report_at": "2026-11-13T22:42:00Z",
-          "last_report_at": "2026-11-14T15:14:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95YlZzek9fUEtUUUo2clJwV1puTWZ1WlhWN2Y2anJGcE5NSHZ3VXo3R2xzejdPVURrQ2RqN1NQQkVEZXNzTUpMRW5iMFZpbjlob2pTYkFjX3BBRE1BT1pWYQ?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3cF9vV3doSXFNLVk4M3luSjFEdHRnWk9nSlgyUjNJeVpYTXVjME4yR1YyaHVFVHFWNE1HWUY4ODZwZnhmTjJjU0VGNVZOX0NZcjdZNQ?oc=5",
+          "report_count": 4,
+          "span_hours": 21.5,
+          "first_report_at": "2026-11-15T04:21:00Z",
+          "last_report_at": "2026-11-16T01:52:17Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzcXRxN2VnN2tMNkt0Zmh0MVlNMnlhTGtXS09GTlJoUWhBc3h2ZEV1a21PQnVXamtxU19PS1F4eGluc1l1TzFYUlNOMThiRFBNTy0tdFZmNlExV1JYakE?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4azZoUUZoR0laa2YxMDFWcjVoclV3T0pqbUtMTE80bGRWbldDR1ZjZExJUnktOFhidWliTUsybHpxX3Q4ZU52ZlBWOC1aRGhXaGZNV0xwVjRBeHNOYWdOLdIBeEFVX3lxTE13VVFKSXd0cVVwRG1SQUp6YmhfRnB2d194QVFYbGR1cUZVWmtjeWRmM04xVk1DRmY4c2FiWElFVFhpcFp6ZGVkdlQwc0lJS2JvcGdFZWpvdHNCaWpUeDNIemdzNDVTbjNnLTljdjk1dV9tMElnMy04Ug?oc=5",
           "sources": [
             {
-              "name": "OSEN",
-              "group": "mt.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3cF9vV3doSXFNLVk4M3luSjFEdHRnWk9nSlgyUjNJeVpYTXVjME4yR1YyaHVFVHFWNE1HWUY4ODZwZnhmTjJjU0VGNVZOX0NZcjdZNQ?oc=5",
-              "published_at": "2026-11-14T15:14:00Z",
-              "headline": "\"더 이상 EPL 득점왕 그 손흥민 아니다!\" 치명적인 빅찬스 미스 두 차례…손흥민도 인정 \"찬스가 있었는데 해결하지 못했다\""
+              "name": "뉴시스",
+              "group": "wire:뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4azZoUUZoR0laa2YxMDFWcjVoclV3T0pqbUtMTE80bGRWbldDR1ZjZExJUnktOFhidWliTUsybHpxX3Q4ZU52ZlBWOC1aRGhXaGZNV0xwVjRBeHNOYWdOLdIBeEFVX3lxTE13VVFKSXd0cVVwRG1SQUp6YmhfRnB2d194QVFYbGR1cUZVWmtjeWRmM04xVk1DRmY4c2FiWElFVFhpcFp6ZGVkdlQwc0lJS2JvcGdFZWpvdHNCaWpUeDNIemdzNDVTbjNnLTljdjk1dV9tMElnMy04Ug?oc=5",
+              "published_at": "2026-11-16T01:52:17Z",
+              "headline": "코스피 반등 열쇠 쥔 엔비디아…'젠슨 황 복귀론' 속 실적발표 주목"
             },
             {
-              "name": "마이데일리",
-              "group": "mydaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0ta3FzUU5OX3RHSzhXbkQ1Mm1yczlvSmNkcENqVVNwMGphQXU2dUtlOElid2xCY3IzSEtMMWpWWWRvRl9wS1dHeks0dUx1U3dzblhtcGdBTUxjejVZRlRpVA?oc=5",
-              "published_at": "2026-11-14T05:14:00Z",
-              "headline": "손흥민 빅찬스 미스+부진에도 '풀타임' 출전...모레노 임시감독 \"주장이자 중요한 선수, 교체 안 한 건 옳은 결정\""
+              "name": "전자신문",
+              "group": "etnews.com",
+              "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WakI2WnhhWmcydGFrQVhPVUZUNFdKR2JUVW1lal9QaDZyLUpGZWpLaGNYcy0zRmREOXRNbEx3aWZIbzVLNHN2TXBkcG40UQ?oc=5",
+              "published_at": "2026-11-16T00:41:26Z",
+              "headline": "코스피 5300선 등락…엔비디아 실적 앞두고 관망세"
             },
             {
-              "name": "일간스포츠",
-              "group": "edaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMU1g1eU94VjZwYTVKeHFQbWpiUTM1UHNVbDVSQXNMcmVDeGhVdHRSbkFFLUlBZmtXcV9JV2hBMFVON3dJSlV2Z0hvX3NHUWxTdDZmTFdjS1hZZEU?oc=5",
-              "published_at": "2026-11-13T23:00:00Z",
-              "headline": "‘빅찬스 미스’ 고개 숙인 손흥민 “결정적 역할 못 해 동료들에 미안\""
+              "name": "YTN",
+              "group": "ytn.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80bzJlMlBweElLSzl5ZEJmM3dsY1U4X184YzdWd2pMWkFjSnU3X2l4b0g0Q0ZJX3hDLUdWS3hwbnhuT1ZfZGtLbVUyNjNDZ3pIckZNbDJ3MGgycXpzdmc?oc=5",
+              "published_at": "2026-11-15T09:12:00Z",
+              "headline": "젠슨 황 이슈에 여전한 시장 불확실성...\"엔비디아 실적 등이 관건\""
+            }
+          ]
+        }
+      },
+      "source_groups": 3,
+      "daily_sources": [
+        1,
+        3,
+        0
+      ],
+      "tracking_hours": 0.0,
+      "comparison_ready": false,
+      "growth_percent": null,
+      "signal": "collecting",
+      "rank": 27
+    },
+    {
+      "topic": {
+        "id": "6928ce5480fd3eca8d4f",
+        "category": "스포츠",
+        "title": "‘원팀’ 다짐에도 사우디에 2대3 패배…고개 숙인 손흥민",
+        "summary": "‘원팀’ 다짐에도 사우디에 2대3 패배…고개 숙인 손흥민",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 15시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘‘원팀’ 다짐에도 사우디에 2대3 패배…고개 숙인 손흥민’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "JTBC",
+        "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RWDhVQ3dEWjNVaTdCLTN2Yk8xQmxrcDBZMThGaFplZUdoSjVDTjdSWmtJVHVzNVJmNEJ6LWZhU1huSWYwbXZvT3pXeUs3ckI0eVJGQQ?oc=5",
+        "published_at": "2026-11-14T11:47:00Z",
+        "evidence": "headline",
+        "coverage": {
+          "source_groups": 3,
+          "report_count": 3,
+          "span_hours": 15.7,
+          "first_report_at": "2026-11-14T11:47:00Z",
+          "last_report_at": "2026-11-15T03:30:06Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RWDhVQ3dEWjNVaTdCLTN2Yk8xQmxrcDBZMThGaFplZUdoSjVDTjdSWmtJVHVzNVJmNEJ6LWZhU1huSWYwbXZvT3pXeUs3ckI0eVJGQQ?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54MDV2RjJ4aFpLNXhMRFJycV9TeU9SZ0RNZjNKNW1idm5FbEFNUVBDb3FCdDlhSGhZWEw3VmxhekE5NlhtUEFLQTBSNU15bEd0TnFWek5GLWkyRDlZbXhzM0hSbllUZjVXV1J5UWFhUUxXTzJvTHc?oc=5",
+          "sources": [
+            {
+              "name": "스타뉴스",
+              "group": "starnewskorea.com",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54MDV2RjJ4aFpLNXhMRFJycV9TeU9SZ0RNZjNKNW1idm5FbEFNUVBDb3FCdDlhSGhZWEw3VmxhekE5NlhtUEFLQTBSNU15bEd0TnFWek5GLWkyRDlZbXhzM0hSbllUZjVXV1J5UWFhUUxXTzJvTHc?oc=5",
+              "published_at": "2026-11-15T03:30:06Z",
+              "headline": "\"한국, 42년 만의 굴욕\" 日도 짚었다... 손흥민·김민재 모두 내고도 사우디에 3실점 패배"
+            },
+            {
+              "name": "KBS 뉴스",
+              "group": "kbs.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzLWdRaS03bnFnRDFvTGpnWGxrT3BzZmFPbnEtTVIzQ0pzY3o5TDBlcUZuSE5iQ1ZBMFRqcEJRYV9Cbml4UFpQU0hrMWlSTlZzU2lTell1VWdzbG5IQ3RmR0p6VUZuZw?oc=5",
+              "published_at": "2026-11-14T12:26:00Z",
+              "headline": "사우디에 21년 만에 진 한국 축구…‘손흥민 활용법’ 고민할 때!"
+            },
+            {
+              "name": "JTBC",
+              "group": "jtbc.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RWDhVQ3dEWjNVaTdCLTN2Yk8xQmxrcDBZMThGaFplZUdoSjVDTjdSWmtJVHVzNVJmNEJ6LWZhU1huSWYwbXZvT3pXeUs3ckI0eVJGQQ?oc=5",
+              "published_at": "2026-11-14T11:47:00Z",
+              "headline": "‘원팀’ 다짐에도 사우디에 2대3 패배…고개 숙인 손흥민"
             }
           ]
         }
@@ -1833,7 +1872,7 @@
       "comparison_ready": false,
       "growth_percent": null,
       "signal": "collecting",
-      "rank": 26
+      "rank": 28
     },
     {
       "topic": {
@@ -1883,122 +1922,6 @@
       },
       "source_groups": 3,
       "daily_sources": [
-        1,
-        2,
-        0
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 27
-    },
-    {
-      "topic": {
-        "id": "2479d46572788e0403b8",
-        "category": "스포츠",
-        "title": "'손흥민, 공짜로 영입 가능하다?' 스페인 매체의 파격 주장! LAFC 계약 만료 임박→유럽 복귀 가능성 등장",
-        "summary": "'손흥민, 공짜로 영입 가능하다?' 스페인 매체의 파격 주장! LAFC 계약 만료 임박→유럽 복귀 가능성 등장",
-        "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘'손흥민, 공짜로 영입 가능하다?' 스페인 매체의 파격 주장! LAFC 계약 만료 임박→유럽 복귀 가능성 등장’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-        "source": "SPOTV NEWS",
-        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OWFlaUG5ORXNtNHQ1ZGpuMC1Xd1NKOUR1N2Y3LTJxb2tlRkFiU1MxLTlFNXlkcGVIRTFTZWo5MzZqX0lZUHJCc0FqUUJwckNwcElCQWlOUHNzdFVlczJmSHI3ZWpRY0t0WUtrdUNjRG4?oc=5",
-        "published_at": "2026-11-16T09:00:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 3,
-          "report_count": 5,
-          "span_hours": 10.3,
-          "first_report_at": "2026-11-16T05:51:55Z",
-          "last_report_at": "2026-11-16T16:11:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sRTZBV2hYc2xOZlRwVFhzREI4UFQyV0wtMENaYXNqTml5czRFMjdYX25xZmJKZTdNTDVEU0ZMQjNueGZyUERObWNOZVB2cUNRaWV1MA?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0VU9YZExqT2N6QlA1aDd1RFlnSHdqcy1JVFBDU3pEeDVtSzdWMzJqV21CdTkxWXBfSjkyYW9GaDREampfUGJiRFBHRXhJREFMYW9NRXpxQWpTbXNRREhiTlJUbDVhZm9sd1HSAW9BVV95cUxNd1htaGdQMU1OcEFMdndJZ2g5Q09ybG01RUVzczdFTzB0RkdjdTBQcnZMQVBIOEJFYVFSXy0ybHFobV83djlYVDR5U2gycUhqeGRWWV82eU9yZy1DSzlORU9wYjVyVVgyU0pSQkszYk0?oc=5",
-          "sources": [
-            {
-              "name": "머니투데이",
-              "group": "mt.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0VU9YZExqT2N6QlA1aDd1RFlnSHdqcy1JVFBDU3pEeDVtSzdWMzJqV21CdTkxWXBfSjkyYW9GaDREampfUGJiRFBHRXhJREFMYW9NRXpxQWpTbXNRREhiTlJUbDVhZm9sd1HSAW9BVV95cUxNd1htaGdQMU1OcEFMdndJZ2g5Q09ybG01RUVzczdFTzB0RkdjdTBQcnZMQVBIOEJFYVFSXy0ybHFobV83djlYVDR5U2gycUhqeGRWWV82eU9yZy1DSzlORU9wYjVyVVgyU0pSQkszYk0?oc=5",
-              "published_at": "2026-11-16T16:11:00Z",
-              "headline": "'손흥민 유럽 리턴 가능성 열렸다!' 2027년 1월부터 FA로 풀리나…LAFC와 재계약 협상 관건 - 머니투데이"
-            },
-            {
-              "name": "SPOTV NEWS",
-              "group": "spotvnews.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OWFlaUG5ORXNtNHQ1ZGpuMC1Xd1NKOUR1N2Y3LTJxb2tlRkFiU1MxLTlFNXlkcGVIRTFTZWo5MzZqX0lZUHJCc0FqUUJwckNwcElCQWlOUHNzdFVlczJmSHI3ZWpRY0t0WUtrdUNjRG4?oc=5",
-              "published_at": "2026-11-16T09:00:00Z",
-              "headline": "'손흥민, 공짜로 영입 가능하다?' 스페인 매체의 파격 주장! LAFC 계약 만료 임박→유럽 복귀 가능성 등장"
-            },
-            {
-              "name": "JTBC",
-              "group": "jtbc.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sRTZBV2hYc2xOZlRwVFhzREI4UFQyV0wtMENaYXNqTml5czRFMjdYX25xZmJKZTdNTDVEU0ZMQjNueGZyUERObWNOZVB2cUNRaWV1MA?oc=5",
-              "published_at": "2026-11-16T05:51:55Z",
-              "headline": "손흥민, 2027년 LAFC 결별하나…\"FA로 유럽 복귀 가능\" 새 도전 가능성"
-            }
-          ]
-        }
-      },
-      "source_groups": 3,
-      "daily_sources": [
-        0,
-        0,
-        3
-      ],
-      "tracking_hours": 0.0,
-      "comparison_ready": false,
-      "growth_percent": null,
-      "signal": "collecting",
-      "rank": 28
-    },
-    {
-      "topic": {
-        "id": "63a7b902cfe3dd68868a",
-        "category": "연예",
-        "title": "크래비티, 오늘(14일) 단독 콘서트 개최…전석 매진 속 '화려한 귀환'",
-        "summary": "크래비티, 오늘(14일) 단독 콘서트 개최…전석 매진 속 '화려한 귀환'",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘크래비티, 오늘(14일) 단독 콘서트 개최…전석 매진 속 '화려한 귀환'’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-        "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-        "source": "iMBC 연예",
-        "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44NlBLMVR1Z0xYN0wzLTNHZzh1TWpaQ2ZVMFpaYjdNNmd3MXJDU3FpdjhHS3c1Rml2MUZnQkJkS0FQT3ZrVlk4WUJEZDBNMmd3SWZVcnkzY1Q2UG4wRkRyeg?oc=5",
-        "published_at": "2026-11-14T08:51:00Z",
-        "evidence": "headline",
-        "coverage": {
-          "source_groups": 3,
-          "report_count": 3,
-          "span_hours": 6.4,
-          "first_report_at": "2026-11-14T02:27:00Z",
-          "last_report_at": "2026-11-14T08:51:00Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDWUIySXR4SW1wbDRPWkh1ZkZ4TGVnaUNvRGZiaUIzWkhGQURySS1haDJWRUYzZ196eWo2UGFubGJrenExb05xOU9BMzJ0YTlRTDQ3Wg?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44NlBLMVR1Z0xYN0wzLTNHZzh1TWpaQ2ZVMFpaYjdNNmd3MXJDU3FpdjhHS3c1Rml2MUZnQkJkS0FQT3ZrVlk4WUJEZDBNMmd3SWZVcnkzY1Q2UG4wRkRyeg?oc=5",
-          "sources": [
-            {
-              "name": "iMBC 연예",
-              "group": "imbc.com",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44NlBLMVR1Z0xYN0wzLTNHZzh1TWpaQ2ZVMFpaYjdNNmd3MXJDU3FpdjhHS3c1Rml2MUZnQkJkS0FQT3ZrVlk4WUJEZDBNMmd3SWZVcnkzY1Q2UG4wRkRyeg?oc=5",
-              "published_at": "2026-11-14T08:51:00Z",
-              "headline": "크래비티, 오늘(14일) 단독 콘서트 개최…전석 매진 속 '화려한 귀환'"
-            },
-            {
-              "name": "일간스포츠",
-              "group": "edaily.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoNm05bThtQm9jYVdSTW9NMnNYSFNzangzQ0Z6dUpuNWg1MXN4Q2poeW0yT2QyS0JIZzFFWEw0cDJHMWRPNkpDdDEwNDZBRWdEREkzejlhMG5sR2c?oc=5",
-              "published_at": "2026-11-14T02:36:00Z",
-              "headline": "크래비티, 오늘(14일) 1년 4개월 만 단독 콘서트…전석 매진에 시야제한석 추가 오픈"
-            },
-            {
-              "name": "OSEN",
-              "group": "osen.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDWUIySXR4SW1wbDRPWkh1ZkZ4TGVnaUNvRGZiaUIzWkhGQURySS1haDJWRUYzZ196eWo2UGFubGJrenExb05xOU9BMzJ0YTlRTDQ3Wg?oc=5",
-              "published_at": "2026-11-14T02:27:00Z",
-              "headline": "크래비티, '퍼포비티' 온다..단독 콘서트 '소노로스' 오늘(14일) 개최"
-            }
-          ]
-        }
-      },
-      "source_groups": 3,
-      "daily_sources": [
         3,
         0,
         0
@@ -2011,46 +1934,46 @@
     },
     {
       "topic": {
-        "id": "8d6604243e7847dbaccb",
-        "category": "문화·예술",
-        "title": "우리은행, 어린이·청소년 미술대회 개최",
-        "summary": "우리은행, 어린이·청소년 미술대회 개최",
-        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-        "opener": "‘우리은행, 어린이·청소년 미술대회 개최’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
-        "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-        "source": "한국경제",
-        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwTXhSNThJZzhBUjZvaXdOU0NoOVd3TVhwQ2o5MmZHNm5CUGMzNkhGTXdtXzl1OGNTWjdUSWpsc2U4aTNkOWRhSVhsMllvbzJuelBsZnowTVRMZw?oc=5",
-        "published_at": "2026-11-16T09:00:35Z",
+        "id": "acbec152250c2e5a26d9",
+        "category": "스포츠",
+        "title": "더 무뎌진 손흥민 발끝...카타르전 투톱 변화 줄까?",
+        "summary": "더 무뎌진 손흥민 발끝...카타르전 투톱 변화 줄까?",
+        "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 12시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+        "opener": "‘더 무뎌진 손흥민 발끝...카타르전 투톱 변화 줄까?’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+        "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+        "source": "YTN",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SSmJDRGhfUzFCSnl0RERrdENHanJLenJWYU5qVHUtbFoyTHluc29fWERwZ2FDS0JYbVE1a0JSQzFMcFRVS2RyNWd3MWRJV3R3bEpaMmpnN0FMN21SbWc?oc=5",
+        "published_at": "2026-11-16T01:48:00Z",
         "evidence": "headline",
         "coverage": {
           "source_groups": 3,
           "report_count": 3,
-          "span_hours": 6.0,
-          "first_report_at": "2026-11-16T03:00:45Z",
-          "last_report_at": "2026-11-16T09:00:35Z",
-          "first_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHT1VkeVpnb2RsMEpOTHZ6SmVNaDFZUi03YUVFXzNPWTlVU0FoNzMxeWhlVWFyaUVCUUozOU4wczRkbWlnUEhQNUtKNVpPSHRHSWxQdnZGbUNNa3VsdG4zTkFhcXV1dmVvSjg5YlhnYndoYWY5ZnfSAWZBVV95cUxPcjZsYkJmVUZUa1BheElISmRHTEpNN3BqcGxDeHJHdl9fYlZtQmVyVXJ4VzJyY1F6d3o3RnUyUy1vRHRwbjJGZU1sQi1BaEZvYWROaWoxTlJfcG5sZTdPb2ZtNW1KQXc?oc=5",
-          "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwTXhSNThJZzhBUjZvaXdOU0NoOVd3TVhwQ2o5MmZHNm5CUGMzNkhGTXdtXzl1OGNTWjdUSWpsc2U4aTNkOWRhSVhsMllvbzJuelBsZnowTVRMZw?oc=5",
+          "span_hours": 12.2,
+          "first_report_at": "2026-11-16T01:48:00Z",
+          "last_report_at": "2026-11-16T14:01:01Z",
+          "first_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SSmJDRGhfUzFCSnl0RERrdENHanJLenJWYU5qVHUtbFoyTHluc29fWERwZ2FDS0JYbVE1a0JSQzFMcFRVS2RyNWd3MWRJV3R3bEpaMmpnN0FMN21SbWc?oc=5",
+          "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13UjN2elRLT1dEaHB1SGlCREJDZ184dDFjV2x6Tm9uaTVBNTduUldMbFg5ZXhmNjlmYjM2V1Rzeml0RldlektYaDZkLS1sa1NNOG43ckZpWnhrMW42bWZGcdIBYEFVX3lxTE13UjN2elRLT1dEaHB1SGlCREJDZ184dDFjV2x6Tm9uaTVBNTduUldMbFg5ZXhmNjlmYjM2V1Rzeml0RldlektYaDZkLS1sa1NNOG43ckZpWnhrMW42bWZGcQ?oc=5",
           "sources": [
             {
-              "name": "한국경제",
-              "group": "hankyung.com",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwTXhSNThJZzhBUjZvaXdOU0NoOVd3TVhwQ2o5MmZHNm5CUGMzNkhGTXdtXzl1OGNTWjdUSWpsc2U4aTNkOWRhSVhsMllvbzJuelBsZnowTVRMZw?oc=5",
-              "published_at": "2026-11-16T09:00:35Z",
-              "headline": "우리은행, 어린이·청소년 미술대회 개최"
+              "name": "연합뉴스",
+              "group": "wire:연합뉴스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13UjN2elRLT1dEaHB1SGlCREJDZ184dDFjV2x6Tm9uaTVBNTduUldMbFg5ZXhmNjlmYjM2V1Rzeml0RldlektYaDZkLS1sa1NNOG43ckZpWnhrMW42bWZGcdIBYEFVX3lxTE13UjN2elRLT1dEaHB1SGlCREJDZ184dDFjV2x6Tm9uaTVBNTduUldMbFg5ZXhmNjlmYjM2V1Rzeml0RldlektYaDZkLS1sa1NNOG43ckZpWnhrMW42bWZGcQ?oc=5",
+              "published_at": "2026-11-16T14:01:01Z",
+              "headline": "카타르전 앞두고 훈련하는 손흥민"
             },
             {
-              "name": "매일경제",
-              "group": "mk.co.kr",
-              "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wdnN0RDZfeUppU2RQUFp5V3ViLXBSTklGMGlLWFhIdWg2UzRtSEU4cDlXNHRFb2RWVVpSY0R6ekp5dGVXRHY4RWJldTlpZHlWcmtjeQ?oc=5",
-              "published_at": "2026-11-16T08:21:03Z",
-              "headline": "[포토] 우리은행 어린이 미술대회"
+              "name": "MBC 뉴스",
+              "group": "imbc.com",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aU2VKWEtVX01GWHhmQlN5Q2oya1BCb2Vab19ubnZVaGlMRGJGZkl2XzFLMWZLQUNWZEhuTFRRZFQ1TkpDRGw2MTlrZnE2V2gwYk8yVDZSLWdERFp1Q29JLWtCcjQ1aGpWQU85enBNYnY1UmR1cTU1b9IBeEFVX3lxTE1vOEdha1ZtZkQ2WVRxa2U1Y2Yzdmk4T2JmYVJOcXNjMl9BMWRYRk1IckRCWjNwcDJta21EUG8yWGoyU2VwbFpSX0pDRFlsdjkwTjRKVzdkY19rMkRkSGd1eHhPQjh0VlVwUkJaajQ2MHlMM1NGYUxYYQ?oc=5",
+              "published_at": "2026-11-16T11:43:55Z",
+              "headline": "'손흥민 향한 신뢰' 모레노 감독‥투톱 기용 변화 줄까?"
             },
             {
-              "name": "동아일보",
-              "group": "donga.com",
-              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHT1VkeVpnb2RsMEpOTHZ6SmVNaDFZUi03YUVFXzNPWTlVU0FoNzMxeWhlVWFyaUVCUUozOU4wczRkbWlnUEhQNUtKNVpPSHRHSWxQdnZGbUNNa3VsdG4zTkFhcXV1dmVvSjg5YlhnYndoYWY5ZnfSAWZBVV95cUxPcjZsYkJmVUZUa1BheElISmRHTEpNN3BqcGxDeHJHdl9fYlZtQmVyVXJ4VzJyY1F6d3o3RnUyUy1vRHRwbjJGZU1sQi1BaEZvYWROaWoxTlJfcG5sZTdPb2ZtNW1KQXc?oc=5",
-              "published_at": "2026-11-16T03:00:45Z",
-              "headline": "우리은행, ‘우리 아트콘’ 미술대회…어린이·청소년과 ‘내일을 그리다’"
+              "name": "YTN",
+              "group": "ytn.co.kr",
+              "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SSmJDRGhfUzFCSnl0RERrdENHanJLenJWYU5qVHUtbFoyTHluc29fWERwZ2FDS0JYbVE1a0JSQzFMcFRVS2RyNWd3MWRJV3R3bEpaMmpnN0FMN21SbWc?oc=5",
+              "published_at": "2026-11-16T01:48:00Z",
+              "headline": "더 무뎌진 손흥민 발끝...카타르전 투톱 변화 줄까?"
             }
           ]
         }
@@ -2058,8 +1981,8 @@
       "source_groups": 3,
       "daily_sources": [
         0,
-        0,
-        3
+        1,
+        2
       ],
       "tracking_hours": 0.0,
       "comparison_ready": false,
