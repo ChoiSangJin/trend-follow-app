@@ -2,29 +2,36 @@
   "schema_version": 2,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-19T20:32:08.747615Z",
+  "updated_at": "2026-11-20T07:10:39.476556Z",
   "cards": [
     {
-      "id": "5e6fe4fb6f07ca37c096",
+      "id": "eed2697870387c969667",
       "category": "문화",
-      "title": "“막막하지만 더 가보겠다”…대산문학상에 시 이수명, 소설 은희경",
-      "summary": "“막막하지만 더 가보겠다”…대산문학상에 시 이수명, 소설 은희경",
-      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 13시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘“막막하지만 더 가보겠다”…대산문학상에 시 이수명, 소설 은희경’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "title": "은희경, ‘시간의 감촉’으로 대산문학상 수상",
+      "summary": "은희경, ‘시간의 감촉’으로 대산문학상 수상",
+      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 12시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘은희경, ‘시간의 감촉’으로 대산문학상 수상’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-      "source": "중앙일보",
-      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENUNodVU0MktiT0IwaEVrdUtWZUp0QTRDb3BrOXVqaVNWZExCQWpQQlRHR2pRcDJxOVMyajMxZ3d4SG1BRUZSNWpjUUlkZlF0ZHd3aEln?oc=5",
-      "published_at": "2026-11-17T06:23:21Z",
+      "source": "동아일보",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pTl9hRkVPUWsyMzFZTFpfM3lNSjNRN0J0OWVvM3N0ck5TeC1wWnZObG5KVjhPYWZTRG4wMjNMSGxINENCRVpRV0lVOTZXRmN1VkJXQVJwa0xFelZQeDZUbExNT3BKN0YxTnhHRUt6ZTZoeGVN0gFmQVVfeXFMT2VtbkFkT2FqZFN2U1E5MHVjbmV6R0wzSXhvTEliQ2RvTmk2RnkxMWZxbkw4d0VXaGM5OW9sS0tUV2lfMWJjVVQ5Y0Jrdm8xYmxibXJmTDBEcmlCQkpxZDhqZWxwcXl3?oc=5",
+      "published_at": "2026-11-17T19:30:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 4,
+        "source_groups": 5,
         "report_count": 5,
-        "span_hours": 13.3,
-        "first_report_at": "2026-11-17T02:30:00Z",
-        "last_report_at": "2026-11-17T15:45:16Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kd2NFcjZ0d3pqeUpvVEI5RWctMUxsV3lmTGNfcHd3VnEwbExpNmFwWE1LNkFsQTFFRzRtZnAyUjlCY05YdHgtVTV2LXE5a2lkcDVPWk81WVJ3ZjDSAWBBVV95cUxNNTk2a2J1X1NYdmxYMmR2YW1yOHFyeFZOdERuQ1BBcEFiR2VfdzRIY0ZNVkU5Q2ZZOXhTc2t2SGpZR0ZrUXZ3a3BjckNUVnJ6eXZCcmlDNFRRYVZQZTJRT18?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdHFOYVpJRkdfOElxZ1pJVklMZHRUM3dCZjREdEFnZU85RE5qMjl6RDhwb0tHS0M1Wlh3T09xUHRzckJmcnhHTjhTWFNnS3dJU3FPbUlqRjNLV1B4cDNrM3lBSlhfMGZjOHVxRlFIVHlrOEZ6U3lMU19GX1JHdHVESTkyQlhHNWdlR3RQd2FudlY2eHQ4?oc=5",
+        "span_hours": 12.0,
+        "first_report_at": "2026-11-17T07:32:00Z",
+        "last_report_at": "2026-11-17T19:30:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44dGFVSDFZM1BWQlJzU25xX3dzNlktSFNwZ2IzVl8zVjRFbElqbUZxV242MWlhMFVZVlUyT2xtamEzOG41NXU4bEtoOVM0QUNsVzVpcEt1X1pNd9IBX0FVX3lxTE5sTTFLd3pQUC1ldERNelVCUkVKV0RYSW1UQmJTVUJrWUN2Y2tkdGpBOUFlWVZzR0x3VG9oWTZvQ2ZuTTVTcWZiUlg3NmxLQi11MGhCcVZBTmp3QVowV2hR?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pTl9hRkVPUWsyMzFZTFpfM3lNSjNRN0J0OWVvM3N0ck5TeC1wWnZObG5KVjhPYWZTRG4wMjNMSGxINENCRVpRV0lVOTZXRmN1VkJXQVJwa0xFelZQeDZUbExNT3BKN0YxTnhHRUt6ZTZoeGVN0gFmQVVfeXFMT2VtbkFkT2FqZFN2U1E5MHVjbmV6R0wzSXhvTEliQ2RvTmk2RnkxMWZxbkw4d0VXaGM5OW9sS0tUV2lfMWJjVVQ5Y0Jrdm8xYmxibXJmTDBEcmlCQkpxZDhqZWxwcXl3?oc=5",
         "sources": [
+          {
+            "name": "동아일보",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pTl9hRkVPUWsyMzFZTFpfM3lNSjNRN0J0OWVvM3N0ck5TeC1wWnZObG5KVjhPYWZTRG4wMjNMSGxINENCRVpRV0lVOTZXRmN1VkJXQVJwa0xFelZQeDZUbExNT3BKN0YxTnhHRUt6ZTZoeGVN0gFmQVVfeXFMT2VtbkFkT2FqZFN2U1E5MHVjbmV6R0wzSXhvTEliQ2RvTmk2RnkxMWZxbkw4d0VXaGM5OW9sS0tUV2lfMWJjVVQ5Y0Jrdm8xYmxibXJmTDBEcmlCQkpxZDhqZWxwcXl3?oc=5",
+            "published_at": "2026-11-17T19:30:00Z",
+            "headline": "은희경, ‘시간의 감촉’으로 대산문학상 수상"
+          },
           {
             "name": "조선일보",
             "group": "chosun.com",
@@ -33,82 +40,75 @@
             "headline": "이수명·은희경·김주연 등 제34회 ‘대산문학상’ 수상"
           },
           {
-            "name": "한겨레",
-            "group": "hani.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xT2R4Yjd1RE1UQU5XalZlM2Y3Sm9kYlZPNXF0aU5nSmZ5dmFzeUdJNUdaWXMtSlROUW1uNkJEdU5LeU1oNTR2NUpIcEtQRS1xaURsNUNpOWdOZDVQV2dwcDZMMA?oc=5",
-            "published_at": "2026-11-17T10:05:00Z",
-            "headline": "등단 합쳐 126년차…‘대산문학상’에 시 이수명, 소설 은희경, 평론 김주연"
-          },
-          {
             "name": "중앙일보",
             "group": "joongang.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ENUNodVU0MktiT0IwaEVrdUtWZUp0QTRDb3BrOXVqaVNWZExCQWpQQlRHR2pRcDJxOVMyajMxZ3d4SG1BRUZSNWpjUUlkZlF0ZHd3aEln?oc=5",
-            "published_at": "2026-11-17T06:23:21Z",
-            "headline": "“막막하지만 더 가보겠다”…대산문학상에 시 이수명, 소설 은희경"
-          },
-          {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ld3BCTXNNWVp0M2VWM0NyTU5TNnBEUHh2ZHVlVHU1bktiVkpwZk1saFBKR01Za0UxcnZyaTBEM0hoUHBFOUFEeHhwNmFhQ21xLXBfVVlnWURMM2fSAWBBVV95cUxNclBPb2JLSllCNWNaVF8tUV9WVUROV21ubU9YTFFod3dTSXJHc0VDck90QnpwVVdWdldKXy1aNG9tMVNsOEZYS0wzeC0tclZ1REVKa3daRGoxXzRwNUozbEg?oc=5",
-            "published_at": "2026-11-17T04:50:08Z",
-            "headline": "대산문학상 은희경 \"인간을 섬세하게 존중하려는 고민 담아\"(종합)"
-          }
-        ]
-      },
-      "selection_rank": 1
-    },
-    {
-      "id": "42428b0c3577854d90d2",
-      "category": "문화",
-      "title": "온유, 내년 1월 14·15일 日 단독 콘서트 개최",
-      "summary": "온유, 내년 1월 14·15일 日 단독 콘서트 개최",
-      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 5시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘온유, 내년 1월 14·15일 日 단독 콘서트 개최’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "JTBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmMGZQRk1KYzZuY0FfVnlReFljcHB3S1p5dlgwdzd3OTBlWkJvci1IVlNUclBNQVZZN2xCR0luV2pQbzVoUkhSdFFJRDRWY2tmZU9DNQ?oc=5",
-      "published_at": "2026-11-19T06:40:26Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 3,
-        "report_count": 4,
-        "span_hours": 5.7,
-        "first_report_at": "2026-11-19T06:40:26Z",
-        "last_report_at": "2026-11-19T12:22:09Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmMGZQRk1KYzZuY0FfVnlReFljcHB3S1p5dlgwdzd3OTBlWkJvci1IVlNUclBNQVZZN2xCR0luV2pQbzVoUkhSdFFJRDRWY2tmZU9DNQ?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XTWZQbGpDVDM1TzgyenJpU2pXLXBDVDV2dzFxQ29BT0wxTk9mbk84N2VlWTVraGdNU3E2TWtfM3V3YjJYV3dTZU5XUnpVRDFjd2RrZjh2TjFsUnB1R0I5UDZIcXRTR0NMUmdJdkhR?oc=5",
-        "sources": [
-          {
-            "name": "스포츠동아",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XTWZQbGpDVDM1TzgyenJpU2pXLXBDVDV2dzFxQ29BT0wxTk9mbk84N2VlWTVraGdNU3E2TWtfM3V3YjJYV3dTZU5XUnpVRDFjd2RrZjh2TjFsUnB1R0I5UDZIcXRTR0NMUmdJdkhR?oc=5",
-            "published_at": "2026-11-19T12:22:09Z",
-            "headline": "온앤오프, 내년 1월 단독 콘서트 개최…연초부터 퓨즈와 함께"
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQZ1NKSmgwTzYzX3V0OWU2eXBSdm1ndUIxaGhibmREdDh6UUpXQXcwYVlld0loWGRnUlJCZHVReUd0NHhlREdQQkxzT1NTZEFkRVdnenBR?oc=5",
+            "published_at": "2026-11-17T15:02:00Z",
+            "headline": "시 이수명·소설 은희경, 올해 대산문학상 수상"
           },
           {
             "name": "문화일보",
             "group": "munhwa.com",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3Umg5MS1BQ2dueHpvdjBLNkotdVNtekRyVGtxR0NzOUdDWl9pTzhKSS1CU2poMjk4YkI1dnVvT05zeEFQekdsZUQwbFo3WHY3?oc=5",
-            "published_at": "2026-11-19T07:08:05Z",
-            "headline": "플레이브, 내년 1월 고척돔서 앙코르 콘서트 개최"
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0Z2E4V2c4S1pldnNmbzNDV0NwZE5qcEZKQ09qakZpRHpJVjFhd3phVktEQk9JVVNVRi1fRTNPc1JtN2JtU192X0dKVWI4R3RD?oc=5",
+            "published_at": "2026-11-17T11:04:20Z",
+            "headline": "은희경 “미래 향한 낙관”·이수명 “새 기척의 신호”…대산문학상 수상"
           },
           {
-            "name": "JTBC",
-            "group": "jtbc.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmMGZQRk1KYzZuY0FfVnlReFljcHB3S1p5dlgwdzd3OTBlWkJvci1IVlNUclBNQVZZN2xCR0luV2pQbzVoUkhSdFFJRDRWY2tmZU9DNQ?oc=5",
-            "published_at": "2026-11-19T06:40:26Z",
-            "headline": "온유, 내년 1월 14·15일 日 단독 콘서트 개최"
+            "name": "경향신문",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44dGFVSDFZM1BWQlJzU25xX3dzNlktSFNwZ2IzVl8zVjRFbElqbUZxV242MWlhMFVZVlUyT2xtamEzOG41NXU4bEtoOVM0QUNsVzVpcEt1X1pNd9IBX0FVX3lxTE5sTTFLd3pQUC1ldERNelVCUkVKV0RYSW1UQmJTVUJrWUN2Y2tkdGpBOUFlWVZzR0x3VG9oWTZvQ2ZuTTVTcWZiUlg3NmxLQi11MGhCcVZBTmp3QVowV2hR?oc=5",
+            "published_at": "2026-11-17T07:32:00Z",
+            "headline": "“65세 여성에 대한 고정관념 깨고 싶었다”···은희경 ‘시간의 감촉’ 대산문학상 수상"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "e0087376b7650d537b24",
+      "id": "25a34e7a8e92b025ccfd",
+      "category": "문화",
+      "title": "빅뱅, 오늘 신곡 깜짝 발표…'마마 어워즈' 기대감 ↑",
+      "summary": "빅뱅, 오늘 신곡 깜짝 발표…'마마 어워즈' 기대감 ↑",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘빅뱅, 오늘 신곡 깜짝 발표…'마마 어워즈' 기대감 ↑’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
+      "source": "한국경제",
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNzlIX3BrdTM2RjVhMTJvQlZRa3FLWmR1NnJYa3d2UFpBUmhLNkhNZ0dIX3hTM0RmbTlkTUFrY3VXa01RVUI2U2hpTHhGVm51aVdhMDVsWnR1dw?oc=5",
+      "published_at": "2026-11-20T00:38:16Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 0.5,
+        "first_report_at": "2026-11-20T00:07:46Z",
+        "last_report_at": "2026-11-20T00:38:16Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tMTlyN1RNUWhkVWQydDhQTHJGYy1hSHRjakhMeXpISlFiUUpmMmlEdlFLUDRESlVYOWVBOXVJc3VwMklPb05sVHF5eUR5bFdNNGJpdUxqT0NmUGfSAWBBVV95cUxNa1dIR0dYa3hjSFJXSDhITzBIaTRYNnJmRXhxQnlTRG0wVEx5X21BX3M2YlNVdVplUXVxZzByOGpHSDZjYUZwUFVzTXBaUWRyZVgtdmZjNHlSUnhITEdWLWI?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNzlIX3BrdTM2RjVhMTJvQlZRa3FLWmR1NnJYa3d2UFpBUmhLNkhNZ0dIX3hTM0RmbTlkTUFrY3VXa01RVUI2U2hpTHhGVm51aVdhMDVsWnR1dw?oc=5",
+        "sources": [
+          {
+            "name": "한국경제",
+            "group": "hankyung.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNzlIX3BrdTM2RjVhMTJvQlZRa3FLWmR1NnJYa3d2UFpBUmhLNkhNZ0dIX3hTM0RmbTlkTUFrY3VXa01RVUI2U2hpTHhGVm51aVdhMDVsWnR1dw?oc=5",
+            "published_at": "2026-11-20T00:38:16Z",
+            "headline": "빅뱅, 오늘 신곡 깜짝 발표…'마마 어워즈' 기대감 ↑"
+          },
+          {
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tMTlyN1RNUWhkVWQydDhQTHJGYy1hSHRjakhMeXpISlFiUUpmMmlEdlFLUDRESlVYOWVBOXVJc3VwMklPb05sVHF5eUR5bFdNNGJpdUxqT0NmUGfSAWBBVV95cUxNa1dIR0dYa3hjSFJXSDhITzBIaTRYNnJmRXhxQnlTRG0wVEx5X21BX3M2YlNVdVplUXVxZzByOGpHSDZjYUZwUFVzTXBaUWRyZVgtdmZjNHlSUnhITEdWLWI?oc=5",
+            "published_at": "2026-11-20T00:07:46Z",
+            "headline": "20주년 빅뱅, 오늘 신곡 깜짝 발표…내일 '마마 어워즈' 출연"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "a1e142207b632146b6bc",
       "category": "스포츠",
       "title": "허구연 KBO 총재, 만장일치로 3연임 성공",
       "summary": "허구연 KBO 총재, 만장일치로 3연임 성공",
-      "why_now": "수집 범위에서 관련 보도 20개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 13시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 17개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 18시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘허구연 KBO 총재, 만장일치로 3연임 성공’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
       "source": "MBC 뉴스",
@@ -117,26 +117,33 @@
       "evidence": "headline",
       "coverage": {
         "source_groups": 8,
-        "report_count": 20,
-        "span_hours": 13.3,
-        "first_report_at": "2026-11-19T01:13:38Z",
-        "last_report_at": "2026-11-19T14:32:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtazJETUxpa3VnQU9BNGh2S1o5XzNhWjlIeV9ZQWJtYzdhNERvWFFSWGZiaHFKOERjS2Z4dkZJcURpVGFORHVFeFBZZWR2dFdiMTR2RmROQTRlWF8tYUF6WEFrdXY2Tk1KTVHSAW9BVV95cUxNdENpQXZSTEdLa1lpUkpTYUF3ZElTY2pFdDNJTGlGaXJ5TWRZLVB1TVZtdHg4RUd2UXBSQW9qeTFDZV9PREJud0lZUzFfSVpuOFI5OUpabjFQdnREaXlpZFl2QTVPWHRsY3pMdDNFNXc?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdF9LQ01DeUlqcVdPMFhOM0tmRUtZOEpSeFFkNHRGbFFMVGU0bl9JWHAxLV8tS3pkc21qWmVUN05SSDRFak5kRk45cXFFQlFWclFfdmdERU1wbWh0Tm9YNzFpblpqWExTTzgwbndqNEQxd0g3Y2x6NldGUnh5bm8wblV6QQ?oc=5",
+        "report_count": 17,
+        "span_hours": 18.0,
+        "first_report_at": "2026-11-19T01:30:21Z",
+        "last_report_at": "2026-11-19T19:30:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ENU90TmozblVOY1F3QWdidmI2NzJGQWgzRzhQWGdSeXcxZlpGTjQzWEIzcVB2ZTZzZVpfUklCaVhnRDBwV25BREdVd2dXY2dnQUh2dmhFX1pBa0k2WmwyV9IBeEFVX3lxTFBjUFFnSmpkaUtfZXRfZWZFSkFwdlBrNDUxOTdKb3VSN1BKVlY0RGtqcVNlVi1KSXNzaGxlek1uTnBUak90WXc3UjlRNUhPb2Q1SzR0RTQzZFlxb2QzQ3BVak5DRjJpQkRLRFRHR3ViU1lHajl1Nzc3Vg?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJMG51c05jbEVhcGNXUkNRbUtfNERNLWJQeHBhM2JlYjVCQmR1V1o2YVhBdEE4MUZ2SElyamhGVEhfQTlZemRuSE8wcFRCSmstaFRxRllSLTU4bG1KNV8wM1VYaW4tNUdtRDF1QXBuSzhHc0FB0gFmQVVfeXFMTk05NU1EUHloXzBJeERmaUxMVDFIb1I5Q0dMbmhaenVvT0d4NXhZNkc0RjdVRHhVdHc1dUZzcHdhZW5OWjl6VWM1ZHFBdTdOSWdPM0NwLU9XSnlFRHN5dU1wTnZubjJB?oc=5",
         "sources": [
+          {
+            "name": "동아일보",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJMG51c05jbEVhcGNXUkNRbUtfNERNLWJQeHBhM2JlYjVCQmR1V1o2YVhBdEE4MUZ2SElyamhGVEhfQTlZemRuSE8wcFRCSmstaFRxRllSLTU4bG1KNV8wM1VYaW4tNUdtRDF1QXBuSzhHc0FB0gFmQVVfeXFMTk05NU1EUHloXzBJeERmaUxMVDFIb1I5Q0dMbmhaenVvT0d4NXhZNkc0RjdVRHhVdHc1dUZzcHdhZW5OWjl6VWM1ZHFBdTdOSWdPM0NwLU9XSnlFRHN5dU1wTnZubjJB?oc=5",
+            "published_at": "2026-11-19T19:30:00Z",
+            "headline": "허구연 KBO총재, 만장일치 3연임"
+          },
+          {
+            "name": "YTN",
+            "group": "ytn.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1obzdhcWt1RHhMbnpBbHJkMEhxckJRZ29nbVBuQU9WLVY2SzNPY3FVSzVIa2JjUTY5MkN4U3ZwbUZWeFctT1dTMERLejByMzAtcFhybmhyT21XMllnWlpqZjUtcmxfYzgwQ1Z0LThQdU1UVk9wcFE?oc=5",
+            "published_at": "2026-11-19T14:39:00Z",
+            "headline": "'최다 관중·중계권료' 힘 받은 허구연, KBO 총재 3연임 성공"
+          },
           {
             "name": "조선일보",
             "group": "chosun.com",
             "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdF9LQ01DeUlqcVdPMFhOM0tmRUtZOEpSeFFkNHRGbFFMVGU0bl9JWHAxLV8tS3pkc21qWmVUN05SSDRFak5kRk45cXFFQlFWclFfdmdERU1wbWh0Tm9YNzFpblpqWExTTzgwbndqNEQxd0g3Y2x6NldGUnh5bm8wblV6QQ?oc=5",
             "published_at": "2026-11-19T14:32:00Z",
             "headline": "허구연 만장일치 3연임…KBO 총재 임기 2029년까지"
-          },
-          {
-            "name": "서울신문",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUeTBCVnRRWTZQVmZMMThFd01UM1l6elV0TzhkY1ZYTHVUcTBfQk1oYTY2OU5tNXgwcnhoTkl4N1NSbjlLV1NvOWl0bDhvTEVwYVhZQkZNaF9oNUFGeFV3NDdXVnNzQS13dmd3UjFldWNfSXFSVVJmVw?oc=5",
-            "published_at": "2026-11-19T12:51:16Z",
-            "headline": "허구연 KBO 총재… 만장일치로 3연임"
           },
           {
             "name": "MBC 뉴스",
@@ -167,13 +174,6 @@
             "headline": "허구연 총재, 2029년까지 KBO 이끈다…역대 세 번째 3연임"
           },
           {
-            "name": "일간스포츠",
-            "group": "edaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xYTNyVE00UHhKdWNhdXUxY3JQWVlfNUtEaWFuNHRGcGY1dzBLa3l3NEdBTnZLdHI1Z1V2MGNWR0F5NlZJNkd5U25nZ3VZeDA1NHFhOUJWSEJCY1E?oc=5",
-            "published_at": "2026-11-19T01:58:00Z",
-            "headline": "허구연 KBO 총재 '만장일치'로 3연임 확정, 역대 세 번째"
-          },
-          {
             "name": "KBS 뉴스",
             "group": "kbs.co.kr",
             "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8wc01mMUxybmVFV01iOWI1THJ2Nm5jd2dPNWJxbDh1VThRYlkxT19wUXoxemNSc1hJQlREN3pkZGY1U29oMEVneDRZd3JqZFhLY045Y3pKdHBNVFJTN25jRnQxdEZLQQ?oc=5",
@@ -185,46 +185,39 @@
       "selection_rank": 1
     },
     {
-      "id": "332e59d8aee4f82dbcb6",
+      "id": "19be3c6b71b0021033c2",
       "category": "기술",
-      "title": "이 난리에도 간큰 수험생들... 재난문자로 스마트폰 22개 적발",
-      "summary": "이 난리에도 간큰 수험생들... 재난문자로 스마트폰 22개 적발",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 7시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘이 난리에도 간큰 수험생들... 재난문자로 스마트폰 22개 적발’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "title": "LG전자, 로보틱스·AIDC 냉각에 힘 싣는다…44명 승진·조직개편 단행",
+      "summary": "LG전자, 로보틱스·AIDC 냉각에 힘 싣는다…44명 승진·조직개편 단행",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘LG전자, 로보틱스·AIDC 냉각에 힘 싣는다…44명 승진·조직개편 단행’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-      "source": "조선일보",
-      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeHhSQkVDUHJZX1VPdUpiTXpTNXBHWGt0cmxwVTMwSnVpWDRkYTBtSGNoaW0xaTE2RlFsT1BNMXFIYlJIWmM1SFMyOV9nMXF5TlFkaDFjRkgwdzZoS2U4S3BrNWhqTGNsMHMtcTFFSHE2TnNvU25HRjllci1IaEQ0ZmotcmJqQ1U?oc=5",
-      "published_at": "2026-11-19T02:25:42Z",
+      "source": "지디넷코리아",
+      "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xUFhnXzlUaHVYRmlfRnNXNzBUTEhSQkVva3hOZ2QzUFhaNFZvWGpIb0FKTFZMUUMxcGg0bF9HRDlSOGJndmhpNTBPZkRFWnVGNTk2RTJR?oc=5",
+      "published_at": "2026-11-19T07:37:04Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 3,
-        "report_count": 3,
-        "span_hours": 7.0,
-        "first_report_at": "2026-11-19T02:25:42Z",
-        "last_report_at": "2026-11-19T09:25:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeHhSQkVDUHJZX1VPdUpiTXpTNXBHWGt0cmxwVTMwSnVpWDRkYTBtSGNoaW0xaTE2RlFsT1BNMXFIYlJIWmM1SFMyOV9nMXF5TlFkaDFjRkgwdzZoS2U4S3BrNWhqTGNsMHMtcTFFSHE2TnNvU25HRjllci1IaEQ0ZmotcmJqQ1U?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JWTRNVnROYUh1bnUzbUdCTy1XTGJ2bU1KOUdIR0J2UUxXM1g2c2lTenpYUjlzS3BoWWdiT2t6ZHBtNUxLTDJfdGUydlZkQnFaNFNscQ?oc=5",
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 0.6,
+        "first_report_at": "2026-11-19T07:00:00Z",
+        "last_report_at": "2026-11-19T07:37:04Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BWER2dVgxUVB2QlYxaG1YOFMyLTU1ME5jU3IwNWJJa25xZnZXcjBHYWZ2RHNIdjhlRXFCOThDNjBfWDBmZjlyRVdJX1REUQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xUFhnXzlUaHVYRmlfRnNXNzBUTEhSQkVva3hOZ2QzUFhaNFZvWGpIb0FKTFZMUUMxcGg0bF9HRDlSOGJndmhpNTBPZkRFWnVGNTk2RTJR?oc=5",
         "sources": [
           {
-            "name": "JTBC",
-            "group": "jtbc.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JWTRNVnROYUh1bnUzbUdCTy1XTGJ2bU1KOUdIR0J2UUxXM1g2c2lTenpYUjlzS3BoWWdiT2t6ZHBtNUxLTDJfdGUydlZkQnFaNFNscQ?oc=5",
-            "published_at": "2026-11-19T09:25:00Z",
-            "headline": "[맞수토론] 전국에 울린 ‘삐’소리…재난문자로 스마트폰 적발"
+            "name": "지디넷코리아",
+            "group": "zdnet.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xUFhnXzlUaHVYRmlfRnNXNzBUTEhSQkVva3hOZ2QzUFhaNFZvWGpIb0FKTFZMUUMxcGg0bF9HRDlSOGJndmhpNTBPZkRFWnVGNTk2RTJR?oc=5",
+            "published_at": "2026-11-19T07:37:04Z",
+            "headline": "LG전자, 로보틱스·AIDC 냉각에 힘 싣는다…44명 승진·조직개편 단행"
           },
           {
-            "name": "MBC 뉴스",
-            "group": "imbc.com",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Ib0h1anVwTmdOeHNYUUZ1akM0aWVvcU1nOWVwbUVuU3FnSWo1S2U4SG1lQk8zQzRRclZLdDNnREQwaHJGbjd4aWNmUTVQMnNVNjlTbVk4RFVsLThPUXlWR05IR2xBSm5obmxNVmd4OE5Ua3dmQWgzTdIBeEFVX3lxTE9FeU1PbmN2ZzhSQVN0M3pPS3dVN0xFWmlfQTdtV09yeGVOQXZRVG1hdi13NXE5cEJieEtMcVo5Mll0NmRnaE82UEk1T1N0RWZDV1RvdnlGai1RSGFBVjlJZEg1NWJRVTZBN3RJdjZRNmpfd3FlcXdrSw?oc=5",
-            "published_at": "2026-11-19T03:03:21Z",
-            "headline": "\"재난문자로 스마트폰 22명 적발\"‥시험 차질은 없어"
-          },
-          {
-            "name": "조선일보",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeHhSQkVDUHJZX1VPdUpiTXpTNXBHWGt0cmxwVTMwSnVpWDRkYTBtSGNoaW0xaTE2RlFsT1BNMXFIYlJIWmM1SFMyOV9nMXF5TlFkaDFjRkgwdzZoS2U4S3BrNWhqTGNsMHMtcTFFSHE2TnNvU25HRjllci1IaEQ0ZmotcmJqQ1U?oc=5",
-            "published_at": "2026-11-19T02:25:42Z",
-            "headline": "이 난리에도 간큰 수험생들... 재난문자로 스마트폰 22개 적발"
+            "name": "전자신문",
+            "group": "etnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BWER2dVgxUVB2QlYxaG1YOFMyLTU1ME5jU3IwNWJJa25xZnZXcjBHYWZ2RHNIdjhlRXFCOThDNjBfWDBmZjlyRVdJX1REUQ?oc=5",
+            "published_at": "2026-11-19T07:00:00Z",
+            "headline": "中 가전 3강, AIDC 냉각 총공세…삼성·LG전자 '차세대 먹거리' 추격"
           }
         ]
       },
@@ -235,7 +228,7 @@
       "category": "생활",
       "title": "아파트 화재 대피 돕다 숨진 경비원 ‘의사자’ 지정 신청",
       "summary": "아파트 화재 대피 돕다 숨진 경비원 ‘의사자’ 지정 신청",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.20 05:32 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘아파트 화재 대피 돕다 숨진 경비원 ‘의사자’ 지정 신청’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
       "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
       "source": "KBS 뉴스",
@@ -274,7 +267,8 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-19T20:32:08.747615Z"
     }
   ]
 }
