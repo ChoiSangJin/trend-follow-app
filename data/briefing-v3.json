@@ -2,8 +2,61 @@
   "schema_version": 3,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-21T19:12:02.254793Z",
+  "updated_at": "2026-11-22T06:43:15.724505Z",
   "cards": [
+    {
+      "id": "0fe73d3ecd557675d98a",
+      "category": "문화·예술",
+      "title": "김치가 일본 음식?…반 고흐 미술관, 항의 끝에 메뉴 없애",
+      "summary": "김치가 일본 음식?…반 고흐 미술관, 항의 끝에 메뉴 없애",
+      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘김치가 일본 음식?…반 고흐 미술관, 항의 끝에 메뉴 없애’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
+      "source": "국민일보",
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SX0tQdjdqOEtEbFNmNk56VDdlMHk5NkVJQS1SLWlMYW5FeEdCMUFpLTg3R1dvZlk0cXAxN2hIVmdJVHUyZk9vczRJajdzRFV6cjJWdzBKT1M?oc=5",
+      "published_at": "2026-11-22T00:07:44Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 4,
+        "report_count": 4,
+        "span_hours": 0.8,
+        "first_report_at": "2026-11-21T23:20:01Z",
+        "last_report_at": "2026-11-22T00:09:48Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyRU9palFhZ25RbEJ0bXJZSTJMVUJlUi1oQUFwbUZWMGhuRTQ5WTE1MHJnanB4TEprY0ZSOW9zQTRzNzBLSGJKSXFqZWVRS0FteTFTVTMwYzBqUmfSAWBBVV95cUxQVWZQSjZMcUdOMklYNEtEN3JBNmhkWC1pVHhiNHh3VUJOVzc1NEVjM3RtQTlzYjhYNHYxV1FESTRoald3Umk3dW9TUGpoY1JuVXdlQXhIeDhaUDludjFhbmQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQXg3Rm5sMHk2WjBVLXY2dGJ2NkpEdEJ1RkZzMXU3OUZzS2tVbnlLaF9ROFkyeVp4TGMyYklSbHBTZGVubjluSzRpR3g1ZE5QaVRJa3c2UXdMeGJhR2JVQkNLd295X3pObFlQaW5tLWY3dGPSAWZBVV95cUxNT21aTzZTMWR2SkxNU2otYTNvMDBBT0ctWUdKTmhiNlg0T2l0cmxma0VoWHlYc29RdmhTS2JfSUpUWG5Jdm14VXFfcjRnWmUtbDI2VnJ6TWV6V2VPTlZoREI2Y1VOUnc?oc=5",
+        "sources": [
+          {
+            "name": "동아일보",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQXg3Rm5sMHk2WjBVLXY2dGJ2NkpEdEJ1RkZzMXU3OUZzS2tVbnlLaF9ROFkyeVp4TGMyYklSbHBTZGVubjluSzRpR3g1ZE5QaVRJa3c2UXdMeGJhR2JVQkNLd295X3pObFlQaW5tLWY3dGPSAWZBVV95cUxNT21aTzZTMWR2SkxNU2otYTNvMDBBT0ctWUdKTmhiNlg0T2l0cmxma0VoWHlYc29RdmhTS2JfSUpUWG5Jdm14VXFfcjRnWmUtbDI2VnJ6TWV6V2VPTlZoREI2Y1VOUnc?oc=5",
+            "published_at": "2026-11-22T00:09:48Z",
+            "headline": "김치 요리가 일본풍?…네덜란드 미술관 식당, 결국 메뉴 정정"
+          },
+          {
+            "name": "국민일보",
+            "group": "kmib.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SX0tQdjdqOEtEbFNmNk56VDdlMHk5NkVJQS1SLWlMYW5FeEdCMUFpLTg3R1dvZlk0cXAxN2hIVmdJVHUyZk9vczRJajdzRFV6cjJWdzBKT1M?oc=5",
+            "published_at": "2026-11-22T00:07:44Z",
+            "headline": "김치가 일본 음식?…반 고흐 미술관, 항의 끝에 메뉴 없애"
+          },
+          {
+            "name": "스포츠서울",
+            "group": "sportsseoul.com",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81NDNXYTVtRXY5cUhkUXV4dUxTSEFUeHE4Zjhma0t5MXFyeGRRLWNiVW9FSWRUNk01c2EzcVNGWU96ZGkzczBmUnBnejVLZEJ4V2JZd05OVVA?oc=5",
+            "published_at": "2026-11-22T00:06:43Z",
+            "headline": "“김치가 왜 일본 음식?”…반 고흐 미술관, 꾸준한 항의에 결국 수정"
+          },
+          {
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyRU9palFhZ25RbEJ0bXJZSTJMVUJlUi1oQUFwbUZWMGhuRTQ5WTE1MHJnanB4TEprY0ZSOW9zQTRzNzBLSGJKSXFqZWVRS0FteTFTVTMwYzBqUmfSAWBBVV95cUxQVWZQSjZMcUdOMklYNEtEN3JBNmhkWC1pVHhiNHh3VUJOVzc1NEVjM3RtQTlzYjhYNHYxV1FESTRoald3Umk3dW9TUGpoY1JuVXdlQXhIeDhaUDludjFhbmQ?oc=5",
+            "published_at": "2026-11-21T23:20:01Z",
+            "headline": "김치 넣었는데 일본풍?…반고흐미술관 항의 끝에 메뉴 삭제"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
     {
       "id": "f36b044c8730089655a0",
       "category": "문화·예술",
@@ -48,53 +101,53 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 2
     },
     {
-      "id": "acab325ddf04c038f428",
-      "category": "문화·예술",
-      "title": "올해 11월 셋째주 베스트셀러에 ‘멜로우TV 팀나빠2’",
-      "summary": "올해 11월 셋째주 베스트셀러에 ‘멜로우TV 팀나빠2’",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘올해 11월 셋째주 베스트셀러에 ‘멜로우TV 팀나빠2’’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
-      "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-      "source": "이데일리",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNblNJa1NzcU42STN6ckUxUlIyWUhwN0czWEJaQ1RndGdhczliRDdxVmdCbUVwcHpMOUNmb2VpNERobEszN0lncjNGMWpFME40ZlZsb3l6VjhRYlJweUJiVi1JQzJreTdMaEo3ZllsWXZLZ3gwTExMLVNoMDFBM0JXMQ?oc=5",
-      "published_at": "2026-11-19T07:34:26Z",
+      "id": "42b6ac12a103dcd29d27",
+      "category": "연예",
+      "title": "BTS 콘서트 현장서 입장권 팔찌 100장 훔친 중국인 집유",
+      "summary": "BTS 콘서트 현장서 입장권 팔찌 100장 훔친 중국인 집유",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘BTS 콘서트 현장서 입장권 팔찌 100장 훔친 중국인 집유’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
+      "source": "뉴시스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3NkZ3WC1tUHhweVpYUWQzaC1ESURHcUtDc1pEUXdoNFB3OHV1RzFMRTFUUC1zcUxnb1MySlJna0hHSVNxSE1lLWNnVS1BcHJqMWw0eXItbUZUeGhtVG9GVtIBeEFVX3lxTFBmYVhFMGhMVUNHZEdDZGlaaXQ1T1FBQm5FSjRlTkd0U1pSYTZ3RTQwZUhFY19uZWlGZUdvM0wxTlpYdWs3cGxOUjRQQlE1TjZqcVhhZDBlNGh4UTVnUnJsN2NhUWxhR1J4S3Jmek5JTHI0cDU4UzJJQQ?oc=5",
+      "published_at": "2026-11-22T00:00:00Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 2,
         "report_count": 2,
-        "span_hours": 1.9,
-        "first_report_at": "2026-11-19T05:38:21Z",
-        "last_report_at": "2026-11-19T07:34:26Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55WXlHMTRuQW4tdHg0NnZZQ1UtODZXSTJyMzRjZEJxZXZjb2Q5NFhrN2pYdnNRVUM2cHBnSTAtUTNEY19SX0V2S1dhRkd4VExaZzhId3hJRmpiQQ?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNblNJa1NzcU42STN6ckUxUlIyWUhwN0czWEJaQ1RndGdhczliRDdxVmdCbUVwcHpMOUNmb2VpNERobEszN0lncjNGMWpFME40ZlZsb3l6VjhRYlJweUJiVi1JQzJreTdMaEo3ZllsWXZLZ3gwTExMLVNoMDFBM0JXMQ?oc=5",
+        "span_hours": 0.0,
+        "first_report_at": "2026-11-22T00:00:00Z",
+        "last_report_at": "2026-11-22T00:00:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04eUJHUTFOdS1TeGpBVGpQZC1Qd2pLeldCSHRyWFZJM2V4QmZMcDVIbkVON1g4Nlp0Q0JrdDUycV9lSmg2Zi00MFdDUERuM29IYU9uTjNHc3h3TDBDOE8w?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3NkZ3WC1tUHhweVpYUWQzaC1ESURHcUtDc1pEUXdoNFB3OHV1RzFMRTFUUC1zcUxnb1MySlJna0hHSVNxSE1lLWNnVS1BcHJqMWw0eXItbUZUeGhtVG9GVtIBeEFVX3lxTFBmYVhFMGhMVUNHZEdDZGlaaXQ1T1FBQm5FSjRlTkd0U1pSYTZ3RTQwZUhFY19uZWlGZUdvM0wxTlpYdWs3cGxOUjRQQlE1TjZqcVhhZDBlNGh4UTVnUnJsN2NhUWxhR1J4S3Jmek5JTHI0cDU4UzJJQQ?oc=5",
         "sources": [
           {
-            "name": "이데일리",
-            "group": "edaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNblNJa1NzcU42STN6ckUxUlIyWUhwN0czWEJaQ1RndGdhczliRDdxVmdCbUVwcHpMOUNmb2VpNERobEszN0lncjNGMWpFME40ZlZsb3l6VjhRYlJweUJiVi1JQzJreTdMaEo3ZllsWXZLZ3gwTExMLVNoMDFBM0JXMQ?oc=5",
-            "published_at": "2026-11-19T07:34:26Z",
-            "headline": "올해 11월 셋째주 베스트셀러에 ‘멜로우TV 팀나빠2’"
+            "name": "뉴시스",
+            "group": "wire:뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3NkZ3WC1tUHhweVpYUWQzaC1ESURHcUtDc1pEUXdoNFB3OHV1RzFMRTFUUC1zcUxnb1MySlJna0hHSVNxSE1lLWNnVS1BcHJqMWw0eXItbUZUeGhtVG9GVtIBeEFVX3lxTFBmYVhFMGhMVUNHZEdDZGlaaXQ1T1FBQm5FSjRlTkd0U1pSYTZ3RTQwZUhFY19uZWlGZUdvM0wxTlpYdWs3cGxOUjRQQlE1TjZqcVhhZDBlNGh4UTVnUnJsN2NhUWxhR1J4S3Jmek5JTHI0cDU4UzJJQQ?oc=5",
+            "published_at": "2026-11-22T00:00:00Z",
+            "headline": "BTS 콘서트 현장서 입장권 팔찌 100장 훔친 중국인 집유"
           },
           {
-            "name": "파이낸셜뉴스",
-            "group": "fnnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55WXlHMTRuQW4tdHg0NnZZQ1UtODZXSTJyMzRjZEJxZXZjb2Q5NFhrN2pYdnNRVUM2cHBnSTAtUTNEY19SX0V2S1dhRkd4VExaZzhId3hJRmpiQQ?oc=5",
-            "published_at": "2026-11-19T05:38:21Z",
-            "headline": "주간 베스트셀러(2026년 11월 13~19일)"
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04eUJHUTFOdS1TeGpBVGpQZC1Qd2pLeldCSHRyWFZJM2V4QmZMcDVIbkVON1g4Nlp0Q0JrdDUycV9lSmg2Zi00MFdDUERuM29IYU9uTjNHc3h3TDBDOE8w?oc=5",
+            "published_at": "2026-11-22T00:00:00Z",
+            "headline": "\"암표로 팔려고\" BTS 콘서트 입장권 100장 훔친 중국인…징역형 집유"
           }
         ]
       },
-      "selection_rank": 2
+      "selection_rank": 1
     },
     {
       "id": "44eb5f3d81fd2e18655b",
       "category": "연예",
       "title": "DAY6, 연말 360도 콘서트 ‘The Present' 전석 매진 [공식]",
       "summary": "DAY6, 연말 360도 콘서트 ‘The Present' 전석 매진 [공식]",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.22 04:12 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘DAY6, 연말 360도 콘서트 ‘The Present' 전석 매진 [공식]’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
       "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
       "source": "OSEN",
@@ -126,134 +179,15 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 2,
+      "last_collected_at": "2026-11-21T19:12:02.254793Z"
     },
     {
-      "id": "fc22ce6267e3464cd279",
-      "category": "연예",
-      "title": "20주년 빅뱅, 오늘 신곡 깜짝 발표…제목도 비밀, 기습 발매",
-      "summary": "20주년 빅뱅, 오늘 신곡 깜짝 발표…제목도 비밀, 기습 발매",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘20주년 빅뱅, 오늘 신곡 깜짝 발표…제목도 비밀, 기습 발매’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "경향신문",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01aGxFZlcxVGFuR0NRRE5xd3ZpUFA3ZXgwdEVvMmM2bHo1Wlp1M2gzRnJ0WEVrTWNBSzI1VkdFbDBqekdmYU9VUXE2ZGNRV3l5MEVvTFZOdG4tZ9IBX0FVX3lxTE4xb2I2VkY1UUxZRWF4bWhGOE5hM2ZZTDh1MnBzQ3dNZXhIbEp5Wlk0THRDbW5KWkdEc3JyZ19MYTZQcmMwcng0dlJlczZoMlV5RkwtWmxVU3VsTjdzMGE4?oc=5",
-      "published_at": "2026-11-20T01:44:00Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 1.1,
-        "first_report_at": "2026-11-20T00:38:16Z",
-        "last_report_at": "2026-11-20T01:44:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNzlIX3BrdTM2RjVhMTJvQlZRa3FLWmR1NnJYa3d2UFpBUmhLNkhNZ0dIX3hTM0RmbTlkTUFrY3VXa01RVUI2U2hpTHhGVm51aVdhMDVsWnR1dw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01aGxFZlcxVGFuR0NRRE5xd3ZpUFA3ZXgwdEVvMmM2bHo1Wlp1M2gzRnJ0WEVrTWNBSzI1VkdFbDBqekdmYU9VUXE2ZGNRV3l5MEVvTFZOdG4tZ9IBX0FVX3lxTE4xb2I2VkY1UUxZRWF4bWhGOE5hM2ZZTDh1MnBzQ3dNZXhIbEp5Wlk0THRDbW5KWkdEc3JyZ19MYTZQcmMwcng0dlJlczZoMlV5RkwtWmxVU3VsTjdzMGE4?oc=5",
-        "sources": [
-          {
-            "name": "경향신문",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01aGxFZlcxVGFuR0NRRE5xd3ZpUFA3ZXgwdEVvMmM2bHo1Wlp1M2gzRnJ0WEVrTWNBSzI1VkdFbDBqekdmYU9VUXE2ZGNRV3l5MEVvTFZOdG4tZ9IBX0FVX3lxTE4xb2I2VkY1UUxZRWF4bWhGOE5hM2ZZTDh1MnBzQ3dNZXhIbEp5Wlk0THRDbW5KWkdEc3JyZ19MYTZQcmMwcng0dlJlczZoMlV5RkwtWmxVU3VsTjdzMGE4?oc=5",
-            "published_at": "2026-11-20T01:44:00Z",
-            "headline": "20주년 빅뱅, 오늘 신곡 깜짝 발표…제목도 비밀, 기습 발매"
-          },
-          {
-            "name": "한국경제",
-            "group": "hankyung.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iNzlIX3BrdTM2RjVhMTJvQlZRa3FLWmR1NnJYa3d2UFpBUmhLNkhNZ0dIX3hTM0RmbTlkTUFrY3VXa01RVUI2U2hpTHhGVm51aVdhMDVsWnR1dw?oc=5",
-            "published_at": "2026-11-20T00:38:16Z",
-            "headline": "빅뱅, 오늘 신곡 깜짝 발표…'마마 어워즈' 기대감 ↑"
-          }
-        ]
-      },
-      "selection_rank": 2
-    },
-    {
-      "id": "a1e142207b632146b6bc",
-      "category": "스포츠",
-      "title": "허구연 KBO 총재, 만장일치로 3연임 성공",
-      "summary": "허구연 KBO 총재, 만장일치로 3연임 성공",
-      "why_now": "수집 범위에서 관련 보도 15개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 27시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘허구연 KBO 총재, 만장일치로 3연임 성공’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "MBC 뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FbnFBZTUySWpXOEE1emc4Tk1CekRneFRWcGdpanFDeVhZc0EzQ1M0aFV5WmtMcWk5WEVRRDRmNkhKTWJYT0daSGJvZ0p1ZmUzLWFkTzQ3ZkYteHQ4bEJJNlRjSHVDbjN2c1ZMNGN4WTRybmRVNHVlOA?oc=5",
-      "published_at": "2026-11-19T12:01:13Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 8,
-        "report_count": 15,
-        "span_hours": 27.7,
-        "first_report_at": "2026-11-19T01:30:21Z",
-        "last_report_at": "2026-11-20T05:15:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ENU90TmozblVOY1F3QWdidmI2NzJGQWgzRzhQWGdSeXcxZlpGTjQzWEIzcVB2ZTZzZVpfUklCaVhnRDBwV25BREdVd2dXY2dnQUh2dmhFX1pBa0k2WmwyV9IBeEFVX3lxTFBjUFFnSmpkaUtfZXRfZWZFSkFwdlBrNDUxOTdKb3VSN1BKVlY0RGtqcVNlVi1KSXNzaGxlek1uTnBUak90WXc3UjlRNUhPb2Q1SzR0RTQzZFlxb2QzQ3BVak5DRjJpQkRLRFRHR3ViU1lHajl1Nzc3Vg?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hLWpCTUt4R0ZSWTlsRDh1MXRpdEhGbVRjZksyNWFFa2dFY29GTF9HSTRVY2FDX2xkUE0zWUw0OGlFUDJVV3ZWTXJmSHhad2R5Ym5jVUZQUlNaQTE0aldrYy15REJZTlNMb2toX2NLU0tCY2E3eG5aM3VOTDBTUQ?oc=5",
-        "sources": [
-          {
-            "name": "오마이스타",
-            "group": "ohmynews.com",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hLWpCTUt4R0ZSWTlsRDh1MXRpdEhGbVRjZksyNWFFa2dFY29GTF9HSTRVY2FDX2xkUE0zWUw0OGlFUDJVV3ZWTXJmSHhad2R5Ym5jVUZQUlNaQTE0aldrYy15REJZTlNMb2toX2NLU0tCY2E3eG5aM3VOTDBTUQ?oc=5",
-            "published_at": "2026-11-20T05:15:00Z",
-            "headline": "허구연 KBO 총재 세번째 연임, 성과와 과제는?"
-          },
-          {
-            "name": "동아일보",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NOTVNRFB5aF8wSXhEZmlMTFQxSG9SOUNHTG5oWnp1b09HeDV4WTZHNEY3VUR4VXR3NXVGc3B3YWVuTlo5elVjNWRxQXU3TklnTzNDcC1PV0p5RURzeXVNcE52bm4yQdIBZkFVX3lxTE5NOTVNRFB5aF8wSXhEZmlMTFQxSG9SOUNHTG5oWnp1b09HeDV4WTZHNEY3VUR4VXR3NXVGc3B3YWVuTlo5elVjNWRxQXU3TklnTzNDcC1PV0p5RURzeXVNcE52bm4yQQ?oc=5",
-            "published_at": "2026-11-19T19:30:00Z",
-            "headline": "허구연 KBO총재, 만장일치 3연임"
-          },
-          {
-            "name": "YTN",
-            "group": "ytn.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93VDl5RUNVMmlRdjJoODVRNW8tTTNIZXhXa2pNLUVJX3hlYkFBSjQ2RmphZ01CdjFIUll5RURKbnNCZkhTSWxuSGFuLXEwdnJtRXMxeEFOOWJpNHQxVUE?oc=5",
-            "published_at": "2026-11-19T14:39:00Z",
-            "headline": "'최다 관중·중계권료' 힘 받은 허구연, KBO 총재 3연임 성공"
-          },
-          {
-            "name": "조선일보",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdF9LQ01DeUlqcVdPMFhOM0tmRUtZOEpSeFFkNHRGbFFMVGU0bl9JWHAxLV8tS3pkc21qWmVUN05SSDRFak5kRk45cXFFQlFWclFfdmdERU1wbWh0Tm9YNzFpblpqWExTTzgwbndqNEQxd0g3Y2x6NldGUnh5bm8wblV6QQ?oc=5",
-            "published_at": "2026-11-19T14:32:00Z",
-            "headline": "허구연 만장일치 3연임…KBO 총재 임기 2029년까지"
-          },
-          {
-            "name": "MBC 뉴스",
-            "group": "imbc.com",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FbnFBZTUySWpXOEE1emc4Tk1CekRneFRWcGdpanFDeVhZc0EzQ1M0aFV5WmtMcWk5WEVRRDRmNkhKTWJYT0daSGJvZ0p1ZmUzLWFkTzQ3ZkYteHQ4bEJJNlRjSHVDbjN2c1ZMNGN4WTRybmRVNHVlOA?oc=5",
-            "published_at": "2026-11-19T12:01:13Z",
-            "headline": "허구연 KBO 총재, 만장일치로 3연임 성공"
-          },
-          {
-            "name": "경향신문",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VeTZFNEpCY1ZiTDJoZUoySjBnZGtScTAydlNrUkN1Ynh2OXQtSG1Ka0dDTWppNUcyNmplejRsY204X1RuVFFjVkt2NmRSTXdoaFhkZ0ttUWVxUdIBX0FVX3lxTE1ZTXZIUjl4VUNxNFlYcXUyMjFxd0lid0RsTWh5QlEtTTJXT1FpSmFnVUdFckNYbnJGaGVTengtZ0loUlVMSGxCbGxVdlY5NkFCTEx2elJvY0ZQbEZIeUFV?oc=5",
-            "published_at": "2026-11-19T11:32:00Z",
-            "headline": "허구연 KBO 총재 3연임 성공"
-          },
-          {
-            "name": "중앙일보",
-            "group": "joongang.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13ZW5ySlN5UThtSGtERzZpQ2Z6clFTYlhpZndhRi1XM0pDeHU0ZXU2enBGVXRFaklpRTdmRk54X1kwTm9Mb1JtX0gwa2czVFBUcUdVTWZn?oc=5",
-            "published_at": "2026-11-19T02:42:35Z",
-            "headline": "허구연 총재, 2029년까지 KBO 이끈다…역대 세 번째 3연임"
-          },
-          {
-            "name": "KBS 뉴스",
-            "group": "kbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWVDZGc0ZCV2hIUmV4eEZNMTZtS2ZEM0JJTWhTVXpabE5aMmd1WXFSTXk5ZHB0VmRkeXVGek13ZllmZFlwTlBJVmRDekpuLTd2dl85TmpSUmY3MGs?oc=5",
-            "published_at": "2026-11-19T01:46:00Z",
-            "headline": "허구연 KBO 총재, ‘만장일치’로 3연임…2029년까지 한국야구 수장"
-          }
-        ]
-      },
-      "selection_rank": 1
-    },
-    {
-      "id": "80a5a0e5a3a318011661",
+      "id": "c3d41705f0213cc70480",
       "category": "스포츠",
       "title": "삼성 구자욱, 빅리그 진출 시동…KBO \"MLB 사무국서 신분조회 요청\"",
       "summary": "삼성 구자욱, 빅리그 진출 시동…KBO \"MLB 사무국서 신분조회 요청\"",
-      "why_now": "수집 범위에서 관련 보도 8개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 14시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "수집 범위에서 관련 보도 10개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 31시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
       "opener": "‘삼성 구자욱, 빅리그 진출 시동…KBO \"MLB 사무국서 신분조회 요청\"’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
       "source": "JTBC",
@@ -262,13 +196,27 @@
       "evidence": "headline",
       "coverage": {
         "source_groups": 7,
-        "report_count": 8,
-        "span_hours": 14.7,
+        "report_count": 10,
+        "span_hours": 31.9,
         "first_report_at": "2026-11-20T07:21:00Z",
-        "last_report_at": "2026-11-20T22:00:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lYmpkbkxZTHA1THZsN1pFcUV5RS16SHQ5UzBDaS1LbElxVkVHSThjM1VsclNzcjlRbVo3d1NXTUhVQzExMjJIUUpnbE8yd2hoMFcxdE1kejJkQ3YyaDVTS1dhMF9VamhBNGfSAW9BVV95cUxNaThIVTZ1RlE5R1pjOHNqSGVRRU5CdjladUZMdzBsbXZPaEVIWmdGTlA5MFNiRUtqWkhvTXFQREpqeHZVbFhkXzdsYnRtbWRBWDcwT2dxamV5NGdTcUxKMjlNVVhrSDRCZUVHNU04aEE?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HMm9sRFRkOVJCbHZNLV81UFBNMktGTXhhYzgxV21ieHByazlNUVVUSlpENVFzWFg5VnlrRGRXcW1mN3FEeVdIX0xiRlNtMEVieFRka1lXVVRGYjlZa0dFWXViSQ?oc=5",
+        "last_report_at": "2026-11-21T15:15:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pOEhVNnVGUTlHWmM4c2pIZVFFTkJ2OVp1Rkx3MGxtdk9oRUhaZ0ZOUDkwU2JFS2paSG9NcVBESmp4dlVsWGRfN2xidG1tZEFYNzBPZ3FqZXk0Z1NxTEoyOU1VWGtINEJlRUc1TThoQdIBb0FVX3lxTE1pOEhVNnVGUTlHWmM4c2pIZVFFTkJ2OVp1Rkx3MGxtdk9oRUhaZ0ZOUDkwU2JFS2paSG9NcVBESmp4dlVsWGRfN2xidG1tZEFYNzBPZ3FqZXk0Z1NxTEoyOU1VWGtINEJlRUc1TThoQQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmcTJKNWNkb0xJWDhzb3FDZU5zVExhNnE2Sm5KNXhobTV2Z2RXSUdsbkc0ZC1mdTMtNDEzT3pzaDJLS1pMY25NWnp3MnhNOHVQUnQzVzZhbmJMYTNPQVJIQzFLWXdVcUtHUTR4SUhfR08?oc=5",
         "sources": [
+          {
+            "name": "SPOTV NEWS",
+            "group": "spotvnews.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmcTJKNWNkb0xJWDhzb3FDZU5zVExhNnE2Sm5KNXhobTV2Z2RXSUdsbkc0ZC1mdTMtNDEzT3pzaDJLS1pMY25NWnp3MnhNOHVQUnQzVzZhbmJMYTNPQVJIQzFLWXdVcUtHUTR4SUhfR08?oc=5",
+            "published_at": "2026-11-21T15:15:00Z",
+            "headline": "\"내년에도 뛰고 싶다\" 한국 남고싶다던 생각 바뀌었나…\"NPB MLB 제안 검토 중\" KBO 안타왕 해외 러브콜에 소속팀 롯데 비상"
+          },
+          {
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVjdJY0hMNU9GcGRXSlFmYk5hWTdLdFRNWTByYmhiTmtxYlBnNDBwYXd4amlmMnM2Mk9vUnp3UGNRbl9Fd3V5bmNSNGpmVGZYM3BqU25OaDRkNG9mZVdXT05JSTJVaDN3LWk4QXd3RGg4UTZTX3MxWjFiTnljbjk1RFhPYw?oc=5",
+            "published_at": "2026-11-20T23:42:00Z",
+            "headline": "‘MLB 사무국 신분조회 요청’ FA 최대어 구자욱, 정말 ML 진출할까…12월 직장폐쇄 전 결정된다"
+          },
           {
             "name": "뉴스1",
             "group": "wire:뉴스1",
@@ -300,23 +248,83 @@
           {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmOXowZUFaWnVEendKUlpqeGZaQkotd1lwLUxvdW9zT0hJSWUxNm52V3BJUWFTbzdRcUxZN0RqT0RqTGJfNGpnaHhuQkdfOXdwaVA3YS1TNnk0UDjSAWBBVV95cUxPVFVPX0pmSnZfbmdqSS1DQW4td09JN2NJUTlZZjBxbzdKVnRDR2E5cG5zZHlLamkwUEdJMXY4OHJIQXlNMVNMME04Vks0ZEt4aUdTVlpGX0c0NjFUSjNGRnE?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UVU9fSmZKdl9uZ2pJLUNBbi13T0k3Y0lROVlmMHFvN0pWdENHYTlwbnNkeUtqaTBQR0kxdjg4ckhBeU0xU0wwTThWSzRkS3hpR1NWWkZfRzQ2MVRKM0ZGcdIBYEFVX3lxTE9UVU9fSmZKdl9uZ2pJLUNBbi13T0k3Y0lROVlmMHFvN0pWdENHYTlwbnNkeUtqaTBQR0kxdjg4ckhBeU0xU0wwTThWSzRkS3hpR1NWWkZfRzQ2MVRKM0ZGcQ?oc=5",
             "published_at": "2026-11-20T07:36:00Z",
             "headline": "빅리그 노리는 구자욱…MLB 사무국, 신분 조회 요청"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "9b145b1f7c7083bb737a",
+      "category": "스포츠",
+      "title": "수원 삼성 'K리그2' 우승",
+      "summary": "수원 삼성 'K리그2' 우승",
+      "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 7곳, 7시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘수원 삼성 'K리그2' 우승’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JMGlOUlFiOTZSNWJnNzN5anVWc3BsREFqZk1mNW9ETmVCelNRQUFnRXhPcks3anpPOEl1cGt3bXhQNUhnUDdoWHhsTXZqelp3RURGUjdLeGk0cGE0a0dZLdIBYEFVX3lxTE1JMGlOUlFiOTZSNWJnNzN5anVWc3BsREFqZk1mNW9ETmVCelNRQUFnRXhPcks3anpPOEl1cGt3bXhQNUhnUDdoWHhsTXZqelp3RURGUjdLeGk0cGE0a0dZLQ?oc=5",
+      "published_at": "2026-11-21T07:59:14Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 7,
+        "report_count": 7,
+        "span_hours": 7.1,
+        "first_report_at": "2026-11-21T07:06:00Z",
+        "last_report_at": "2026-11-21T14:10:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01WHU3QmhlRXluS05aNTFET2lmcElZQ3dzU2NmWWxYcjE5MXdEWnRISE9mcExNRGlldlQtOEhWNmVRS3cxNW5sRE5jRXBhUDhRSnVReUpaMXBfNmFmQnfSAWNBVV95cUxOZVlMc01CSGJmVTkwaXp6Rm1ySXNNXzZkVW5PbXpGdlkyVlBtWktSX0x2YXlsLUxlRnJYYmdmeVQ2ZGFQNkxISElmbFF3aXpabzBoRHh4MmcyYWplRm1fTXhNcEE?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xNUliblN5OU1UYi0tNkdlZm1rV2Fnczc1M1U0S01teWYySTZqZ0ZsTXRIemRUWDlXeGpMWEtOX2hmd19qeXZ1U0MxS2t4cGdKYmw1RTdhcUJ5aVJhWkE?oc=5",
+        "sources": [
+          {
+            "name": "YTN",
+            "group": "ytn.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xNUliblN5OU1UYi0tNkdlZm1rV2Fnczc1M1U0S01teWYySTZqZ0ZsTXRIemRUWDlXeGpMWEtOX2hmd19qeXZ1U0MxS2t4cGdKYmw1RTdhcUJ5aVJhWkE?oc=5",
+            "published_at": "2026-11-21T14:10:00Z",
+            "headline": "수원 삼성, 1부 승격 이어 K리그2 우승도 확정...\"이제 시작\""
           },
           {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55S2hmUHNfb0F1SHdjWk4tZEc4Z09GVThPdWpNWmdZOUNEbkl3WnUxbFh1eGU4OUZrUUVPT0RDSUNsTmJ1bFdCODBBSmtuVUZaQklCN2tFc1ZDczE1QVNJa9IBeEFVX3lxTE5MUENDaGczemZnaTRfQk14S05BT2NSR3BPTnVTcmlqSTI3NWJxRDkzT1IxeDM1WkFXS1hmVXNCNUxQbGZDODdwMl9aSUs5Xzh5LTFUcUZKcjE5X3dpOF9JYjBjVE94RzlTVjZPSi1sU2dFamxrYlV2Vw?oc=5",
-            "published_at": "2026-11-20T07:26:17Z",
-            "headline": "MLB 사무국, 삼성 '우승 주장' 구자욱 신분조회 요청"
+            "name": "SPOTV NEWS",
+            "group": "spotvnews.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1ZndtUnE4ajRpNWUyV3NqSlFSSzBOM1NBSGRCdUZFdzVsbTFyWTZRZmJuQmJNUjN1Ql94ZnNXNDZ3NTlXa2hrNzNKcWlSRk1ERkFtd2kwNlNkY0NoRXJrVmhxMklXa285N2RDZ2liWnY?oc=5",
+            "published_at": "2026-11-21T12:20:00Z",
+            "headline": "[현장 REVIEW] '재창단의 각오로 3년' 수원삼성, K리그2 마침내 우승 세리머니...이정효와 함께 1부리그로 간다"
+          },
+          {
+            "name": "MBC 뉴스",
+            "group": "imbc.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RQmxrUU9RWENMLWJ5dUM1SmlaY3ZlOVZxSHpKRDlxVUJZSWtFdW43RTEzTnZpaEROYzR3a0VPRDNaMkpJOEllT1pwbWpVa1JNV3FZVFI3emVWYk00SXpmNXlRTzlNeHpWNE1aZHhLQU1jdUdVMkHSAXZBVV95cUxPTXVQLWxJLUVfVFVlMGxfY0NsaUJ1YzBQQWJfM09mME1ZRUtzbmhXLVFJQnAyY2xpRVg1cVpTQnpfTGZrNXoxU1BfNnh1bXJ2aWNQSEg3YWhkU2RMRUdJZWF5aVN6RzNLalhoUjlWSGVDZ29YaklB?oc=5",
+            "published_at": "2026-11-21T08:55:53Z",
+            "headline": "수원 삼성, K리그2 우승‥이정효 감독 \"14위부터 다시 시작\""
+          },
+          {
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JMGlOUlFiOTZSNWJnNzN5anVWc3BsREFqZk1mNW9ETmVCelNRQUFnRXhPcks3anpPOEl1cGt3bXhQNUhnUDdoWHhsTXZqelp3RURGUjdLeGk0cGE0a0dZLdIBYEFVX3lxTE1JMGlOUlFiOTZSNWJnNzN5anVWc3BsREFqZk1mNW9ETmVCelNRQUFnRXhPcks3anpPOEl1cGt3bXhQNUhnUDdoWHhsTXZqelp3RURGUjdLeGk0cGE0a0dZLQ?oc=5",
+            "published_at": "2026-11-21T07:59:14Z",
+            "headline": "수원 삼성 'K리그2' 우승"
           },
           {
             "name": "조선일보",
             "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY0p1aTU0NmRGeE5nVVpVNW1ncktZU3BqdUdCY0FKT3U4cEtZWXd4OWdhanMwMEkyLVJhVU1fTS0yMG1TYl8wNFc2WEE4UzQxWkRZR2RpLXE4QkdtbXZmSDhVTE1Ob2Zqa1QxbDRzMHpKUUdTa2FoTC1Da1JWNEd3VVNQSQ?oc=5",
-            "published_at": "2026-11-20T07:23:00Z",
-            "headline": "[공식발표] 구자욱 진짜 미국 가나, MLB 사무국 신분조회 요청…KBO \"모든 구단과 계약 체결 가능한 FA\" 통보"
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaXpBVXBMOUMxb0p1OXVMbjdwTFlOdXdLUXBfWS1JOWtfc3ZXMV9aQ29JR1hNYVJrRVpJN0N3N0JPeVBjRnUyamdaRlNxQnNYZEZPT1g5SGw1b0FPZ1BpdkVGU2JNclNpR1g0emtxcE5PSTlpNW05RGxBTXNwaEZRMlNDcw?oc=5",
+            "published_at": "2026-11-21T07:29:00Z",
+            "headline": "'이정효 매직' 제대로 터졌다! 수원삼성 K리그2 조기 우승+K리그1 승격 겹경사 터졌다!"
+          },
+          {
+            "name": "파이낸셜뉴스",
+            "group": "fnnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GTUdBdHd4X3J4bEhJQXhsbVJjdXhCRVV6bDdlZ21XNzFPWDUyQ0ptbWU2MjFtZWduSG1WM3BHUHE2akxtUERpYzd4TkFlYzhNVDh5VlpNT1JFUQ?oc=5",
+            "published_at": "2026-11-21T07:26:48Z",
+            "headline": "'1부 승격' 수원 삼성, 경남 꺾고 K리그2 우승"
+          },
+          {
+            "name": "스포츠경향",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01WHU3QmhlRXluS05aNTFET2lmcElZQ3dzU2NmWWxYcjE5MXdEWnRISE9mcExNRGlldlQtOEhWNmVRS3cxNW5sRE5jRXBhUDhRSnVReUpaMXBfNmFmQnfSAWNBVV95cUxOZVlMc01CSGJmVTkwaXp6Rm1ySXNNXzZkVW5PbXpGdlkyVlBtWktSX0x2YXlsLUxlRnJYYmdmeVQ2ZGFQNkxISElmbFF3aXpabzBoRHh4MmcyYWplRm1fTXhNcEE?oc=5",
+            "published_at": "2026-11-21T07:06:00Z",
+            "headline": "‘이정효 매직’ 수원 삼성, K리그2 우승…‘명가 재건’ 신호탄"
           }
         ]
       },
@@ -327,7 +335,7 @@
       "category": "기술·과학",
       "title": "유엔, '킬러 로봇' 규제안 2028년까지 마련…미러 소극",
       "summary": "유엔, '킬러 로봇' 규제안 2028년까지 마련…미러 소극",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 3시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.22 04:12 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘유엔, '킬러 로봇' 규제안 2028년까지 마련…미러 소극’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
       "source": "뉴시스",
@@ -359,14 +367,15 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-21T19:12:02.254793Z"
     },
     {
       "id": "6aa5a986699d33bbf886",
       "category": "기술·과학",
       "title": "AI 시대 미래 사회 논의한다…과기정통부, 'AI 인사이트 페스티벌' 개최",
       "summary": "AI 시대 미래 사회 논의한다…과기정통부, 'AI 인사이트 페스티벌' 개최",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.22 04:12 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘AI 시대 미래 사회 논의한다…과기정통부, 'AI 인사이트 페스티벌' 개최’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
       "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
       "source": "지디넷코리아",
@@ -398,14 +407,15 @@
           }
         ]
       },
-      "selection_rank": 2
+      "selection_rank": 2,
+      "last_collected_at": "2026-11-21T19:12:02.254793Z"
     },
     {
       "id": "1e7f5fad971ee75e9d3c",
       "category": "사회",
       "title": "부산시, ‘부캉이’로 대한민국 공공브랜드 대상",
       "summary": "부산시, ‘부캉이’로 대한민국 공공브랜드 대상",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 28시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.22 04:12 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘부산시, ‘부캉이’로 대한민국 공공브랜드 대상’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
       "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
       "source": "KBS 뉴스",
@@ -437,7 +447,8 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-21T19:12:02.254793Z"
     }
   ]
 }
