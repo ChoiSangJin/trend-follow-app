@@ -2,42 +2,49 @@
   "schema_version": 2,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-23T07:31:59.654873Z",
+  "updated_at": "2026-11-23T23:50:27.651157Z",
   "cards": [
     {
-      "id": "2ef5bf475beab1011f72",
+      "id": "57a81cdd7d7d5826f4d9",
       "category": "문화",
-      "title": "메주 보낸 기록, 꿀 담은 청자…태안서 수중발굴 50주년 특별전",
-      "summary": "메주 보낸 기록, 꿀 담은 청자…태안서 수중발굴 50주년 특별전",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘메주 보낸 기록, 꿀 담은 청자…태안서 수중발굴 50주년 특별전’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "title": "GIST 졸업생 송혜근 시인, 제45회 김수영문학상 수상",
+      "summary": "GIST 졸업생 송혜근 시인, 제45회 김수영문학상 수상",
+      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘GIST 졸업생 송혜근 시인, 제45회 김수영문학상 수상’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-      "source": "파이낸셜뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zeHFxWmxweUpPeXpfTnVaRU9YOGVtMkd5RmxsM3hVRHhiM01iM0FTei11cGUtUkhielM2N1hGQ19MU0o3Q1hIUFVXeVF3TVNXUDlOa0VnVzBnUQ?oc=5",
-      "published_at": "2026-11-23T00:08:55Z",
+      "source": "뉴스1",
+      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DZFNvMWN4U1Rqd1JUVTAwOU5wR2tIV21PWnFtSENocUVQZnRQbEVJQ25OSUZrcWtsRzYwSHd5MXYzRy0xbzRyRmlpOGlyQlNMNURRN2VvckFTRExEdWE4?oc=5",
+      "published_at": "2026-11-23T01:45:12Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 0.4,
-        "first_report_at": "2026-11-23T00:08:55Z",
-        "last_report_at": "2026-11-23T00:35:23Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zeHFxWmxweUpPeXpfTnVaRU9YOGVtMkd5RmxsM3hVRHhiM01iM0FTei11cGUtUkhielM2N1hGQ19MU0o3Q1hIUFVXeVF3TVNXUDlOa0VnVzBnUQ?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93VHFJTjFDNWI1NFRCMDdacnBrejRTTWJiYjF4eldBazRRdHFlSWxkTUhfT1Z1blVrN2Y5X2xXN3Axck43SER0X2xpWUJPRjh4XzM4N1BUMng1V1ktMllwYdIBeEFVX3lxTFAteGZ6ZVd5TDVuV2ZRU2ljelNnRktjUGd5SGR6Um5qUTljbmY2aEZPekVVUWpsOWtiSHZCN05EaE9MM1RqVHphUEFNRU5Ya3N0Qy1KTHZSLTVvWk9rb0gwTFhFTWlJWEViWnBSRkdDaDF2emdjMFN3Rw?oc=5",
+        "source_groups": 3,
+        "report_count": 4,
+        "span_hours": 10.7,
+        "first_report_at": "2026-11-23T00:06:44Z",
+        "last_report_at": "2026-11-23T10:48:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMZHkyYjk5eFJmYVpYS19JSzlKM2VITmlXNldCSzFpQ2xiRDdZRHN1c29fUUU1LTZWRm04clVRcDVfTWZlRFpsZzJIN0RpZw?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DVEUyYkJveDg3THhFSVRYVEJaSnliR3d5MFcyXzc5M05HQ2hZQTdPUEdBMjExSGttc3ZJWG5ickN4djNyTFJpUENUSGlVdWpRQm5yeE1xaUx4Z9IBX0FVX3lxTE1TdkFlaU9DY21OZGJCVWtPYzl2NmltMF9IU0ZfUmRTZkMzWUM2TVZGUnJVa1g2bXlKbzNvOFlyaDZoUm1rM3VwMmFaTmpwYlRyS1JEVzJYbmxGOGhvTXVr?oc=5",
         "sources": [
           {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93VHFJTjFDNWI1NFRCMDdacnBrejRTTWJiYjF4eldBazRRdHFlSWxkTUhfT1Z1blVrN2Y5X2xXN3Axck43SER0X2xpWUJPRjh4XzM4N1BUMng1V1ktMllwYdIBeEFVX3lxTFAteGZ6ZVd5TDVuV2ZRU2ljelNnRktjUGd5SGR6Um5qUTljbmY2aEZPekVVUWpsOWtiSHZCN05EaE9MM1RqVHphUEFNRU5Ya3N0Qy1KTHZSLTVvWk9rb0gwTFhFTWlJWEViWnBSRkdDaDF2emdjMFN3Rw?oc=5",
-            "published_at": "2026-11-23T00:35:23Z",
-            "headline": "서해에서 올린 천년 역사…한국 수중발굴 50주년 특별전"
+            "name": "경향신문",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DVEUyYkJveDg3THhFSVRYVEJaSnliR3d5MFcyXzc5M05HQ2hZQTdPUEdBMjExSGttc3ZJWG5ickN4djNyTFJpUENUSGlVdWpRQm5yeE1xaUx4Z9IBX0FVX3lxTE1TdkFlaU9DY21OZGJCVWtPYzl2NmltMF9IU0ZfUmRTZkMzWUM2TVZGUnJVa1g2bXlKbzNvOFlyaDZoUm1rM3VwMmFaTmpwYlRyS1JEVzJYbmxGOGhvTXVr?oc=5",
+            "published_at": "2026-11-23T10:48:00Z",
+            "headline": "‘김수영문학상’에 GIST 졸업 과학도 송혜근 시인 수상"
           },
           {
-            "name": "파이낸셜뉴스",
-            "group": "fnnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zeHFxWmxweUpPeXpfTnVaRU9YOGVtMkd5RmxsM3hVRHhiM01iM0FTei11cGUtUkhielM2N1hGQ19MU0o3Q1hIUFVXeVF3TVNXUDlOa0VnVzBnUQ?oc=5",
-            "published_at": "2026-11-23T00:08:55Z",
-            "headline": "메주 보낸 기록, 꿀 담은 청자…태안서 수중발굴 50주년 특별전"
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DZFNvMWN4U1Rqd1JUVTAwOU5wR2tIV21PWnFtSENocUVQZnRQbEVJQ25OSUZrcWtsRzYwSHd5MXYzRy0xbzRyRmlpOGlyQlNMNURRN2VvckFTRExEdWE4?oc=5",
+            "published_at": "2026-11-23T01:45:12Z",
+            "headline": "GIST 졸업생 송혜근 시인, 제45회 김수영문학상 수상"
+          },
+          {
+            "name": "전자신문",
+            "group": "etnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMZHkyYjk5eFJmYVpYS19JSzlKM2VITmlXNldCSzFpQ2xiRDdZRHN1c29fUUU1LTZWRm04clVRcDVfTWZlRFpsZzJIN0RpZw?oc=5",
+            "published_at": "2026-11-23T00:06:44Z",
+            "headline": "GIST, 김수영문학상 수상 시인 배출…특별한 인문사회 교육 비결은"
           }
         ]
       },
@@ -48,7 +55,7 @@
       "category": "문화",
       "title": "아이유, 한국 여성 솔로 가수 최초 日 도쿄돔 단독 콘서트",
       "summary": "아이유, 한국 여성 솔로 가수 최초 日 도쿄돔 단독 콘서트",
-      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "why_now": "이전 수집(11.23 16:31 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
       "opener": "‘아이유, 한국 여성 솔로 가수 최초 日 도쿄돔 단독 콘서트’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
       "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
       "source": "YTN",
@@ -80,70 +87,64 @@
           }
         ]
       },
-      "selection_rank": 1
+      "selection_rank": 1,
+      "last_collected_at": "2026-11-23T07:31:59.654873Z"
     },
     {
-      "id": "b2be9bccd8f063b68b7c",
+      "id": "b3e9ffedcc0522a82e09",
       "category": "스포츠",
-      "title": "이강인 '교체 출전' 아틀레티코, 헤타페에 3:0 완승",
-      "summary": "이강인 '교체 출전' 아틀레티코, 헤타페에 3:0 완승",
-      "why_now": "수집 범위에서 관련 보도 11개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 3시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘이강인 '교체 출전' 아틀레티코, 헤타페에 3:0 완승’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "title": "이강인 벤치서 출발해 45분 뛴 아틀레티코, 헤타페에 3-0 완승",
+      "summary": "이강인 벤치서 출발해 45분 뛴 아틀레티코, 헤타페에 3-0 완승",
+      "why_now": "수집 범위에서 관련 보도 6개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 17시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘이강인 벤치서 출발해 45분 뛴 아틀레티코, 헤타페에 3-0 완승’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "SBS 뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jbU8yMXVQdmlLZmZ1aGY4b3NKU3JxemRab3puSUlLNE5RNXI1cUtUMjNsb25tYUxVQTdBZVNHRS1RM0dNeVl4ZUZuaks1dVdBMUxTZlVnLUpLd25Lcm9HZjBrMXk3b0NOWmc?oc=5",
-      "published_at": "2026-11-22T22:19:30Z",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45d3JxRU83YnkwX0QwTV9oM1gydWZ2UGlMVThwLWhiUlJQcXpUY1dMc09uVGt5R1NleXRaMHh2emJFQzAxSkZKZU1RbURCTmZCeEV3bFpOWGNXeGfSAWBBVV95cUxNY2VlUFd6NzhCUFcxc2lwLVRWdFNvZ3NlNElkSnZXLXRxRWNHUGpScGVUUEk0cGo0UWVyT3VxR0tnbDlXTEZUdUJQWjdTWGwzTDJvZXFmTGpzUzJmNERMUVM?oc=5",
+      "published_at": "2026-11-22T22:04:36Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 8,
-        "report_count": 11,
-        "span_hours": 3.6,
-        "first_report_at": "2026-11-22T21:56:17Z",
-        "last_report_at": "2026-11-23T01:30:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJSElxcFhVaENrR2JvcTcwbEZVOFJBYm1aeTJncnBiNjhvTEM5bThZcDBqWFFSZzdLUURiT2pDOW5JUXdEX18tZ3k0dkFlZWFhTm9NREMxSlRzdC1wVE5JWjZ3SDVFcEZZU0HSAW9BVV95cUxOT0xaczNFV21OTGRVZWJReXYtZUpkY1JpUTc2Zks3QVB4UXMzTXVhYm9nS3FLVHhFdmNYSFY2SmZRaC01c1g2XzNlUU5oQnhKbmVIaURZZDNhSkJsQVVxVjVxX09lcHlJZk5XRm1Nb2c?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xZFREMjBvVXJPOEg2S0hZM0NRRFB2WFpMU1VXek9IZzd4OGFjU204Sm9KSFVRQ2FqZkRLZkg5aGNwTW9XR09nNUNLbGVVdGQxVFFxcmdKdTNwTjdIamswUG4zZU9xUUlleGV6OTV6bWY?oc=5",
+        "source_groups": 6,
+        "report_count": 6,
+        "span_hours": 17.4,
+        "first_report_at": "2026-11-22T22:04:36Z",
+        "last_report_at": "2026-11-23T15:30:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45d3JxRU83YnkwX0QwTV9oM1gydWZ2UGlMVThwLWhiUlJQcXpUY1dMc09uVGt5R1NleXRaMHh2emJFQzAxSkZKZU1RbURCTmZCeEV3bFpOWGNXeGfSAWBBVV95cUxNY2VlUFd6NzhCUFcxc2lwLVRWdFNvZ3NlNElkSnZXLXRxRWNHUGpScGVUUEk0cGo0UWVyT3VxR0tnbDlXTEZUdUJQWjdTWGwzTDJvZXFmTGpzUzJmNERMUVM?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wd1NwTTQ0RTNweE1qY3lrTnlxT2tKTl9xTl9MSktqQktGMDQyOTNLQU5ZeHlQYmhGeFQwTVNJYkRESjZkVjNnWnhlR0ZENmtZOWIzZlRkWDBVTWdHbHJkNQ?oc=5",
         "sources": [
           {
-            "name": "SPOTV NEWS",
-            "group": "spotvnews.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xZFREMjBvVXJPOEg2S0hZM0NRRFB2WFpMU1VXek9IZzd4OGFjU204Sm9KSFVRQ2FqZkRLZkg5aGNwTW9XR09nNUNLbGVVdGQxVFFxcmdKdTNwTjdIamswUG4zZU9xUUlleGV6OTV6bWY?oc=5",
-            "published_at": "2026-11-23T01:30:00Z",
-            "headline": "'이강인 벤치 스타트→교체 투입 후 킬패스 작렬' 공격포인트 없지만 빛났다...아틀레티코 마드리드는 헤타페에 3-0 승리"
+            "name": "마이데일리",
+            "group": "mydaily.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wd1NwTTQ0RTNweE1qY3lrTnlxT2tKTl9xTl9MSktqQktGMDQyOTNLQU5ZeHlQYmhGeFQwTVNJYkRESjZkVjNnWnhlR0ZENmtZOWIzZlRkWDBVTWdHbHJkNQ?oc=5",
+            "published_at": "2026-11-23T15:30:00Z",
+            "headline": "이강인 교체 투입 효과 극찬…`아틀레티코 팀 플레이에서 역할 커져야 한다`"
           },
           {
-            "name": "머니투데이",
-            "group": "mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zSFVyRTBPRlpUZTNBUGtNTGlSYmxtYXZNMllDN0E5dDZMNGNudEU1YTktMGhjVGktaTc4bG9FNzdGQ0FibmtZa2VUU0I4Q1J4LVd5YWt4MlJtT3VKTmRNVHVsLXRwU3FfOFHSAW9BVV95cUxQaTdrTTJPVVJVZEFRQkVDMXpoYWlnVnpXWXc3Y25vcjFjQm10MzdqcmxzS01VSncxdUItZG02b2Zqb3hjOWVrTW5UcFNSVm9NNXp6cHgxWTI5dlFwdTJ3OHlndFpLTjNwQklCRVNHZlk?oc=5",
-            "published_at": "2026-11-23T00:01:00Z",
-            "headline": "\"왼발로 퇴장까지 배달했다!\" 도움 2개 날아간 이강인, 쇠를로트 향한 3연속 킬패스... 결국 'PK→쐐기골 합작' - 머니투데이"
+            "name": "스포츠동아",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zbUQ1QllydHp1dURkQVVUdXhJNzk2ZUhhcXYwQ3BJYnlDTTg1bW13TjR4X2pQY2syS2FzUVBWXzl6bDFwcEh1aEJZandEdkNnT2JhenNMZmlzY0g0VkFFcVlVQjNCUFB4VHpvYWZrUHVGdw?oc=5",
+            "published_at": "2026-11-23T07:10:00Z",
+            "headline": "‘이강인 45분’ 아틀레티코, 헤타페 원정 3-0 완승→‘최근 2연패 탈출’"
           },
           {
-            "name": "조선일보",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeFlsZ1pTeWYyMWRmRnhwYlJieFluS1Q0VW5kQmxVTHh0VVAwYmdKRXBXU0dpU0lIUklDMl9xdUZsRnc2N2ZwdUVMWWRjcnUwUXB2akw4QlZjcmt5RmVzSjEzU1BLUDl0NjZUampjSVVkbVlMY0tGVzNFX01kclJCZ0lYQUFibndIVFRz?oc=5",
-            "published_at": "2026-11-22T23:36:00Z",
-            "headline": "킬패스 빛났지만… 이강인, 동료 결정력 부재에 또 ‘침묵’"
+            "name": "KBS 뉴스",
+            "group": "kbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81T21tS2JldUdja1VXSFBPWGRBemdvamRvRHR3RkhPLUdFd2pnTFJRWFlDR09ld0RUUFhJWk5rb29zb281N0Z2eG41TFZUMkhDSWZMV3pNbmtUdUU?oc=5",
+            "published_at": "2026-11-23T02:25:00Z",
+            "headline": "이강인 후반 교체 출전…아틀레티코, 헤타페에 3대 0 완승"
           },
           {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TOGpxNDR3aEFBSlhXLUFjdXRRSHg4YjZndUFKb3ZPX3BtdEZrbkJ5U1JBSkF5LUhsNmJKTWlXaGlKR0JrQkFTUW4tU0NXUXpEWnJNRnc4WDZxV1BDd0NkT9IBeEFVX3lxTE9SeWt5RVdBMjB0RWxvSzlRelV4RngtQUJZaFhkYjVJRFlIV1puamxCbWVQa1RvbnJhT1FsSDJaRDBJY2pjeWJjRTRRb2RQRHdvMXh2TlNKWjNGS0NBZGdZNS1NNGwyVktaTzVJUlZfTERnM19DMXpxSA?oc=5",
-            "published_at": "2026-11-22T22:46:56Z",
-            "headline": "'이강인 후반 교체출전' AT마드리드, 헤타페 3-0 완파"
+            "name": "한겨레",
+            "group": "hani.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zLWluV2loVXVhd1VxNGNBa2xnSXBWakNhQ2VZdVgycXlWdDhNbjJDODgtNnpPNmx2MXBnWDlLZTQ1T1N3N3BSWHA4Y2htcHE3aVhSc01iQUNVVG5JaUxTcmlORmg?oc=5",
+            "published_at": "2026-11-23T01:33:00Z",
+            "headline": "후반 투입 이강인, 킬 패스로 페널티킥 유도…아틀레티코 3-0 완승"
           },
           {
-            "name": "SBS 뉴스",
-            "group": "sbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jbU8yMXVQdmlLZmZ1aGY4b3NKU3JxemRab3puSUlLNE5RNXI1cUtUMjNsb25tYUxVQTdBZVNHRS1RM0dNeVl4ZUZuaks1dVdBMUxTZlVnLUpLd25Lcm9HZjBrMXk3b0NOWmc?oc=5",
-            "published_at": "2026-11-22T22:19:30Z",
-            "headline": "이강인 '교체 출전' 아틀레티코, 헤타페에 3:0 완승"
-          },
-          {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KVFp6OXVaWTItZF9GRzBuYTgxZW5KX0l1NXRDUUFMYVF1QVdyeHlhY3FMQzh6UXB3RFZRM3Y5THJRZFMxZmVYZGNUcUZub2wxQlN3X0Z0bTI0UGV2azNtbw?oc=5",
-            "published_at": "2026-11-22T22:06:54Z",
-            "headline": "'이강인 45분' AT 마드리드, 헤타페 꺾고 2연패 탈출"
+            "name": "중앙일보",
+            "group": "joongang.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EUDV5OHN0anhFaHE3b0NadEd1TjUtS2E0TTNiSXRvT2dqMVg3Y0d2b0RuZS1HT3BOS0lyN3Z0cTBxWno0bTZSaTNTdE8yR3YzYjJaR29B?oc=5",
+            "published_at": "2026-11-22T22:43:20Z",
+            "headline": "이강인 킬패스로 퇴장+PK 유도...ATM은 헤타페 3-0 완파"
           },
           {
             "name": "연합뉴스",
@@ -151,96 +152,103 @@
             "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45d3JxRU83YnkwX0QwTV9oM1gydWZ2UGlMVThwLWhiUlJQcXpUY1dMc09uVGt5R1NleXRaMHh2emJFQzAxSkZKZU1RbURCTmZCeEV3bFpOWGNXeGfSAWBBVV95cUxNY2VlUFd6NzhCUFcxc2lwLVRWdFNvZ3NlNElkSnZXLXRxRWNHUGpScGVUUEk0cGo0UWVyT3VxR0tnbDlXTEZUdUJQWjdTWGwzTDJvZXFmTGpzUzJmNERMUVM?oc=5",
             "published_at": "2026-11-22T22:04:36Z",
             "headline": "이강인 벤치서 출발해 45분 뛴 아틀레티코, 헤타페에 3-0 완승"
-          },
-          {
-            "name": "스타뉴스",
-            "group": "starnewskorea.com",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SXzgyeEFpQ0c3VW9LQndpd3ZHZFZDZDBfOFV0cl91aGx3QXdsYTdxMEZTekZwLVJMSmY3U0JOZUVLdXRuQzJrYW9kNTBrV2Y5bC1ZT0hQcWF1bk9abkl0cjgydTh1LTdBcm14MEZzaWpMOUZHbHc?oc=5",
-            "published_at": "2026-11-22T21:56:17Z",
-            "headline": "아! AS 날아갔어도 해냈다! 이강인 '킬패스→PK+퇴장 유도' 공격P 없이 빛난 활약... ATM, 헤타페에 3-0 완승"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "1834012c42913db27dd7",
+      "id": "4f2ff58a1ec0fc144413",
       "category": "기술",
-      "title": "배경훈 부총리 \"UAE와 AI·첨단 과학기술 협력…성과 확대\"",
-      "summary": "배경훈 부총리 \"UAE와 AI·첨단 과학기술 협력…성과 확대\"",
-      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘배경훈 부총리 \"UAE와 AI·첨단 과학기술 협력…성과 확대\"’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
-      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-      "source": "뉴시스",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZN3Q5eVo2TTk4TTZKTnl1eW5BTTkyWGl4cTVLTWplZkFUcHpZanNIQk9mdHV6RlQ4enIzRTdiVU9aRnJwbG1La3I3RjdrQ29nTFZPcnExb3d0bS1BaUdhTNIBeEFVX3lxTFB1aERQZk5JUUhPSDQ3UTJ6Y3cyNEpWeTRpblM3WGpURjI5STZBbVRfbnhxVWFZekhyeHdoR3ZfMTdxOXN6UnJJa3NraFo1WDVUeURHU2UxQWp0YUZ6MlM3bkgzQ0FZU1dZZVZpMFM1bXJZblZfVzRSNQ?oc=5",
-      "published_at": "2026-11-20T09:30:00Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 2,
-        "report_count": 3,
-        "span_hours": 1.8,
-        "first_report_at": "2026-11-20T07:43:37Z",
-        "last_report_at": "2026-11-20T09:30:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sMWdDM3kzRGluX1dqVGRqazJlZFBpdUpKcjdIdng3N2NXdlVTa3NnOFAzOHZLNFBBYjBCSEdsU241VFczOU5NWVRLa05leFZ3RmZxZmpYY3BNRUXSAWBBVV95cUxPWmRrRGtaTVZuWkd6aHV3bVpvTDlNMmFfYnBqZWo5Tll6T0J5ejQycl90eXFBZmhGdHlLanRrdXloUGZqc29abU5qZTBJaFEzTmdtX0lQT0RCZ19GbU9EWkw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZN3Q5eVo2TTk4TTZKTnl1eW5BTTkyWGl4cTVLTWplZkFUcHpZanNIQk9mdHV6RlQ4enIzRTdiVU9aRnJwbG1La3I3RjdrQ29nTFZPcnExb3d0bS1BaUdhTNIBeEFVX3lxTFB1aERQZk5JUUhPSDQ3UTJ6Y3cyNEpWeTRpblM3WGpURjI5STZBbVRfbnhxVWFZekhyeHdoR3ZfMTdxOXN6UnJJa3NraFo1WDVUeURHU2UxQWp0YUZ6MlM3bkgzQ0FZU1dZZVZpMFM1bXJZblZfVzRSNQ?oc=5",
-        "sources": [
-          {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZN3Q5eVo2TTk4TTZKTnl1eW5BTTkyWGl4cTVLTWplZkFUcHpZanNIQk9mdHV6RlQ4enIzRTdiVU9aRnJwbG1La3I3RjdrQ29nTFZPcnExb3d0bS1BaUdhTNIBeEFVX3lxTFB1aERQZk5JUUhPSDQ3UTJ6Y3cyNEpWeTRpblM3WGpURjI5STZBbVRfbnhxVWFZekhyeHdoR3ZfMTdxOXN6UnJJa3NraFo1WDVUeURHU2UxQWp0YUZ6MlM3bkgzQ0FZU1dZZVZpMFM1bXJZblZfVzRSNQ?oc=5",
-            "published_at": "2026-11-20T09:30:00Z",
-            "headline": "배경훈 부총리 \"UAE와 AI·첨단 과학기술 협력…성과 확대\""
-          },
-          {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBydFpxZWstQTQtQlluVE9YaHFzSDZxZjhSNnd4TlBVNTBfOGRrX05XS3ZfODI3MGo4V2xDX3JuRmUwN2F4TjU5R3RuTV9RUC1yRFJqWXFCLXAteko1SzZmV9IBYEFVX3lxTFBydFpxZWstQTQtQlluVE9YaHFzSDZxZjhSNnd4TlBVNTBfOGRrX05XS3ZfODI3MGo4V2xDX3JuRmUwN2F4TjU5R3RuTV9RUC1yRFJqWXFCLXAteko1SzZmVw?oc=5",
-            "published_at": "2026-11-20T07:45:21Z",
-            "headline": "'대한민국 기초연구 커넥트' 참석한 배경훈 부총리"
-          }
-        ]
-      },
-      "selection_rank": 1
-    },
-    {
-      "id": "46cc5b840e101e6f0808",
-      "category": "생활",
-      "title": "전남광주시, 내년 교육청 법정전입금 분할 편성",
-      "summary": "전남광주시, 내년 교육청 법정전입금 분할 편성",
+      "title": "‘앞치마’ 착용에 머리끈 검사까지…AI 부정행위가 바꾼 대학 논술고사장",
+      "summary": "‘앞치마’ 착용에 머리끈 검사까지…AI 부정행위가 바꾼 대학 논술고사장",
       "why_now": "이전 수집(11.23 04:34 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘전남광주시, 내년 교육청 법정전입금 분할 편성’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
-      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
-      "source": "KBS 뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iUE8xOTV2WFlzMVVqdjBSWG54alRqU3NZWFRMWHRzbVYxSFFET0pmaGJ2V2gxeDRyLVplM3djWkhWQloyeWlxdVRfbUNKUlBXUXNpMnlYUXliYmdNY1VxZjZ3TF9FUQ?oc=5",
-      "published_at": "2026-11-22T12:55:00Z",
+      "opener": "‘‘앞치마’ 착용에 머리끈 검사까지…AI 부정행위가 바꾼 대학 논술고사장’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+      "source": "한겨레",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81bkZrT0xHcjVaN0NJUmFIWnZFOGZ1MmNEVVR4ZlVteVVxcWREelBkTmxkWndkb0VDVFp3cmZ4NzFoaVdQT3owNkdaQXlKb0RkU05idVc0dUtnLXJxWDltNndLTkRIQ3VQbmR4aWdxX19adw?oc=5",
+      "published_at": "2026-11-22T10:46:00Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 2,
         "report_count": 2,
-        "span_hours": 12.4,
-        "first_report_at": "2026-11-22T00:30:02Z",
-        "last_report_at": "2026-11-22T12:55:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKWjJzMTZTVkdWb25JOFdLdnRJSGw1TURlZ0hrRFc0WGJhajJybk16YVYwdzh6RFV3NC04T1VxekhsbTF1Z0RTMGp5Q1BweHd1YjNfVFlMaF9kQWh6blFPbNIBYEFVX3lxTFBKWjJzMTZTVkdWb25JOFdLdnRJSGw1TURlZ0hrRFc0WGJhajJybk16YVYwdzh6RFV3NC04T1VxekhsbTF1Z0RTMGp5Q1BweHd1YjNfVFlMaF9kQWh6blFPbA?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iUE8xOTV2WFlzMVVqdjBSWG54alRqU3NZWFRMWHRzbVYxSFFET0pmaGJ2V2gxeDRyLVplM3djWkhWQloyeWlxdVRfbUNKUlBXUXNpMnlYUXliYmdNY1VxZjZ3TF9FUQ?oc=5",
+        "span_hours": 4.1,
+        "first_report_at": "2026-11-22T06:41:20Z",
+        "last_report_at": "2026-11-22T10:46:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hNnJRNHdTRDJmYmRQdEhRNjY3VXl2bXFrZHlPY0VLdlpKV2RTbzNUZUJQQjlrRnRlRnlCWnhMWkM0MmlVbTZnRndJVnduZ0o5MlQwX0ppS3Y3eWwwSGtjT21yaGFGVDhhYmhsWW5FOWlsdEtqV1ZLcA?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81bkZrT0xHcjVaN0NJUmFIWnZFOGZ1MmNEVVR4ZlVteVVxcWREelBkTmxkWndkb0VDVFp3cmZ4NzFoaVdQT3owNkdaQXlKb0RkU05idVc0dUtnLXJxWDltNndLTkRIQ3VQbmR4aWdxX19adw?oc=5",
         "sources": [
           {
-            "name": "KBS 뉴스",
-            "group": "kbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9iUE8xOTV2WFlzMVVqdjBSWG54alRqU3NZWFRMWHRzbVYxSFFET0pmaGJ2V2gxeDRyLVplM3djWkhWQloyeWlxdVRfbUNKUlBXUXNpMnlYUXliYmdNY1VxZjZ3TF9FUQ?oc=5",
-            "published_at": "2026-11-22T12:55:00Z",
-            "headline": "전남광주시, 내년 교육청 법정전입금 분할 편성"
+            "name": "한겨레",
+            "group": "hani.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81bkZrT0xHcjVaN0NJUmFIWnZFOGZ1MmNEVVR4ZlVteVVxcWREelBkTmxkWndkb0VDVFp3cmZ4NzFoaVdQT3owNkdaQXlKb0RkU05idVc0dUtnLXJxWDltNndLTkRIQ3VQbmR4aWdxX19adw?oc=5",
+            "published_at": "2026-11-22T10:46:00Z",
+            "headline": "‘앞치마’ 착용에 머리끈 검사까지…AI 부정행위가 바꾼 대학 논술고사장"
           },
           {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKWjJzMTZTVkdWb25JOFdLdnRJSGw1TURlZ0hrRFc0WGJhajJybk16YVYwdzh6RFV3NC04T1VxekhsbTF1Z0RTMGp5Q1BweHd1YjNfVFlMaF9kQWh6blFPbNIBYEFVX3lxTFBKWjJzMTZTVkdWb25JOFdLdnRJSGw1TURlZ0hrRFc0WGJhajJybk16YVYwdzh6RFV3NC04T1VxekhsbTF1Z0RTMGp5Q1BweHd1YjNfVFlMaF9kQWh6blFPbA?oc=5",
-            "published_at": "2026-11-22T00:30:02Z",
-            "headline": "전남광주시, 내년 교육청 법정전입금도 '쪼개기 편성'"
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hNnJRNHdTRDJmYmRQdEhRNjY3VXl2bXFrZHlPY0VLdlpKV2RTbzNUZUJQQjlrRnRlRnlCWnhMWkM0MmlVbTZnRndJVnduZ0o5MlQwX0ppS3Y3eWwwSGtjT21yaGFGVDhhYmhsWW5FOWlsdEtqV1ZLcA?oc=5",
+            "published_at": "2026-11-22T06:41:20Z",
+            "headline": "일회용 앞치마까지…AI 부정행위 철통 방어 나선 대학가"
           }
         ]
       },
       "selection_rank": 1,
       "last_collected_at": "2026-11-22T19:34:06.748835Z"
+    },
+    {
+      "id": "e4dd7f1a41b938415836",
+      "category": "생활",
+      "title": "서울지하철 25일 총파업 기로…24일 노사 최종교섭 '담판'",
+      "summary": "서울지하철 25일 총파업 기로…24일 노사 최종교섭 '담판'",
+      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 21시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘서울지하철 25일 총파업 기로…24일 노사 최종교섭 '담판'’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
+      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YUEZxTDhMRHFGNkUycUdINXc4Y2JHaXU1bjV2RC1BbGVxaDRUR2lpVEUybmFuYmZfZkRRZC14cGlMOEEtdE9ZY3JsakxJd1ctTzhCSTVnb0VJZTTSAWBBVV95cUxNemtCcE9NMGtLUXZ6NjAzTUJ3RkVKNjF0VmVXc1h1bmRhQXVyX2tBT1B6QlA3djBmVENOc0xwbEIzbmdyWGRzRGJXLUZqa1ZrNUc2ZVhROEVHR0RJVVg5RGI?oc=5",
+      "published_at": "2026-11-22T03:18:40Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 4,
+        "report_count": 4,
+        "span_hours": 21.9,
+        "first_report_at": "2026-11-22T03:18:40Z",
+        "last_report_at": "2026-11-23T01:13:45Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YUEZxTDhMRHFGNkUycUdINXc4Y2JHaXU1bjV2RC1BbGVxaDRUR2lpVEUybmFuYmZfZkRRZC14cGlMOEEtdE9ZY3JsakxJd1ctTzhCSTVnb0VJZTTSAWBBVV95cUxNemtCcE9NMGtLUXZ6NjAzTUJ3RkVKNjF0VmVXc1h1bmRhQXVyX2tBT1B6QlA3djBmVENOc0xwbEIzbmdyWGRzRGJXLUZqa1ZrNUc2ZVhROEVHR0RJVVg5RGI?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4WnYzMTVNUE03YkhUX0szVGlubnJLY243Tk41Q3BySjZLb2VCNEpfNVgzWnhDenlBMUIzRURwQ2hCNk1HWTNLaHYyNzFXUGZWVHVBbnVmNmJDQXNaX0lzU1Rha1Q0aTVoOHN2LVV5NNIBb0FVX3lxTFB4WnYzMTVNUE03YkhUX0szVGlubnJLY243Tk41Q3BySjZLb2VCNEpfNVgzWnhDenlBMUIzRURwQ2hCNk1HWTNLaHYyNzFXUGZWVHVBbnVmNmJDQXNaX0lzU1Rha1Q0aTVoOHN2LVV5NA?oc=5",
+        "sources": [
+          {
+            "name": "머니투데이",
+            "group": "mt.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4WnYzMTVNUE03YkhUX0szVGlubnJLY243Tk41Q3BySjZLb2VCNEpfNVgzWnhDenlBMUIzRURwQ2hCNk1HWTNLaHYyNzFXUGZWVHVBbnVmNmJDQXNaX0lzU1Rha1Q0aTVoOHN2LVV5NNIBb0FVX3lxTFB4WnYzMTVNUE03YkhUX0szVGlubnJLY243Tk41Q3BySjZLb2VCNEpfNVgzWnhDenlBMUIzRURwQ2hCNk1HWTNLaHYyNzFXUGZWVHVBbnVmNmJDQXNaX0lzU1Rha1Q0aTVoOHN2LVV5NA?oc=5",
+            "published_at": "2026-11-23T01:13:45Z",
+            "headline": "서울지하철 노사 '최종교섭' D-1…결렬 땐 25일 '총파업' - 머니투데이"
+          },
+          {
+            "name": "SBS 뉴스",
+            "group": "sbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UNGs0N0xtOGJlN2FwdWhKYTdFb0s3QkkyQS1IYzdvS1VtVmhVaVF6OFJrNUZVTnNodjlybEMwZzhvTk5SaDl5TDI5bFNaa3RUUjRkSXFjN0drZTFzYXMxaHA3dkdpektvbGc?oc=5",
+            "published_at": "2026-11-22T07:02:19Z",
+            "headline": "'출근 대란' 현실화 될까…서울 지하철 노사, 총파업 예고일 전날 최종교섭"
+          },
+          {
+            "name": "한경매거진",
+            "group": "hankyung.com",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxLVE4Sk9rOFJYU04xVDFwSEp1Q3h4NU9uZHl3YnhIY1A0YkZyREtPWlE3VTVHSGM1SThKZzVPQXJiLVRteGtKVUlLdGoyYVlyLTg2V0xBX1hNQWNidF9Ha0w5clQteDdvWkNsdw?oc=5",
+            "published_at": "2026-11-22T06:13:00Z",
+            "headline": "[속보]서울 지하철 멈추나...총파업 기로"
+          },
+          {
+            "name": "연합뉴스",
+            "group": "wire:연합뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YUEZxTDhMRHFGNkUycUdINXc4Y2JHaXU1bjV2RC1BbGVxaDRUR2lpVEUybmFuYmZfZkRRZC14cGlMOEEtdE9ZY3JsakxJd1ctTzhCSTVnb0VJZTTSAWBBVV95cUxNemtCcE9NMGtLUXZ6NjAzTUJ3RkVKNjF0VmVXc1h1bmRhQXVyX2tBT1B6QlA3djBmVENOc0xwbEIzbmdyWGRzRGJXLUZqa1ZrNUc2ZVhROEVHR0RJVVg5RGI?oc=5",
+            "published_at": "2026-11-22T03:18:40Z",
+            "headline": "서울지하철 25일 총파업 기로…24일 노사 최종교섭 '담판'"
+          }
+        ]
+      },
+      "selection_rank": 1
     }
   ]
 }
