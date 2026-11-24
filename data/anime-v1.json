@@ -4,7 +4,7 @@
   "source_url": "https://anilist.co",
   "api_url": "https://graphql.anilist.co",
   "rank_basis": "trending",
-  "fetched_at": "2026-11-23T23:50:26.987323+00:00",
+  "fetched_at": "2026-11-24T09:50:58.577921+00:00",
   "season_year": 2026,
   "season": "fall",
   "trending": [
@@ -17,8 +17,8 @@
       "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212888-NhyvqPt5aIuJ.jpg",
       "score": 77,
       "scored_by": null,
-      "members": 69599,
-      "activity": 366,
+      "members": 70886,
+      "activity": 253,
       "position": 1,
       "synopsis": "Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….\n\n(Source: Tapas, edited)\n\nNote: Tempal: Item no Chikara is streaming a week in advance of the TV broadcast on Prime Video and Crunchyroll beginning September 27th, 2026. Regular broadcasting began on October 2nd, 2026.",
       "format": "ONA",
@@ -35,30 +35,6 @@
       "airing": true
     },
     {
-      "id": 207191,
-      "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
-      "original_title": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
-      "japanese_title": "どうも、好きな人に惚れ薬を依頼された魔女です。",
-      "url": "https://anilist.co/anime/207191",
-      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-VgkIzfH92WoZ.jpg",
-      "score": 74,
-      "scored_by": null,
-      "members": 34795,
-      "activity": 300,
-      "position": 2,
-      "synopsis": "“Make me a love potion.”\n\nAnd with that single sentence, the Good Witch of the Lake’s secret crush on the dashing Sir Harij ends in heartbreak. Still, when he promises to help her gather the ingredients, Rose is thrilled at the chance to gaze upon a man she’d normally never get to interact with. She learns to brace her pounding heart for their usual stilted conversations…but what is she to do when he inexplicably shows up at her doorstep with bread and a jar of apple butter?\n\n(Source: Yen Press)",
-      "format": "TV",
-      "episodes": 12,
-      "status": "RELEASING",
-      "season": "fall",
-      "year": 2026,
-      "genres": [
-        "Fantasy",
-        "Romance"
-      ],
-      "airing": true
-    },
-    {
       "id": 21,
       "title": "ONE PIECE",
       "original_title": "ONE PIECE",
@@ -68,8 +44,8 @@
       "score": 87,
       "scored_by": null,
       "members": 772494,
-      "activity": 277,
-      "position": 3,
+      "activity": 178,
+      "position": 2,
       "synopsis": "Gold Roger was known as the Pirate King, the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the location of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece (which promises an unlimited amount of riches and fame), and quite possibly the most coveted of titles for the person who found it, the title of the Pirate King.\nEnter Monkey D. Luffy, a 17-year-old boy that defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate who ransacks villages for fun, Luffy’s reason for being a pirate is one of pure wonder; the thought of an exciting adventure and meeting new and intriguing people, along with finding One Piece, are his reasons of becoming a pirate. Following in the footsteps of ",
       "format": "TV",
       "episodes": null,
@@ -86,6 +62,56 @@
       "airing": true
     },
     {
+      "id": 207191,
+      "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+      "original_title": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
+      "japanese_title": "どうも、好きな人に惚れ薬を依頼された魔女です。",
+      "url": "https://anilist.co/anime/207191",
+      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx207191-VgkIzfH92WoZ.jpg",
+      "score": 75,
+      "scored_by": null,
+      "members": 35286,
+      "activity": 138,
+      "position": 3,
+      "synopsis": "“Make me a love potion.”\n\nAnd with that single sentence, the Good Witch of the Lake’s secret crush on the dashing Sir Harij ends in heartbreak. Still, when he promises to help her gather the ingredients, Rose is thrilled at the chance to gaze upon a man she’d normally never get to interact with. She learns to brace her pounding heart for their usual stilted conversations…but what is she to do when he inexplicably shows up at her doorstep with bread and a jar of apple butter?\n\n(Source: Yen Press)",
+      "format": "TV",
+      "episodes": 12,
+      "status": "RELEASING",
+      "season": "fall",
+      "year": 2026,
+      "genres": [
+        "Fantasy",
+        "Romance"
+      ],
+      "airing": true
+    },
+    {
+      "id": 195604,
+      "title": "Black Clover Season 2",
+      "original_title": "Black Clover 2nd Season",
+      "japanese_title": "ブラッククローバー 第2期",
+      "url": "https://anilist.co/anime/195604",
+      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-tSZcfKbVqSEG.jpg",
+      "score": 88,
+      "scored_by": null,
+      "members": 113838,
+      "activity": 126,
+      "position": 4,
+      "synopsis": "As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. But their mission leads them into a brutal battle against forces beyond anything they’ve ever faced. Now, Asta must rise above impossible odds to protect his friends and honor the promise he made to Yuno.\n\n(Source: Crunchyroll)",
+      "format": "TV",
+      "episodes": null,
+      "status": "RELEASING",
+      "season": "fall",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "airing": true
+    },
+    {
       "id": 209219,
       "title": "So What's Wrong with Getting Reborn as a Goblin?",
       "original_title": "Tensei Goblin Dakedo Shitsumon Aru?",
@@ -94,9 +120,9 @@
       "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx209219-3yhKlRx0LX3p.jpg",
       "score": 64,
       "scored_by": null,
-      "members": 24686,
-      "activity": 227,
-      "position": 4,
+      "members": 24953,
+      "activity": 99,
+      "position": 5,
       "synopsis": "Office worker Akira Yagami’s altruistic nature usually gets him the short end of the stick. When he dies after saving a kid from oncoming traffic...he reincarnates in another world as a goblin?! Normally, goblins only live for seven days, but Akira’s newfound powers let him defy the species’ normal life span...and are the key to his path to becoming the strongest goblin ever!\n\n(Source: Yen Press)\n\nNote: Tensei Goblin Dakedo Shitsumon Aru? is streaming 1 week in advance of the TV broadcast on ABEMA and Prime Video beginning with episode 2 on October 5th, 2026",
       "format": "ONA",
       "episodes": 12,
@@ -114,32 +140,6 @@
       "airing": true
     },
     {
-      "id": 195604,
-      "title": "Black Clover Season 2",
-      "original_title": "Black Clover 2nd Season",
-      "japanese_title": "ブラッククローバー 第2期",
-      "url": "https://anilist.co/anime/195604",
-      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-tSZcfKbVqSEG.jpg",
-      "score": 88,
-      "scored_by": null,
-      "members": 113442,
-      "activity": 201,
-      "position": 5,
-      "synopsis": "As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. But their mission leads them into a brutal battle against forces beyond anything they’ve ever faced. Now, Asta must rise above impossible odds to protect his friends and honor the promise he made to Yuno.\n\n(Source: Crunchyroll)",
-      "format": "TV",
-      "episodes": null,
-      "status": "RELEASING",
-      "season": "fall",
-      "year": 2026,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy"
-      ],
-      "airing": true
-    },
-    {
       "id": 195516,
       "title": "The Apothecary Diaries Season 3",
       "original_title": "Kusuriya no Hitorigoto 3rd Season",
@@ -148,8 +148,8 @@
       "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg",
       "score": 85,
       "scored_by": null,
-      "members": 116585,
-      "activity": 155,
+      "members": 116904,
+      "activity": 93,
       "position": 6,
       "synopsis": "In the aftermath of the Shi Clan’s rebellion, things have finally settled down, and Maomao has returned to her old life as a pharmacist in the pleasure district.\n\nOne day, triggered by a breakfast served at the Verdigris House, Maomao senses an anomaly and begins investigating its true nature.\n\nMeanwhile, Jinshi, who has revealed his true identity as the Imperial brother and begun to face his heavy responsibilities, is deeply troubled by the final message left by Loulan: a warning of an impending \"disaster that will strike the nation.\"\n\nTo make matters worse, rumors of a mysterious shrine maiden who deceives the people begin to spread, casting a dark shadow over the country of Li once again.\n\nFrom the depths of the inner court to the city streets, and across foreign borders—the world grows wider, and the stakes even higher for Maomao and Jinshi.\n\n(Source: Crunchyroll)",
       "format": "TV",
@@ -164,81 +164,6 @@
       "airing": true
     },
     {
-      "id": 189123,
-      "title": "Blue Box Season 2",
-      "original_title": "Ao no Hako Season 2",
-      "japanese_title": "アオのハコ Season２",
-      "url": "https://anilist.co/anime/189123",
-      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189123-0secXELIhkIW.jpg",
-      "score": 81,
-      "scored_by": null,
-      "members": 54712,
-      "activity": 117,
-      "position": 7,
-      "synopsis": "The second season of Ao no Hako.\n\nAs Taiki and Chinatsu navigate their evolving feelings, a fractured friendship from the past and fierce competition cloud the road to nationals.\n\n(Source: Netflix, edited)",
-      "format": "TV",
-      "episodes": 12,
-      "status": "RELEASING",
-      "season": "fall",
-      "year": 2026,
-      "genres": [
-        "Romance",
-        "Slice of Life",
-        "Sports"
-      ],
-      "airing": true
-    },
-    {
-      "id": 191656,
-      "title": "Even the Student Council Has Its Holes!",
-      "original_title": "Seitokai ni mo Ana wa Aru!",
-      "japanese_title": "生徒会にも穴はある！",
-      "url": "https://anilist.co/anime/191656",
-      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191656-xFHtxM8SUTdU.png",
-      "score": 74,
-      "scored_by": null,
-      "members": 56982,
-      "activity": 116,
-      "position": 8,
-      "synopsis": "This is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.\n\nHigh School 1st-Year Ume Mizunoe has excellent grades in Japanese language class and has received multiple literary awards.\nHowever, his terrible grades in the sciences are affecting his ability to move up a grade. To avoid repeating a year, he becomes a member of the student council to improve his academic standing.\n\nHowever, in the student council, he meets the charismatic yet sullen student council president Kotobuki Hisako, and the scary yet kind and refined treasurer, Arisu Terui. Other members include a cheeky and cute boy, Tan Otori, and Komaro Michinoku, the admin who's like a small abandoned cat. This is the start of a slapstick, heartful, rom-com about a busy student council full of cute, mismatched, and quirky students!\n\n(Source: Even the Student Council Has Its Holes! Official Site)",
-      "format": "TV",
-      "episodes": 12,
-      "status": "RELEASING",
-      "season": "fall",
-      "year": 2026,
-      "genres": [
-        "Comedy",
-        "Ecchi",
-        "Slice of Life"
-      ],
-      "airing": true
-    },
-    {
-      "id": 206814,
-      "title": "Dragon Ball Super: Beerus",
-      "original_title": "Dragon Ball Super: Beerus",
-      "japanese_title": "ドラゴンボール超 ビルス",
-      "url": "https://anilist.co/anime/206814",
-      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx206814-PVVzRbf1IQpe.jpg",
-      "score": 80,
-      "scored_by": null,
-      "members": 33037,
-      "activity": 109,
-      "position": 9,
-      "synopsis": "Several years have passed since the fierce battle against Majin Buu, and Earth has finally regained a brief moment of peace. At the same time, Beerus, the God of Destruction, awakens from his long, deep sleep.\nEven Kai and Supreme Kai, aware of Beerus's overwhelming power to destroy entire planets, watch his awakening with great fear… Meanwhile, Beerus hears rumors of a Saiyan who defeated Frieza—and suddenly appears before Goku.\nTargeted by Beerus, the strongest being in the universe, Earth is in grave danger. Thus begins an earth-shattering cosmic battle between the God of Destruction and Goku and his alliesa—a conflict that will shake the entire universe.\n\n(Source: Official Site)\n\nNote: “Enhanced” edition of Dragon Ball Super, featuring a large volume of newly added and redrawn cuts, a reconstructed narrative, and updated visuals for a more immersive and faithful representation of Akira Toriyama’s original manga.",
-      "format": "TV",
-      "episodes": null,
-      "status": "RELEASING",
-      "season": "fall",
-      "year": 2026,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Sci-Fi"
-      ],
-      "airing": true
-    },
-    {
       "id": 186541,
       "title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
       "original_title": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
@@ -247,9 +172,9 @@
       "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186541-caYpLsLmbCh7.jpg",
       "score": 69,
       "scored_by": null,
-      "members": 32634,
-      "activity": 104,
-      "position": 10,
+      "members": 32859,
+      "activity": 74,
+      "position": 7,
       "synopsis": "Sato Takahiro was an ordinary office worker and hobbyist gamer until the day he woke up on a spaceship–one that strangely resembled a craft from a favorite space-shooter game. With a decked-out ship, a crew full of babes, and a fantastic universe to explore, he's going to make the most of his good luck and create the life he's always dreamed of!\n\n(Source: Seven Seas Entertainment)",
       "format": "TV",
       "episodes": 13,
@@ -265,6 +190,79 @@
         "Sci-Fi"
       ],
       "airing": true
+    },
+    {
+      "id": 205896,
+      "title": "Full Clearing Another World under a Goddess with Zero Believers",
+      "original_title": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+      "japanese_title": "信者ゼロの女神サマと始める異世界攻略",
+      "url": "https://anilist.co/anime/205896",
+      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205896-ElrV8oVAsuax.jpg",
+      "score": 65,
+      "scored_by": null,
+      "members": 25826,
+      "activity": 70,
+      "position": 8,
+      "synopsis": "RPG player Makoto Takatsuki is hurled into another world with awful skills and stats. But he soon meets a goddess named Noah, who asks him to become her 1st believer in return for blessings.\n\n(Source: J-Novel Club)",
+      "format": "TV",
+      "episodes": null,
+      "status": "RELEASING",
+      "season": "fall",
+      "year": 2026,
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "airing": true
+    },
+    {
+      "id": 180136,
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "original_title": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
+      "japanese_title": "追放された転生重騎士はゲーム知識で無双する",
+      "url": "https://anilist.co/anime/180136",
+      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180136-gtMTCRlOD4OE.jpg",
+      "score": 67,
+      "scored_by": null,
+      "members": 78892,
+      "activity": 58,
+      "position": 9,
+      "synopsis": "Born into a prestigious family of master swordsmen, Elymas Edvaughn’s future shatters when he awakens the so-called “defective” Heavy Knight class. Disowned and cast out, he regains memories of another life—and realizes this world mirrors a VR game he once mastered. Armed with knowledge no one else possesses, he sets out to rewrite his fate and prove the strength of the “weakest” class.\n\n(Source: Crunchyroll)",
+      "format": "TV",
+      "episodes": 26,
+      "status": "RELEASING",
+      "season": "summer",
+      "year": 2026,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "airing": true
+    },
+    {
+      "id": 191656,
+      "title": "Even the Student Council Has Its Holes!",
+      "original_title": "Seitokai ni mo Ana wa Aru!",
+      "japanese_title": "生徒会にも穴はある！",
+      "url": "https://anilist.co/anime/191656",
+      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191656-xFHtxM8SUTdU.png",
+      "score": 74,
+      "scored_by": null,
+      "members": 57390,
+      "activity": 58,
+      "position": 10,
+      "synopsis": "This is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.\n\nHigh School 1st-Year Ume Mizunoe has excellent grades in Japanese language class and has received multiple literary awards.\nHowever, his terrible grades in the sciences are affecting his ability to move up a grade. To avoid repeating a year, he becomes a member of the student council to improve his academic standing.\n\nHowever, in the student council, he meets the charismatic yet sullen student council president Kotobuki Hisako, and the scary yet kind and refined treasurer, Arisu Terui. Other members include a cheeky and cute boy, Tan Otori, and Komaro Michinoku, the admin who's like a small abandoned cat. This is the start of a slapstick, heartful, rom-com about a busy student council full of cute, mismatched, and quirky students!\n\n(Source: Even the Student Council Has Its Holes! Official Site)",
+      "format": "TV",
+      "episodes": 12,
+      "status": "RELEASING",
+      "season": "fall",
+      "year": 2026,
+      "genres": [
+        "Comedy",
+        "Ecchi",
+        "Slice of Life"
+      ],
+      "airing": true
     }
   ],
   "seasonal": [
@@ -277,8 +275,8 @@
       "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195539-4LdfmKIHzuxr.png",
       "score": 83,
       "scored_by": null,
-      "members": 128176,
-      "activity": 58,
+      "members": 128546,
+      "activity": 38,
       "position": null,
       "synopsis": "Cyberpunk: Edgerunners 2 pulls you back into Night City, where lives become entangled to the extreme. Weak, a washed-up cyberpunk legend, is now forced to live without chrome as he searches for a sense of purpose in a world that’s passed him by. Meanwhile, the deadly nomad D sets out on a path to revenge that brings him close to corpo secrets never meant to be found. Across this ten-episode standalone series, uncover a story of family, obsession, legacy — and how your lens reflects the stories of the people around you..\n\nWhen the world is blinded by spectacle, what extremes do you have to go to make your story matter?\n(Source: Cyberpunk: Edgerunners 2 Official Site, Official Twitter)",
       "format": "ONA",
@@ -302,8 +300,8 @@
       "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195516-MJpUZlOberqH.jpg",
       "score": 85,
       "scored_by": null,
-      "members": 116585,
-      "activity": 155,
+      "members": 116904,
+      "activity": 93,
       "position": null,
       "synopsis": "In the aftermath of the Shi Clan’s rebellion, things have finally settled down, and Maomao has returned to her old life as a pharmacist in the pleasure district.\n\nOne day, triggered by a breakfast served at the Verdigris House, Maomao senses an anomaly and begins investigating its true nature.\n\nMeanwhile, Jinshi, who has revealed his true identity as the Imperial brother and begun to face his heavy responsibilities, is deeply troubled by the final message left by Loulan: a warning of an impending \"disaster that will strike the nation.\"\n\nTo make matters worse, rumors of a mysterious shrine maiden who deceives the people begin to spread, casting a dark shadow over the country of Li once again.\n\nFrom the depths of the inner court to the city streets, and across foreign borders—the world grows wider, and the stakes even higher for Maomao and Jinshi.\n\n(Source: Crunchyroll)",
       "format": "TV",
@@ -326,8 +324,8 @@
       "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195604-tSZcfKbVqSEG.jpg",
       "score": 88,
       "scored_by": null,
-      "members": 113442,
-      "activity": 201,
+      "members": 113838,
+      "activity": 126,
       "position": null,
       "synopsis": "As tyranny engulfs the Clover Kingdom, Asta and the Magic Knights launch a desperate raid on the Spade Kingdom to rescue their squad captains from the Dark Triad. But their mission leads them into a brutal battle against forces beyond anything they’ve ever faced. Now, Asta must rise above impossible odds to protect his friends and honor the promise he made to Yuno.\n\n(Source: Crunchyroll)",
       "format": "TV",
@@ -352,8 +350,8 @@
       "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx212888-NhyvqPt5aIuJ.jpg",
       "score": 77,
       "scored_by": null,
-      "members": 69599,
-      "activity": 366,
+      "members": 70886,
+      "activity": 253,
       "position": null,
       "synopsis": "Sin Yeong-U (a.k.a. Grid), an unlucky man in life and a low-level player in the popular VR game “Satisfy,” finds a powerful item that earns him a rare legendary class title: “Pagma’s Successor.” He’s now a skilled blacksmith who can forge unique weapons and equip the game’s most powerful gear. Grid resolves to use his new abilities to achieve fame and fortune, but as his very existence begins to stir up trouble in Satisfy, he realizes that life as a legend may be more than he bargained for….\n\n(Source: Tapas, edited)\n\nNote: Tempal: Item no Chikara is streaming a week in advance of the TV broadcast on Prime Video and Crunchyroll beginning September 27th, 2026. Regular broadcasting began on October 2nd, 2026.",
       "format": "ONA",
@@ -378,8 +376,8 @@
       "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx205909-DM0fAzNQulod.jpg",
       "score": 76,
       "scored_by": null,
-      "members": 58873,
-      "activity": 104,
+      "members": 59342,
+      "activity": 53,
       "position": null,
       "synopsis": "On the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.\n\n(Source: VIZ Media)",
       "format": "TV",
@@ -403,7 +401,7 @@
       "score": 75,
       "scored_by": null,
       "members": 57659,
-      "activity": 35,
+      "activity": 17,
       "position": null,
       "synopsis": "The second season of Tensei Shitara Ken Deshita.\nNote: Each episode was streamed one week in advance of the TV broadcast starting on October 1, 2026 on Abema. Regular broadcasting began on October 8, 2026.",
       "format": "ONA",
@@ -427,8 +425,8 @@
       "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191656-xFHtxM8SUTdU.png",
       "score": 74,
       "scored_by": null,
-      "members": 56982,
-      "activity": 116,
+      "members": 57390,
+      "activity": 58,
       "position": null,
       "synopsis": "This is Fujinasu Academy, a private high school with top-achieving students located on the outskirts of town.\n\nHigh School 1st-Year Ume Mizunoe has excellent grades in Japanese language class and has received multiple literary awards.\nHowever, his terrible grades in the sciences are affecting his ability to move up a grade. To avoid repeating a year, he becomes a member of the student council to improve his academic standing.\n\nHowever, in the student council, he meets the charismatic yet sullen student council president Kotobuki Hisako, and the scary yet kind and refined treasurer, Arisu Terui. Other members include a cheeky and cute boy, Tan Otori, and Komaro Michinoku, the admin who's like a small abandoned cat. This is the start of a slapstick, heartful, rom-com about a busy student council full of cute, mismatched, and quirky students!\n\n(Source: Even the Student Council Has Its Holes! Official Site)",
       "format": "TV",
@@ -444,31 +442,6 @@
       "airing": true
     },
     {
-      "id": 189123,
-      "title": "Blue Box Season 2",
-      "original_title": "Ao no Hako Season 2",
-      "japanese_title": "アオのハコ Season２",
-      "url": "https://anilist.co/anime/189123",
-      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189123-0secXELIhkIW.jpg",
-      "score": 81,
-      "scored_by": null,
-      "members": 54712,
-      "activity": 117,
-      "position": null,
-      "synopsis": "The second season of Ao no Hako.\n\nAs Taiki and Chinatsu navigate their evolving feelings, a fractured friendship from the past and fierce competition cloud the road to nationals.\n\n(Source: Netflix, edited)",
-      "format": "TV",
-      "episodes": 12,
-      "status": "RELEASING",
-      "season": "fall",
-      "year": 2026,
-      "genres": [
-        "Romance",
-        "Slice of Life",
-        "Sports"
-      ],
-      "airing": true
-    },
-    {
       "id": 207329,
       "title": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
       "original_title": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
@@ -477,8 +450,8 @@
       "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207329-6VPeZIDfF4Sr.png",
       "score": 74,
       "scored_by": null,
-      "members": 54578,
-      "activity": 59,
+      "members": 54913,
+      "activity": 35,
       "position": null,
       "synopsis": "Rein, an enchanter, is suddenly expelled from his guild one day. But instead of despairing, he declares, “Now I can do anything!” and begins reclaiming the massive number of enhancement points he once poured into his guildmates’ gear, setting off on a brand-new path as an adventurer.\nGathering around him are people carrying wounds that don’t fade easily: a genius adventurer who shut her heart after her party was slaughtered, a warrior who lost her family, and an assassin raised from childhood to kill. Yet Rein never rejects their pasts or their scars—he accepts them all with bright, straightforward warmth.\nThe stage is a unique fantasy world where Uzis, slingshots, and even yakuza exist side by side. But in this world, the more people rely on convenient technology, the more their magic weakens, and adventurers grow fragile.\nIntelligent, vicious monsters roam freely, while in the underworld, outlaws bare their greed and ambition as schemes and betrayals intertwine. In a world where idea",
       "format": "TV",
@@ -495,6 +468,31 @@
       "airing": true
     },
     {
+      "id": 189123,
+      "title": "Blue Box Season 2",
+      "original_title": "Ao no Hako Season 2",
+      "japanese_title": "アオのハコ Season２",
+      "url": "https://anilist.co/anime/189123",
+      "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189123-0secXELIhkIW.jpg",
+      "score": 81,
+      "scored_by": null,
+      "members": 54860,
+      "activity": 49,
+      "position": null,
+      "synopsis": "The second season of Ao no Hako.\n\nAs Taiki and Chinatsu navigate their evolving feelings, a fractured friendship from the past and fierce competition cloud the road to nationals.\n\n(Source: Netflix, edited)",
+      "format": "TV",
+      "episodes": 12,
+      "status": "RELEASING",
+      "season": "fall",
+      "year": 2026,
+      "genres": [
+        "Romance",
+        "Slice of Life",
+        "Sports"
+      ],
+      "airing": true
+    },
+    {
       "id": 210482,
       "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
       "original_title": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
@@ -503,8 +501,8 @@
       "image_url": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx210482-P1VNKbqdJ6Zj.jpg",
       "score": 86,
       "scored_by": null,
-      "members": 53729,
-      "activity": 76,
+      "members": 53900,
+      "activity": 36,
       "position": null,
       "synopsis": "In the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the \"Devil's Palm.\" In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide..\n\n(Source: Warner Bros. Japan Anime, Netflix Anime, edited)",
       "format": "ONA",
@@ -556,22 +554,6 @@
       "url": "https://www.youtube.com/watch?v=hGRtocAh3iw"
     },
     {
-      "anime_id": 209219,
-      "anime_title": "So What's Wrong with Getting Reborn as a Goblin?",
-      "kind": "airing",
-      "title": "9화 방영 예정",
-      "airing_at": "2026-11-30T13:00:00+00:00",
-      "url": "https://anilist.co/anime/209219"
-    },
-    {
-      "anime_id": 209219,
-      "anime_title": "So What's Wrong with Getting Reborn as a Goblin?",
-      "kind": "trailer",
-      "title": "작품 예고편",
-      "airing_at": null,
-      "url": "https://www.youtube.com/watch?v=ynr8tFWrK4c"
-    },
-    {
       "anime_id": 195604,
       "anime_title": "Black Clover Season 2",
       "kind": "airing",
@@ -586,6 +568,22 @@
       "title": "작품 예고편",
       "airing_at": null,
       "url": "https://www.youtube.com/watch?v=4MYo8FfiXMA"
+    },
+    {
+      "anime_id": 209219,
+      "anime_title": "So What's Wrong with Getting Reborn as a Goblin?",
+      "kind": "airing",
+      "title": "9화 방영 예정",
+      "airing_at": "2026-11-30T13:00:00+00:00",
+      "url": "https://anilist.co/anime/209219"
+    },
+    {
+      "anime_id": 209219,
+      "anime_title": "So What's Wrong with Getting Reborn as a Goblin?",
+      "kind": "trailer",
+      "title": "작품 예고편",
+      "airing_at": null,
+      "url": "https://www.youtube.com/watch?v=ynr8tFWrK4c"
     },
     {
       "anime_id": 195516,
@@ -604,20 +602,52 @@
       "url": "https://www.youtube.com/watch?v=YvNvvUeCztE"
     },
     {
-      "anime_id": 189123,
-      "anime_title": "Blue Box Season 2",
+      "anime_id": 186541,
+      "anime_title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
       "kind": "airing",
-      "title": "8화 방영 예정",
-      "airing_at": "2026-11-29T07:30:00+00:00",
-      "url": "https://anilist.co/anime/189123"
+      "title": "9화 방영 예정",
+      "airing_at": "2026-11-29T12:30:00+00:00",
+      "url": "https://anilist.co/anime/186541"
     },
     {
-      "anime_id": 189123,
-      "anime_title": "Blue Box Season 2",
+      "anime_id": 186541,
+      "anime_title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
       "kind": "trailer",
       "title": "작품 예고편",
       "airing_at": null,
-      "url": "https://www.youtube.com/watch?v=hJ6Y8PAOUk8"
+      "url": "https://www.youtube.com/watch?v=Z9ofT53sz2U"
+    },
+    {
+      "anime_id": 205896,
+      "anime_title": "Full Clearing Another World under a Goddess with Zero Believers",
+      "kind": "airing",
+      "title": "8화 방영 예정",
+      "airing_at": "2026-11-29T14:30:00+00:00",
+      "url": "https://anilist.co/anime/205896"
+    },
+    {
+      "anime_id": 205896,
+      "anime_title": "Full Clearing Another World under a Goddess with Zero Believers",
+      "kind": "trailer",
+      "title": "작품 예고편",
+      "airing_at": null,
+      "url": "https://www.youtube.com/watch?v=qlMB8vSpLzc"
+    },
+    {
+      "anime_id": 180136,
+      "anime_title": "The Exiled Heavy Knight Knows How to Game the System",
+      "kind": "airing",
+      "title": "22화 방영 예정",
+      "airing_at": "2026-11-26T15:26:00+00:00",
+      "url": "https://anilist.co/anime/180136"
+    },
+    {
+      "anime_id": 180136,
+      "anime_title": "The Exiled Heavy Knight Knows How to Game the System",
+      "kind": "trailer",
+      "title": "작품 예고편",
+      "airing_at": null,
+      "url": "https://www.youtube.com/watch?v=uC13b3_8riU"
     },
     {
       "anime_id": 191656,
@@ -634,38 +664,6 @@
       "title": "작품 예고편",
       "airing_at": null,
       "url": "https://www.youtube.com/watch?v=VTRVLnzhl90"
-    },
-    {
-      "anime_id": 206814,
-      "anime_title": "Dragon Ball Super: Beerus",
-      "kind": "airing",
-      "title": "8화 방영 예정",
-      "airing_at": "2026-11-29T14:16:00+00:00",
-      "url": "https://anilist.co/anime/206814"
-    },
-    {
-      "anime_id": 206814,
-      "anime_title": "Dragon Ball Super: Beerus",
-      "kind": "trailer",
-      "title": "작품 예고편",
-      "airing_at": null,
-      "url": "https://www.youtube.com/watch?v=CFgEL7ei8VE"
-    },
-    {
-      "anime_id": 186541,
-      "anime_title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-      "kind": "airing",
-      "title": "9화 방영 예정",
-      "airing_at": "2026-11-29T12:30:00+00:00",
-      "url": "https://anilist.co/anime/186541"
-    },
-    {
-      "anime_id": 186541,
-      "anime_title": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
-      "kind": "trailer",
-      "title": "작품 예고편",
-      "airing_at": null,
-      "url": "https://www.youtube.com/watch?v=Z9ofT53sz2U"
     },
     {
       "anime_id": 195539,
@@ -724,6 +722,22 @@
       "url": "https://www.youtube.com/watch?v=BJXBr_aFF8s"
     },
     {
+      "anime_id": 189123,
+      "anime_title": "Blue Box Season 2",
+      "kind": "airing",
+      "title": "8화 방영 예정",
+      "airing_at": "2026-11-29T07:30:00+00:00",
+      "url": "https://anilist.co/anime/189123"
+    },
+    {
+      "anime_id": 189123,
+      "anime_title": "Blue Box Season 2",
+      "kind": "trailer",
+      "title": "작품 예고편",
+      "airing_at": null,
+      "url": "https://www.youtube.com/watch?v=hJ6Y8PAOUk8"
+    },
+    {
       "anime_id": 210482,
       "anime_title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
       "kind": "airing",
@@ -741,6 +755,55 @@
     }
   ],
   "news": [
+    {
+      "title": "Witch on the Holy Night Anime Film's Sequel Confrmed",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-24/witch-on-the-holy-night-anime-film-sequel-confrmed/.244151",
+      "published_at": "2026-11-24T08:31:48+00:00",
+      "excerpt": "1st film earned 516 million yen in 1st 4 days",
+      "source": "Anime News Network"
+    },
+    {
+      "title": "All You Need Is Kill, Kaguya!, Grotesqqque, More Anime Confirmed Eligible for Oscars",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-24/all-you-need-is-kill-kaguya-grotesqqque-more-anime-confirmed-eligible-for-oscars/.244148",
+      "published_at": "2026-11-24T07:55:40+00:00",
+      "excerpt": "Jinsei, Last Blossom, 2nd Gundam Hathaway film, Ribbon Hero, Super Mario Galaxy Movie, Avatar Aang also eligible",
+      "source": "Anime News Network"
+    },
+    {
+      "title": "Getbackers Voice Comic Staff Apologizes for Generative AI Use in PR Video",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-23/getbackers-voice-comic-staff-apologizes-for-generative-ai-use-in-pr-video/.244140",
+      "published_at": "2026-11-24T03:22:47+00:00",
+      "excerpt": "Staff: Voice comic itself does not use generative AI",
+      "source": "Anime News Network"
+    },
+    {
+      "title": "Jimoto no Ijimekko-tachi ni Shikaeshi Shiyō to Shitara Anime's Video Unveils Cast",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-23/jimoto-no-ijimekko-tachi-ni-shikaeshi-shiyo-to-shitara-anime-video-unveils-cast/.244049",
+      "published_at": "2026-11-24T03:11:47+00:00",
+      "excerpt": "Kaori Maeda, Yūko Natsuyoshi, more star in romcom debuting in 2027",
+      "source": "Anime News Network"
+    },
+    {
+      "title": "Psyren TV Anime Adds 6 Cast Members",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-23/psyren-tv-anime-adds-6-cast-members/.244142",
+      "published_at": "2026-11-24T03:04:07+00:00",
+      "excerpt": "Takaya Kuroda, Wataru Komada, Mutsumi Tamura, Mitsuki Saiga, Ayana Taketatsu, Kana Ichinose join cast",
+      "source": "Anime News Network"
+    },
+    {
+      "title": "Manga Creator Tsukasa Sei Dies",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-23/manga-creator-tsukasa-sei-dies/.244102",
+      "published_at": "2026-11-24T01:34:14+00:00",
+      "excerpt": "Sei serialized Mukashi wa Yokatta manga in Shonen Jump+ in 2023",
+      "source": "Anime News Network"
+    },
+    {
+      "title": "Deadline: Live-Action Naruto Film in Talks to Cast Hiroyuki Sanada as Sarutobi",
+      "url": "https://www.animenewsnetwork.com/news/2026-11-23/deadline-live-action-naruto-film-in-talks-to-cast-hiroyuki-sanada-as-sarutobi/.244138",
+      "published_at": "2026-11-24T01:22:42+00:00",
+      "excerpt": "Charles Melton also in talks to join cast",
+      "source": "Anime News Network"
+    },
     {
       "title": "Akane-banashi Season 2 Announces January 9 Debut",
       "url": "https://www.animenewsnetwork.com/news/2026-11-23/akane-banashi-season-2-announces-january-9-debut/.244109",
@@ -795,55 +858,6 @@
       "url": "https://www.animenewsnetwork.com/news/2026-11-22/i-became-the-tyrant-of-a-defense-game-web-novel-webtoon-gets-mobile-game-adaptation/.244077",
       "published_at": "2026-11-22T20:15:00+00:00",
       "excerpt": "Game will feature exploration, territory management, defensive battles",
-      "source": "Anime News Network"
-    },
-    {
-      "title": "Martial Arts Manhwa Yeolhyeol Gangho to End Next Year After 33 Years",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-22/martial-arts-manhwa-yeolhyeol-gangho-to-end-next-year-after-33-years/.244079",
-      "published_at": "2026-11-22T19:15:00+00:00",
-      "excerpt": "Manhwa is scheduled to conclude in February 2027 with its 97th collected volume",
-      "source": "Anime News Network"
-    },
-    {
-      "title": "Chainsaw Man, Jujutsu Kaisen, More Manga Rank on NYT November Bestseller List",
-      "url": "https://www.animenewsnetwork.com/daily-briefs/2026-11-22/chainsaw-man-jujutsu-kaisen-more-manga-rank-on-nyt-november-bestseller-list/.244054",
-      "published_at": "2026-11-22T18:15:00+00:00",
-      "excerpt": "The 22nd volume of Tatsuki Fujimoto's Chainsaw Man manga ranked at #4 on The New York Times' monthly Graphic Books and Manga bestseller list released in...",
-      "source": "Anime News Network"
-    },
-    {
-      "title": "Chainsaw Man Ranks #2 on Bookscan's October Adult Graphic Novel List in U.S.",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-22/chainsaw-man-ranks-no.2-on-bookscan-october-adult-graphic-novel-list-in-u.s/.244062",
-      "published_at": "2026-11-22T17:15:00+00:00",
-      "excerpt": "13 manga volumes including Jujutsu Kaisen, The Summer Hikaru Died, The Guy She Was Interested In Wasn't a Guy at All, Dandadan, Phantom Busters, Demon Slayer, One Piece make list",
-      "source": "Anime News Network"
-    },
-    {
-      "title": "Jujutsu Kaisen Ranks #4 on Bookscan's September Adult Graphic Novel List in U.S.",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-22/jujutsu-kaisen-ranks-no.4-on-bookscan-september-adult-graphic-novel-list-in-u.s/.244055",
-      "published_at": "2026-11-22T16:15:00+00:00",
-      "excerpt": "16 manga volumes including Spy x Family, The Summer Hikaru Died, Steel Ball Run, Demon Slayer, Gachiakuta, One Piece, Witch Hat Atelier, Kaiju No. 8, The Apothecary Diaries make list",
-      "source": "Anime News Network"
-    },
-    {
-      "title": "Witch on the Holy Night Film Expands 981 Cuts for ScreenX Release",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-22/witch-on-the-holy-night-film-expands-981-cuts-for-screenx-release/.244092",
-      "published_at": "2026-11-22T15:02:44+00:00",
-      "excerpt": "New trailer: ufotable updated 67 minutes for premium screenings starting on Friday",
-      "source": "Anime News Network"
-    },
-    {
-      "title": "Nahato's 'The One. Later On...' Light Novels Get TV Anime in 2027",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-22/nahato-the-one-later-on-light-novels-get-tv-anime-in-2027/.244089",
-      "published_at": "2026-11-22T12:02:53+00:00",
-      "excerpt": "Kent Itō, Yui Ogura star in Jumondo anime",
-      "source": "Anime News Network"
-    },
-    {
-      "title": "4-Piece Band Subway Daydream Disbands",
-      "url": "https://www.animenewsnetwork.com/news/2026-11-22/4-piece-band-subway-daydream-disbands/.244080",
-      "published_at": "2026-11-22T11:00:00+00:00",
-      "excerpt": "Band performed opening theme song of \"Ippon\" Again! anime in 2023",
       "source": "Anime News Network"
     }
   ],
