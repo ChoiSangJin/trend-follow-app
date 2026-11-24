@@ -3,10 +3,352 @@
   "country": "KR",
   "source_url": "https://www.netflix.com/tudum/top10/data/all-weeks-countries.tsv",
   "chart_url": "https://www.netflix.com/tudum/top10/south-korea",
-  "fetched_at": "2026-11-24T09:50:52.737393+00:00",
+  "fetched_at": "2026-11-24T22:23:24.909448+00:00",
   "weeks": [
     {
+      "week": "2026-11-22",
+      "charts": {
+        "TV": [
+          {
+            "id": "TV:The Blue Road|The Blue Road: Limited Series",
+            "title": "The Blue Road",
+            "season": "The Blue Road: Limited Series",
+            "rank": 1,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/81941626?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/81941626?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/81941626?locale=ko-KR",
+              "synopsis": "잔혹한 죽음. 의문의 메시지. 국경을 넘어 반복되는 살인 사건의 수사를 위해 양국의 형사가 공조한다. 범인은 대체 무엇을 말하려는 걸까. 진실은 가까운 곳에 있을지 모른다.",
+              "synopsis_language": "ko",
+              "local_title": "푸른길",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABbmHTxtjtdts0wwt04ZdbhiJ29srNVLIt7Jzl0QBWtK9sptwhSi34xgw7PFT1ghoE9fl01WtFzoQADZKECZZigcotTu8WuFHwnuC.jpg?r=01c"
+            }
+          },
+          {
+            "id": "TV:The Devil's Plan|The Devil's Plan: Season 3",
+            "title": "The Devil's Plan",
+            "season": "The Devil's Plan: Season 3",
+            "rank": 2,
+            "previous_rank": 1,
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/81653386?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/81653386?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/81653386?locale=ko-KR",
+              "synopsis": "최고의 브레인 자리를 차지하기 위해 모인 참가자들. 두뇌와 전략, 그리고 멘탈까지 필요한 이 6박 7일간의 두뇌 서바이벌 게임에서 살아남을 최후의 1인은?",
+              "synopsis_language": "ko",
+              "local_title": "데블스 플랜",
+              "kind": "예능",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRB23Ar50pn8O08xg0x1pZlAnIah2KJgs17jnIV55avaPn0ahpj9lWLENKYsYml7EI4F8fS7wQuIzLw08UIqWaP765XCHrqpE3CQ.jpg?r=7ac"
+            }
+          },
+          {
+            "id": "TV:Good Partner|Good Partner: Season 2",
+            "title": "Good Partner",
+            "season": "Good Partner: Season 2",
+            "rank": 3,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/83355633?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "With her divorce firm booming, Eun-kyung hires a tenacious lawyer just as a former classmate moves in upstairs and tries to lure away her clients.",
+              "synopsis_language": "en"
+            }
+          },
+          {
+            "id": "TV:Sword & Silence|Sword & Silence: Season 1",
+            "title": "Sword & Silence",
+            "season": "Sword & Silence: Season 1",
+            "rank": 4,
+            "previous_rank": 7,
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/82799831?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "Six centuries of war have left the Three Kingdoms in turmoil. Facing powerful rivals, a small nation fights to unite a divided land.",
+              "synopsis_language": "en"
+            }
+          },
+          {
+            "id": "TV:100 Days of Deception|100 Days of Deception: Limited Series",
+            "title": "100 Days of Deception",
+            "season": "100 Days of Deception: Limited Series",
+            "rank": 5,
+            "previous_rank": 4,
+            "weeks_in_top10": 7,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/82682433?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/82682433?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/82682433?locale=ko-KR",
+              "synopsis": "자유를 찾아 미국행을 꿈꾸던 경성 최고의 소매치기. 조선총독부에 잠입해 기밀을 훔치는 임무를 맡게 된 그녀는 뜻밖에도 표적의 아들과 사랑에 빠지고 만다.",
+              "synopsis_language": "ko",
+              "local_title": "100일의 거짓말"
+            }
+          },
+          {
+            "id": "TV:Doctor X: Mafia in White|Doctor X: Mafia in White: Limited Series",
+            "title": "Doctor X: Mafia in White",
+            "season": "Doctor X: Mafia in White: Limited Series",
+            "rank": 6,
+            "previous_rank": 2,
+            "weeks_in_top10": 7,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/82682379?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/82682379?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/82682379?locale=ko-KR",
+              "synopsis": "자존심과 부조리가 지배하는 병원에 혜성처럼 등장한 천재 외과의. 거센 반발에도 아랑곳하지 않고 불가능해 보이는 수술에 뛰어드는 그녀는 과연 누구인가.",
+              "synopsis_language": "ko",
+              "local_title": "닥터X: 하얀 마피아의 시대",
+              "kind": "드라마"
+            }
+          },
+          {
+            "id": "TV:The Devil's Plan B|The Devil's Plan B: Season 1",
+            "title": "The Devil's Plan B",
+            "season": "The Devil's Plan B: Season 1",
+            "rank": 7,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/83193646?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/83193646?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/83193646?locale=ko-KR",
+              "synopsis": "《데블스 플랜: 데드 어게인》의 플레이어들이 다시 한자리에 모였다. 미공개 영상부터 결정적 장면, 팬들의 기상천외한 추측까지 함께 리뷰하며 생생한 리액션을 펼친다.",
+              "synopsis_language": "ko",
+              "local_title": "데블스플랜 B",
+              "kind": "예능",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTYlc6eMD91GMKVoehGiZnDQCe4Mpy8ETF0344Dhm6o7XgdVD3ammvPbsiLG5fVN8tWJH-41a8EQ6Qxws67h5Sxu7PocZPeD4-3q.jpg?r=bf2"
+            }
+          },
+          {
+            "id": "TV:Dead-End Job|Dead-End Job: Limited Series",
+            "title": "Dead-End Job",
+            "season": "Dead-End Job: Limited Series",
+            "rank": 8,
+            "previous_rank": 3,
+            "weeks_in_top10": 4,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/81997887?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/81997887?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/81997887?locale=ko-KR",
+              "synopsis": "빚에 쫓기던 청년 혁준 앞에 나타난 수상한 인력사무소. 시급은 최소 50배, 살아서 퇴근하면 다음엔 더 많이 준다? 가난에서 벗어나기 위해 오늘도 그는 알바 자리를 수락한다.",
+              "synopsis_language": "ko",
+              "local_title": "꿀알바",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABb5e8KBDH9k1y_AE8VBWQ3uzLC854Hn6ZJhotDZewMZJ3PtijxT_keIEdc0zrz0upf4Wm-21zNobiI5fFjpSuJ8PVnEet1GloyTa.jpg?r=7d7"
+            }
+          },
+          {
+            "id": "TV:I am Solo|I am Solo: Part 34",
+            "title": "I am Solo",
+            "season": "I am Solo: Part 34",
+            "rank": 9,
+            "previous_rank": 5,
+            "weeks_in_top10": 7,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/81551819?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/81551819?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/81551819?locale=ko-KR",
+              "synopsis": "외로움은 겪을 만큼 겪었다! 솔로 탈출을 간절히 원하는 싱글 남녀들이 사랑과 결혼 상대를 찾아 나섰다. 데이트의 설렘은 물론, 로맨스의 온갖 우여곡절을 고스란히 담아낸 현실 연애 프로그램.",
+              "synopsis_language": "ko",
+              "local_title": "나는 솔로",
+              "kind": "예능",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUu8iUFU8E9OxgzebnZ6HTNqZtREpqFSaDHEAH25iYyZIWEuUSGoXL6GyVTdWmirkxv5alpLVutThtS0AYFr26tVxqyAuVCMz_ry.jpg?r=b55"
+            }
+          },
+          {
+            "id": "TV:Romance School : First & Again|Romance School : First & Again: Season 2",
+            "title": "Romance School : First & Again",
+            "season": "Romance School : First & Again: Season 2",
+            "rank": 10,
+            "previous_rank": 6,
+            "weeks_in_top10": 3,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "title_url": "https://www.netflix.com/kr/title/83115109?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
+              "synopsis": "Divorced women jaded by past relationships look for a second chance at love when they meet a group of men who've never dated before.",
+              "synopsis_language": "en"
+            }
+          }
+        ],
+        "Films": [
+          {
+            "id": "Films:Possible Love|N/A",
+            "title": "Possible Love",
+            "season": null,
+            "rank": 1,
+            "previous_rank": 1,
+            "weeks_in_top10": 3,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/82106490?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/82106490?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/82106490?locale=ko-KR",
+              "synopsis": "해고 노동자와 그의 아내 그리고 다큐멘터리 감독과 그녀의 남편. 두 부부가 다큐멘터리 제작을 계기로 만나, 서로의 다른 삶과 숨은 욕망을 마주한다. 베니스 국제 영화제 심사위원 대상 수상작.",
+              "synopsis_language": "ko",
+              "local_title": "가능한 사랑",
+              "kind": "드라마",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUQ4mnSJ3YaeIvA9xJbkQ3SdHMcd0RYa2UctRw9NRs2codEax3zfbHFVzBKlejnSyBfMa3_dJS3HyXOIVxjXfol9Ro7XGa4EETCS.jpg?r=943"
+            }
+          },
+          {
+            "id": "Films:In the Grey|N/A",
+            "title": "In the Grey",
+            "season": null,
+            "rank": 2,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/81914589?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "To recover $1 billion from a corrupt tycoon, lawyer Rachel recruits rule-breaking operatives Sid and Bronco for an impossible heist.",
+              "synopsis_language": "en"
+            }
+          },
+          {
+            "id": "Films:Never Surrender|N/A",
+            "title": "Never Surrender",
+            "season": null,
+            "rank": 3,
+            "previous_rank": 4,
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/81996126?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/81996126?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/81996126?locale=ko-KR",
+              "synopsis": "외딴집에 무자비한 갱단이 들이닥쳤다. 죄책감에 시달리던 전직 군인은 남이나 다름없는 손주들과 힘을 합쳐 살아남아야 한다.",
+              "synopsis_language": "ko",
+              "local_title": "네버 서렌더",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABU09Jl6xcI3b61kt9mDJ8ddgAj1HQjUGfbDaD5Ko8LvwoncfuBkjaU31ik7DzKVa9ccnLkc1JeLE5onph3ygAbxU-KZT2ozGsE5c.jpg?r=a4a"
+            }
+          },
+          {
+            "id": "Films:Heartland|N/A",
+            "title": "Heartland",
+            "season": null,
+            "rank": 4,
+            "previous_rank": 8,
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/81486332?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/81486332?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/81486332?locale=ko-KR",
+              "synopsis": "한때 컨트리 음악계의 전설이었던 미스티 존스(제시카 차스테인). 떠오르는 신예 스타인 조카가 실종되자 그 진실을 밝히기 위해 내슈빌로 돌아온다.",
+              "synopsis_language": "ko",
+              "local_title": "하트랜드",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTmgSkQsktq_JAe61hwqDQ_I4_S8hv4uy3QrV2CzcxS3poaNr62UqsmmkJeKOvNPdBO2_ItHCXLLSI8hF8u7JnlH2X-eii8AIXXG.jpg?r=1ee"
+            }
+          },
+          {
+            "id": "Films:Backrooms|N/A",
+            "title": "Backrooms",
+            "season": null,
+            "rank": 5,
+            "previous_rank": 2,
+            "weeks_in_top10": 2,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/83030074?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "A furniture salesman vanishes into an endless maze of rooms. When his therapist follows, reality unravels and horrors threaten their escape.",
+              "synopsis_language": "en"
+            }
+          },
+          {
+            "id": "Films:Guarding Stars|N/A",
+            "title": "Guarding Stars",
+            "season": null,
+            "rank": 6,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/81749470?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/81749470?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/81749470?locale=ko-KR",
+              "synopsis": "경호 대상인 유명 배우와 함께 몬태나 목장으로 향하는 빈틈없는 보디가드. 하지만 크리스마스에 연인 행세를 하던 두 사람 사이에 진짜 로맨스가 피어난다.",
+              "synopsis_language": "ko",
+              "local_title": "스타의 보디가드",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABa70aF00WfL4ihxA5Agztc6IeAYEiY9b76PdPQuUmm7tbHIxyaseqdJEzRhu-pBiJAPxd-dkr1nIbdqsRe9bSzBcASCUg9zVlZcH.jpg?r=466"
+            }
+          },
+          {
+            "id": "Films:Dirty Money|N/A",
+            "title": "Dirty Money",
+            "season": null,
+            "rank": 7,
+            "previous_rank": null,
+            "weeks_in_top10": 7,
+            "metadata": {
+              "source_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "title_url": "https://www.netflix.com/kr/title/81949573?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/tudum/top10/south-korea",
+              "synopsis": "Under immense financial pressure, two corrupt detectives intercept an illicit cash haul — and must now evade the police and a ruthless crime syndicate.",
+              "synopsis_language": "en"
+            }
+          },
+          {
+            "id": "Films:One Year to Live, Buy a Man|N/A",
+            "title": "One Year to Live, Buy a Man",
+            "season": null,
+            "rank": 8,
+            "previous_rank": 3,
+            "weeks_in_top10": 3,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/81505776?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/81505776?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/81505776?locale=ko-KR",
+              "synopsis": "절약밖에 모르고 살아온 마흔 살의 유이. 처음으로 거금을 쓰기로 결심하고, 클럽 호스트 세나를 '산다'. 계약으로 시작된 두 사람의 관계. 그러나 이들의 이야기는 예상치 못한 방향으로 흘러간다.",
+              "synopsis_language": "ko",
+              "local_title": "시한부 1년, 남자를 사다",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWOIQYbrCYMzN4VfQE9-MUWSxRKTpejHx8l3MI7whCNhj-mQHbRZy-FFrz81hGsg_Lq-yzayTm7rL8MDFBUIQF03yHC9GB0PZa2K.jpg?r=9f5"
+            }
+          },
+          {
+            "id": "Films:Steps|N/A",
+            "title": "Steps",
+            "season": null,
+            "rank": 9,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/81212809?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/81212809?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/81212809?locale=ko-KR",
+              "synopsis": "독특한 매력이 넘치는 액션 코미디. 신데렐라의 '못된' 의붓자매 릴리스가 요정 대모의 요술봉을 훔치면서 우리가 알던 동화 속 이야기가 완전히 뒤집힌다.",
+              "synopsis_language": "ko",
+              "local_title": "스텝스",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdF1GWtdEmBk6EiwUsKtjwTyReigqe-3ES_yduNfVaMaWhCnyDZOdmZPrbQW4VaCqwAgZTz9DOfAxXTWn_-5artCHv0Tus5vQBtH.jpg?r=925"
+            }
+          },
+          {
+            "id": "Films:David|N/A",
+            "title": "David",
+            "season": null,
+            "rank": 10,
+            "previous_rank": null,
+            "weeks_in_top10": 1,
+            "metadata": {
+              "source_url": "https://www.netflix.com/kr/title/82836255?locale=ko-KR",
+              "title_url": "https://www.netflix.com/kr/title/82836255?locale=ko-KR",
+              "watch_url": "https://www.netflix.com/kr/title/82836255?locale=ko-KR",
+              "synopsis": "장차 왕이 되리라는 예언을 들은 목동 소년. 전설로 남을 여정에서 굳은 신념을 길잡이 삼아 강대한 적들을 물리치고 자신의 운명을 향해 나아간다.",
+              "synopsis_language": "ko",
+              "local_title": "다윗",
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABYFUniYKWZcCmdNCI9rKsNAfq5bys4OjcyrqV3HIhRdZk3Ro-SZ5i81eMZDOp4VhpQDidm2eC1rrfbQG3g4icygArMrxc65yM7Cz.jpg?r=e19"
+            }
+          }
+        ]
+      },
+      "previous_available": true
+    },
+    {
       "week": "2026-11-15",
+      "previous_available": true,
       "charts": {
         "TV": [
           {
@@ -24,7 +366,7 @@
               "synopsis_language": "ko",
               "local_title": "데블스 플랜",
               "kind": "예능",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRB23Ar50pn8O08xg0x1pZlAnIah2KJgs17jnIV55avaPn0ahpj9lWLENKYsYml7EI4F8fS7wQuIzLw08UIqWaP765XCHrqpE3CQ.jpg?r=7ac"
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABRB23Ar50pn8O08xg0x1pZlAnIah2KJgs17jnIV55avaPn0ahpj9lWLENKYsYml7EI4F8fS7wQuIzLw08UIqWaP765XCHrqpE3CQ.jpg?r=7ac"
             }
           },
           {
@@ -58,7 +400,7 @@
               "synopsis": "빚에 쫓기던 청년 혁준 앞에 나타난 수상한 인력사무소. 시급은 최소 50배, 살아서 퇴근하면 다음엔 더 많이 준다? 가난에서 벗어나기 위해 오늘도 그는 알바 자리를 수락한다.",
               "synopsis_language": "ko",
               "local_title": "꿀알바",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABb5e8KBDH9k1y_AE8VBWQ3uzLC854Hn6ZJhotDZewMZJ3PtijxT_keIEdc0zrz0upf4Wm-21zNobiI5fFjpSuJ8PVnEet1GloyTa.jpg?r=7d7"
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABb5e8KBDH9k1y_AE8VBWQ3uzLC854Hn6ZJhotDZewMZJ3PtijxT_keIEdc0zrz0upf4Wm-21zNobiI5fFjpSuJ8PVnEet1GloyTa.jpg?r=7d7"
             }
           },
           {
@@ -92,7 +434,7 @@
               "synopsis_language": "ko",
               "local_title": "나는 솔로",
               "kind": "예능",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUu8iUFU8E9OxgzebnZ6HTNqZtREpqFSaDHEAH25iYyZIWEuUSGoXL6GyVTdWmirkxv5alpLVutThtS0AYFr26tVxqyAuVCMz_ry.jpg?r=b55"
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUu8iUFU8E9OxgzebnZ6HTNqZtREpqFSaDHEAH25iYyZIWEuUSGoXL6GyVTdWmirkxv5alpLVutThtS0AYFr26tVxqyAuVCMz_ry.jpg?r=b55"
             }
           },
           {
@@ -131,16 +473,7 @@
             "season": "The Wonder Coach: Season 2",
             "rank": 8,
             "previous_rank": 8,
-            "weeks_in_top10": 5,
-            "metadata": {
-              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "title_url": "https://www.netflix.com/kr/title/83140060?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "synopsis": "김연경과 원더독스가 구단주를 찾고 한국의 여덟 번째 프로 배구팀이 되기 위한 도전에 나선다.",
-              "synopsis_language": "ko",
-              "original_synopsis": "Kim Yeon-koung and the Wonder Dogs return with a new mission: secure an owner and establish themselves as Korea's eighth professional volleyball team.",
-              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
-            }
+            "weeks_in_top10": 5
           },
           {
             "id": "TV:The Ballad of Us|The Ballad of Us: Season 2",
@@ -148,16 +481,7 @@
             "season": "The Ballad of Us: Season 2",
             "rank": 9,
             "previous_rank": 7,
-            "weeks_in_top10": 6,
-            "metadata": {
-              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "title_url": "https://www.netflix.com/kr/title/82087012?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "synopsis": "여러 시대의 발라드를 자신만의 이야기로 다시 부르는 가수들이 150명의 평가단 앞에 선다.",
-              "synopsis_language": "ko",
-              "original_synopsis": "New voices put fresh spins on beloved ballads, bringing personal stories to songs from across four decades as singers vie to impress a 150-person panel.",
-              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
-            }
+            "weeks_in_top10": 6
           },
           {
             "id": "TV:What a Boss Wants|What a Boss Wants: Season 1",
@@ -165,14 +489,7 @@
             "season": "What a Boss Wants: Season 1",
             "rank": 10,
             "previous_rank": null,
-            "weeks_in_top10": 1,
-            "metadata": {
-              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "title_url": "https://www.netflix.com/kr/title/83345211?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "synopsis": "An emotionally guarded CEO recruits a struggling indie singer as his secretary for three months — but keeping things professional soon proves difficult.",
-              "synopsis_language": "en"
-            }
+            "weeks_in_top10": 1
           }
         ],
         "Films": [
@@ -191,7 +508,7 @@
               "synopsis_language": "ko",
               "local_title": "가능한 사랑",
               "kind": "드라마",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUQ4mnSJ3YaeIvA9xJbkQ3SdHMcd0RYa2UctRw9NRs2codEax3zfbHFVzBKlejnSyBfMa3_dJS3HyXOIVxjXfol9Ro7XGa4EETCS.jpg?r=943"
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUQ4mnSJ3YaeIvA9xJbkQ3SdHMcd0RYa2UctRw9NRs2codEax3zfbHFVzBKlejnSyBfMa3_dJS3HyXOIVxjXfol9Ro7XGa4EETCS.jpg?r=943"
             }
           },
           {
@@ -223,7 +540,7 @@
               "synopsis": "절약밖에 모르고 살아온 마흔 살의 유이. 처음으로 거금을 쓰기로 결심하고, 클럽 호스트 세나를 '산다'. 계약으로 시작된 두 사람의 관계. 그러나 이들의 이야기는 예상치 못한 방향으로 흘러간다.",
               "synopsis_language": "ko",
               "local_title": "시한부 1년, 남자를 사다",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWOIQYbrCYMzN4VfQE9-MUWSxRKTpejHx8l3MI7whCNhj-mQHbRZy-FFrz81hGsg_Lq-yzayTm7rL8MDFBUIQF03yHC9GB0PZa2K.jpg?r=9f5"
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWOIQYbrCYMzN4VfQE9-MUWSxRKTpejHx8l3MI7whCNhj-mQHbRZy-FFrz81hGsg_Lq-yzayTm7rL8MDFBUIQF03yHC9GB0PZa2K.jpg?r=9f5"
             }
           },
           {
@@ -240,7 +557,7 @@
               "synopsis": "외딴집에 무자비한 갱단이 들이닥쳤다. 죄책감에 시달리던 전직 군인은 남이나 다름없는 손주들과 힘을 합쳐 살아남아야 한다.",
               "synopsis_language": "ko",
               "local_title": "네버 서렌더",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABU09Jl6xcI3b61kt9mDJ8ddgAj1HQjUGfbDaD5Ko8LvwoncfuBkjaU31ik7DzKVa9ccnLkc1JeLE5onph3ygAbxU-KZT2ozGsE5c.jpg?r=a4a"
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABU09Jl6xcI3b61kt9mDJ8ddgAj1HQjUGfbDaD5Ko8LvwoncfuBkjaU31ik7DzKVa9ccnLkc1JeLE5onph3ygAbxU-KZT2ozGsE5c.jpg?r=a4a"
             }
           },
           {
@@ -249,16 +566,7 @@
             "season": null,
             "rank": 5,
             "previous_rank": null,
-            "weeks_in_top10": 1,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/80017529?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/80017529?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/80017529?locale=ko-KR",
-              "synopsis": "1820년, 거대한 고래가 배를 들이받으면서 뉴잉글랜드의 포경선 선원들이 생존을 위한 사투가 시작된다. 실화를 바탕으로 한 어드벤처 드라마.",
-              "synopsis_language": "ko",
-              "local_title": "하트 오브 더 씨",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABbEtWv6PvDpjwxvXweoWJijYKckXK3yxCBVDWrM9mjJtH7BVo-EbD7rDGiKhLbY-inyjTqHJJ_VUCTla7s49gXNm6hv_JrRbbAbR.jpg?r=5c9"
-            }
+            "weeks_in_top10": 1
           },
           {
             "id": "Films:Me Before You|N/A",
@@ -266,16 +574,7 @@
             "season": null,
             "rank": 6,
             "previous_rank": 7,
-            "weeks_in_top10": 2,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/80043744?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/80043744?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/80043744?locale=ko-KR",
-              "synopsis": "생기발랄하고 소탈한 여자, 루. 사고로 전신 마비 장애인이 된 부유하고 냉소적인 독신남의 간병인으로 일하게 되면서, 사랑에 관한 쉽지 않은 질문과 마주한다.",
-              "synopsis_language": "ko",
-              "local_title": "미 비포 유",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWV6jE74rh2gIAjEd5qn5t_imYG7Fyhq4dDiAMMAhPL23MfbeH4PE9L4QNJkCpAhEoE9YKijFTGn3tH_gaN0I3zl_fdjYoeZn9A_.jpg?r=69e"
-            }
+            "weeks_in_top10": 2
           },
           {
             "id": "Films:A Dog's Perfect Christmas|N/A",
@@ -283,16 +582,7 @@
             "season": null,
             "rank": 7,
             "previous_rank": null,
-            "weeks_in_top10": 1,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/82090597?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/82090597?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/82090597?locale=ko-KR",
-              "synopsis": "갑작스러운 건강 문제로 뿔뿔이 흩어진 고스 가족. 충직한 반려견 윈스테드는 크리스마스이브가 오기 전 가족을 다시 한 자리에 모으기 위해 온 힘을 다한다.",
-              "synopsis_language": "ko",
-              "local_title": "반려견의 완벽한 크리스마스",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABY0w1UUYynHPDBbJMN5alJqcbOamEaS0hLObLnJqZ6az96EpKgnWSdNALacqCnw8WC8n0dPAWeVgXkDfhW50sRSyiut6cW9a8GLt.jpg?r=e8f"
-            }
+            "weeks_in_top10": 1
           },
           {
             "id": "Films:Heartland|N/A",
@@ -308,7 +598,7 @@
               "synopsis": "한때 컨트리 음악계의 전설이었던 미스티 존스(제시카 차스테인). 떠오르는 신예 스타인 조카가 실종되자 그 진실을 밝히기 위해 내슈빌로 돌아온다.",
               "synopsis_language": "ko",
               "local_title": "하트랜드",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTmgSkQsktq_JAe61hwqDQ_I4_S8hv4uy3QrV2CzcxS3poaNr62UqsmmkJeKOvNPdBO2_ItHCXLLSI8hF8u7JnlH2X-eii8AIXXG.jpg?r=1ee"
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTmgSkQsktq_JAe61hwqDQ_I4_S8hv4uy3QrV2CzcxS3poaNr62UqsmmkJeKOvNPdBO2_ItHCXLLSI8hF8u7JnlH2X-eii8AIXXG.jpg?r=1ee"
             }
           },
           {
@@ -317,16 +607,7 @@
             "season": null,
             "rank": 9,
             "previous_rank": null,
-            "weeks_in_top10": 1,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/70305903?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/70305903?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/70305903?locale=ko-KR",
-              "synopsis": "인류 멸망이 목전에 닥친 미래. 우주비행사들이 웜홀을 통해 광활한 우주를 여행하며 인류가 살 수 있는 또 다른 행성을 찾아 나선다.",
-              "synopsis_language": "ko",
-              "local_title": "인터스텔라",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABavHVjjblz-EkvkmyUVGyFct1NY_aIhVh6GCs00KJ-oE--ewGdY1XzvDA0OIDIRcFJEQescPMcezfxTMIYua-OXgBlGrNw-zdW8v.jpg?r=835"
-            }
+            "weeks_in_top10": 1
           },
           {
             "id": "Films:Heist|N/A",
@@ -334,20 +615,10 @@
             "season": null,
             "rank": 10,
             "previous_rank": 8,
-            "weeks_in_top10": 2,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/60020557?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/60020557?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/60020557?locale=ko-KR",
-              "synopsis": "은퇴를 결심한 절도단 두목. 이제 새 출발 하려는데 믿었던 장물아비가 협박해온다. 그렇게 시작된 마지막 한탕. 일은 꼬여만 가는데 대체 누구를 믿어야 할지 알 수가 없다.",
-              "synopsis_language": "ko",
-              "local_title": "하이스트",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUVlM_HqrL734wnFYqyNBjpvgaPeFU21pvpbmHBCtboeaMCclmUefdFOk1YUyDOWD1koYSAyGboFHE86J4ArPrrrottui0yVP7_Q.jpg?r=ecf"
-            }
+            "weeks_in_top10": 2
           }
         ]
-      },
-      "previous_available": true
+      }
     },
     {
       "week": "2026-11-08",
@@ -368,7 +639,7 @@
               "synopsis": "빚에 쫓기던 청년 혁준 앞에 나타난 수상한 인력사무소. 시급은 최소 50배, 살아서 퇴근하면 다음엔 더 많이 준다? 가난에서 벗어나기 위해 오늘도 그는 알바 자리를 수락한다.",
               "synopsis_language": "ko",
               "local_title": "꿀알바",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABb5e8KBDH9k1y_AE8VBWQ3uzLC854Hn6ZJhotDZewMZJ3PtijxT_keIEdc0zrz0upf4Wm-21zNobiI5fFjpSuJ8PVnEet1GloyTa.jpg?r=7d7"
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABb5e8KBDH9k1y_AE8VBWQ3uzLC854Hn6ZJhotDZewMZJ3PtijxT_keIEdc0zrz0upf4Wm-21zNobiI5fFjpSuJ8PVnEet1GloyTa.jpg?r=7d7"
             }
           },
           {
@@ -419,7 +690,7 @@
               "synopsis_language": "ko",
               "local_title": "나는 솔로",
               "kind": "예능",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUu8iUFU8E9OxgzebnZ6HTNqZtREpqFSaDHEAH25iYyZIWEuUSGoXL6GyVTdWmirkxv5alpLVutThtS0AYFr26tVxqyAuVCMz_ry.jpg?r=b55"
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUu8iUFU8E9OxgzebnZ6HTNqZtREpqFSaDHEAH25iYyZIWEuUSGoXL6GyVTdWmirkxv5alpLVutThtS0AYFr26tVxqyAuVCMz_ry.jpg?r=b55"
             }
           },
           {
@@ -451,16 +722,7 @@
             "season": "The Ballad of Us: Season 2",
             "rank": 7,
             "previous_rank": 5,
-            "weeks_in_top10": 5,
-            "metadata": {
-              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "title_url": "https://www.netflix.com/kr/title/82087012?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "synopsis": "여러 시대의 발라드를 자신만의 이야기로 다시 부르는 가수들이 150명의 평가단 앞에 선다.",
-              "synopsis_language": "ko",
-              "original_synopsis": "New voices put fresh spins on beloved ballads, bringing personal stories to songs from across four decades as singers vie to impress a 150-person panel.",
-              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
-            }
+            "weeks_in_top10": 5
           },
           {
             "id": "TV:The Wonder Coach|The Wonder Coach: Season 2",
@@ -468,16 +730,7 @@
             "season": "The Wonder Coach: Season 2",
             "rank": 8,
             "previous_rank": 7,
-            "weeks_in_top10": 4,
-            "metadata": {
-              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "title_url": "https://www.netflix.com/kr/title/83140060?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "synopsis": "김연경과 원더독스가 구단주를 찾고 한국의 여덟 번째 프로 배구팀이 되기 위한 도전에 나선다.",
-              "synopsis_language": "ko",
-              "original_synopsis": "Kim Yeon-koung and the Wonder Dogs return with a new mission: secure an owner and establish themselves as Korea's eighth professional volleyball team.",
-              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
-            }
+            "weeks_in_top10": 4
           },
           {
             "id": "TV:Marriage of Convenience|Marriage of Convenience: Season 1",
@@ -521,7 +774,7 @@
               "synopsis_language": "ko",
               "local_title": "가능한 사랑",
               "kind": "드라마",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUQ4mnSJ3YaeIvA9xJbkQ3SdHMcd0RYa2UctRw9NRs2codEax3zfbHFVzBKlejnSyBfMa3_dJS3HyXOIVxjXfol9Ro7XGa4EETCS.jpg?r=943"
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUQ4mnSJ3YaeIvA9xJbkQ3SdHMcd0RYa2UctRw9NRs2codEax3zfbHFVzBKlejnSyBfMa3_dJS3HyXOIVxjXfol9Ro7XGa4EETCS.jpg?r=943"
             }
           },
           {
@@ -546,7 +799,7 @@
               "synopsis": "절약밖에 모르고 살아온 마흔 살의 유이. 처음으로 거금을 쓰기로 결심하고, 클럽 호스트 세나를 '산다'. 계약으로 시작된 두 사람의 관계. 그러나 이들의 이야기는 예상치 못한 방향으로 흘러간다.",
               "synopsis_language": "ko",
               "local_title": "시한부 1년, 남자를 사다",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWOIQYbrCYMzN4VfQE9-MUWSxRKTpejHx8l3MI7whCNhj-mQHbRZy-FFrz81hGsg_Lq-yzayTm7rL8MDFBUIQF03yHC9GB0PZa2K.jpg?r=9f5"
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWOIQYbrCYMzN4VfQE9-MUWSxRKTpejHx8l3MI7whCNhj-mQHbRZy-FFrz81hGsg_Lq-yzayTm7rL8MDFBUIQF03yHC9GB0PZa2K.jpg?r=9f5"
             }
           },
           {
@@ -579,16 +832,7 @@
             "season": null,
             "rank": 7,
             "previous_rank": null,
-            "weeks_in_top10": 1,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/80043744?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/80043744?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/80043744?locale=ko-KR",
-              "synopsis": "생기발랄하고 소탈한 여자, 루. 사고로 전신 마비 장애인이 된 부유하고 냉소적인 독신남의 간병인으로 일하게 되면서, 사랑에 관한 쉽지 않은 질문과 마주한다.",
-              "synopsis_language": "ko",
-              "local_title": "미 비포 유",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWV6jE74rh2gIAjEd5qn5t_imYG7Fyhq4dDiAMMAhPL23MfbeH4PE9L4QNJkCpAhEoE9YKijFTGn3tH_gaN0I3zl_fdjYoeZn9A_.jpg?r=69e"
-            }
+            "weeks_in_top10": 1
           },
           {
             "id": "Films:Heist|N/A",
@@ -596,16 +840,7 @@
             "season": null,
             "rank": 8,
             "previous_rank": null,
-            "weeks_in_top10": 1,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/60020557?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/60020557?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/60020557?locale=ko-KR",
-              "synopsis": "은퇴를 결심한 절도단 두목. 이제 새 출발 하려는데 믿었던 장물아비가 협박해온다. 그렇게 시작된 마지막 한탕. 일은 꼬여만 가는데 대체 누구를 믿어야 할지 알 수가 없다.",
-              "synopsis_language": "ko",
-              "local_title": "하이스트",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUVlM_HqrL734wnFYqyNBjpvgaPeFU21pvpbmHBCtboeaMCclmUefdFOk1YUyDOWD1koYSAyGboFHE86J4ArPrrrottui0yVP7_Q.jpg?r=ecf"
-            }
+            "weeks_in_top10": 1
           },
           {
             "id": "Films:Nowhere to Run|N/A",
@@ -662,7 +897,7 @@
               "synopsis": "빚에 쫓기던 청년 혁준 앞에 나타난 수상한 인력사무소. 시급은 최소 50배, 살아서 퇴근하면 다음엔 더 많이 준다? 가난에서 벗어나기 위해 오늘도 그는 알바 자리를 수락한다.",
               "synopsis_language": "ko",
               "local_title": "꿀알바",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABb5e8KBDH9k1y_AE8VBWQ3uzLC854Hn6ZJhotDZewMZJ3PtijxT_keIEdc0zrz0upf4Wm-21zNobiI5fFjpSuJ8PVnEet1GloyTa.jpg?r=7d7"
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABb5e8KBDH9k1y_AE8VBWQ3uzLC854Hn6ZJhotDZewMZJ3PtijxT_keIEdc0zrz0upf4Wm-21zNobiI5fFjpSuJ8PVnEet1GloyTa.jpg?r=7d7"
             }
           },
           {
@@ -696,7 +931,7 @@
               "synopsis_language": "ko",
               "local_title": "나는 솔로",
               "kind": "예능",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUu8iUFU8E9OxgzebnZ6HTNqZtREpqFSaDHEAH25iYyZIWEuUSGoXL6GyVTdWmirkxv5alpLVutThtS0AYFr26tVxqyAuVCMz_ry.jpg?r=b55"
+              "image_url": "https://occ-0-3012-2433.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUu8iUFU8E9OxgzebnZ6HTNqZtREpqFSaDHEAH25iYyZIWEuUSGoXL6GyVTdWmirkxv5alpLVutThtS0AYFr26tVxqyAuVCMz_ry.jpg?r=b55"
             }
           },
           {
@@ -705,16 +940,7 @@
             "season": "The Ballad of Us: Season 2",
             "rank": 5,
             "previous_rank": 5,
-            "weeks_in_top10": 4,
-            "metadata": {
-              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "title_url": "https://www.netflix.com/kr/title/82087012?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "synopsis": "여러 시대의 발라드를 자신만의 이야기로 다시 부르는 가수들이 150명의 평가단 앞에 선다.",
-              "synopsis_language": "ko",
-              "original_synopsis": "New voices put fresh spins on beloved ballads, bringing personal stories to songs from across four decades as singers vie to impress a 150-person panel.",
-              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
-            }
+            "weeks_in_top10": 4
           },
           {
             "id": "TV:World Dice Tour|World Dice Tour: Season 4",
@@ -730,16 +956,7 @@
             "season": "The Wonder Coach: Season 2",
             "rank": 7,
             "previous_rank": 8,
-            "weeks_in_top10": 3,
-            "metadata": {
-              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "title_url": "https://www.netflix.com/kr/title/83140060?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "synopsis": "김연경과 원더독스가 구단주를 찾고 한국의 여덟 번째 프로 배구팀이 되기 위한 도전에 나선다.",
-              "synopsis_language": "ko",
-              "original_synopsis": "Kim Yeon-koung and the Wonder Dogs return with a new mission: secure an owner and establish themselves as Korea's eighth professional volleyball team.",
-              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
-            }
+            "weeks_in_top10": 3
           },
           {
             "id": "TV:Where the Mask Ends|Where the Mask Ends: Season 1",
@@ -882,294 +1099,6 @@
             "season": null,
             "rank": 10,
             "previous_rank": 8,
-            "weeks_in_top10": 2
-          }
-        ]
-      }
-    },
-    {
-      "week": "2026-10-25",
-      "previous_available": true,
-      "charts": {
-        "TV": [
-          {
-            "id": "TV:Doctor X: Mafia in White|Doctor X: Mafia in White: Limited Series",
-            "title": "Doctor X: Mafia in White",
-            "season": "Doctor X: Mafia in White: Limited Series",
-            "rank": 1,
-            "previous_rank": 1,
-            "weeks_in_top10": 3,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/82682379?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/82682379?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/82682379?locale=ko-KR",
-              "synopsis": "자존심과 부조리가 지배하는 병원에 혜성처럼 등장한 천재 외과의. 거센 반발에도 아랑곳하지 않고 불가능해 보이는 수술에 뛰어드는 그녀는 과연 누구인가.",
-              "synopsis_language": "ko",
-              "local_title": "닥터X: 하얀 마피아의 시대",
-              "kind": "드라마"
-            }
-          },
-          {
-            "id": "TV:100 Days of Deception|100 Days of Deception: Limited Series",
-            "title": "100 Days of Deception",
-            "season": "100 Days of Deception: Limited Series",
-            "rank": 2,
-            "previous_rank": 2,
-            "weeks_in_top10": 3,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/82682433?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/82682433?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/82682433?locale=ko-KR",
-              "synopsis": "자유를 찾아 미국행을 꿈꾸던 경성 최고의 소매치기. 조선총독부에 잠입해 기밀을 훔치는 임무를 맡게 된 그녀는 뜻밖에도 표적의 아들과 사랑에 빠지고 만다.",
-              "synopsis_language": "ko",
-              "local_title": "100일의 거짓말"
-            }
-          },
-          {
-            "id": "TV:I am Solo|I am Solo: Part 34",
-            "title": "I am Solo",
-            "season": "I am Solo: Part 34",
-            "rank": 3,
-            "previous_rank": 3,
-            "weeks_in_top10": 3,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/81551819?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/81551819?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/81551819?locale=ko-KR",
-              "synopsis": "외로움은 겪을 만큼 겪었다! 솔로 탈출을 간절히 원하는 싱글 남녀들이 사랑과 결혼 상대를 찾아 나섰다. 데이트의 설렘은 물론, 로맨스의 온갖 우여곡절을 고스란히 담아낸 현실 연애 프로그램.",
-              "synopsis_language": "ko",
-              "local_title": "나는 솔로",
-              "kind": "예능",
-              "image_url": "https://occ-0-989-1360.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUu8iUFU8E9OxgzebnZ6HTNqZtREpqFSaDHEAH25iYyZIWEuUSGoXL6GyVTdWmirkxv5alpLVutThtS0AYFr26tVxqyAuVCMz_ry.jpg?r=b55"
-            }
-          },
-          {
-            "id": "TV:World Dice Tour|World Dice Tour: Season 4",
-            "title": "World Dice Tour",
-            "season": "World Dice Tour: Season 4",
-            "rank": 4,
-            "previous_rank": null,
-            "weeks_in_top10": 1
-          },
-          {
-            "id": "TV:The Ballad of Us|The Ballad of Us: Season 2",
-            "title": "The Ballad of Us",
-            "season": "The Ballad of Us: Season 2",
-            "rank": 5,
-            "previous_rank": 5,
-            "weeks_in_top10": 3,
-            "metadata": {
-              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "title_url": "https://www.netflix.com/kr/title/82087012?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "synopsis": "여러 시대의 발라드를 자신만의 이야기로 다시 부르는 가수들이 150명의 평가단 앞에 선다.",
-              "synopsis_language": "ko",
-              "original_synopsis": "New voices put fresh spins on beloved ballads, bringing personal stories to songs from across four decades as singers vie to impress a 150-person panel.",
-              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
-            }
-          },
-          {
-            "id": "TV:Take Charge of My Heart|Take Charge of My Heart: Limited Series",
-            "title": "Take Charge of My Heart",
-            "season": "Take Charge of My Heart: Limited Series",
-            "rank": 6,
-            "previous_rank": 4,
-            "weeks_in_top10": 3,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/82016402?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/82016402?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/82016402?locale=ko-KR",
-              "synopsis": "완벽한 재벌 3세 백호랑의 유일한 약점은 인공 심장. 심장 배터리가 방전되려는 위기의 순간, 온몸에 전기가 흐르는 나보배를 만나는데. 그녀와 맺은 짜릿한 계약, 배터리도 사랑도 충전될까?",
-              "synopsis_language": "ko",
-              "local_title": "나를 충전해줘",
-              "image_url": "https://occ-0-3012-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdic8hJIw75k0WcY4g-YgPO4Y7aT7SEz6O09ZWfnh5GWRJCFoUMH8b3RgAKWYgVErhrcmZmoEENVNxUGVcnnhIZlGay80e99Mx-P.jpg?r=fd6"
-            }
-          },
-          {
-            "id": "TV:Where the Mask Ends|Where the Mask Ends: Season 1",
-            "title": "Where the Mask Ends",
-            "season": "Where the Mask Ends: Season 1",
-            "rank": 7,
-            "previous_rank": null,
-            "weeks_in_top10": 1,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/83150089?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/83150089?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/83150089?locale=ko-KR",
-              "synopsis": "소박하게 살아가던 아추. 부유한 상속녀와 기이할 만큼 닮은 외모 때문에, 그녀를 대신해 중병에 걸린 귀족과 결혼하게 된다. 하지만 새로운 삶을 유지한다는 건 위험천만한 일이다.",
-              "synopsis_language": "ko",
-              "local_title": "가금채",
-              "image_url": "https://occ-0-3012-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcFUXwt_5w7QNAhzEWHSFW5oDEK-qrgoQOJyMiAHuU2KG0JpMTu4tXK5YL5NZHremrquWndL736x8_hvRZPVmcbIUIJ1o8PFeSTh.jpg?r=ff9"
-            }
-          },
-          {
-            "id": "TV:The Wonder Coach|The Wonder Coach: Season 2",
-            "title": "The Wonder Coach",
-            "season": "The Wonder Coach: Season 2",
-            "rank": 8,
-            "previous_rank": 7,
-            "weeks_in_top10": 2,
-            "metadata": {
-              "source_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "title_url": "https://www.netflix.com/kr/title/83140060?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/tudum/top10/south-korea/tv",
-              "synopsis": "김연경과 원더독스가 구단주를 찾고 한국의 여덟 번째 프로 배구팀이 되기 위한 도전에 나선다.",
-              "synopsis_language": "ko",
-              "original_synopsis": "Kim Yeon-koung and the Wonder Dogs return with a new mission: secure an owner and establish themselves as Korea's eighth professional volleyball team.",
-              "synopsis_credit": "Netflix 공식 소개 · 말문 번역"
-            }
-          },
-          {
-            "id": "TV:Cyberpunk: Edgerunners|Cyberpunk: Edgerunners 2",
-            "title": "Cyberpunk: Edgerunners",
-            "season": "Cyberpunk: Edgerunners 2",
-            "rank": 9,
-            "previous_rank": null,
-            "weeks_in_top10": 1,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/81054853?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/81054853?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/81054853?locale=ko-KR",
-              "synopsis": "시즌이 바뀌면 새로운 이야기가 시작되고, 새 얼굴의 아웃사이더들이 나이트 시티의 또 다른 사건에 휘말린다. 《사이버펑크 2077》의 세계를 무대로 한 인기 시리즈.",
-              "synopsis_language": "ko",
-              "local_title": "사이버펑크: 엣지러너",
-              "image_url": "https://occ-0-3012-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABVEdgmRDgONwNpFSw7HR_INA7nnRonTCLP2iwHtjds-zPLK_j_g1tkg37LZSZb2DayrtoGCYdPohyr9ujgbpuUdc5ZAjSCAPlWqe.jpg?r=c18"
-            }
-          },
-          {
-            "id": "TV:Extraordinary Attorney Minami|Extraordinary Attorney Minami: Season 1",
-            "title": "Extraordinary Attorney Minami",
-            "season": "Extraordinary Attorney Minami: Season 1",
-            "rank": 10,
-            "previous_rank": null,
-            "weeks_in_top10": 1,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/81986279?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/81986279?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/81986279?locale=ko-KR",
-              "synopsis": "자폐 스펙트럼 장애가 있는 신참 변호사 미나미다 미나미. 법정 안팎에서 여러 난관에 부딪히지만, 경이로운 기억력과 본인만의 관점을 무기로 하나씩 헤쳐 나간다.",
-              "synopsis_language": "ko",
-              "local_title": "이상한 변호사 미나미",
-              "kind": "드라마",
-              "image_url": "https://occ-0-3012-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABdej0uKM80Kl-BGHmHMC5ih6tPEodRerxFrIaR2SldGNcEEB9KSQekUeOKaHJAwBCywy-pCHLbO9LcR9ux_VB2mWhTDlpKjhkJCT.jpg?r=572"
-            }
-          }
-        ],
-        "Films": [
-          {
-            "id": "Films:Evil Dead Burn|N/A",
-            "title": "Evil Dead Burn",
-            "season": null,
-            "rank": 1,
-            "previous_rank": 5,
-            "weeks_in_top10": 2
-          },
-          {
-            "id": "Films:The Eyes|N/A",
-            "title": "The Eyes",
-            "season": null,
-            "rank": 2,
-            "previous_rank": 1,
-            "weeks_in_top10": 3
-          },
-          {
-            "id": "Films:Drop|N/A",
-            "title": "Drop",
-            "season": null,
-            "rank": 3,
-            "previous_rank": null,
-            "weeks_in_top10": 1
-          },
-          {
-            "id": "Films:Tomb Raider|N/A",
-            "title": "Tomb Raider",
-            "season": null,
-            "rank": 4,
-            "previous_rank": 3,
-            "weeks_in_top10": 2,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/80209042?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/80209042?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/80209042?locale=ko-KR",
-              "synopsis": "막대한 재산을 가진 아버지의 미스터리한 실종. 그로부터 7년 후, 라라 크로프트는 남겨진 단서를 바탕으로 자신의 운명을 찾아가는 여정에 오른다.",
-              "synopsis_language": "ko",
-              "local_title": "툼 레이더"
-            }
-          },
-          {
-            "id": "Films:The Ultimate Duo|N/A",
-            "title": "The Ultimate Duo",
-            "season": null,
-            "rank": 5,
-            "previous_rank": 6,
-            "weeks_in_top10": 5
-          },
-          {
-            "id": "Films:Surviving Hurricane Otis|N/A",
-            "title": "Surviving Hurricane Otis",
-            "season": null,
-            "rank": 6,
-            "previous_rank": null,
-            "weeks_in_top10": 1,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/81913551?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/81913551?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/81913551?locale=ko-KR",
-              "synopsis": "허리케인 오티스가 덮친 아카풀코. 서로 거리를 두던 두 형제가 살아남기 위해 함께 사투를 벌이고, 절망적인 상황에서도 형제애와 용기로 희망의 불씨를 피워 낸다. 실화를 바탕으로 한 이야기.",
-              "synopsis_language": "ko",
-              "local_title": "허리케인을 거슬러",
-              "kind": "드라마",
-              "image_url": "https://occ-0-3012-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABSsUFm_F3_hZa1UBdo6fn7nUFr7VgSpDQjWx8GWsS2JaL9MZjoMCq56Qrzul7ltJa0iUmefrQi6UvvPLJj6BghAlzeXBEY-FOWHR.jpg?r=2b3"
-            }
-          },
-          {
-            "id": "Films:Armored|N/A",
-            "title": "Armored",
-            "season": null,
-            "rank": 7,
-            "previous_rank": null,
-            "weeks_in_top10": 1,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/70113008?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/70113008?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/70113008?locale=ko-KR",
-              "synopsis": "무장 수송 트럭으로 안전하게 전달해야 할 천만 달러를 오히려 가로채려는 세 명의 경비원. 하지만 계획이 걷잡을 수 없게 흘러가자 서로에게서 등을 돌린다.",
-              "synopsis_language": "ko",
-              "local_title": "아머드",
-              "image_url": "https://occ-0-3012-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABTgjvM_ZW-MaZzL3kj1icFKVFreynrAJ3TYyHS70QQLL_szhU30oL_lrONeLXRfdXE6B7uz5EdVUystXv1a5rkJgG0ltGwCD3-Q4.jpg?r=e75"
-            }
-          },
-          {
-            "id": "Films:My Boss My Hero|N/A",
-            "title": "My Boss My Hero",
-            "season": null,
-            "rank": 8,
-            "previous_rank": null,
-            "weeks_in_top10": 1
-          },
-          {
-            "id": "Films:Animals|N/A",
-            "title": "Animals",
-            "season": null,
-            "rank": 9,
-            "previous_rank": 2,
-            "weeks_in_top10": 3,
-            "metadata": {
-              "source_url": "https://www.netflix.com/kr/title/81757047?locale=ko-KR",
-              "title_url": "https://www.netflix.com/kr/title/81757047?locale=ko-KR",
-              "watch_url": "https://www.netflix.com/kr/title/81757047?locale=ko-KR",
-              "synopsis": "아들이 납치되자, LA 시장 후보와 그의 아내가 몸값을 마련하기 위해 안간힘을 쓴다. 그 과정에서 그들의 삶을 산산조각 낼 수 있는 선택을 하게 된다.",
-              "synopsis_language": "ko",
-              "local_title": "짐승들",
-              "image_url": "https://occ-0-3012-33.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABcDSvYGwjd7uA2ow2yP6xB9Gwo8kjaZKKJBv8oJzJ_PKM6oW6cwUdIcgKf4Dyidw0WAxNuZdcIqbcLHyzlps7cds9SkD_8QbKjHw.jpg?r=c8a"
-            }
-          },
-          {
-            "id": "Films:Manok|N/A",
-            "title": "Manok",
-            "season": null,
-            "rank": 10,
-            "previous_rank": 9,
             "weeks_in_top10": 2
           }
         ]

@@ -2,240 +2,293 @@
   "schema_version": 2,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-24T09:50:59.103794Z",
+  "updated_at": "2026-11-24T22:23:36.085971Z",
   "cards": [
     {
-      "id": "57a81cdd7d7d5826f4d9",
+      "id": "f7fb6681c75d49e4b832",
       "category": "문화",
-      "title": "GIST 졸업생 송혜근 시인, 제45회 김수영문학상 수상",
-      "summary": "GIST 졸업생 송혜근 시인, 제45회 김수영문학상 수상",
-      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 10시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘GIST 졸업생 송혜근 시인, 제45회 김수영문학상 수상’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "title": "이란, 히잡 벗고 공연한 20대 女 가수에 태형 74대 집행",
+      "summary": "이란, 히잡 벗고 공연한 20대 女 가수에 태형 74대 집행",
+      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 5시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘이란, 히잡 벗고 공연한 20대 女 가수에 태형 74대 집행’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
       "source": "뉴스1",
-      "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DZFNvMWN4U1Rqd1JUVTAwOU5wR2tIV21PWnFtSENocUVQZnRQbEVJQ25OSUZrcWtsRzYwSHd5MXYzRy0xbzRyRmlpOGlyQlNMNURRN2VvckFTRExEdWE4?oc=5",
-      "published_at": "2026-11-23T01:45:12Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 3,
-        "report_count": 4,
-        "span_hours": 10.7,
-        "first_report_at": "2026-11-23T00:06:44Z",
-        "last_report_at": "2026-11-23T10:48:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMZHkyYjk5eFJmYVpYS19JSzlKM2VITmlXNldCSzFpQ2xiRDdZRHN1c29fUUU1LTZWRm04clVRcDVfTWZlRFpsZzJIN0RpZw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DVEUyYkJveDg3THhFSVRYVEJaSnliR3d5MFcyXzc5M05HQ2hZQTdPUEdBMjExSGttc3ZJWG5ickN4djNyTFJpUENUSGlVdWpRQm5yeE1xaUx4Z9IBX0FVX3lxTE1TdkFlaU9DY21OZGJCVWtPYzl2NmltMF9IU0ZfUmRTZkMzWUM2TVZGUnJVa1g2bXlKbzNvOFlyaDZoUm1rM3VwMmFaTmpwYlRyS1JEVzJYbmxGOGhvTXVr?oc=5",
-        "sources": [
-          {
-            "name": "경향신문",
-            "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DVEUyYkJveDg3THhFSVRYVEJaSnliR3d5MFcyXzc5M05HQ2hZQTdPUEdBMjExSGttc3ZJWG5ickN4djNyTFJpUENUSGlVdWpRQm5yeE1xaUx4Z9IBX0FVX3lxTE1TdkFlaU9DY21OZGJCVWtPYzl2NmltMF9IU0ZfUmRTZkMzWUM2TVZGUnJVa1g2bXlKbzNvOFlyaDZoUm1rM3VwMmFaTmpwYlRyS1JEVzJYbmxGOGhvTXVr?oc=5",
-            "published_at": "2026-11-23T10:48:00Z",
-            "headline": "‘김수영문학상’에 GIST 졸업 과학도 송혜근 시인 수상"
-          },
-          {
-            "name": "뉴스1",
-            "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DZFNvMWN4U1Rqd1JUVTAwOU5wR2tIV21PWnFtSENocUVQZnRQbEVJQ25OSUZrcWtsRzYwSHd5MXYzRy0xbzRyRmlpOGlyQlNMNURRN2VvckFTRExEdWE4?oc=5",
-            "published_at": "2026-11-23T01:45:12Z",
-            "headline": "GIST 졸업생 송혜근 시인, 제45회 김수영문학상 수상"
-          },
-          {
-            "name": "전자신문",
-            "group": "etnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMZHkyYjk5eFJmYVpYS19JSzlKM2VITmlXNldCSzFpQ2xiRDdZRHN1c29fUUU1LTZWRm04clVRcDVfTWZlRFpsZzJIN0RpZw?oc=5",
-            "published_at": "2026-11-23T00:06:44Z",
-            "headline": "GIST, 김수영문학상 수상 시인 배출…특별한 인문사회 교육 비결은"
-          }
-        ]
-      },
-      "selection_rank": 1
-    },
-    {
-      "id": "9d4bb0143c3805924295",
-      "category": "문화",
-      "title": "아이유, 한국 여성 솔로 가수 최초 日 도쿄돔 단독 콘서트",
-      "summary": "아이유, 한국 여성 솔로 가수 최초 日 도쿄돔 단독 콘서트",
-      "why_now": "이전 수집(11.23 16:31 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘아이유, 한국 여성 솔로 가수 최초 日 도쿄돔 단독 콘서트’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "YTN",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DaU9hV183cWkyVy0wdlh3WTlkeE5ISzQxc1NUSjRBMm9TLUxYdU9ha2NOdkVVNTFnWjQzRFRwc0NzN3F5a01kVjZ5MVNCSE5mNlR2QmowdE1LZlB3N1E?oc=5",
-      "published_at": "2026-11-23T00:59:00Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 1.2,
-        "first_report_at": "2026-11-22T23:47:00Z",
-        "last_report_at": "2026-11-23T00:59:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UTy1ySjVxY3Y4OHRxd0wxc0paSnVPSVhPZldfWVpRRlBmRnRtRG05QUppNkNObTZBQV9uWTVYWkFrSXJUWDBnM2NpelYwQ210OXJIM08tSXZwUUE?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DaU9hV183cWkyVy0wdlh3WTlkeE5ISzQxc1NUSjRBMm9TLUxYdU9ha2NOdkVVNTFnWjQzRFRwc0NzN3F5a01kVjZ5MVNCSE5mNlR2QmowdE1LZlB3N1E?oc=5",
-        "sources": [
-          {
-            "name": "YTN",
-            "group": "ytn.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DaU9hV183cWkyVy0wdlh3WTlkeE5ISzQxc1NUSjRBMm9TLUxYdU9ha2NOdkVVNTFnWjQzRFRwc0NzN3F5a01kVjZ5MVNCSE5mNlR2QmowdE1LZlB3N1E?oc=5",
-            "published_at": "2026-11-23T00:59:00Z",
-            "headline": "아이유, 한국 여성 솔로 가수 최초 日 도쿄돔 단독 콘서트"
-          },
-          {
-            "name": "일간스포츠",
-            "group": "edaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UTy1ySjVxY3Y4OHRxd0wxc0paSnVPSVhPZldfWVpRRlBmRnRtRG05QUppNkNObTZBQV9uWTVYWkFrSXJUWDBnM2NpelYwQ210OXJIM08tSXZwUUE?oc=5",
-            "published_at": "2026-11-22T23:47:00Z",
-            "headline": "아이유, 내년 4월 도쿄돔 입성…한국 女솔로 가수 최초"
-          }
-        ]
-      },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-23T07:31:59.654873Z"
-    },
-    {
-      "id": "5c2e843e59d2d8850123",
-      "category": "스포츠",
-      "title": "이번에도 우승 실패? '손흥민 침묵' LA FC, '정상빈 1골-1도움' 세인트루이스에 2-3 패배...MLS컵 1라운드 탈락 위기",
-      "summary": "이번에도 우승 실패? '손흥민 침묵' LA FC, '정상빈 1골-1도움' 세인트루이스에 2-3 패배...MLS컵 1라운드 탈락 위기",
-      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘이번에도 우승 실패? '손흥민 침묵' LA FC, '정상빈 1골-1도움' 세인트루이스에 2-3 패배...MLS컵 1라운드 탈락 위기’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "스포츠조선",
-      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kdk9HWFA4clI1X2lwamtENXVTUTF3a19sTkEzQ3pqdkxuT0U1UzhkUUt4UUVvQWJ3djdXbThlQkYxRHhjQkpiclZNUWpkOXZmUFZLd20tTzdZUjhsaTFFTDJfV0QwZVU3ZDNKODBSbmVFa2NwX1dQNkhFUTk4Zw?oc=5",
-      "published_at": "2026-11-24T03:30:24Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yNWIzb2RIRDZwTS1GMG9wRERsaGlhVkE2dGI5eTBKTXFSdnFFYVBxNkFybWk0OElsYjV3a0dZYTY3TlZhMVNqOTZacjlKRm16WWN3UjYtLURSRzc3NGJyNnR3?oc=5",
+      "published_at": "2026-11-24T10:10:50Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 4,
-        "report_count": 4,
-        "span_hours": 0.2,
-        "first_report_at": "2026-11-24T03:30:24Z",
-        "last_report_at": "2026-11-24T03:41:04Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kdk9HWFA4clI1X2lwamtENXVTUTF3a19sTkEzQ3pqdkxuT0U1UzhkUUt4UUVvQWJ3djdXbThlQkYxRHhjQkpiclZNUWpkOXZmUFZLd20tTzdZUjhsaTFFTDJfV0QwZVU3ZDNKODBSbmVFa2NwX1dQNkhFUTk4Zw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15ZFRReXZuaTlBc2VhcjRfOW1Ib3k5MnVPLXJNX1Ntd0EtSGsxWWxNTURlWU0tTFV3RUgydG9rMTY0M1RNNDY2MnlYQllPNS1GRS1OcUFhSC1TOEZUR3JjdNIBYEFVX3lxTE15ZFRReXZuaTlBc2VhcjRfOW1Ib3k5MnVPLXJNX1Ntd0EtSGsxWWxNTURlWU0tTFV3RUgydG9rMTY0M1RNNDY2MnlYQllPNS1GRS1OcUFhSC1TOEZUR3JjdA?oc=5",
+        "report_count": 5,
+        "span_hours": 5.6,
+        "first_report_at": "2026-11-24T06:29:27Z",
+        "last_report_at": "2026-11-24T12:07:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QbEdTWWRUbjBGQk05eER4SG5ZMFY4ZVV6Z2pvTmhMUDdzSDJza19ua2hfUEFIX2E2UGtsZUdBUE9ZR1NEb3RqVHRlYTFNbkdfRXlKQjJEVmxXNmPSAWBBVV95cUxPVUYzeUp4RWFkbXhlejlPd3JoWGQ0UWNLU3JXbUc0WkZ1Y0l5WmpaVXNSbjdrTDNUSVp4RHN2Z1FwSHg4bG9vdFVYR0lWaFd3UlhqaGY0RFhvdmNndEdPZHU?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CRHEyaTEtaEMwZzVBanFMYVRKX3NmODdPQlZtSjRGM1dqWTlVM0JHM3VfX1FXcGxwcU5ZcHNVTUlZZERLTjJ5QVpudjdpM0NwMm9DZzlpcEx4dTVtekdlZDFrZ2hDVklwbExZ?oc=5",
         "sources": [
           {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15ZFRReXZuaTlBc2VhcjRfOW1Ib3k5MnVPLXJNX1Ntd0EtSGsxWWxNTURlWU0tTFV3RUgydG9rMTY0M1RNNDY2MnlYQllPNS1GRS1OcUFhSC1TOEZUR3JjdNIBYEFVX3lxTE15ZFRReXZuaTlBc2VhcjRfOW1Ib3k5MnVPLXJNX1Ntd0EtSGsxWWxNTURlWU0tTFV3RUgydG9rMTY0M1RNNDY2MnlYQllPNS1GRS1OcUFhSC1TOEZUR3JjdA?oc=5",
-            "published_at": "2026-11-24T03:41:04Z",
-            "headline": "정상빈, 손흥민에 완승…'1골 1도움' 세인트루이스 PO 승리 견인"
+            "name": "주간조선",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CRHEyaTEtaEMwZzVBanFMYVRKX3NmODdPQlZtSjRGM1dqWTlVM0JHM3VfX1FXcGxwcU5ZcHNVTUlZZERLTjJ5QVpudjdpM0NwMm9DZzlpcEx4dTVtekdlZDFrZ2hDVklwbExZ?oc=5",
+            "published_at": "2026-11-24T12:07:00Z",
+            "headline": "\"감히 히잡 안 쓰고 공연을?\"…이란, 女가수에 태형 74대 집행"
           },
           {
-            "name": "뉴시스",
-            "group": "wire:뉴시스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PYjdITVdNa1l3cXpoU25CUmc0Z2tObWFRTjVscnlCb1hLVEE0cWFjUGRmSkFSQXplbWVOd01UYnFWM2pXV3pTMlZ6NTRCU3lqOFhLWDYzNVNPRFkzRXdjZ9IBeEFVX3lxTE9RM25qbmhYSVlKX3h4UTVLbDdCYkZMRTY1eEpsenBkM1dDTEZhcEFleDRVNUFaSHloR2NNWUtReWxBQ2otNG9GNjBzalNIck9WQkZ4bkVNdlpmSHc4ZExaTDVsUTRsbEZSRjdrczltN3BsWExrVFp5Ug?oc=5",
-            "published_at": "2026-11-24T03:35:40Z",
-            "headline": "'침묵' 손흥민, '1골 1도움' 정상빈에 덜미…MLS컵 PO 1R 탈락 위기(종합)"
+            "name": "동아일보",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42YmFrVVFqcG52T3RMWlpxOVJRVHIwTU9rUW8wb2xPVVpiOHUwTGlLS2xnb0thZ0ZtNktfbW9zeVFtTWxtMmZjRjFUQkI2SEJTQVNYR05XbU05Vk1TSEdKMnNHTW9vZXh4UjU0MGNPNUVmdEXSAWZBVV95cUxNakhxZ2ZGNzZhNmtCRGhCRDBQeUxrRHpOcmRwNzdmOU5takJ1V2I2S2ZYUVRsaFdXMFg2dVZ6QmsxQXpJLXlVcjZkOFJDaGl6bm5aZk15MW55bW5WYlRlVmJnUzBqNkE?oc=5",
+            "published_at": "2026-11-24T11:45:00Z",
+            "headline": "히잡 벗은 공연 영상 올렸다고…이란 ‘태형 74대’ 집행"
           },
           {
             "name": "뉴스1",
             "group": "wire:뉴스1",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wdkFGWkF0ZDVrSDY2ZVpST0g3aTgxMGs3MkNuUWJ3T1lrRzRyQV9IVkNoWVVSUWJ1QzRoQnpMX2dlLU1iSlUtWG80TlpnRzRtQmJ1YmhvdDJ3NVo4UGpDZQ?oc=5",
-            "published_at": "2026-11-24T03:32:24Z",
-            "headline": "손흥민 우승 적신호…LA FC, '정상빈 1골 1도움' 세인트루이스에 패배"
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yNWIzb2RIRDZwTS1GMG9wRERsaGlhVkE2dGI5eTBKTXFSdnFFYVBxNkFybWk0OElsYjV3a0dZYTY3TlZhMVNqOTZacjlKRm16WWN3UjYtLURSRzc3NGJyNnR3?oc=5",
+            "published_at": "2026-11-24T10:10:50Z",
+            "headline": "이란, 히잡 벗고 공연한 20대 女 가수에 태형 74대 집행"
           },
           {
-            "name": "스포츠조선",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kdk9HWFA4clI1X2lwamtENXVTUTF3a19sTkEzQ3pqdkxuT0U1UzhkUUt4UUVvQWJ3djdXbThlQkYxRHhjQkpiclZNUWpkOXZmUFZLd20tTzdZUjhsaTFFTDJfV0QwZVU3ZDNKODBSbmVFa2NwX1dQNkhFUTk4Zw?oc=5",
-            "published_at": "2026-11-24T03:30:24Z",
-            "headline": "이번에도 우승 실패? '손흥민 침묵' LA FC, '정상빈 1골-1도움' 세인트루이스에 2-3 패배...MLS컵 1라운드 탈락 위기"
+            "name": "MBC 뉴스",
+            "group": "imbc.com",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CMTcyRU9CMDI0aEdORkdJYjZuRjZfRTVKS2htdm1oanhwWXI5WGdTeE9sNkNvUktWcXY4bVhBQnR2WXk3c2g5czRDMGFwaGMtRGxGanJvNmtOcWVUeGRhcDFHODUwVUVmY29fNldhd3hQTHZa0gF0QVVfeXFMTk11Q1FxR1JKZEdkUmt1ck8xdGRLOUlHdEVYNUFOSVEtVjI4LWhud2RMSHV4Sm0zRFh3QXNxdGZpNnRPalhwZXZoRG5MbnRlbUIxN0tUQWZvRVhOTWVyWkdtaU1CQTQtUVNZYUw1VVk5MjltR2I?oc=5",
+            "published_at": "2026-11-24T07:38:37Z",
+            "headline": "이란, 히잡 없이 공연한 여성 가수에 태형 74대"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "4f2ff58a1ec0fc144413",
-      "category": "기술",
-      "title": "‘앞치마’ 착용에 머리끈 검사까지…AI 부정행위가 바꾼 대학 논술고사장",
-      "summary": "‘앞치마’ 착용에 머리끈 검사까지…AI 부정행위가 바꾼 대학 논술고사장",
-      "why_now": "이전 수집(11.23 04:34 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘‘앞치마’ 착용에 머리끈 검사까지…AI 부정행위가 바꾼 대학 논술고사장’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
-      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
-      "source": "한겨레",
-      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81bkZrT0xHcjVaN0NJUmFIWnZFOGZ1MmNEVVR4ZlVteVVxcWREelBkTmxkWndkb0VDVFp3cmZ4NzFoaVdQT3owNkdaQXlKb0RkU05idVc0dUtnLXJxWDltNndLTkRIQ3VQbmR4aWdxX19adw?oc=5",
-      "published_at": "2026-11-22T10:46:00Z",
+      "id": "3e39784e279b39d2b507",
+      "category": "문화",
+      "title": "아이유, 내년 새 월드투어…女 솔로 가수 최초 도쿄돔 입성",
+      "summary": "아이유, 내년 새 월드투어…女 솔로 가수 최초 도쿄돔 입성",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 2시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘아이유, 내년 새 월드투어…女 솔로 가수 최초 도쿄돔 입성’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
+      "source": "연합뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjTWVZTWtsRmh4N1lqc1Uxd1NnZTV0UzJSU3pwNnc2NHQyVXk4YzNHOUloN3dMQ2p1V2ExR29lUDQzaGYyWF83Mi11eWY0Uk5wWEpTaG5BaUUzSXI0WVRmTdIBYEFVX3lxTFBjTWVZTWtsRmh4N1lqc1Uxd1NnZTV0UzJSU3pwNnc2NHQyVXk4YzNHOUloN3dMQ2p1V2ExR29lUDQzaGYyWF83Mi11eWY0Uk5wWEpTaG5BaUUzSXI0WVRmTQ?oc=5",
+      "published_at": "2026-11-24T07:11:37Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 2,
-        "report_count": 2,
-        "span_hours": 4.1,
-        "first_report_at": "2026-11-22T06:41:20Z",
-        "last_report_at": "2026-11-22T10:46:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hNnJRNHdTRDJmYmRQdEhRNjY3VXl2bXFrZHlPY0VLdlpKV2RTbzNUZUJQQjlrRnRlRnlCWnhMWkM0MmlVbTZnRndJVnduZ0o5MlQwX0ppS3Y3eWwwSGtjT21yaGFGVDhhYmhsWW5FOWlsdEtqV1ZLcA?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81bkZrT0xHcjVaN0NJUmFIWnZFOGZ1MmNEVVR4ZlVteVVxcWREelBkTmxkWndkb0VDVFp3cmZ4NzFoaVdQT3owNkdaQXlKb0RkU05idVc0dUtnLXJxWDltNndLTkRIQ3VQbmR4aWdxX19adw?oc=5",
+        "source_groups": 3,
+        "report_count": 3,
+        "span_hours": 2.6,
+        "first_report_at": "2026-11-24T07:11:37Z",
+        "last_report_at": "2026-11-24T09:50:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjTWVZTWtsRmh4N1lqc1Uxd1NnZTV0UzJSU3pwNnc2NHQyVXk4YzNHOUloN3dMQ2p1V2ExR29lUDQzaGYyWF83Mi11eWY0Uk5wWEpTaG5BaUUzSXI0WVRmTdIBYEFVX3lxTFBjTWVZTWtsRmh4N1lqc1Uxd1NnZTV0UzJSU3pwNnc2NHQyVXk4YzNHOUloN3dMQ2p1V2ExR29lUDQzaGYyWF83Mi11eWY0Uk5wWEpTaG5BaUUzSXI0WVRmTQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yRVBRRlJ5X3V1LWVtdUg1cWdHUUcxUUpyeW92WjdRbUltaThPSWg2MngzMnI4UzF4WVhzY3VJZGdkTi1rTGloRjlnT1BXaVBBUzNFeEkwQXVDbHV3eVJ6SkdoaDE?oc=5",
         "sources": [
           {
             "name": "한겨레",
             "group": "hani.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81bkZrT0xHcjVaN0NJUmFIWnZFOGZ1MmNEVVR4ZlVteVVxcWREelBkTmxkWndkb0VDVFp3cmZ4NzFoaVdQT3owNkdaQXlKb0RkU05idVc0dUtnLXJxWDltNndLTkRIQ3VQbmR4aWdxX19adw?oc=5",
-            "published_at": "2026-11-22T10:46:00Z",
-            "headline": "‘앞치마’ 착용에 머리끈 검사까지…AI 부정행위가 바꾼 대학 논술고사장"
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yRVBRRlJ5X3V1LWVtdUg1cWdHUUcxUUpyeW92WjdRbUltaThPSWg2MngzMnI4UzF4WVhzY3VJZGdkTi1rTGloRjlnT1BXaVBBUzNFeEkwQXVDbHV3eVJ6SkdoaDE?oc=5",
+            "published_at": "2026-11-24T09:50:00Z",
+            "headline": "아이유, 케이팝 여성 솔로 가수 최초 도쿄돔 선다…4월7~8일 이틀간"
+          },
+          {
+            "name": "YTN",
+            "group": "ytn.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xYmdpamF4U19DcHFxTXZtMld4enVqTDd0LXhMSWJmc0h3R0lhSnQzM0pSZE4yVVFnbDJyc1ZwdUo3a2x0VmpVMXdxTGdTRlFTMXhmTmtWZS1FcUpVR3c?oc=5",
+            "published_at": "2026-11-24T08:44:00Z",
+            "headline": "아이유, 내년 도쿄돔서 단독 콘서트...한국 여성 솔로 가수 중 최초"
           },
           {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hNnJRNHdTRDJmYmRQdEhRNjY3VXl2bXFrZHlPY0VLdlpKV2RTbzNUZUJQQjlrRnRlRnlCWnhMWkM0MmlVbTZnRndJVnduZ0o5MlQwX0ppS3Y3eWwwSGtjT21yaGFGVDhhYmhsWW5FOWlsdEtqV1ZLcA?oc=5",
-            "published_at": "2026-11-22T06:41:20Z",
-            "headline": "일회용 앞치마까지…AI 부정행위 철통 방어 나선 대학가"
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjTWVZTWtsRmh4N1lqc1Uxd1NnZTV0UzJSU3pwNnc2NHQyVXk4YzNHOUloN3dMQ2p1V2ExR29lUDQzaGYyWF83Mi11eWY0Uk5wWEpTaG5BaUUzSXI0WVRmTdIBYEFVX3lxTFBjTWVZTWtsRmh4N1lqc1Uxd1NnZTV0UzJSU3pwNnc2NHQyVXk4YzNHOUloN3dMQ2p1V2ExR29lUDQzaGYyWF83Mi11eWY0Uk5wWEpTaG5BaUUzSXI0WVRmTQ?oc=5",
+            "published_at": "2026-11-24T07:11:37Z",
+            "headline": "아이유, 내년 새 월드투어…女 솔로 가수 최초 도쿄돔 입성"
           }
         ]
       },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-22T19:34:06.748835Z"
+      "selection_rank": 1
     },
     {
-      "id": "e4dd7f1a41b938415836",
-      "category": "생활",
-      "title": "서울지하철 25일 총파업 기로…24일 노사 최종교섭 '담판'",
-      "summary": "서울지하철 25일 총파업 기로…24일 노사 최종교섭 '담판'",
-      "why_now": "이전 수집(11.24 08:50 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘서울지하철 25일 총파업 기로…24일 노사 최종교섭 '담판'’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
-      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
-      "source": "연합뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YUEZxTDhMRHFGNkUycUdINXc4Y2JHaXU1bjV2RC1BbGVxaDRUR2lpVEUybmFuYmZfZkRRZC14cGlMOEEtdE9ZY3JsakxJd1ctTzhCSTVnb0VJZTTSAWBBVV95cUxNemtCcE9NMGtLUXZ6NjAzTUJ3RkVKNjF0VmVXc1h1bmRhQXVyX2tBT1B6QlA3djBmVENOc0xwbEIzbmdyWGRzRGJXLUZqa1ZrNUc2ZVhROEVHR0RJVVg5RGI?oc=5",
-      "published_at": "2026-11-22T03:18:40Z",
+      "id": "2f7a24c6ace4e77e9cc7",
+      "category": "스포츠",
+      "title": "'롤모델' 손흥민 앞에서…'1골 1도움' 정상빈 MVP",
+      "summary": "'롤모델' 손흥민 앞에서…'1골 1도움' 정상빈 MVP",
+      "why_now": "수집 범위에서 관련 보도 16개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 11시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘'롤모델' 손흥민 앞에서…'1골 1도움' 정상빈 MVP’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "SBS 뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zZmhyQ0ZaWFVDNWg4WHhVS2hoLWdGeDlaRlZNVzNpZXVKbG15ZnZFZjkyaWV0a3dQXy12M3FDTmFhU2F0bmpNOEw5QWo1UnZWWnJiVUFpdVBjbFItZVlNaDVFdXRzQzBTd3fSAWZBVV95cUxPQ3JtbVhMckFiVFR5Y0RWd29Pc3RYYmhqRFV2VzVoVWxpaW9Ebk5oNHRWOUZPWWZ3dXZFbEN3ek9DaTJzb3FFeEMtZ0VoejQwWlFHWHFSWEhtSUlsTG1lc2RrMlM1Y3c?oc=5",
+      "published_at": "2026-11-24T12:26:53Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 4,
-        "report_count": 4,
-        "span_hours": 21.9,
-        "first_report_at": "2026-11-22T03:18:40Z",
-        "last_report_at": "2026-11-23T01:13:45Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YUEZxTDhMRHFGNkUycUdINXc4Y2JHaXU1bjV2RC1BbGVxaDRUR2lpVEUybmFuYmZfZkRRZC14cGlMOEEtdE9ZY3JsakxJd1ctTzhCSTVnb0VJZTTSAWBBVV95cUxNemtCcE9NMGtLUXZ6NjAzTUJ3RkVKNjF0VmVXc1h1bmRhQXVyX2tBT1B6QlA3djBmVENOc0xwbEIzbmdyWGRzRGJXLUZqa1ZrNUc2ZVhROEVHR0RJVVg5RGI?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4WnYzMTVNUE03YkhUX0szVGlubnJLY243Tk41Q3BySjZLb2VCNEpfNVgzWnhDenlBMUIzRURwQ2hCNk1HWTNLaHYyNzFXUGZWVHVBbnVmNmJDQXNaX0lzU1Rha1Q0aTVoOHN2LVV5NNIBb0FVX3lxTFB4WnYzMTVNUE03YkhUX0szVGlubnJLY243Tk41Q3BySjZLb2VCNEpfNVgzWnhDenlBMUIzRURwQ2hCNk1HWTNLaHYyNzFXUGZWVHVBbnVmNmJDQXNaX0lzU1Rha1Q0aTVoOHN2LVV5NA?oc=5",
+        "source_groups": 8,
+        "report_count": 16,
+        "span_hours": 11.1,
+        "first_report_at": "2026-11-24T03:32:24Z",
+        "last_report_at": "2026-11-24T14:40:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wdkFGWkF0ZDVrSDY2ZVpST0g3aTgxMGs3MkNuUWJ3T1lrRzRyQV9IVkNoWVVSUWJ1QzRoQnpMX2dlLU1iSlUtWG80TlpnRzRtQmJ1YmhvdDJ3NVo4UGpDZQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM0dLSFF3TDFVbURqWDhpWDdsNGNJSUkxY2JhR0JTNUlZZHowenJHU1Q2ZUx2YzZqbkZIZTRiRzFxVUdrQXZHcC1qUWVPT28teVRnNEVpY2U0NklYMUJ5VFpVRXJDSzFBU0dzdlg1ZHhuYWg1NmJUNlVNYmJfdXpEbWZxRDRnczR1eE5F?oc=5",
         "sources": [
           {
-            "name": "머니투데이",
-            "group": "mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4WnYzMTVNUE03YkhUX0szVGlubnJLY243Tk41Q3BySjZLb2VCNEpfNVgzWnhDenlBMUIzRURwQ2hCNk1HWTNLaHYyNzFXUGZWVHVBbnVmNmJDQXNaX0lzU1Rha1Q0aTVoOHN2LVV5NNIBb0FVX3lxTFB4WnYzMTVNUE03YkhUX0szVGlubnJLY243Tk41Q3BySjZLb2VCNEpfNVgzWnhDenlBMUIzRURwQ2hCNk1HWTNLaHYyNzFXUGZWVHVBbnVmNmJDQXNaX0lzU1Rha1Q0aTVoOHN2LVV5NA?oc=5",
-            "published_at": "2026-11-23T01:13:45Z",
-            "headline": "서울지하철 노사 '최종교섭' D-1…결렬 땐 25일 '총파업' - 머니투데이"
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM0dLSFF3TDFVbURqWDhpWDdsNGNJSUkxY2JhR0JTNUlZZHowenJHU1Q2ZUx2YzZqbkZIZTRiRzFxVUdrQXZHcC1qUWVPT28teVRnNEVpY2U0NklYMUJ5VFpVRXJDSzFBU0dzdlg1ZHhuYWg1NmJUNlVNYmJfdXpEbWZxRDRnczR1eE5F?oc=5",
+            "published_at": "2026-11-24T14:40:00Z",
+            "headline": "MLS 우승 길목에서 이루어진 코리안 더비...'침묵' 손흥민 울고, '1골-1도움' 정상빈 웃었다"
           },
           {
             "name": "SBS 뉴스",
             "group": "sbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UNGs0N0xtOGJlN2FwdWhKYTdFb0s3QkkyQS1IYzdvS1VtVmhVaVF6OFJrNUZVTnNodjlybEMwZzhvTk5SaDl5TDI5bFNaa3RUUjRkSXFjN0drZTFzYXMxaHA3dkdpektvbGc?oc=5",
-            "published_at": "2026-11-22T07:02:19Z",
-            "headline": "'출근 대란' 현실화 될까…서울 지하철 노사, 총파업 예고일 전날 최종교섭"
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zZmhyQ0ZaWFVDNWg4WHhVS2hoLWdGeDlaRlZNVzNpZXVKbG15ZnZFZjkyaWV0a3dQXy12M3FDTmFhU2F0bmpNOEw5QWo1UnZWWnJiVUFpdVBjbFItZVlNaDVFdXRzQzBTd3fSAWZBVV95cUxPQ3JtbVhMckFiVFR5Y0RWd29Pc3RYYmhqRFV2VzVoVWxpaW9Ebk5oNHRWOUZPWWZ3dXZFbEN3ek9DaTJzb3FFeEMtZ0VoejQwWlFHWHFSWEhtSUlsTG1lc2RrMlM1Y3c?oc=5",
+            "published_at": "2026-11-24T12:26:53Z",
+            "headline": "'롤모델' 손흥민 앞에서…'1골 1도움' 정상빈 MVP"
           },
           {
-            "name": "한경매거진",
-            "group": "hankyung.com",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxLVE4Sk9rOFJYU04xVDFwSEp1Q3h4NU9uZHl3YnhIY1A0YkZyREtPWlE3VTVHSGM1SThKZzVPQXJiLVRteGtKVUlLdGoyYVlyLTg2V0xBX1hNQWNidF9Ha0w5clQteDdvWkNsdw?oc=5",
-            "published_at": "2026-11-22T06:13:00Z",
-            "headline": "[속보]서울 지하철 멈추나...총파업 기로"
+            "name": "경향신문",
+            "group": "khan.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YV3R6ZG40eTFQcGp1U1BXX2tkU3JYblRCZUlRYzZLVmFILS1HaWhWQUtHUkdFRkk2eWtSMkhWYUFvT3dmQjVhYlBpZHM5LTJfWGh5QV9fbWVYQdIBX0FVX3lxTFB1ZU8zVDZzUWlRM2FFdUoteGxYblhqcThsVFVTVU56SEZkU08zbWx4bEtQbWd2dVV6THd4Q2JSUzFuMVJhYW91RjQyUndWMzBhUFNKU3B2MHhtTEU2YWFB?oc=5",
+            "published_at": "2026-11-24T11:32:00Z",
+            "headline": "손흥민과 MLS컵 PO에서 맞대결…정상빈 웃었다"
+          },
+          {
+            "name": "SPOTV NEWS",
+            "group": "spotvnews.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WeGdiMV9hTU1rbFo3LTNCdi03dzNteXlNb3J6NkNEamZxX1podGZ3MTBFSkE3REtjdXUybHkzOUxkcGRFaWlabDVET01pVV96dVhmcllYZ3libTh2NURabEpwRVB5OEVvdHlwak04ZlI?oc=5",
+            "published_at": "2026-11-24T08:55:00Z",
+            "headline": "확률 28.2% ‘기적 없었다’…‘韓 대표팀 주장’ 손흥민 탈락 위기, MLS컵 첫판에서 2-3 충격패 ‘정상빈 1골 1도움’"
+          },
+          {
+            "name": "스타뉴스",
+            "group": "mt.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EeW5QZDM0YXpoZTFEUlg5U1h3SDFqa3pKbGJTNFRvV29GVlZTTm03THhLdlI4cW1YaUE4RUUxZnpTazZSXy1ZQ2JlU3dKVEtMNU5oaDBmeW41NGh0d0hVU25wazY0by1kRm1QLUNVVTVoUEZjNnc?oc=5",
+            "published_at": "2026-11-24T07:01:00Z",
+            "headline": "'제2의 손흥민' 찾기 이제 끝났다 \"진짜 후계자!\"... 18세 괴물이 '데뷔전 1골 1도움' 토트넘, 장기 재계약 눈앞"
+          },
+          {
+            "name": "MBC 뉴스",
+            "group": "imbc.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tSGZGdmxjS3dWSUI2c2hxbEZOTDV1Wk54a3RWbWV1Qm15dzQ3dGkxc3BSVHNSZXM3YTM3UjNIUlBKOHJ1M3ltajMxVDlndHEybWJ5UFd4MFl4VzRBZVppdDBGdnd6WGhQcXpBbWJ3ZTlmaFAxaEHSAXZBVV95cUxOZkdfY2hCaXh3cjJXV1N4WkxDdkMxUXcyVDNtaW9xMng2MHFCRTR6RDVVaEZUbDQyMzlCUlNGMkhlbWV0YW9NYXEwdTVpSFcwOHRtV0hLaGdDalZDME42MjBlY0JFMUh4ZUFxUVRleTNDbjdRZDJB?oc=5",
+            "published_at": "2026-11-24T04:43:53Z",
+            "headline": "세인트루이스 정상빈, 손흥민과 맞대결에서 '1골 1도움'"
+          },
+          {
+            "name": "한겨레",
+            "group": "hani.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FYWFILXhWYW1KMmh1T0ZNaHlPNmpsV0gydUdzQWVwcllmaFlzUmx5VFNMU1gxUkpGQnF6MHppM0JkZ2R4OS1MVmktNXNaZnVqNHVmTWJhV3Y3a3BpUE9IcXoxUHE?oc=5",
+            "published_at": "2026-11-24T04:36:00Z",
+            "headline": "‘1골 1도움’ 정상빈, 손흥민에 완승…세인트루이스, MLS PO 1차전 승리"
+          },
+          {
+            "name": "아시아경제",
+            "group": "asiae.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtTnlhTkREdzZvR2JiME96R1hNYTNaTElCOVdIOFNMRU9lVkxpR09lX3JjNVNUM0J6a3MzbnVqT09mSTlMTmFCeVN3SFJWYXkwVi1Ob0Zmb1k4WWJtTVgzaw?oc=5",
+            "published_at": "2026-11-24T04:29:14Z",
+            "headline": "손흥민 침묵·정상빈 1골 1도움…LAFC, 플레이오프 첫판 패배"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "609bd75de601c0bfb8ee",
+      "category": "기술",
+      "title": "삼성 임원 승진 절반은 ‘반도체’… ‘AI·로봇’도 방점",
+      "summary": "삼성 임원 승진 절반은 ‘반도체’… ‘AI·로봇’도 방점",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 9시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘삼성 임원 승진 절반은 ‘반도체’… ‘AI·로봇’도 방점’라는 소식을 봤어요. 최근 써 보고 편했던 기술이나 신기했던 과학 소식이 있어요?",
+      "context": "연구 결과와 실제 사용할 수 있는 제품·기능은 다를 수 있어요.",
+      "source": "서울신문",
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yYmh3NGNPeVRULXROSTRmMU84amY4elVXc0owZDMyajdzYjJGUnBUMUxIVlFDRGhUZ3VLbUFLcXFTSndEYl9wRXAyczlULVZDT2t4YnhMY3JvMGxKbnBnaGpwV3kyRWUwQ0ljTWFIa2JHRU9lN2Q3MlJVbw?oc=5",
+      "published_at": "2026-11-24T15:13:29Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 9.4,
+        "first_report_at": "2026-11-24T05:48:00Z",
+        "last_report_at": "2026-11-24T15:13:29Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ0Zrczd0bkJKNmI2RUduT0h5Y1MxY0hJQUhzYzBLR1EtN2Y2MFg4SDVaRENzbGtUX2JFajBNZXdoTGxOdkVaQUR2RUlrY1NaSVM5N2NsdW43RXY3bUV6TzJydWZNTXoyZWRJcEYwRkc2S1BMUXF6dFBtNjVkX3RDQ1EtTQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yYmh3NGNPeVRULXROSTRmMU84amY4elVXc0owZDMyajdzYjJGUnBUMUxIVlFDRGhUZ3VLbUFLcXFTSndEYl9wRXAyczlULVZDT2t4YnhMY3JvMGxKbnBnaGpwV3kyRWUwQ0ljTWFIa2JHRU9lN2Q3MlJVbw?oc=5",
+        "sources": [
+          {
+            "name": "서울신문",
+            "group": "seoul.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yYmh3NGNPeVRULXROSTRmMU84amY4elVXc0owZDMyajdzYjJGUnBUMUxIVlFDRGhUZ3VLbUFLcXFTSndEYl9wRXAyczlULVZDT2t4YnhMY3JvMGxKbnBnaGpwV3kyRWUwQ0ljTWFIa2JHRU9lN2Q3MlJVbw?oc=5",
+            "published_at": "2026-11-24T15:13:29Z",
+            "headline": "삼성 임원 승진 절반은 ‘반도체’… ‘AI·로봇’도 방점"
+          },
+          {
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQ0Zrczd0bkJKNmI2RUduT0h5Y1MxY0hJQUhzYzBLR1EtN2Y2MFg4SDVaRENzbGtUX2JFajBNZXdoTGxOdkVaQUR2RUlrY1NaSVM5N2NsdW43RXY3bUV6TzJydWZNTXoyZWRJcEYwRkc2S1BMUXF6dFBtNjVkX3RDQ1EtTQ?oc=5",
+            "published_at": "2026-11-24T05:48:00Z",
+            "headline": "삼성전자, 임원 131명 승진 인사…HBM·로봇 핵심 인재 중용"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "3f634ebe93f49024d605",
+      "category": "생활",
+      "title": "서울지하철 노사 교섭 난항…오늘 첫차부터 총파업 위기",
+      "summary": "서울지하철 노사 교섭 난항…오늘 첫차부터 총파업 위기",
+      "why_now": "수집 범위에서 관련 보도 8개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 13시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘서울지하철 노사 교섭 난항…오늘 첫차부터 총파업 위기’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
+      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
+      "source": "KBS 뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3UHB2aWswallBM0ZiNHlJTERleTQzc3Qxa0FodWw1QXE0dFNueGVkcWt1MW41XzBIb2pORlJ6U3diaHVLaFdVbnZPbjdZU2I2OUN6bmRqTDR2dGs?oc=5",
+      "published_at": "2026-11-24T15:39:00Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 6,
+        "report_count": 8,
+        "span_hours": 13.0,
+        "first_report_at": "2026-11-24T02:37:43Z",
+        "last_report_at": "2026-11-24T15:39:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5SWRBWXpDMDkyY21ldE0yNy1FMUNmcDJEaW5lc0ZzUDVEVFpwLWZ1RFMxMHhNNG1CZVNETjYzS3pLOGdRdEljNGFIZC1tRmgwQlVhQlZ1X3FuZFHSAWBBVV95cUxOTnVadThqNjJrQzMtY0RDZnVkeDBicnFKanhQNTM5ZVhNQXktRzZlaElJZWxDdDJGaEt4MTd3Vm5aY3BEYWFBd0NPYjRaalFsTWdUWUUxc1dhQnEwdlQxMWQ?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3UHB2aWswallBM0ZiNHlJTERleTQzc3Qxa0FodWw1QXE0dFNueGVkcWt1MW41XzBIb2pORlJ6U3diaHVLaFdVbnZPbjdZU2I2OUN6bmRqTDR2dGs?oc=5",
+        "sources": [
+          {
+            "name": "KBS 뉴스",
+            "group": "kbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3UHB2aWswallBM0ZiNHlJTERleTQzc3Qxa0FodWw1QXE0dFNueGVkcWt1MW41XzBIb2pORlJ6U3diaHVLaFdVbnZPbjdZU2I2OUN6bmRqTDR2dGs?oc=5",
+            "published_at": "2026-11-24T15:39:00Z",
+            "headline": "서울지하철 노사 교섭 난항…오늘 첫차부터 총파업 위기"
+          },
+          {
+            "name": "한겨레",
+            "group": "hani.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YSmtZdTQ0RXRzb2hNTEZjajk4Um5mQzJqMGVlRUphRmNCT0lNd1BKRnBObUxNSmQyb3NNUkl4b3lYRFVwc0I0TGduNGxSS0VUWnhGdjR1bnFQdjkxSTNvejA1U3hJTUdRUFE?oc=5",
+            "published_at": "2026-11-24T15:37:00Z",
+            "headline": "서울지하철 교섭 결렬 시 25일 파업…서울시 “출근길 100% 운행”"
+          },
+          {
+            "name": "JTBC",
+            "group": "jtbc.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ndFFocnlWLTg1RVVQZVNTWVpnRVlzQjhocE5rNE9oaEwtVFJTRUJ4YlVnZ3lxUnBYM05QeUpaS3RsN2FtMEJWS0o3WlVfZ1NmaElmUw?oc=5",
+            "published_at": "2026-11-24T15:12:00Z",
+            "headline": "서울지하철 노사 교섭 난항…내일 첫차 어쩌나, 총파업 예고"
+          },
+          {
+            "name": "뉴시스",
+            "group": "wire:뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FWmluYjlhbWJXYk53Ym5aMkY1bWJwQWxDcE45UUtpUGlSVGp3bUowbGdlYk5scUgtYUlUMWx6SjBiLU9lV2lFZE13bDQ5SGthZDY4QXV6UDRKRWZlR2wwadIBeEFVX3lxTE9LREJ6WGZDbDk5Qm81VURfem5LMTQzbnNncjZUSHRiUnhuYllXMU9CUUhVbTRRUnFsMm9KMzViVEFna2xVQUtTTHMzRHdSOUFtV0xtNzFMZ20xcFVza3Y0YkZRU1E0TFpVSTYxblVZOEFJaHVhbTNjaw?oc=5",
+            "published_at": "2026-11-24T14:18:55Z",
+            "headline": "서울 지하철 노사 최종교섭 난항…첫차부터 총파업 예고"
+          },
+          {
+            "name": "YTN",
+            "group": "ytn.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2ZTlabkxjRy13Qkg5U0pvS1c0Ul95Y2cyMmdWSG5peDRmTGFjbnFQam9Ob1BRZzlMYW1oNHJ3MEtySHJUQjlhZnMxN1FrTTJXUkxFSVV1Y3A0Y3RyZ3c?oc=5",
+            "published_at": "2026-11-24T13:00:00Z",
+            "headline": "서울지하철 노사 간 최종교섭 난항...'인력' 쟁점"
           },
           {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YUEZxTDhMRHFGNkUycUdINXc4Y2JHaXU1bjV2RC1BbGVxaDRUR2lpVEUybmFuYmZfZkRRZC14cGlMOEEtdE9ZY3JsakxJd1ctTzhCSTVnb0VJZTTSAWBBVV95cUxNemtCcE9NMGtLUXZ6NjAzTUJ3RkVKNjF0VmVXc1h1bmRhQXVyX2tBT1B6QlA3djBmVENOc0xwbEIzbmdyWGRzRGJXLUZqa1ZrNUc2ZVhROEVHR0RJVVg5RGI?oc=5",
-            "published_at": "2026-11-22T03:18:40Z",
-            "headline": "서울지하철 25일 총파업 기로…24일 노사 최종교섭 '담판'"
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jbmxNX3NzYVpHXzdxRzFpMldOcnlhMXVsekIzd1RmZzF1N2xyd2ljeEN4dko4TXB2V3I4dHBhWXRFQ180NGgtaEExbjJFeDluUHoydlZVNDg3UlnSAWBBVV95cUxQV01sTEVlZ2FhR09QRnJmV09PZUZCOXh6ZGtVWnV5QkFXSFRDU3BuUDFudlVsbTlNamU4OV9PcnNrdnJyODdhN0UwUFM4STNBZjNwbjNTbGttTEFOR0hBX0Y?oc=5",
+            "published_at": "2026-11-24T09:07:49Z",
+            "headline": "서울지하철 노사 막판 교섭 난항…내일 첫차부터 총파업 위기"
           }
         ]
       },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-23T23:50:27.651157Z"
+      "selection_rank": 1
     }
   ]
 }
