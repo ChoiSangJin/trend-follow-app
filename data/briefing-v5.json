@@ -2,29 +2,36 @@
   "schema_version": 5,
   "region": "KR",
   "edition": "daily",
-  "updated_at": "2026-11-27T08:23:31.032645Z",
+  "updated_at": "2026-11-27T21:13:33.875218Z",
   "cards": [
     {
       "id": "9f6838ffca780894b3a3",
       "category": "문화·예술",
-      "title": "한화클래식, 창원·거제·서울서 공연…\"문화예술 향유 기회 확장\"",
-      "summary": "한화클래식, 창원·거제·서울서 공연…\"문화예술 향유 기회 확장\"",
-      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 2시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘한화클래식, 창원·거제·서울서 공연…\"문화예술 향유 기회 확장\"’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
+      "title": "한화클래식, 창원·거제·서울서 공연…“문화예술 향유 기회 확장”",
+      "summary": "한화클래식, 창원·거제·서울서 공연…“문화예술 향유 기회 확장”",
+      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 13시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘한화클래식, 창원·거제·서울서 공연…“문화예술 향유 기회 확장”’라는 소식을 봤어요. 요즘 가 보고 싶은 전시나 공연, 읽어 보고 싶은 책이 있어요?",
       "context": "전시·공연 일정과 예약 여부는 공식 안내를 확인해 주세요.",
-      "source": "아시아경제",
-      "source_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWN3FNOWNEZThlWS1jZDhPY3ZkektzQWQ0QkRaT3h4NTg2aWFBbjN4Q2dlMlJZMmY5ZDNBSE9qaVgtcjdiVWpvWGZjcXhZQU5NQUFlQXFyZGgyUDhZWDRDRDZCZW8?oc=5",
-      "published_at": "2026-11-26T23:49:45Z",
+      "source": "세계일보",
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NS25RZW9yU0xRcTNxTTBIME9MRXpxZG1QcTBXWnFNdE9HQlBSNk5wUkJOZG93ZmdhOUh6MjB4WXJQU2pfdjkwalhuMWhpOE050gFUQVVfeXFMT2hRWUF6Y1d1dUlPSHZVckNCYXVFYzl6bXdQYUdmNFJHRXIxV09ET3UybU5TNjhxSGw3VTBMOU5uVEhfazJ1anZva0pNQ3lhWko1eE1T?oc=5",
+      "published_at": "2026-11-27T13:00:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 4,
-        "report_count": 5,
-        "span_hours": 2.0,
+        "source_groups": 3,
+        "report_count": 4,
+        "span_hours": 13.7,
         "first_report_at": "2026-11-26T23:19:00Z",
-        "last_report_at": "2026-11-27T01:19:53Z",
+        "last_report_at": "2026-11-27T13:00:00Z",
         "first_report_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUElUX2VKcEdTRmdmT2xKT0pibFRiMVBCRUJjTjN6VVdjVENyak9fTHVIaEc0SVUyU0VrSE1sR2VIVU94VkYzQ201VG1yci1DQjY0ZHBnY0lLWVpfcVRKX1cxaElQcnhIOVNoV2doTHRWem9JRzgtWEV5T3ZXeG9qamFR?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVOXM3a3Vncm1PcS1vZWROWmdsd2daZ3JHN2ktNmQwV2tiNlI4UEU2LUF3VFVHM0RGVFU2anNzSTBwNkdRUkpobVBvWFNqNGNkWWc?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NS25RZW9yU0xRcTNxTTBIME9MRXpxZG1QcTBXWnFNdE9HQlBSNk5wUkJOZG93ZmdhOUh6MjB4WXJQU2pfdjkwalhuMWhpOE050gFUQVVfeXFMT2hRWUF6Y1d1dUlPSHZVckNCYXVFYzl6bXdQYUdmNFJHRXIxV09ET3UybU5TNjhxSGw3VTBMOU5uVEhfazJ1anZva0pNQ3lhWko1eE1T?oc=5",
         "sources": [
+          {
+            "name": "세계일보",
+            "group": "asiae.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NS25RZW9yU0xRcTNxTTBIME9MRXpxZG1QcTBXWnFNdE9HQlBSNk5wUkJOZG93ZmdhOUh6MjB4WXJQU2pfdjkwalhuMWhpOE050gFUQVVfeXFMT2hRWUF6Y1d1dUlPSHZVckNCYXVFYzl6bXdQYUdmNFJHRXIxV09ET3UybU5TNjhxSGw3VTBMOU5uVEhfazJ1anZva0pNQ3lhWko1eE1T?oc=5",
+            "published_at": "2026-11-27T13:00:00Z",
+            "headline": "한화클래식, 창원·거제·서울서 공연…“문화예술 향유 기회 확장”"
+          },
           {
             "name": "노컷뉴스",
             "group": "nocutnews.co.kr",
@@ -38,20 +45,6 @@
             "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EYTBheV8yY05HWnZWenhGbWsta1EzQTJhYnQwZlJudjlLX042YkZFMEVoR3hZNzFkUjJYelFxamp4cFUwcE1EWjlvY01xNTVzNldvSGl1OWlCRHJnRTNUbdIBYEFVX3lxTE9EYTBheV8yY05HWnZWenhGbWsta1EzQTJhYnQwZlJudjlLX042YkZFMEVoR3hZNzFkUjJYelFxamp4cFUwcE1EWjlvY01xNTVzNldvSGl1OWlCRHJnRTNUbQ?oc=5",
             "published_at": "2026-11-26T23:52:24Z",
             "headline": "한화클래식 2026 막 내려…\"문화예술 향유 기회 확장\""
-          },
-          {
-            "name": "이데일리",
-            "group": "edaily.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNckRsZGd6R1EwRVpxYVdRWUw3Q0xwUlptTXN3ZnBsRVNMeWNVMTdBLU9PeXBYeXVmbHVacDN0LW1JVUZBY3VQMElwcGF0SDJ2ZGFsd1cwZC1laWN6LTZ6OXlyQmp1VUlyLVkzaURPSk1vb2I2N1JIaXBMN2YxQmJ4bw?oc=5",
-            "published_at": "2026-11-26T23:51:23Z",
-            "headline": "'한화클래식 2026' 성료…창원·거제로 문화예술 저변 확대"
-          },
-          {
-            "name": "아시아경제",
-            "group": "asiae.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWN3FNOWNEZThlWS1jZDhPY3ZkektzQWQ0QkRaT3h4NTg2aWFBbjN4Q2dlMlJZMmY5ZDNBSE9qaVgtcjdiVWpvWGZjcXhZQU5NQUFlQXFyZGgyUDhZWDRDRDZCZW8?oc=5",
-            "published_at": "2026-11-26T23:49:45Z",
-            "headline": "한화클래식, 창원·거제·서울서 공연…\"문화예술 향유 기회 확장\""
           }
         ]
       },
@@ -104,200 +97,198 @@
       "selection_rank": 2
     },
     {
-      "id": "4905eaa0d2fb875f4758",
+      "id": "1cd4d544e81f551233e4",
       "category": "연예",
-      "title": "NCT WISH, ‘전석 매진’ 고척돔 콘서트 회차 추가",
-      "summary": "NCT WISH, ‘전석 매진’ 고척돔 콘서트 회차 추가",
-      "why_now": "이전 수집(11.27 06:28 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘NCT WISH, ‘전석 매진’ 고척돔 콘서트 회차 추가’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "title": "박시환 '연말은 정(情)말' 콘서트 12월 6일 개최",
+      "summary": "박시환 '연말은 정(情)말' 콘서트 12월 6일 개최",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 2시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘박시환 '연말은 정(情)말' 콘서트 12월 6일 개최’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
       "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "JTBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92ZWc4ckZoa1FVNlh5bWxYLS1sdUw1R3NUcUc0RldxUEp5OEtMc0FXYy1ydEVvVDJqc2JBUEFZUG80YzI2X2dmMWxLU1dIdFBXaXBrOQ?oc=5",
-      "published_at": "2026-11-26T11:53:03Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 3,
-        "report_count": 3,
-        "span_hours": 3.5,
-        "first_report_at": "2026-11-26T08:24:55Z",
-        "last_report_at": "2026-11-26T11:53:03Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RUkVTdWlmTDJ3MUhqLTRMRk4wV3ZpeTh0a0JIRUxseHI1aXJ4Nk54OGY5clEwb2VQM2NYUzBxdXpnVk42Mk9IT0ZUWW5Wb3g0MGJlUS1XZUNTYXRtNWQzczh0Nms3UHgxdWh2eVhCNVZpX2ZVMUVXWNIBeEFVX3lxTE1RUkVTdWlmTDJ3MUhqLTRMRk4wV3ZpeTh0a0JIRUxseHI1aXJ4Nk54OGY5clEwb2VQM2NYUzBxdXpnVk42Mk9IT0ZUWW5Wb3g0MGJlUS1XZUNTYXRtNWQzczh0Nms3UHgxdWh2eVhCNVZpX2ZVMUVXWA?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92ZWc4ckZoa1FVNlh5bWxYLS1sdUw1R3NUcUc0RldxUEp5OEtMc0FXYy1ydEVvVDJqc2JBUEFZUG80YzI2X2dmMWxLU1dIdFBXaXBrOQ?oc=5",
-        "sources": [
-          {
-            "name": "JTBC",
-            "group": "jtbc.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE92ZWc4ckZoa1FVNlh5bWxYLS1sdUw1R3NUcUc0RldxUEp5OEtMc0FXYy1ydEVvVDJqc2JBUEFZUG80YzI2X2dmMWxLU1dIdFBXaXBrOQ?oc=5",
-            "published_at": "2026-11-26T11:53:03Z",
-            "headline": "NCT WISH, ‘전석 매진’ 고척돔 콘서트 회차 추가"
-          },
-          {
-            "name": "세계일보",
-            "group": "segye.com",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wU1pHZG8wcVYtdGNBcFBWWUpEUkUwZFdNWGx3dE9xY01BT0NrZ1prNkE5c1NKWjlkZWlDUWFjc2J2MHN0UHMyN2gyT2hSenV5dDRlTtIBVEFVX3lxTE8wU1pHZG8wcVYtdGNBcFBWWUpEUkUwZFdNWGx3dE9xY01BT0NrZ1prNkE5c1NKWjlkZWlDUWFjc2J2MHN0UHMyN2gyT2hSenV5dDRlTg?oc=5",
-            "published_at": "2026-11-26T08:39:40Z",
-            "headline": "NCT 위시, 첫 고척돔 콘서트 회차 추가…3회 공연 확정"
-          },
-          {
-            "name": "머니투데이",
-            "group": "mt.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RUkVTdWlmTDJ3MUhqLTRMRk4wV3ZpeTh0a0JIRUxseHI1aXJ4Nk54OGY5clEwb2VQM2NYUzBxdXpnVk42Mk9IT0ZUWW5Wb3g0MGJlUS1XZUNTYXRtNWQzczh0Nms3UHgxdWh2eVhCNVZpX2ZVMUVXWNIBeEFVX3lxTE1RUkVTdWlmTDJ3MUhqLTRMRk4wV3ZpeTh0a0JIRUxseHI1aXJ4Nk54OGY5clEwb2VQM2NYUzBxdXpnVk42Mk9IT0ZUWW5Wb3g0MGJlUS1XZUNTYXRtNWQzczh0Nms3UHgxdWh2eVhCNVZpX2ZVMUVXWA?oc=5",
-            "published_at": "2026-11-26T08:24:55Z",
-            "headline": "이틀은 부족해..NCT WISH, 첫 고척돔 콘서트 1회 추가 결정 - 머니투데이"
-          }
-        ]
-      },
-      "selection_rank": 1,
-      "last_collected_at": "2026-11-26T21:28:01.958186Z"
-    },
-    {
-      "id": "e71d1e396a8b1c202e05",
-      "category": "연예",
-      "title": "[청룡영화상] 故 안성기, 공로상…子 \"영화는 곧 삶이었다\"",
-      "summary": "[청룡영화상] 故 안성기, 공로상…子 \"영화는 곧 삶이었다\"",
-      "why_now": "이전 수집(11.26 06:39 KST)에서 확인한 기사입니다. 이번 수집의 부족한 분야를 보완하며 모든 근거 기사는 현재 기준 최근 3일 이내입니다. 새로 확인한 인기나 조회수 순위가 아닙니다.",
-      "opener": "‘[청룡영화상] 故 안성기, 공로상…子 \"영화는 곧 삶이었다\"’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
-      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
-      "source": "조선일보",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNnN0OUkzUXBBVEJJTmtYUnJUeUlvbE5oYWFzdEFjckxWUE1oSVQ2Zk55OXlOb2FoX1lkNkxveWtTYU02UmtESmVWMWViem9sWXBabVRzcG55N09LS0k5Nms0Z19TR3dWZkhCdzBydW1qU2NoS2lVNTVFYnY1d2F3RDJSSml1SkRPLXRaSWRVVXJ2S0xE?oc=5",
-      "published_at": "2026-11-25T14:33:00Z",
+      "source": "SPOTV NEWS",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmWEphcV9MZTgzdmM3Ukk1c19GVTgxTms5Q3M4NEVhTGp5T1lkUTRHRUdzT0NGZHlyeEo0M3pZNThjQTRMUFNXdE9INW1iR1JVVEJSZkY3V05xM2dJUzFFNDV2TG85WlViYnNCTGljMjg?oc=5",
+      "published_at": "2026-11-27T08:06:15Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 2,
         "report_count": 2,
-        "span_hours": 0.7,
-        "first_report_at": "2026-11-25T13:52:25Z",
-        "last_report_at": "2026-11-25T14:33:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYd2x4TUpHdVlxaHFjNGVyOVB1QW9wdXVGdmc0WkVxM2N3VVFmWXJjNVZySG9oYnJKZG12dDhMQWhVdGc5bXlwZ19sXzN5ajNnbktCdEM0U3dodw?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNnN0OUkzUXBBVEJJTmtYUnJUeUlvbE5oYWFzdEFjckxWUE1oSVQ2Zk55OXlOb2FoX1lkNkxveWtTYU02UmtESmVWMWViem9sWXBabVRzcG55N09LS0k5Nms0Z19TR3dWZkhCdzBydW1qU2NoS2lVNTVFYnY1d2F3RDJSSml1SkRPLXRaSWRVVXJ2S0xE?oc=5",
+        "span_hours": 2.3,
+        "first_report_at": "2026-11-27T05:47:00Z",
+        "last_report_at": "2026-11-27T08:06:15Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02RkRsVXpxSzZqODlUXzhPY0pFSUQtc1NaclY1S19LdUlKWFcyVzFTSnFiUmpjbHRwX1IwYmhwMHk2eUhmbzdlRlRfWHd5bG9yVmI4enVzUXlnLS1Zb3fSAWNBVV95cUxNXy1VbDFYbXhQRGJyNDdnbk9xMDZPSWI5QTNGbEtkRkVqYmFPdzF1S2dGdFdtX0lYWEg2d2dxWGF4dnlrRUUyMkRuWTN2eG5FeTZfLWJxZDl2NllkRVlxYTZkcTg?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmWEphcV9MZTgzdmM3Ukk1c19GVTgxTms5Q3M4NEVhTGp5T1lkUTRHRUdzT0NGZHlyeEo0M3pZNThjQTRMUFNXdE9INW1iR1JVVEJSZkY3V05xM2dJUzFFNDV2TG85WlViYnNCTGljMjg?oc=5",
         "sources": [
-          {
-            "name": "조선일보",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNnN0OUkzUXBBVEJJTmtYUnJUeUlvbE5oYWFzdEFjckxWUE1oSVQ2Zk55OXlOb2FoX1lkNkxveWtTYU02UmtESmVWMWViem9sWXBabVRzcG55N09LS0k5Nms0Z19TR3dWZkhCdzBydW1qU2NoS2lVNTVFYnY1d2F3RDJSSml1SkRPLXRaSWRVVXJ2S0xE?oc=5",
-            "published_at": "2026-11-25T14:33:00Z",
-            "headline": "[청룡영화상] 故 안성기, 공로상…子 \"영화는 곧 삶이었다\""
-          },
-          {
-            "name": "한국경제",
-            "group": "hankyung.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYd2x4TUpHdVlxaHFjNGVyOVB1QW9wdXVGdmc0WkVxM2N3VVFmWXJjNVZySG9oYnJKZG12dDhMQWhVdGc5bXlwZ19sXzN5ajNnbktCdEM0U3dodw?oc=5",
-            "published_at": "2026-11-25T13:52:25Z",
-            "headline": "故 안성기, 청룡영화상 '공로상' 수상…子 \"영화는 곧 삶이었다\""
-          }
-        ]
-      },
-      "selection_rank": 2,
-      "last_collected_at": "2026-11-25T21:39:14.697171Z"
-    },
-    {
-      "id": "a0a11813ef43f1452535",
-      "category": "스포츠",
-      "title": "DNA가 달라…‘강호동 아들’ 강시후, 전국 골프대회 준우승",
-      "summary": "DNA가 달라…‘강호동 아들’ 강시후, 전국 골프대회 준우승",
-      "why_now": "수집 범위에서 관련 보도 7개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 5곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘DNA가 달라…‘강호동 아들’ 강시후, 전국 골프대회 준우승’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
-      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "스포츠경향",
-      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JQTJrdFEzVTN5VVRHOVpUX3NUUVo0OTd1NnZHY2N5by0tNnJORk5tUTZCeXhkdzdsSndVbkVNQUxVdWlJcTk4YmJBVXpxLUxpTk5XNTdhTTFqVjdtRFHSAWNBVV95cUxQM0E4R2duTllEQVJNTHhhUkN1NHZrODhOeGk4V0RPNTNOMk5oRTl0WHlGN29mQ0laT1hBektJVmdTbXhaZDV4YTZxcllnQ3lOdkR5WkNxMUtib195RzJTWkg1MGM?oc=5",
-      "published_at": "2026-11-27T01:54:00Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 5,
-        "report_count": 7,
-        "span_hours": 1.2,
-        "first_report_at": "2026-11-27T00:59:00Z",
-        "last_report_at": "2026-11-27T02:08:04Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLVptc2EwVEtBV01uMThhTHJOVGdTU0N6MjRGZXpNOU9RVVI4ZjVkUkdEalNfQzFVM3lNNDN5bkxvdm5CQldyb1dUVjNLdEVyWUUwaXRmRk5WSE96dmhVSlpidEJXVnJvOEQwQWY5N3pxNlF6NERwek5HaHJuQllkNG8wR3pjWmx2bDlLZTRpWUZFZFdpQVBpMUt3MWdNbjRaaVRtREFlONIBpwFBVV95cUxPLVptc2EwVEtBV01uMThhTHJOVGdTU0N6MjRGZXpNOU9RVVI4ZjVkUkdEalNfQzFVM3lNNDN5bkxvdm5CQldyb1dUVjNLdEVyWUUwaXRmRk5WSE96dmhVSlpidEJXVnJvOEQwQWY5N3pxNlF6NERwek5HaHJuQllkNG8wR3pjWmx2bDlLZTRpWUZFZFdpQVBpMUt3MWdNbjRaaVRtREFlOA?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8ybTFYU3VYUlBvbU5sak51bnlmWkJEOTdyb1F4TWhBbmd4cnJLd2JLbk50dTdIajNGTF9uU25ZN3NORDlqbHluengxckplczBXMUdiMQ?oc=5",
-        "sources": [
-          {
-            "name": "매일경제",
-            "group": "mk.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8ybTFYU3VYUlBvbU5sak51bnlmWkJEOTdyb1F4TWhBbmd4cnJLd2JLbk50dTdIajNGTF9uU25ZN3NORDlqbHluengxckplczBXMUdiMQ?oc=5",
-            "published_at": "2026-11-27T02:08:04Z",
-            "headline": "역시 씨름 천하장사 DNA…강호동 아들, 골프대회 준우승"
-          },
           {
             "name": "SPOTV NEWS",
             "group": "spotvnews.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kMHFRdDdQdUFTd2NPNjVQWkt3dlcwYjlxSkxxUVV1ZnBnLTY0UjBER0RKNlJrVjVBd0s2T2pINXA4bnEzS0I1c1ptNUhuaGkzRWJIN2RhdVVZaWZaeVlLYkFqSkctSmVHRFNxbENGZ0w?oc=5",
-            "published_at": "2026-11-27T02:03:41Z",
-            "headline": "강호동 아들 강시후, 전국 골프대회 준우승…천하장사 DNA 못 속여"
-          },
-          {
-            "name": "동아일보",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03Rjlia2JaM3BHdkM5THVYdEpvZGNaSFczYzVUSTVfYldTLWlmNHZPU2xaYlNDSWRfSVZndC05M1M1XzFZeU93UUJTRjNoRWF1bjN4QkV2OWJIOGVET2gxR3pYQTV0Z9IBZkFVX3lxTE03Rjlia2JaM3BHdkM5THVYdEpvZGNaSFczYzVUSTVfYldTLWlmNHZPU2xaYlNDSWRfSVZndC05M1M1XzFZeU93UUJTRjNoRWF1bjN4QkV2OWJIOGVET2gxR3pYQTV0Zw?oc=5",
-            "published_at": "2026-11-27T02:02:17Z",
-            "headline": "‘강호동 17세 아들’ 강시후, 전국 학생 골프대회 준우승"
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmWEphcV9MZTgzdmM3Ukk1c19GVTgxTms5Q3M4NEVhTGp5T1lkUTRHRUdzT0NGZHlyeEo0M3pZNThjQTRMUFNXdE9INW1iR1JVVEJSZkY3V05xM2dJUzFFNDV2TG85WlViYnNCTGljMjg?oc=5",
+            "published_at": "2026-11-27T08:06:15Z",
+            "headline": "박시환 '연말은 정(情)말' 콘서트 12월 6일 개최"
           },
           {
             "name": "스포츠경향",
             "group": "khan.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JQTJrdFEzVTN5VVRHOVpUX3NUUVo0OTd1NnZHY2N5by0tNnJORk5tUTZCeXhkdzdsSndVbkVNQUxVdWlJcTk4YmJBVXpxLUxpTk5XNTdhTTFqVjdtRFHSAWNBVV95cUxQM0E4R2duTllEQVJNTHhhUkN1NHZrODhOeGk4V0RPNTNOMk5oRTl0WHlGN29mQ0laT1hBektJVmdTbXhaZDV4YTZxcllnQ3lOdkR5WkNxMUtib195RzJTWkg1MGM?oc=5",
-            "published_at": "2026-11-27T01:54:00Z",
-            "headline": "DNA가 달라…‘강호동 아들’ 강시후, 전국 골프대회 준우승"
-          },
-          {
-            "name": "Chosunbiz",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLVptc2EwVEtBV01uMThhTHJOVGdTU0N6MjRGZXpNOU9RVVI4ZjVkUkdEalNfQzFVM3lNNDN5bkxvdm5CQldyb1dUVjNLdEVyWUUwaXRmRk5WSE96dmhVSlpidEJXVnJvOEQwQWY5N3pxNlF6NERwek5HaHJuQllkNG8wR3pjWmx2bDlLZTRpWUZFZFdpQVBpMUt3MWdNbjRaaVRtREFlONIBpwFBVV95cUxPLVptc2EwVEtBV01uMThhTHJOVGdTU0N6MjRGZXpNOU9RVVI4ZjVkUkdEalNfQzFVM3lNNDN5bkxvdm5CQldyb1dUVjNLdEVyWUUwaXRmRk5WSE96dmhVSlpidEJXVnJvOEQwQWY5N3pxNlF6NERwek5HaHJuQllkNG8wR3pjWmx2bDlLZTRpWUZFZFdpQVBpMUt3MWdNbjRaaVRtREFlOA?oc=5",
-            "published_at": "2026-11-27T00:59:00Z",
-            "headline": "[단독] 강호동 아들 강시후, 전국 골프대회 준우승 '쾌거'..아빠 피 물려받았네"
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02RkRsVXpxSzZqODlUXzhPY0pFSUQtc1NaclY1S19LdUlKWFcyVzFTSnFiUmpjbHRwX1IwYmhwMHk2eUhmbzdlRlRfWHd5bG9yVmI4enVzUXlnLS1Zb3fSAWNBVV95cUxNXy1VbDFYbXhQRGJyNDdnbk9xMDZPSWI5QTNGbEtkRkVqYmFPdzF1S2dGdFdtX0lYWEg2d2dxWGF4dnlrRUUyMkRuWTN2eG5FeTZfLWJxZDl2NllkRVlxYTZkcTg?oc=5",
+            "published_at": "2026-11-27T05:47:00Z",
+            "headline": "‘순수청년’ 가수 박시환 ‘연말은 정(情)말’ 콘서트 12월 6일 개최"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "010da9261360890384ab",
+      "id": "90af00a8d3118cb2eb2f",
+      "category": "연예",
+      "title": "82메이저, 내년 1월 마카오 팬들 만난다..단독 콘서트 확정",
+      "summary": "82메이저, 내년 1월 마카오 팬들 만난다..단독 콘서트 확정",
+      "why_now": "수집 범위에서 관련 보도 2개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 2곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘82메이저, 내년 1월 마카오 팬들 만난다..단독 콘서트 확정’라는 소식을 봤어요. 요즘 즐겨 보는 작품이나 자주 듣는 노래가 있어요?",
+      "context": "결말은 말하지 않고, 사생활 추측보다 공개된 작품과 활동으로 이야기해 보세요.",
+      "source": "조선일보",
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOEZDNXF3ZC1yWDU3X1hkSF8wSTExLUtYamNMMDV3cXM0WHloTE9lbHJQX0dhdmoxdm9KLVN2NjRjYzRsQ2IxbFBhM3E5RUNxdDVTMDh1VnVXbV9zclhPdDJNSnBQZ0Z5RVkxYkJnbHpLemVmNmt5bVVaa0JaRlU3c3VlNFBkNkZqeHc?oc=5",
+      "published_at": "2026-11-27T08:47:00Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 2,
+        "report_count": 2,
+        "span_hours": 0.2,
+        "first_report_at": "2026-11-27T08:36:52Z",
+        "last_report_at": "2026-11-27T08:47:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yOTlhTmQ0ek10UTg5VVNsQ1lFcEtoUFpfVlFfaS1ETVU2TnA2ZW1pOU1scDRIaUJ1c1VsdE1nbWl3QnUzU0NmaHlqQWw0RHAwRDJVaVhfRXhkY0RXU3pwTHdwdlhsLUU0eDZ1OVoyelM?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOEZDNXF3ZC1yWDU3X1hkSF8wSTExLUtYamNMMDV3cXM0WHloTE9lbHJQX0dhdmoxdm9KLVN2NjRjYzRsQ2IxbFBhM3E5RUNxdDVTMDh1VnVXbV9zclhPdDJNSnBQZ0Z5RVkxYkJnbHpLemVmNmt5bVVaa0JaRlU3c3VlNFBkNkZqeHc?oc=5",
+        "sources": [
+          {
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOEZDNXF3ZC1yWDU3X1hkSF8wSTExLUtYamNMMDV3cXM0WHloTE9lbHJQX0dhdmoxdm9KLVN2NjRjYzRsQ2IxbFBhM3E5RUNxdDVTMDh1VnVXbV9zclhPdDJNSnBQZ0Z5RVkxYkJnbHpLemVmNmt5bVVaa0JaRlU3c3VlNFBkNkZqeHc?oc=5",
+            "published_at": "2026-11-27T08:47:00Z",
+            "headline": "82메이저, 내년 1월 마카오 팬들 만난다..단독 콘서트 확정"
+          },
+          {
+            "name": "SPOTV NEWS",
+            "group": "spotvnews.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yOTlhTmQ0ek10UTg5VVNsQ1lFcEtoUFpfVlFfaS1ETVU2TnA2ZW1pOU1scDRIaUJ1c1VsdE1nbWl3QnUzU0NmaHlqQWw0RHAwRDJVaVhfRXhkY0RXU3pwTHdwdlhsLUU0eDZ1OVoyelM?oc=5",
+            "published_at": "2026-11-27T08:36:52Z",
+            "headline": "82메이저, 내년 1월 마카오 콘서트 확정…美 동부 투어→'징글볼 빌리지'까지 '글로벌 행보'"
+          }
+        ]
+      },
+      "selection_rank": 2
+    },
+    {
+      "id": "5c6d815a29dc77e13a67",
       "category": "스포츠",
-      "title": "더 시에나, 골프존홀딩스 보유 지분도 인수… 골프존카운티 지분 100% 확보 추진",
-      "summary": "더 시에나, 골프존홀딩스 보유 지분도 인수… 골프존카운티 지분 100% 확보 추진",
-      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘더 시에나, 골프존홀딩스 보유 지분도 인수… 골프존카운티 지분 100% 확보 추진’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "title": "강호동 아들 강시후, 전국 학생골프대회 준우승(종합)",
+      "summary": "강호동 아들 강시후, 전국 학생골프대회 준우승(종합)",
+      "why_now": "수집 범위에서 관련 보도 9개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 6곳, 6시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘강호동 아들 강시후, 전국 학생골프대회 준우승(종합)’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
       "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
-      "source": "전자신문",
-      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3cFRUdW1QYkMyazFiNThoLVoyS2pfWHk0YXBINEl0QTNoNFRvT25wTkgyVDJEQkRNQjlZQVg3QjJPV21ucnpvUjdVQXZudw?oc=5",
-      "published_at": "2026-11-27T01:39:55Z",
+      "source": "뉴시스",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92S3IzbVJLZ1VVbnVqS3h5V0RBT3JwWER0RXpWUnFFdGJFZWpOQ3ZhNUdCYzVYc1NxSWlQRUVGQV8wcWlmVkhuUnRRbUhiR3pPd3RyZEFIVG9kcWxCdmFrcdIBeEFVX3lxTE1VeDZhMXhpcDNXZjVOaWZQOGZ4RU9DMmNfd3h6eElmR0dlUnFOdTJXVkpWQ1IyZHlla1Zuc1dkY2ZHajFjbWN5WUxCak5iaHY1aE02SHJsX05fRVpqVzVsVVFtNUxGR0pNVi16bzgwQWgwcDdhNU9tRg?oc=5",
+      "published_at": "2026-11-27T07:47:12Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 6,
+        "report_count": 9,
+        "span_hours": 6.0,
+        "first_report_at": "2026-11-27T02:26:00Z",
+        "last_report_at": "2026-11-27T08:23:23Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS040cEJqdlFOYVZyTEhQNEVhX1ZkT3k1NFNmcllkaGI3X1NBOGFjdjN0R0ZobWVDWmlrRFdIa2RtZlNKRGhBdnhVWHVVcWs5V0ZqcTA5a2hUd2x1QllzNEhqOVhsQU5wWHc4TDBNRGw3Ty11eUVJOGNub2NKN2RhV1kydmRDMGRMX2fSAZ4BQVVfeXFMTUNIUGN4Nm55dEpOYzJXRk5vT1AxbXpPT3lGRUtQNmhSYzFSWExma3k4ZW1LX1JSdHIzMm5RYWNfc0N5VWFfX25VVWpmdXcyRHdSc1ZTZUl4WjJYR2xCLXVXQk9VNTNyeDV0YWExR1pUMXVyQ0ZvTEkxcTlKcUMyTVBvOHdiVlc2QW1PVTM4dkZnWm1CRE9BWHdWSUN1TUE?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15Y2dIX2ZYNk40Ul9BTHU0OUM2ZGZ0cTBQYU1rMjVSNkVXQ2VwSXlIc2RHaV8wQzhLeFlBZ29wNjZ2anZrdWc2VG5zM1owdjJjaExwQg?oc=5",
+        "sources": [
+          {
+            "name": "JTBC",
+            "group": "jtbc.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15Y2dIX2ZYNk40Ul9BTHU0OUM2ZGZ0cTBQYU1rMjVSNkVXQ2VwSXlIc2RHaV8wQzhLeFlBZ29wNjZ2anZrdWc2VG5zM1owdjJjaExwQg?oc=5",
+            "published_at": "2026-11-27T08:23:23Z",
+            "headline": "강호동 아들 강시후, 골프대회 준우승...비결은 ‘천하장사 유전자’?"
+          },
+          {
+            "name": "스포츠동아",
+            "group": "donga.com",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TQ3BqeWFGTzkwVVRhd3llRmZscDJZSThrY3psLVVoaXBPVDc4YlI1b2FMZDR0MktjTTRGcTlNWlFhQlJrdFBjQWhlVlpDaHlkQWdsUzFfVEpObTlkTXJ1SUFsR1lGa0FXT1Eyc3Fn?oc=5",
+            "published_at": "2026-11-27T07:59:46Z",
+            "headline": "‘188cm’ 강호동 아들 강시후, 전국 골프대회 준우승"
+          },
+          {
+            "name": "뉴시스",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92S3IzbVJLZ1VVbnVqS3h5V0RBT3JwWER0RXpWUnFFdGJFZWpOQ3ZhNUdCYzVYc1NxSWlQRUVGQV8wcWlmVkhuUnRRbUhiR3pPd3RyZEFIVG9kcWxCdmFrcdIBeEFVX3lxTE1VeDZhMXhpcDNXZjVOaWZQOGZ4RU9DMmNfd3h6eElmR0dlUnFOdTJXVkpWQ1IyZHlla1Zuc1dkY2ZHajFjbWN5WUxCak5iaHY1aE02SHJsX05fRVpqVzVsVVFtNUxGR0pNVi16bzgwQWgwcDdhNU9tRg?oc=5",
+            "published_at": "2026-11-27T07:47:12Z",
+            "headline": "강호동 아들 강시후, 전국 학생골프대회 준우승(종합)"
+          },
+          {
+            "name": "파이낸셜뉴스",
+            "group": "fnnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92OW8wRzc2ZjdtLU1mY3N3T1BaWVY2UEJJcTVPSUhJS3NtUlRETTBNcEtHTG5QcWtKajI4dHd0MzJpbXo3NGxrQkR6TDhFZGNpZDhRSndsWmpkdw?oc=5",
+            "published_at": "2026-11-27T05:59:16Z",
+            "headline": "'천하장사' DNA 못 속이네…강호동 아들, 전국 학생 골프대회서 준우승"
+          },
+          {
+            "name": "중앙일보",
+            "group": "joongang.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FekFtLXhKOWl2NEVSUGp5eTg1RF81aExUekltMkxrWE1uLXhCbXNOajAxTl9CaFVwRFlvV09qbTVhbE9VZnhhWUZBQXpTUFc0ekdYVlV3?oc=5",
+            "published_at": "2026-11-27T04:38:39Z",
+            "headline": "야구 대신 골프채 잡더니…강호동 아들, 전국 골프대회 준우승"
+          },
+          {
+            "name": "머니투데이",
+            "group": "mt.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByOWpFRkcxYUxnaTE4bGg1cG8wYkt2OURucWhVNHl4b1F4SDFJTmtUdGJ6VWVlZUJzTWlPQnBQVnN1RzlqaUFsV3VOTzVINXM4MmFKV3pINXJoSWRqdzVtbUk5VkJCd0NkSXIzbGt5YklzWDjSAXhBVV95cUxOYzhVN2dDY1dENTRJd3QxUVRuN0tBb2NEeTVrWkd5a1FzUEJuLTQzcVFWZDkycFZSRGhCNWNna3hSNWJHdllFS1kzTk1QRkJCR3p3N0Z5d3Vqa1lLekR6Q2Z3OVRBU2E2RzlscFFnTmtkZElFeWJkYm4?oc=5",
+            "published_at": "2026-11-27T04:17:26Z",
+            "headline": "강호동 아들 경사났네…전국 학생 골프대회 준우승 - 머니투데이"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "2576c2d2535576431841",
+      "category": "스포츠",
+      "title": "프로야구 KIA 김도영, 2년 만에 정규시즌 MVP 탈환‥신인왕은 허인서",
+      "summary": "프로야구 KIA 김도영, 2년 만에 정규시즌 MVP 탈환‥신인왕은 허인서",
+      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 16시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘프로야구 KIA 김도영, 2년 만에 정규시즌 MVP 탈환‥신인왕은 허인서’라는 소식을 봤어요. 요즘 챙겨 보는 경기나 응원하는 팀 있어요?",
+      "context": "상대가 스포츠에 관심이 있는지 먼저 가볍게 물어보세요.",
+      "source": "MBC 뉴스",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zM1NXbWcxdG9nVmp2RVRvVF95NUxyQ3N4Q0RSQTg2RnBKbV9KWjBnaHdDWURYYlRQVThDTHRLNzl6VHNoZGpJeHFsNTJfNWFkNGxubGxSMGR2V2VrdG94OWZNcEloRjF0VFdQZWtWREpObEJ3OWfSAXZBVV95cUxQYVM4Z1JyWDVpVHpMZnZjY0ItbzFfTVBjUEtxMHpuTDl3Z3p0TVRZeUpRNFljV0dmRzV4UmEwbzFpTjQ1NEo1MDVjNWNnOGNfRGk1bWZMazN2dDBXTkhRYlI5Ul94T2UxanRSNW0yWGhKS2psZkZn?oc=5",
+      "published_at": "2026-11-26T07:00:32Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 4,
         "report_count": 4,
-        "span_hours": 1.0,
-        "first_report_at": "2026-11-27T00:55:23Z",
-        "last_report_at": "2026-11-27T01:55:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxX3lHOTlyYjNiVm04VTF2ODlnN2xOMzhlM2ZFYUJ0amZCZGRVcTdlRDdfOGtMOEJlbjJnUlhfSTZ6QVpEdDczdXVPUUliMFJXbDFIN2xuLWVPQQ?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VTnY3d0hCNS0xVjl3OWFKSU9MM3pmVzBLQ3otRUF6M3FEZ2ZMZHduOEd5VktkLWJaM2hvbmhfV3ZHektESS1QZTJnX0tZRldlX0tEV0Z0ZFZ3NGYxMzNLX25TRjdFZ9IBZkFVX3lxTE5VTnY3d0hCNS0xVjl3OWFKSU9MM3pmVzBLQ3otRUF6M3FEZ2ZMZHduOEd5VktkLWJaM2hvbmhfV3ZHektESS1QZTJnX0tZRldlX0tEV0Z0ZFZ3NGYxMzNLX25TRjdFZw?oc=5",
+        "span_hours": 16.8,
+        "first_report_at": "2026-11-26T07:00:32Z",
+        "last_report_at": "2026-11-26T23:47:54Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zM1NXbWcxdG9nVmp2RVRvVF95NUxyQ3N4Q0RSQTg2RnBKbV9KWjBnaHdDWURYYlRQVThDTHRLNzl6VHNoZGpJeHFsNTJfNWFkNGxubGxSMGR2V2VrdG94OWZNcEloRjF0VFdQZWtWREpObEJ3OWfSAXZBVV95cUxQYVM4Z1JyWDVpVHpMZnZjY0ItbzFfTVBjUEtxMHpuTDl3Z3p0TVRZeUpRNFljV0dmRzV4UmEwbzFpTjQ1NEo1MDVjNWNnOGNfRGk1bWZMazN2dDBXTkhRYlI5Ul94T2UxanRSNW0yWGhKS2psZkZn?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rTkZjQ0N5Rk95QjNtRFBlUU5zc0tJZHZGOWZPb1dvTXFSZGxzQ3NLSnpUbUwzTWljOXNtNm1MQUF4c3VFZDhTaDlzQVBRWV84eTl0RFJ4dmJpdw?oc=5",
         "sources": [
           {
-            "name": "동아일보",
-            "group": "donga.com",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VTnY3d0hCNS0xVjl3OWFKSU9MM3pmVzBLQ3otRUF6M3FEZ2ZMZHduOEd5VktkLWJaM2hvbmhfV3ZHektESS1QZTJnX0tZRldlX0tEV0Z0ZFZ3NGYxMzNLX25TRjdFZ9IBZkFVX3lxTE5VTnY3d0hCNS0xVjl3OWFKSU9MM3pmVzBLQ3otRUF6M3FEZ2ZMZHduOEd5VktkLWJaM2hvbmhfV3ZHektESS1QZTJnX0tZRldlX0tEV0Z0ZFZ3NGYxMzNLX25TRjdFZw?oc=5",
-            "published_at": "2026-11-27T01:55:00Z",
-            "headline": "더 시에나 그룹, 골프존카운티 지분 100% 확보 나선다"
+            "name": "파이낸셜뉴스",
+            "group": "fnnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rTkZjQ0N5Rk95QjNtRFBlUU5zc0tJZHZGOWZPb1dvTXFSZGxzQ3NLSnpUbUwzTWljOXNtNm1MQUF4c3VFZDhTaDlzQVBRWV84eTl0RFJ4dmJpdw?oc=5",
+            "published_at": "2026-11-26T23:47:54Z",
+            "headline": "선동열·이승엽, 그리고 김도영… KBO 45년 역사상 단 3명뿐인 '5시즌 만의 멀티 MVP'"
           },
           {
-            "name": "전자신문",
-            "group": "etnews.com",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3cFRUdW1QYkMyazFiNThoLVoyS2pfWHk0YXBINEl0QTNoNFRvT25wTkgyVDJEQkRNQjlZQVg3QjJPV21ucnpvUjdVQXZudw?oc=5",
-            "published_at": "2026-11-27T01:39:55Z",
-            "headline": "더 시에나, 골프존홀딩스 보유 지분도 인수… 골프존카운티 지분 100% 확보 추진"
+            "name": "중앙일보",
+            "group": "joongang.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TOW9GLW5fcDFIS2NXMEYtR1ItMEZyY0pIZHpkZGRUd1ZUYmNaYW5naVNDdW5kc285SDEyd0VDUFVLV0lFRmVkU0FzYlMxZVYwWXVPbUtn?oc=5",
+            "published_at": "2026-11-26T15:01:00Z",
+            "headline": "[사진] KBO 시상식…김도영 2년 만에 다시 MVP"
           },
           {
-            "name": "Chosunbiz",
-            "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONXdTVVZhS1RBRkNHdEhLQlBGOHgtM245UV9NWmN6OVBxMERYNXVhYk1mYndBcnRDOVVmU2hkU2pOVjJSRHM5dFBmTVRib0FmcEhJMy1zdDVyOGJOOTU0cDlqeUpzTW5fOE5sN28zcC1kcHZKLVJlaW4yRDFJQlNPZ2hCNWdkOTRPQ19TY1hQN0VmcF9GWHhpRi1DeWxLa0do0gGgAUFVX3lxTE41d1NVVmFLVEFGQ0d0SEtCUEY4eC0zbjlRX01aY3o5UHEwRFg1dWFiTWZid0FydEM5VWZTaGRTak5WMlJEczl0UGZNVGJvQWZwSEkzLXN0NXI4Yk45NTRwOWp5SnNNbl84Tmw3bzNwLWRwdkotUmVpbjJEMUlCU09naEI1Z2Q5NE9DX1NjWFA3RWZwX0ZYeGlGLUN5bEtrR2g?oc=5",
-            "published_at": "2026-11-27T01:16:00Z",
-            "headline": "더 시에나, 골프존홀딩스 보유 지분 인수 합의… 골프존카운티 인수 추진"
+            "name": "문화일보",
+            "group": "munhwa.com",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83dzZkeHZiS0ZOd0VBTUhwVFBFR2JvQVNFdjJpUnpLdWNsMXB2Q3JLdnN3NV9TYklQNDZVb1dTOXJNX3ZBQ29MVHhwTkU5WjhS?oc=5",
+            "published_at": "2026-11-26T07:20:13Z",
+            "headline": "‘홈런왕’ KIA 김도영, 2년 만에 KBO MVP 탈환…신인왕은 허인서"
           },
           {
-            "name": "한국경제",
-            "group": "hankyung.com",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxX3lHOTlyYjNiVm04VTF2ODlnN2xOMzhlM2ZFYUJ0amZCZGRVcTdlRDdfOGtMOEJlbjJnUlhfSTZ6QVpEdDczdXVPUUliMFJXbDFIN2xuLWVPQQ?oc=5",
-            "published_at": "2026-11-27T00:55:23Z",
-            "headline": "더 시에나 그룹, 골프존카운티 지분 전량 인수 추진…골프존홀딩스와 합의"
+            "name": "MBC 뉴스",
+            "group": "imbc.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zM1NXbWcxdG9nVmp2RVRvVF95NUxyQ3N4Q0RSQTg2RnBKbV9KWjBnaHdDWURYYlRQVThDTHRLNzl6VHNoZGpJeHFsNTJfNWFkNGxubGxSMGR2V2VrdG94OWZNcEloRjF0VFdQZWtWREpObEJ3OWfSAXZBVV95cUxQYVM4Z1JyWDVpVHpMZnZjY0ItbzFfTVBjUEtxMHpuTDl3Z3p0TVRZeUpRNFljV0dmRzV4UmEwbzFpTjQ1NEo1MDVjNWNnOGNfRGk1bWZMazN2dDBXTkhRYlI5Ul94T2UxanRSNW0yWGhKS2psZkZn?oc=5",
+            "published_at": "2026-11-26T07:00:32Z",
+            "headline": "프로야구 KIA 김도영, 2년 만에 정규시즌 MVP 탈환‥신인왕은 허인서"
           }
         ]
       },
@@ -391,152 +382,215 @@
       "last_collected_at": "2026-11-26T21:28:01.958186Z"
     },
     {
-      "id": "7c3ac3a5cb185646101a",
+      "id": "8a0ec219fef77741a140",
       "category": "사회",
-      "title": "학교 비정규직 오늘 총파업…급식·돌봄 등 차질",
-      "summary": "학교 비정규직 오늘 총파업…급식·돌봄 등 차질",
-      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 2시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘학교 비정규직 오늘 총파업…급식·돌봄 등 차질’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
+      "title": "오세훈, ‘한강버스 허위사실 공표 의혹’ 경찰 조사",
+      "summary": "오세훈, ‘한강버스 허위사실 공표 의혹’ 경찰 조사",
+      "why_now": "수집 범위에서 관련 보도 11개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 3시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘오세훈, ‘한강버스 허위사실 공표 의혹’ 경찰 조사’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
       "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
       "source": "KBS 뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PejAtSnNrNUpHQXJETkRsNmtNVGFPSzAzcHZ5X29iUzQ5R29kNnYybXBacUtrcFJwRUZWbVlNY3oxOWFHU00tXzNDM2RucTlRQnpkeXVSc2ZqZzg?oc=5",
-      "published_at": "2026-11-27T00:12:00Z",
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VYUpDbTVLMm92MXJsNXlXRmxhemhxMGZndGw2UkZ1MGNzNVpidmhzU1dhVnE2YmRnY3duT3Bmdk1palJPZkl3am1JczhOTnl5RjdHejFZTnAzeFk?oc=5",
+      "published_at": "2026-11-27T09:36:00Z",
       "evidence": "headline",
       "coverage": {
-        "source_groups": 3,
-        "report_count": 4,
-        "span_hours": 2.7,
-        "first_report_at": "2026-11-26T21:59:46Z",
-        "last_report_at": "2026-11-27T00:40:24Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yUXpqVTJfSGpHVWhDbF9OSWQ3dW5PRzF0a0hLN0FIaUI5U1dpSlNRX1czX2RmdHhrZk9MNW5VUEQ2c3pYcnJ3bmNXRTdaR2JNbXJIbFFOallWMkswNVJ5UG43VE5aWkptR3F1ZlNWRHhfWkFwbE02bk5R0gF6QVVfeXFMTXVzeUx6TnBNNVJrOXlLTFlHb0FmNHhpSkw2YjBtYU5GbUtKNEhZY0NYLTBDYWJQQXdobG11UVotU3ZQeS1nZDZ2RlYzY3h2VlN1aW1NS19JREFZSzBaMEI2NEFSeW1SM3pROE9oUlgtZUJhZ204S2Y3Vnc?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHOUdKaDVOb2NTZjBiYWFUZDA2YjgxUURjeHJyTWd6aGFTUUQ5MVZlUnpFbVd4dFQ4NmZKc1Iwbl9uNmo0QzRVNFN4dW9XTjMyWE1oUXJxeVI1OXNwc2V4bFlzbFdGOHpHVUtrcElpeUQ2cWRvQ0xB0gF3QVVfeXFMUExHVE1rRFpxc3hMZUt5NGtOb0tKa2pIS2RENmhfUlVFRGxUejZKblVhaUVoUUVMM3ZRS1NLTTdqMUpBeEY0Vk16bERDZktvOVRjZnRhcUJoX21ob1Y2dkF0T1dveFViV2Vwbk0yYnhra2FSVnJNYkE?oc=5",
+        "source_groups": 8,
+        "report_count": 11,
+        "span_hours": 3.0,
+        "first_report_at": "2026-11-27T06:35:00Z",
+        "last_report_at": "2026-11-27T09:36:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRd0ZjVDVBTjNuY2MwZEpwVHN0ZVh1SmNjdEtKZGlXZnZrLU81cVZjcHpoNjNLMFlZVGdVNVllc3UxS3g0VC1LVlVzbHhoTXJVLXM2MWI4dzRTeXI3ZzVWQ1R2b0lzVzhnQVA2ZmpXd0h5Zw?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VYUpDbTVLMm92MXJsNXlXRmxhemhxMGZndGw2UkZ1MGNzNVpidmhzU1dhVnE2YmRnY3duT3Bmdk1palJPZkl3am1JczhOTnl5RjdHejFZTnAzeFk?oc=5",
         "sources": [
-          {
-            "name": "MBC 뉴스",
-            "group": "imbc.com",
-            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHOUdKaDVOb2NTZjBiYWFUZDA2YjgxUURjeHJyTWd6aGFTUUQ5MVZlUnpFbVd4dFQ4NmZKc1Iwbl9uNmo0QzRVNFN4dW9XTjMyWE1oUXJxeVI1OXNwc2V4bFlzbFdGOHpHVUtrcElpeUQ2cWRvQ0xB0gF3QVVfeXFMUExHVE1rRFpxc3hMZUt5NGtOb0tKa2pIS2RENmhfUlVFRGxUejZKblVhaUVoUUVMM3ZRS1NLTTdqMUpBeEY0Vk16bERDZktvOVRjZnRhcUJoX21ob1Y2dkF0T1dveFViV2Vwbk0yYnhra2FSVnJNYkE?oc=5",
-            "published_at": "2026-11-27T00:40:24Z",
-            "headline": "학교 급식·돌봄 비정규직 노동자 오늘 총파업"
-          },
           {
             "name": "KBS 뉴스",
-            "group": "kbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PejAtSnNrNUpHQXJETkRsNmtNVGFPSzAzcHZ5X29iUzQ5R29kNnYybXBacUtrcFJwRUZWbVlNY3oxOWFHU00tXzNDM2RucTlRQnpkeXVSc2ZqZzg?oc=5",
-            "published_at": "2026-11-27T00:12:00Z",
-            "headline": "학교 비정규직 오늘 총파업…급식·돌봄 등 차질"
-          },
-          {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9faXY0dExPc1JyRFNiZ1hxSGtrRlpOYW9yNnY0MFdTZ09Pc0dRR0pvSTZKYWlWZDl5S2l0OXNudFdVQU42T2pPdFJHUmJFT29vT0lHb2hROFE4Sk3SAWBBVV95cUxPMTZpZWl0STJ0Y2ZpbVgyOFllczBDbUxycnlLUDgtUnhibHotTXhray1Ca0RDcmJacWVLSjYycndaVXhKLTdYU1VkbEdDcGUxcmYySXd4SzFqWFJYTFR6OXg?oc=5",
-            "published_at": "2026-11-26T23:57:17Z",
-            "headline": "학교 비정규직 오늘 총파업…전국 학교 급식·돌봄 차질 예상"
-          }
-        ]
-      },
-      "selection_rank": 1
-    },
-    {
-      "id": "e7cc4e29ae7da5c78f89",
-      "category": "경제·주식",
-      "title": "코스닥 5% 급등에 ‘매수 사이드카’...코스피도 3% 상승세",
-      "summary": "코스닥 5% 급등에 ‘매수 사이드카’...코스피도 3% 상승세",
-      "why_now": "수집 범위에서 관련 보도 4개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 4곳, 1시간 미만에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘코스닥 5% 급등에 ‘매수 사이드카’...코스피도 3% 상승세’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
-      "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-      "source": "조선일보",
-      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNajJuODhPbEoyTTlYVEt0R2UxSnlMY01QanB1UmZ3ajVSbDRDT3JEdXNjOGswVS1oVzY3YVBBUW85V093dFJQUjJsTUFsVlZiZWdSYXZkWUVWZ21zNDRiNE9NR0QySGw5Q2FfTXFxSjJRQVFqbXFWOGphZG5JNkhDRg?oc=5",
-      "published_at": "2026-11-27T01:53:00Z",
-      "evidence": "headline",
-      "coverage": {
-        "source_groups": 4,
-        "report_count": 4,
-        "span_hours": 0.6,
-        "first_report_at": "2026-11-27T01:29:19Z",
-        "last_report_at": "2026-11-27T02:08:00Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83eUQzakhZbjFMZUJlRnVrVENMdURiUEtOdDlfOV9RRGdwYXM2S0tMVGd4MU8xYm5HZVVNdko5YnRLUXM4di1xVXpGWmZ3S3ItbFFZaUhxWjJWTkHSAWBBVV95cUxOYUgwYlpWVE90aFg3LWl0QWRuUDFIckU1TEJvblh1bUtSaXRlY3ByNTcxSWhTXzAtNnJKYXhhVUFRQThGREVxNkRNMXBQNTAwZlA0T2VJNjNrNXJURUN4WWs?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41QWI5R29NM0FVZmJDOElsWXdZVUIyd1k5bU40cXRnQlNLSmVtMHB3Ti1LYXRxZTVFUkFZSnBpaXlHYnNuNlJFLWJDemRabUQxMXVsX18yNDRiUy1MWTdweWNjZjh2dzQ?oc=5",
-        "sources": [
-          {
-            "name": "한겨레",
             "group": "hani.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41QWI5R29NM0FVZmJDOElsWXdZVUIyd1k5bU40cXRnQlNLSmVtMHB3Ti1LYXRxZTVFUkFZSnBpaXlHYnNuNlJFLWJDemRabUQxMXVsX18yNDRiUy1MWTdweWNjZjh2dzQ?oc=5",
-            "published_at": "2026-11-27T02:08:00Z",
-            "headline": "코스닥 급등 ‘매수 사이드카’…반도체 ‘주춤’, 로봇·바이오 ‘껑충’"
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VYUpDbTVLMm92MXJsNXlXRmxhemhxMGZndGw2UkZ1MGNzNVpidmhzU1dhVnE2YmRnY3duT3Bmdk1palJPZkl3am1JczhOTnl5RjdHejFZTnAzeFk?oc=5",
+            "published_at": "2026-11-27T09:36:00Z",
+            "headline": "오세훈, ‘한강버스 허위사실 공표 의혹’ 경찰 조사"
           },
           {
-            "name": "조선일보",
+            "name": "노컷뉴스",
+            "group": "nocutnews.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OY20tWnM5ZnNrODhaTjJ3UXlFTFJpV2Q2N0E2Y2drNDN0TFQ0ajZoRVU0Rm5IZ0hJWHVzbUFnT0ZvMUNwQWRsTmgzRjMzOFBYRXc?oc=5",
+            "published_at": "2026-11-27T09:07:41Z",
+            "headline": "오세훈, 한강버스 허위사실 공표 혐의 경찰 소환 조사"
+          },
+          {
+            "name": "뉴시스",
+            "group": "wire:뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoU2t3bFlxTnEycHVmc2xHR1Z0Z0VnY0hsYWNWcHdxX2o2VGREeXlQcUdVRk5zVmpnUDY3Q0pjMnRoOXlwQ0JjWjJfRHVBdjNSbHpUajA3Rlc1dXFmenVDX9IBeEFVX3lxTE8yNWljMllUNW5xdHJJTVlwTFRYOEFMbmhGSE9QX1ZKczJiYUVKZzhDbmFQd2xMbGlRVVU4TldrTURXZW9OalJGOGJ6aG5YUjBRdXVWcnVEMFluNlhlc3dRWmkweVpFUk5GaXViQzFMbk1CMFVPV0VqSA?oc=5",
+            "published_at": "2026-11-27T08:06:08Z",
+            "headline": "경찰, '한강버스 허위사실 의혹' 오세훈 소환 조사…피고발인 신분"
+          },
+          {
+            "name": "파이낸셜뉴스",
+            "group": "fnnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yWXp1WHNoZmJFTmQ4Ry1Db1RPRTJWQXFubm5iR3BkcV9lWTEtWUZxdjVrN2JLNlExQURXQXRibTB5bnhrd2lLeVdzOG91eWItNmtGaXRaM1JYZw?oc=5",
+            "published_at": "2026-11-27T07:56:36Z",
+            "headline": "경찰, '한강버스 허위사실공표' 오세훈 시장 피고발인 조사"
+          },
+          {
+            "name": "한국일보",
+            "group": "hankookilbo.com",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96THFFTmk1THh3SnIxR00wYVNVUEtveWNaVkw1SHlBRlh2TjFRemVYQWlrSW1hTXhUUURDbVVHcFZ1QzFaZjlUbTNYWkNkcTdGdmNZa2ZNUzd1U2g4WURRUkNKYmRyRHNib1plS3JR0gFzQVVfeXFMTjQ3dVB5MkJTSFp5VGRKX0ZpSmpmM2NzWkhraXF6WWYyUVlITWpyVmtRY1pkNS1fMXVoamJTQzBMeGh1SUJYTXFNUmFjWlYxZF9lU0VzcVFVcGRlc1hTUk5kU09RbG5seVJzYzFqckhHSlN3QQ?oc=5",
+            "published_at": "2026-11-27T07:53:00Z",
+            "headline": "오세훈, 한강버스 허위사실 공표 의혹… 피고발인 조사"
+          },
+          {
+            "name": "이데일리",
+            "group": "edaily.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcVE2N2xPWEpUWGtEblJNZVY2VHdVd2lXVWF4R3VGbUFRZ0JLUWpjSUh6OGthMGFqN0FxTi1HNnJLNnpWUG0zTm0xYUo3UUdwMGE5VDdhTXU1cV9IQmJ6N0JXc085ZU5MUFFqbUVKdDZ3RWdnMzgwYi1nM2VEZG5GUQ?oc=5",
+            "published_at": "2026-11-27T07:44:16Z",
+            "headline": "경찰, '한강버스 허위사실 공표' 오세훈 시장 소환조사"
+          },
+          {
+            "name": "머니투데이",
+            "group": "mt.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wQzNZYkJBOWpmU3ptam1jb0FZeVBENVh2TnlWSFlsNmlMRnI2dVBGbWdPal9hSXZralI0MmE5NTVuX2hXZ0tGVmpUVzlDTk8xVXIteUNBNFl5UTNUVkhma3dndXF3b1llRE9XR2RmeWbSAXBBVV95cUxOMEMzWWJCQTlqZlN6bWptY29BWXlQRDVYdk55VkhZbDZpTEZyNnVQRm1nT2pfYUl2a2pSNDJhOTU1bl9oV2dLRlZqVFc5Q05PMVVyLXlDQTRZeVEzVFZIZmt3Z3Vxd29ZZURPV0dkZnlm?oc=5",
+            "published_at": "2026-11-27T07:43:38Z",
+            "headline": "오세훈 시장, '한강버스 허위사실 공표 의혹' 경찰 소환조사 - 머니투데이"
+          },
+          {
+            "name": "Chosunbiz",
             "group": "chosun.com",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNajJuODhPbEoyTTlYVEt0R2UxSnlMY01QanB1UmZ3ajVSbDRDT3JEdXNjOGswVS1oVzY3YVBBUW85V093dFJQUjJsTUFsVlZiZWdSYXZkWUVWZ21zNDRiNE9NR0QySGw5Q2FfTXFxSjJRQVFqbXFWOGphZG5JNkhDRg?oc=5",
-            "published_at": "2026-11-27T01:53:00Z",
-            "headline": "코스닥 5% 급등에 ‘매수 사이드카’...코스피도 3% 상승세"
-          },
-          {
-            "name": "KBS 뉴스",
-            "group": "kbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qaG9lOHE1X2NwRUNKcy1nMVBEYUk1UlBBdG9iemg1X1JwTndQeXNSWHVKZzlYczVOdWt0VnhoaUd0YWhEa0M2NGZfUUZRR28yNF9LVG0tbWZKX1k?oc=5",
-            "published_at": "2026-11-27T01:43:00Z",
-            "headline": "코스닥 5%대 급등해 매수 사이드카…코스피는 1%대 상승해 4,800 회복"
-          },
-          {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83eUQzakhZbjFMZUJlRnVrVENMdURiUEtOdDlfOV9RRGdwYXM2S0tMVGd4MU8xYm5HZVVNdko5YnRLUXM4di1xVXpGWmZ3S3ItbFFZaUhxWjJWTkHSAWBBVV95cUxOYUgwYlpWVE90aFg3LWl0QWRuUDFIckU1TEJvblh1bUtSaXRlY3ByNTcxSWhTXzAtNnJKYXhhVUFRQThGREVxNkRNMXBQNTAwZlA0T2VJNjNrNXJURUN4WWs?oc=5",
-            "published_at": "2026-11-27T01:29:19Z",
-            "headline": "코스닥 상승세 강해져 5%대 급등…매수 사이드카 발동"
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUG80cVF0aXpTYlVKWEpUSWJ1WHFnQ0NzcHNaelF0RzdQUE93b3pBN0k1OERLMG9QZmU5ZkNIRTFCZXpiOHJaLVJXMVNhTXVnNWZPYVZ1Q3ZZa3BCTzRPRWdlbXFIcFl5RThiSUtNUkkyNXNLcGtIQXdrUTJTM1RwS1hBRGZoZGhxZ0HSAZ4BQVVfeXFMT3ZxRUoxX2txZ0ltZ0Y0bndpMkxETnU0MnA5VkVmSURERHkwUUNTOTJQaDAyRU82RHRWTFJqTUY3RjduckpNQkp1RDBMU1FKWTJSMWh5RHMzWURoSTBmYzhhN2NDVnFuMU4wakI5UVRzY3R4WU9ydmlWTkdTRndRS2RnXzFzRDdERHFyM09nREppTklLVkZwTW96Y1ZrbXc?oc=5",
+            "published_at": "2026-11-27T07:33:47Z",
+            "headline": "오세훈 시장, ‘한강버스 허위사실 공표 의혹’으로 경찰 조사"
           }
         ]
       },
       "selection_rank": 1
     },
     {
-      "id": "4e5b740b45538e601343",
-      "category": "경제·주식",
-      "title": "코스피, 소폭 상승 출발‥코스닥 장 초반 2%대 오름세",
-      "summary": "코스피, 소폭 상승 출발‥코스닥 장 초반 2%대 오름세",
-      "why_now": "수집 범위에서 관련 보도 5개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 2시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
-      "opener": "‘코스피, 소폭 상승 출발‥코스닥 장 초반 2%대 오름세’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
-      "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
-      "source": "MBC 뉴스",
-      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OSTZKazVKZzI5X3Fob1pMbTRFTUJiUFdNdXNPZVVjQzY2UHREd096Vk1VY043OHVBdDdkejJZMlZ1Zk00dm84eUJNU2V0WUhzazF3LWp2MWg1RVh6eGdPNXk2eU4zUHNTQm5HZWx3TDhTanA40gF0QVVfeXFMT01DQjh4aUEyVFRLeXAzRlh1TnhVSnp5QWZtTEZITXZsblVmOUpOQ2NyNGJCS0RFTXJKQldkdDh0Q3RXOFc0UzNWbEhjY19mTkZrSjFCczhNSHg5T1B4UEZkOTN1RlRzRTFoWm5vZWJOTkZFYWw?oc=5",
-      "published_at": "2026-11-27T00:16:10Z",
+      "id": "7e35a51f308ad61e5b34",
+      "category": "사회",
+      "title": "수산아이앤티, 고용노동부 '일·생활 균형 우수기업' 선정",
+      "summary": "수산아이앤티, 고용노동부 '일·생활 균형 우수기업' 선정",
+      "why_now": "수집 범위에서 관련 보도 3개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 3곳, 29시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘수산아이앤티, 고용노동부 '일·생활 균형 우수기업' 선정’라는 소식을 봤어요. 이런 변화가 일상에 도움이 될 것 같아요?",
+      "context": "제도 시행일과 적용 대상은 원문·공식 안내를 확인하고, 정치적 입장이나 개인 사정을 단정하지 마세요.",
+      "source": "전자신문",
+      "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RQmZSbDRYVVhZeW4xM2dVY3FzNDNOOGFzdnZEZmN0OUhrV1Vqc2NyUWNHaDBsYnNEeFJ1N2Q0bWw1cFBDMmJMOVdUYnliQQ?oc=5",
+      "published_at": "2026-11-26T04:31:16Z",
       "evidence": "headline",
       "coverage": {
         "source_groups": 3,
-        "report_count": 5,
-        "span_hours": 2.1,
-        "first_report_at": "2026-11-27T00:05:53Z",
-        "last_report_at": "2026-11-27T02:13:53Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aVHFFd1U2aU5CWUxTUkh6X09TUTc5QnRIZEpFV0hLNHZfaGMxaEljX3E3cTJWZS0waVN1eU14LWxNQ0p0NWtFb2liSmhPVjdaZm5xdmtFNnhnNjDSAWBBVV95cUxOaWtiY0ZTYXBIWUk4QWY0MU9Za0d1QXVlUk1JYURfekdnUUN2bnJjLXAxV0IzMkZldEhwQ3RJZlZWRFFsRnNMZm5yeW5hSUdCaTRoM3EzYThDUm5ycDhCcjA?oc=5",
-        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01eEJTUnRCQ2kzRzN6V3ZRMnJRMHVDLWRHamtFdTBQMUxpR09fUWlUbXJpMm9fUlJoYjd2ZVJpRDU3OHdvbWdxVHQ1RzhlRkx2ZWg2LXpfLXBhQjFnc2w4edIBYEFVX3lxTE01eEJTUnRCQ2kzRzN6V3ZRMnJRMHVDLWRHamtFdTBQMUxpR09fUWlUbXJpMm9fUlJoYjd2ZVJpRDU3OHdvbWdxVHQ1RzhlRkx2ZWg2LXpfLXBhQjFnc2w4eQ?oc=5",
+        "report_count": 3,
+        "span_hours": 29.9,
+        "first_report_at": "2026-11-26T02:19:00Z",
+        "last_report_at": "2026-11-27T08:11:05Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IdTEtSEFCUmNYaDRiUzY3MWZreXRfSm95dndxc1U5akMwM1RidnVzSV9JN0pORjRDYUltQ0VXWDlvZVRmLXBRUmk4MVZTRTlLUFd3LVNrWG52Zw?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1idElZZWhEcW5rVDZIeGo4UHNzZTRWNWVNUkNSSFZNUlVpUm56TmNGc2F1Qm5Zb1lNWWxYdXdraE9XLUpLUS15Wl9SUnZlb29ReDNnQ0lURXFHUHBPenZob9IBeEFVX3lxTFBxU3ZXWUgyQ1h0VVFaNXZyUEZGSE5JTzA5MHIxVEl3eHdJdkF1NFJUWjBHbWNWdjkwR2ZCMWY1eUhvMkdoRUVtS1dLQVZNMXJ2YktzaTdOdjU3MWhid2ZGRG85N0d6WUZfUmx0ZVRZdWdLeTUzelVFSg?oc=5",
         "sources": [
           {
-            "name": "연합뉴스",
-            "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01eEJTUnRCQ2kzRzN6V3ZRMnJRMHVDLWRHamtFdTBQMUxpR09fUWlUbXJpMm9fUlJoYjd2ZVJpRDU3OHdvbWdxVHQ1RzhlRkx2ZWg2LXpfLXBhQjFnc2w4edIBYEFVX3lxTE01eEJTUnRCQ2kzRzN6V3ZRMnJRMHVDLWRHamtFdTBQMUxpR09fUWlUbXJpMm9fUlJoYjd2ZVJpRDU3OHdvbWdxVHQ1RzhlRkx2ZWg2LXpfLXBhQjFnc2w4eQ?oc=5",
-            "published_at": "2026-11-27T02:13:53Z",
-            "headline": "코스피 장중 상승폭 커져 2% 안팎 강세…코스닥 6%대 급등"
+            "name": "뉴시스",
+            "group": "wire:뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1idElZZWhEcW5rVDZIeGo4UHNzZTRWNWVNUkNSSFZNUlVpUm56TmNGc2F1Qm5Zb1lNWWxYdXdraE9XLUpLUS15Wl9SUnZlb29ReDNnQ0lURXFHUHBPenZob9IBeEFVX3lxTFBxU3ZXWUgyQ1h0VVFaNXZyUEZGSE5JTzA5MHIxVEl3eHdJdkF1NFJUWjBHbWNWdjkwR2ZCMWY1eUhvMkdoRUVtS1dLQVZNMXJ2YktzaTdOdjU3MWhid2ZGRG85N0d6WUZfUmx0ZVRZdWdLeTUzelVFSg?oc=5",
+            "published_at": "2026-11-27T08:11:05Z",
+            "headline": "이모션글로벌, '2026 일·생활 균형 우수기업'에 선정"
           },
           {
-            "name": "아시아경제",
-            "group": "asiae.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4U1ROVTZMekt6T2V6VTNkUG1jNU5lU3N2VWgwRlNxUkVjd2R2T3Ztd1lMUjVLendBZzRLakFCY2h4b2hSTE1WTmF0MlZSMkZOVGhRNF82cWtaT1JMaC0wYw?oc=5",
-            "published_at": "2026-11-27T00:56:22Z",
-            "headline": "[포토] 코스피, 코스닥 동반 상승"
+            "name": "전자신문",
+            "group": "etnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RQmZSbDRYVVhZeW4xM2dVY3FzNDNOOGFzdnZEZmN0OUhrV1Vqc2NyUWNHaDBsYnNEeFJ1N2Q0bWw1cFBDMmJMOVdUYnliQQ?oc=5",
+            "published_at": "2026-11-26T04:31:16Z",
+            "headline": "수산아이앤티, 고용노동부 '일·생활 균형 우수기업' 선정"
           },
           {
-            "name": "MBC 뉴스",
-            "group": "imbc.com",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OSTZKazVKZzI5X3Fob1pMbTRFTUJiUFdNdXNPZVVjQzY2UHREd096Vk1VY043OHVBdDdkejJZMlZ1Zk00dm84eUJNU2V0WUhzazF3LWp2MWg1RVh6eGdPNXk2eU4zUHNTQm5HZWx3TDhTanA40gF0QVVfeXFMT01DQjh4aUEyVFRLeXAzRlh1TnhVSnp5QWZtTEZITXZsblVmOUpOQ2NyNGJCS0RFTXJKQldkdDh0Q3RXOFc0UzNWbEhjY19mTkZrSjFCczhNSHg5T1B4UEZkOTN1RlRzRTFoWm5vZWJOTkZFYWw?oc=5",
-            "published_at": "2026-11-27T00:16:10Z",
-            "headline": "코스피, 소폭 상승 출발‥코스닥 장 초반 2%대 오름세"
+            "name": "파이낸셜뉴스",
+            "group": "fnnews.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IdTEtSEFCUmNYaDRiUzY3MWZreXRfSm95dndxc1U5akMwM1RidnVzSV9JN0pORjRDYUltQ0VXWDlvZVRmLXBRUmk4MVZTRTlLUFd3LVNrWG52Zw?oc=5",
+            "published_at": "2026-11-26T02:19:00Z",
+            "headline": "캐논코리아 '일·생활 균형 우수기업' 선정...유연근무·육아 지원 성과"
           }
         ]
       },
       "selection_rank": 2
     },
     {
-      "id": "159aa2567449b119080d",
+      "id": "4e5b740b45538e601343",
+      "category": "경제·주식",
+      "title": "코스피, 4%대 올라 4,900 탈환...코스닥, 8.1% 급등",
+      "summary": "코스피, 4%대 올라 4,900 탈환...코스닥, 8.1% 급등",
+      "why_now": "수집 범위에서 관련 보도 19개를 확인했습니다. 유사 제목·같은 매체를 묶은 출처그룹 8곳, 7시간에 걸친 보도를 근거로 선정했습니다. 조회수나 공유수 순위는 아닙니다.",
+      "opener": "‘코스피, 4%대 올라 4,900 탈환...코스닥, 8.1% 급등’라는 소식을 봤어요. 이 소식이 생활이나 기업에 어떤 영향을 줄 것 같아요?",
+      "context": "기사 시점의 정보이며 실시간 시세나 매매 추천이 아닙니다. 수치의 기준일과 원문을 확인해 주세요.",
+      "source": "YTN",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiN05fMENwQzk0bXpZdnlFNUlIeDgzRV9nbl9xQm1xTlh1Z1pHOGt2VkFjWF81cjd5SXN0dm1SOUprd3p4dmdCeDJzc2dXUkw1QUtRd2xmSGtOOE1tWmllbXRyZXIwR0lHRTJoLXU4dw?oc=5",
+      "published_at": "2026-11-27T07:34:00Z",
+      "evidence": "headline",
+      "coverage": {
+        "source_groups": 8,
+        "report_count": 19,
+        "span_hours": 7.5,
+        "first_report_at": "2026-11-27T00:05:53Z",
+        "last_report_at": "2026-11-27T07:34:00Z",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aVHFFd1U2aU5CWUxTUkh6X09TUTc5QnRIZEpFV0hLNHZfaGMxaEljX3E3cTJWZS0waVN1eU14LWxNQ0p0NWtFb2liSmhPVjdaZm5xdmtFNnhnNjDSAWBBVV95cUxOaWtiY0ZTYXBIWUk4QWY0MU9Za0d1QXVlUk1JYURfekdnUUN2bnJjLXAxV0IzMkZldEhwQ3RJZlZWRFFsRnNMZm5yeW5hSUdCaTRoM3EzYThDUm5ycDhCcjA?oc=5",
+        "last_report_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiN05fMENwQzk0bXpZdnlFNUlIeDgzRV9nbl9xQm1xTlh1Z1pHOGt2VkFjWF81cjd5SXN0dm1SOUprd3p4dmdCeDJzc2dXUkw1QUtRd2xmSGtOOE1tWmllbXRyZXIwR0lHRTJoLXU4dw?oc=5",
+        "sources": [
+          {
+            "name": "YTN",
+            "group": "ytn.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBiN05fMENwQzk0bXpZdnlFNUlIeDgzRV9nbl9xQm1xTlh1Z1pHOGt2VkFjWF81cjd5SXN0dm1SOUprd3p4dmdCeDJzc2dXUkw1QUtRd2xmSGtOOE1tWmllbXRyZXIwR0lHRTJoLXU4dw?oc=5",
+            "published_at": "2026-11-27T07:34:00Z",
+            "headline": "코스피, 4%대 올라 4,900 탈환...코스닥, 8.1% 급등"
+          },
+          {
+            "name": "뉴스1",
+            "group": "wire:뉴스1",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5dEdIbkpSRHMtLWx5R1FyQzVQandZZnNTTHVuM2RLcnlVZXlIb0hKSy1Oa0s2bkEtX0hSeXVIelBFS0pCYmM2blNOVQ?oc=5",
+            "published_at": "2026-11-27T06:56:37Z",
+            "headline": "'불금' 코스피·코스닥 급등 마감"
+          },
+          {
+            "name": "뉴시스",
+            "group": "wire:뉴시스",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02NkdCc0lfX1I0eTJ0S0lBNmhGTkhyUFpQSUUtM1pscFI1MnhNamdoVGlfYUluTGJzbjliM2RKckZIZ3QzU2NTMGhnbzFxUWZ1dFhKbElFTldoX2UzSWZpMA?oc=5",
+            "published_at": "2026-11-27T06:56:24Z",
+            "headline": "코스피 4.34% 급등 마감…코스닥 8.13% 껑충"
+          },
+          {
+            "name": "연합뉴스",
+            "group": "joongang.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yRXJtbkRuc3pyMlQ1UzYyanNxT1VtU054QjZtUkluM1NVbkEwOTFMSGMtUU9BTkpZS3R0RVd2X2hpVUc5dHBiZW9ZODgyeHBNcWRlN2wwUG1RaWfSAWBBVV95cUxPX05tZ1VXVkxXdEVKOXVnNFdKY2dHWnNPUlhzMFloQzBJN3lrVEdzMkpDZHZsMWtKNm1GQ0p3WG51VHgzUDRsSWhqNk9ZbURuMWdHeGZpNEh6N1lLRnpKdkc?oc=5",
+            "published_at": "2026-11-27T06:55:19Z",
+            "headline": "코스피-코스닥, 상승 마감"
+          },
+          {
+            "name": "조선일보",
+            "group": "chosun.com",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVTRxOU9LRmhqVGt3WDVnODJld3l2b01WVmZjd293SF9DX0V5bHRXYmFYcFBIUlNJcEtGSzA5SnJPWnBYMUM0emNQUFF6UUljOFdnN2tkVTVBQXFDSUZoMk0zQjdVRXNIX3dUVDVfQUE0SmZycTJiZDg1UkFxeEp6Yw?oc=5",
+            "published_at": "2026-11-27T06:44:13Z",
+            "headline": "코스피, 외국인 1.1조원 ‘사자’에 4.3% 상승 마감...코스닥은 8% 폭등"
+          },
+          {
+            "name": "KBS 뉴스",
+            "group": "kbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02YTdIWGhValVpZm5pSWJ0QW1aX2VSZEp0ekJnbjhGUmNmcGlwdGQxRG5QQ1ZrdmN1RmcwMUZjU01paUt0bHoxaWRMT2VlbHJqOUFfdy03MHgtUDQ?oc=5",
+            "published_at": "2026-11-27T06:42:00Z",
+            "headline": "코스피 4.3% 올라 4,900 회복…코스닥도 8%대 상승"
+          },
+          {
+            "name": "한국경제",
+            "group": "hankyung.com",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nWjc4eHpxOGVEWTlCQ0xzc2Fvb21KSXFBNWJqTTFnT09HS0tEZGZjRmpmb2o1eW9idi1Rc1phM0gxNjNKR3J0VW9LZV8zaVdfWUk5dmo3bFJiUQ?oc=5",
+            "published_at": "2026-11-27T06:35:34Z",
+            "headline": "코스피 4.3% 상승 4900 회복…코스닥 8%대 올라 700 탈환"
+          },
+          {
+            "name": "매일경제 마켓",
+            "group": "mk.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5STkU0cEl3VjVXZEs4NjVWUnctVUlfcXNWWnRnck5SMENKSnlXY3dsZWxJQXBDVUdoY1kwdUk4ZnpxbzNwNUh2VmZmeUg4TGtoS1E?oc=5",
+            "published_at": "2026-11-27T04:45:49Z",
+            "headline": "코스피 장중 상승폭 커져 4,900선 탈환 시도…코스닥 6%대 급등"
+          }
+        ]
+      },
+      "selection_rank": 1
+    },
+    {
+      "id": "fcf6be20359b8a4e31e0",
       "category": "세계뉴스",
       "title": "국제보건의료재단, 창립 20주년 맞아 보건 ODA 성과 공유",
       "summary": "국제보건의료재단, 창립 20주년 맞아 보건 ODA 성과 공유",
@@ -553,7 +607,7 @@
         "span_hours": 1.4,
         "first_report_at": "2026-11-26T04:54:33Z",
         "last_report_at": "2026-11-26T06:17:42Z",
-        "first_report_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tMVRzdEVOMnV2OHlkeGNMaDljUkxYcTBDaUcyRlhDblQ2QTVOOTR3aTRIYVAxeDhud0dZbUFzUzhCZ1Q2d3dyUWVVTUNIb2VlS3llWV9MU29wMnhJRDdsUtIBYEFVX3lxTE0tMVRzdEVOMnV2OHlkeGNMaDljUkxYcTBDaUcyRlhDblQ2QTVOOTR3aTRIYVAxeDhud0dZbUFzUzhCZ1Q2d3dyUWVVTUNIb2VlS3llWV9MU29wMnhJRDdsUg?oc=5",
+        "first_report_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yV2I0WjJ2elEybnd3OUo1Wl9TOXQtVTNWSjVHa0ZvV2JQX2ItcVJjZjVNQmpQYUpfRUNSZng2ZFNYZVE1TzRqTmtNSEJ5RGVQUDZhRjl2cTlTajDSAWBBVV95cUxNLTFUc3RFTjJ1djh5ZHhjTGg5Y1JMWHEwQ2lHMkZYQ25UNkE1Tjk0d2k0SGFQMXg4bndHWW1Bc1M4QmdUNnd3clFlVU1DSG9lZUt5ZVlfTFNvcDJ4SUQ3bFI?oc=5",
         "last_report_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ESEZmRmdCbmJnNDRfNFllb2NzVHJ5MnhNTVdDcHNsVDBhb3B2SW1LcE8xVHBoME1uUl9oVEc3bE9sVjFDZWwtUVFUZHhWd3hJblNsSHk2X25nMjdp?oc=5",
         "sources": [
           {
@@ -566,7 +620,7 @@
           {
             "name": "연합뉴스",
             "group": "wire:연합뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tMVRzdEVOMnV2OHlkeGNMaDljUkxYcTBDaUcyRlhDblQ2QTVOOTR3aTRIYVAxeDhud0dZbUFzUzhCZ1Q2d3dyUWVVTUNIb2VlS3llWV9MU29wMnhJRDdsUtIBYEFVX3lxTE0tMVRzdEVOMnV2OHlkeGNMaDljUkxYcTBDaUcyRlhDblQ2QTVOOTR3aTRIYVAxeDhud0dZbUFzUzhCZ1Q2d3dyUWVVTUNIb2VlS3llWV9MU29wMnhJRDdsUg?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yV2I0WjJ2elEybnd3OUo1Wl9TOXQtVTNWSjVHa0ZvV2JQX2ItcVJjZjVNQmpQYUpfRUNSZng2ZFNYZVE1TzRqTmtNSEJ5RGVQUDZhRjl2cTlTajDSAWBBVV95cUxNLTFUc3RFTjJ1djh5ZHhjTGg5Y1JMWHEwQ2lHMkZYQ25UNkE1Tjk0d2k0SGFQMXg4bndHWW1Bc1M4QmdUNnd3clFlVU1DSG9lZUt5ZVlfTFNvcDJ4SUQ3bFI?oc=5",
             "published_at": "2026-11-26T04:54:33Z",
             "headline": "한국국제보건의료재단 창립 20주년…성과중심 보건 ODA 모색"
           }
